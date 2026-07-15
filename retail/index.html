@@ -1530,4 +1530,116 @@ function renderAll(){ renderLanding(); }
   initLandingBG();
 })();
 </script>
+<script>
+(function(){
+  var IS_ADMIN = location.hostname.indexOf('pr-monitoring-and-measurement') !== -1;
+
+  if (!IS_ADMIN) {
+    var s = document.createElement('style');
+    s.textContent = '.upload-wrap,.data-bar{display:none!important}';
+    document.head.appendChild(s);
+    return;
+  }
+
+  /* â”€â”€ Publish to live â”€â”€ */
+  var GH_TOKEN_KEY = 'ivi_gh_token';
+
+  function getToken() {
+    var t = localStorage.getItem(GH_TOKEN_KEY);
+    if (!t) {
+      t = prompt('Enter your GitHub Personal Access Token (saved locally, only used to push data to the repo):');
+      if (t) localStorage.setItem(GH_TOKEN_KEY, t.trim());
+    }
+    return t || null;
+  }
+
+  function showToast(msg, ok) {
+    var el = document.getElementById('toast');
+    if (!el) return;
+    el.textContent = msg;
+    el.className = 'toast show';
+    el.style.background = ok ? '#10B981' : '#ef4444';
+    setTimeout(function(){ el.className = 'toast'; }, 3500);
+  }
+
+  async function publishToLive() {
+    var token = getToken();
+    if (!token) return;
+
+    if (!DB || !Object.keys(DB.days).length) {
+      alert('No data loaded. Upload a briefing first.');
+      return;
+    }
+
+    var btn = document.getElementById('publishBtn');
+    btn.textContent = 'Publishingâ€¦';
+    btn.disabled = true;
+
+    var payload = {
+      _app: 'InfoVision Intelligence',
+      _industry: CFG.key,
+      _savedAt: new Date().toISOString(),
+      _dayCount: Object.keys(DB.days).length,
+      days: DB.days
+    };
+
+    var filePath = CFG.key + '/InfoVision_' + CFG.key + '_data.json';
+    var apiUrl = 'https://api.github.com/repos/Sample-Reports/pr-monitoring-and-measurement/contents/' + filePath;
+    var headers = {
+      'Authorization': 'token ' + token,
+      'Accept': 'application/vnd.github.v3+json',
+      'Content-Type': 'application/json'
+    };
+
+    try {
+      var getRes = await fetch(apiUrl, { headers: headers });
+      var fileData = await getRes.json();
+      if (!fileData.sha) throw new Error(fileData.message || 'Could not get file SHA');
+
+      var content = btoa(unescape(encodeURIComponent(JSON.stringify(payload, null, 2))));
+      var putRes = await fetch(apiUrl, {
+        method: 'PUT',
+        headers: headers,
+        body: JSON.stringify({
+          message: 'Update ' + CFG.name + ' media intelligence data â€” ' + new Date().toLocaleDateString(),
+          content: content,
+          sha: fileData.sha
+        })
+      });
+
+      if (putRes.ok) {
+        showToast('âœ“ Published â€” Vercel will deploy in ~30 seconds', true);
+        btn.textContent = 'âœ“ Published';
+        setTimeout(function(){ btn.textContent = 'Publish to live â†—'; btn.disabled = false; }, 3000);
+      } else {
+        var err = await putRes.json();
+        if (err.message && err.message.indexOf('Bad credentials') !== -1) {
+          localStorage.removeItem(GH_TOKEN_KEY);
+          alert('Invalid token. Please re-enter on next publish.');
+        } else {
+          alert('Publish failed: ' + (err.message || 'Unknown error'));
+        }
+        btn.textContent = 'Publish to live â†—';
+        btn.disabled = false;
+      }
+    } catch(e) {
+      alert('Error: ' + e.message);
+      btn.textContent = 'Publish to live â†—';
+      btn.disabled = false;
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', function(){
+    var actions = document.querySelector('.data-bar-actions');
+    if (!actions) return;
+    var btn = document.createElement('button');
+    btn.id = 'publishBtn';
+    btn.className = 'data-btn primary';
+    btn.style.cssText = 'background:#10B981;border-color:#059669;margin-left:8px;font-weight:700';
+    btn.textContent = 'Publish to live â†—';
+    btn.onclick = publishToLive;
+    actions.appendChild(btn);
+  });
+})();
+</script>
 </body></html>
