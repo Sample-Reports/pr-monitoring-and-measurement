@@ -1533,19 +1533,39 @@ function renderAll(){ renderLanding(); }
   var IS_ADMIN = location.hostname.indexOf('pr-monitoring-and-measurement') !== -1;
 
   if (!IS_ADMIN) {
+    /* ── Client view: hide all upload / data management controls ── */
     var s = document.createElement('style');
     s.textContent = '.upload-wrap,.data-bar{display:none!important}';
     document.head.appendChild(s);
     return;
   }
 
-  /* ── Publish to live ── */
+  /* ── Admin view: inject floating toolbar ── */
   var GH_TOKEN_KEY = 'ivi_gh_token';
+
+  var style = document.createElement('style');
+  style.textContent = [
+    '#iviAdminBar{',
+      'position:fixed;bottom:20px;right:20px;z-index:99999;',
+      'display:flex;flex-direction:column;gap:8px;align-items:flex-end;',
+    '}',
+    '#iviAdminBar button{',
+      'border:none;border-radius:10px;padding:10px 18px;',
+      'font-size:12px;font-weight:700;cursor:pointer;',
+      'font-family:inherit;white-space:nowrap;',
+      'box-shadow:0 4px 16px rgba(0,0,0,.15);transition:opacity .2s;',
+    '}',
+    '#iviAdminBar button:hover{opacity:.88}',
+    '#iviAdminBar button:disabled{opacity:.5;cursor:default}',
+    '#publishBtn{background:#10B981;color:#fff}',
+    '#uploadToggleBtn{background:#1a1a2e;color:#fff}',
+  ].join('');
+  document.head.appendChild(style);
 
   function getToken() {
     var t = localStorage.getItem(GH_TOKEN_KEY);
     if (!t) {
-      t = prompt('Enter your GitHub Personal Access Token (saved locally, only used to push data to the repo):');
+      t = prompt('Enter your GitHub Personal Access Token\n(saved locally in your browser — used only to push data files):');
       if (t) localStorage.setItem(GH_TOKEN_KEY, t.trim());
     }
     return t || null;
@@ -1557,14 +1577,14 @@ function renderAll(){ renderLanding(); }
     el.textContent = msg;
     el.className = 'toast show';
     el.style.background = ok ? '#10B981' : '#ef4444';
-    setTimeout(function(){ el.className = 'toast'; }, 3500);
+    setTimeout(function(){ el.className = 'toast'; el.style.background = ''; }, 4000);
   }
 
   async function publishToLive() {
     var token = getToken();
     if (!token) return;
 
-    if (!DB || !Object.keys(DB.days).length) {
+    if (!window.DB || !Object.keys(window.DB.days || {}).length) {
       alert('No data loaded. Upload a briefing first.');
       return;
     }
@@ -1577,8 +1597,8 @@ function renderAll(){ renderLanding(); }
       _app: 'InfoVision Intelligence',
       _industry: CFG.key,
       _savedAt: new Date().toISOString(),
-      _dayCount: Object.keys(DB.days).length,
-      days: DB.days
+      _dayCount: Object.keys(window.DB.days).length,
+      days: window.DB.days
     };
 
     var filePath = CFG.key + '/InfoVision_' + CFG.key + '_data.json';
@@ -1592,28 +1612,29 @@ function renderAll(){ renderLanding(); }
     try {
       var getRes = await fetch(apiUrl, { headers: headers });
       var fileData = await getRes.json();
-      if (!fileData.sha) throw new Error(fileData.message || 'Could not get file SHA');
+      if (!fileData.sha) throw new Error(fileData.message || 'Cannot get file info from GitHub');
 
       var content = btoa(unescape(encodeURIComponent(JSON.stringify(payload, null, 2))));
+
       var putRes = await fetch(apiUrl, {
         method: 'PUT',
         headers: headers,
         body: JSON.stringify({
-          message: 'Update ' + CFG.name + ' media intelligence data — ' + new Date().toLocaleDateString(),
+          message: 'Update ' + CFG.name + ' media intelligence — ' + new Date().toLocaleDateString(),
           content: content,
           sha: fileData.sha
         })
       });
 
       if (putRes.ok) {
-        showToast('✓ Published — Vercel will deploy in ~30 seconds', true);
+        showToast('✓ Published — prospects will see the update in ~30s', true);
         btn.textContent = '✓ Published';
         setTimeout(function(){ btn.textContent = 'Publish to live ↗'; btn.disabled = false; }, 3000);
       } else {
         var err = await putRes.json();
         if (err.message && err.message.indexOf('Bad credentials') !== -1) {
           localStorage.removeItem(GH_TOKEN_KEY);
-          alert('Invalid token. Please re-enter on next publish.');
+          alert('Invalid token — please re-enter on next publish.');
         } else {
           alert('Publish failed: ' + (err.message || 'Unknown error'));
         }
@@ -1627,16 +1648,34 @@ function renderAll(){ renderLanding(); }
     }
   }
 
+  function toggleUpload() {
+    var uw = document.querySelector('.upload-wrap');
+    var db = document.getElementById('dataBar');
+    var btn = document.getElementById('uploadToggleBtn');
+    if (!uw) return;
+    var hidden = uw.style.display === 'none';
+    uw.style.display = hidden ? '' : 'none';
+    if (db) db.style.display = hidden ? '' : 'none';
+    btn.textContent = hidden ? 'Hide upload' : '+ Upload briefing';
+  }
+
   document.addEventListener('DOMContentLoaded', function(){
-    var actions = document.querySelector('.data-bar-actions');
-    if (!actions) return;
-    var btn = document.createElement('button');
-    btn.id = 'publishBtn';
-    btn.className = 'data-btn primary';
-    btn.style.cssText = 'background:#10B981;border-color:#059669;margin-left:8px;font-weight:700';
-    btn.textContent = 'Publish to live ↗';
-    btn.onclick = publishToLive;
-    actions.appendChild(btn);
+    /* Hide upload/data-bar by default on admin too — surfaced via button */
+    var uw = document.querySelector('.upload-wrap');
+    var db = document.getElementById('dataBar');
+    if (uw) uw.style.display = 'none';
+    if (db) db.style.display = 'none';
+
+    var bar = document.createElement('div');
+    bar.id = 'iviAdminBar';
+    bar.innerHTML = [
+      '<button id="publishBtn" onclick="(function(){var s=document.getElementById(\'publishBtn\');s.click&&s._publish&&s._publish()})()">Publish to live ↗</button>',
+      '<button id="uploadToggleBtn">+ Upload briefing</button>'
+    ].join('');
+    document.body.appendChild(bar);
+
+    document.getElementById('publishBtn').onclick = publishToLive;
+    document.getElementById('uploadToggleBtn').onclick = toggleUpload;
   });
 })();
 </script>
