@@ -1,0 +1,404 @@
+{
+  "_app": "InfoVision Intelligence",
+  "_industry": "pharma",
+  "_savedAt": "2026-07-15T13:38:13.049Z",
+  "_dayCount": 1,
+  "days": {
+    "2026-07-15": {
+      "uploadedAt": "2026-07-15T13:38:09.000Z",
+      "filename": "InfoVision_Pharma_Media_Briefing_2026-07-15.docx",
+      "articles": [
+        {
+          "id": "u2p0p0",
+          "headline": "Eli Lilly's RET Inhibitor Retevmo Granted Full Approval For Pan-Tumor Indication",
+          "source": "Precision Medicine Online",
+          "author": "",
+          "url": "https://www.precisionmedicineonline.com/precision-oncology/eli-lillys-ret-inhibitor-retevmo-granted-full-approval-pan-tumor-indication",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Eli Lilly has secured full approval for its RET inhibitor Retevmo (selpercatinib) for patients with advanced or metastatic solid tumors that harbor RET fusions, the US Food and Drug Administration announced Tuesday. Retevmo was granted accelerated approval in the later-line setting for adults with solid tumors in 2022, an indication that was expanded to patients two years or older in 2024. The full approval is based on results from the Phase I/II LIBRETTO-001 trial and the pediatric Phase I/II LIBRETTO-121 trial. In LIBRETTO-001, 47 percent of patients responded to the drug with a median duration of response of 24.5 months across many cancer types, including colorectal, pancreatic, soft tissue sarcoma, ovarian, and neuroendocrine tumors. The most common tumor types in the 857-person trial were thyroid and non-small cell lung cancer.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 491625,
+          "ave": 4547.53
+        },
+        {
+          "id": "xn2d6k",
+          "headline": "Study Flags Need To Monitor Frailty Risks With GLP-1 Drugs For Older Adults",
+          "source": "Reuters",
+          "author": "Nancy Lapid",
+          "url": "https://www.reuters.com/legal/litigation/study-flags-need-monitor-frailty-risks-with-glp-1-drugs-older-adults-2026-07-14/",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Potential signs of frailty in older adults taking Eli Lilly’s GLP-1 obesity drug Zepbound ​may signal relatively high risks for adverse outcomes, according to a large study that underscores concerns about how best to monitor seniors as U.S. Medicare expands access to ‌GLP-1 therapies. In general, frailty-associated conditions such as malnutrition, dehydration and loss of muscle mass and strength developed only rarely and the results should not discourage appropriate use of Zepbound, known chemically as tirzepatide, or Novo Nordisk's GLP-1 drug Wegovy, also known as semaglutide, in older adults, the study's researchers said. Instead, they encouraged closer follow-up of older patients taking the medicines.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "jw4wp0",
+          "headline": "Pharmalittle: We’re Reading About A Battle Between Lilly And Teva, Psychedelic Drugs, And More",
+          "source": "STAT News",
+          "author": "Ed Silverman",
+          "url": "https://www.statnews.com/pharmalot/2026/07/14/lilly-teva-court-battle-psychedelic-drugs-guidance-finalized/",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "A U.S. appeals court revived a lawsuit brought by Teva Pharmaceuticals that accuses Eli Lilly of breaching ​an agreement allowing Teva to market a generic ‌version of Lilly’s osteoporosis drug Forteo, Reuters says. The court reversed a lower court decision that found the deal expired before Lilly allegedly broke it. Lilly sued Teva in 2016 for patent infringement, but the companies ​settled in 2018 with a deal that allowed Teva to launch its generic in 2019, just before the relevant Lilly patents expired. The U.S. ​Food and Drug Administration separately granted Lilly three more years of exclusivity in 2020. Teva launched its generic in 2023 and sued Lilly ‌in ⁠2024, arguing that Lilly’s new exclusivity period unlawfully delayed its launch.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 478047,
+          "ave": 4421.93
+        },
+        {
+          "id": "8x3887",
+          "headline": "Donald Trump's Drug-Pricing Deals Are Reshaping Big Pharma -- Here's What That Means for Pfizer, AbbVie, And Bristol Myers Squibb",
+          "source": "The Motley Fool",
+          "author": "Jeff Siegel",
+          "url": "https://www.fool.com/investing/2026/07/14/donald-trumps-drug-pricing-deals-are-reshaping-big/",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Drug pricing has been hanging over the pharmaceutical industry for years, and the Trump administration didn't eliminate that pressure. It did, however, pursue voluntary pricing agreements with many of the industry's largest drugmakers. Since late 2025, the Trump administration has reached voluntary most-favored-nation (MFN) pricing agreements with 17 of the world's largest pharmaceutical manufacturers, including Pfizer, AbbVie and Bristol Myers Squibb. These agreements generally align prices for certain drugs with those paid in comparable developed countries, expand discounted direct-to-consumer purchasing through the TrumpRx platform, and provide MFN pricing for certain Medicaid purchases.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Pfizer"
+          ],
+          "reach": 743991,
+          "ave": 6881.92
+        },
+        {
+          "id": "8t69dd",
+          "headline": "Bristol Myers Squibb (BMY) Following FDA Acceptance Has An Undervalued Case",
+          "source": "Simply Wall St",
+          "author": "",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-bmy/bristol-myers-squibb/news/bristol-myers-squibb-bmy-following-fda-acceptance-has-an-und",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Bristol-Myers Squibb (BMY) is back in focus after the FDA accepted its New Drug Application for mezigdomide, an oral CELMoD in combination therapy for relapsed or refractory multiple myeloma. The FDA filing sits against a backdrop of improving sentiment in Bristol-Myers Squibb, with the stock at US$59.34 after a 1-year total shareholder return of 31.37% and an 11.00% year to date share price return, suggesting momentum has been building recently. If this oncology update has you thinking about where the next wave of healthtech opportunities might come from, it could be worth scanning 40 healthcare AI stocks as a starting list of ideas.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 263901,
+          "ave": 2441.08
+        },
+        {
+          "id": "slffvd",
+          "headline": "Huyabio Scores With Opdivo Combo In 'Milestone' Skin Cancer Trial",
+          "source": "Fierce Pharma",
+          "author": "Kevin Dunleavy",
+          "url": "https://www.fiercepharma.com/pharma/huyabio-scores-opdivo-combo-milestone-skin-cancer-trial",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Huyabio has scored a win in the largest oncology study it has undertaken in its 22 years, as its oral histone deacetylase (HDAC) inhibitor HBI-8000 has succeeded in combination with Bristol Myers Squibb’s Opdivo in a phase 3 trial of patients with advanced skin cancer. The study, which included 404 melanoma patients across 15 countries, achieved its primary endpoint, as the combo produced a clinically meaningful improvement in progression-free survival. Those who received HBI-8000 plus Opdivo remained alive and without their disease worsening for a median of 11.7 months, compared to a median of 7.4 months for those who were given Opdivo plus placebo. The 58% improvement was deemed statistically significant. Huyabio, formally known as Huya Bioscience International, said that the study brings it a “step closer” to providing a potential “new frontline treatment option for one of the deadliest forms of skin cancer.” The company added that it is conducting further analysis to identify the efficacy advantage of HBI-8000.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 432715,
+          "ave": 4002.61
+        },
+        {
+          "id": "cftopw",
+          "headline": "Johnson & Johnson Has A Chance To Show It’s More Than Just A Rotation Winner",
+          "source": "CNBC",
+          "author": "Natasha Abellard",
+          "url": "https://www.cnbc.com/2026/07/14/johnson-johnson-has-a-chance-to-show-its-more-than-just-a-rotation-winner.html",
+          "section": "AI Pulse",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Johnson & Johnson shares have showed signs of life ahead of earnings. For the stock to keep running, the healthcare giant needs to show investors that its most promising drugs are still gaining steam. J & J’s climb back to record highs exactly one week ago was largely fueled by a marketwide rotation into lagging healthcare stocks and away from big winners tied to the AI infrastructure buildout. Since then, though, the stock has lost a few percentage points, in line with the S & P 500′s healthcare sector , as the Iran war heated up again and dragged down large swaths of the market outside energy and tech. A weak preliminary earnings report from hospital operator HCA Healthcare weighed on the group in Tuesday’s session. Nevertheless, Wednesday morning’s second-quarter earnings report is J & J’s chance to prove that its businesses — from pharma to medical technology — are performing well enough for investors to stick around and bet on more upside from here.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 313068,
+          "ave": 2895.88
+        },
+        {
+          "id": "vuewnt",
+          "headline": "Chai Discovery, An A.I. Drug Start-Up, Raises $400 Million",
+          "source": "The New York Times",
+          "author": "Michael J. de la Merced",
+          "url": "https://www.nytimes.com/2026/07/14/business/dealbook/chai-discovery-ai-drug-development.html",
+          "section": "AI Pulse",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "For many inside and outside Silicon Valley, artificial intelligence development means working on giant all-purpose tools like Anthropic’s Claude and OpenAI’s GPT family of models. But investors continue to pour money into more specialized applications, including A.I. focused on designing breakthrough drugs. A fast-growing player in that industry, Chai Discovery, plans to announce on Tuesday that it has raised $400 million in new funding that values the company at $3.8 billion. The round was led by Index Ventures alongside Kleiner Perkins, Sequoia Capital and Dimension. Other participants included Bain Capital Ventures, Thrive Capital, OpenAI and Yosemite, the firm founded by Reed Jobs, the son of Steve Jobs.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 7160644,
+          "ave": 66235.96
+        },
+        {
+          "id": "lwlyxe",
+          "headline": "Honoring The Innovators Driving AI’s Next Era In Life Sciences And Healthcare",
+          "source": "Genetic Engineering and Biotechnology News",
+          "author": "John Sterling",
+          "url": "https://www.genengnews.com/topics/artificial-intelligence/honoring-the-innovators-driving-ais-next-era-in-life-sciences-and-healthcare/",
+          "section": "AI Pulse",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Nebius, an AI cloud company, sponsored its second “AI Discovery Awards” event and dinner earlier this month in London, where the winning companies were announced. The event highlighted leading startups in biopharma, genomics, medical devices, and digital health that are using AI to deliver advances in healthcare and life sciences. At a Nebius-hosted morning discussion before the awards dinner, several researchers highlighted the importance of powerful computing infrastructure, high-quality biological data, and laboratory validation. Examples included AI models that predict osteoarthritis years before symptoms and an Alzheimer’s platform, which achieved 97% diagnostic accuracy when paired with protein biomarkers. A Stanford Medicine scientist described CRISPR-GPT, an AI assistant that helps design and troubleshoot gene editing.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 581820,
+          "ave": 5381.84
+        },
+        {
+          "id": "9swzmg",
+          "headline": "Insilico And Bora Pharmaceuticals Forge Strategic AI-Driven Drug Discovery Alliance",
+          "source": "News-Medical",
+          "author": "",
+          "url": "https://www.news-medical.net/news/20260714/Insilico-and-Bora-Pharmaceuticals-forge-strategic-AI-driven-drug-discovery-alliance.aspx",
+          "section": "AI Pulse",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Insilico Medicine, a clinical-stage generative artificial intelligence (AI)-driven drug discovery company, today announced a multi-target strategic alliance with Bora Pharmaceuticals Co., Ltd., a global leader in pharmaceutical manufacturing. The proposed alliance will be governed by definitive agreements to be discussed and executed by Insilico and Bora and is designed to combine Insilico's proprietary Pharma.AI platform, spanning target discovery, generative chemistry, and molecule optimization, with Bora's global development, manufacturing, quality, and commercialization capabilities. By linking AI-enabled discovery with automation-driven development, manufacturing, and quality execution, Insilico and Bora aim to pioneer a next-generation drug innovation model that connects novel molecule design with the capabilities required to develop, manufacture, and deliver medicines to patients with unmet medical needs.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 676119,
+          "ave": 6254.1
+        },
+        {
+          "id": "4p6m1g",
+          "headline": "Real Chemistry Builds Body Of AI Healthcare Commercialization Tools With Anatomi Launch",
+          "source": "Fierce Pharma",
+          "author": "Nick Paul Taylor",
+          "url": "https://www.fiercepharma.com/marketing/real-chemistry-builds-body-ai-healthcare-commercialization-tools-anatomi-launch",
+          "section": "AI Pulse",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Real Chemistry has launched artificial intelligence tools for healthcare commercialization, continuing its embrace of technology tipped to transform biopharma marketing. The agency used proprietary and third-party data, large language models and orchestration platforms to create the AI offering. Branded Anatomi, the offering integrates AI across marketing, medical affairs, communications and media workflows to give Real Chemistry and its clients industry-specific tools for healthcare commercialization. Real Chemistry is pitching Anatomi as being tailored to the “regulatory complexity, therapeutic nuance and real-world market dynamics that shape the commercialization journey.” Data are ingested and stored in a “highly controlled and compliant way,” the agency said.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 432715,
+          "ave": 4002.61
+        },
+        {
+          "id": "ihospz",
+          "headline": "Silo Pharma's QwikAgents Joins AMD AI Developer Program To Advance Enterprise AI Agent Platform",
+          "source": "Fierce Pharma",
+          "author": "Nick Paul Taylor",
+          "url": "https://www.globenewswire.com/news-release/2026/07/14/3326873/0/en/Silo-Pharma-s-QwikAgents-Joins-AMD-AI-Developer-Program-to-Advance-Enterprise-AI-Agent-Platform.html",
+          "section": "AI Pulse",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Silo Pharma, a diversified developmental-stage biopharmaceutical company with a therapeutic focus on addressing underserved conditions, including stress-induced psychiatric disorders, chronic pain, and central nervous system (CNS) diseases, today announced that its wholly owned subsidiary, QwikAgents, has been accepted into Advanced Micro Devices’ AMD AI Developer Program. Participation in the program provides access to AMD Developer Cloud credits, advanced AI development tools, training resources, and a global developer community designed to support and accelerate artificial intelligence innovation. “Joining the AMD AI Developer Program represents what we believe is an important step in advancing our QwikAgents platform,” said Eric Weisblum, Chief Executive Officer of Silo Pharma. “Access to AMD's AI development resources and cloud infrastructure can help accelerate our ability to develop, test, optimize, train and deploy AI agents across a wide range of use cases. We believe this collaboration and these resources should support QwikAgents’ mission to make powerful, persistent AI agents available not only to enterprises, but also to individual users , developers, and small businesses seeking affordable AI agent tools that are quick to deploy and designed with practical controls to support safer, more manageable use.”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 432715,
+          "ave": 4002.61
+        },
+        {
+          "id": "lp1eem",
+          "headline": "OpenAI Researcher Miles Wang In Talks to launch AI Drug Discovery Startup Valued At $2B",
+          "source": "TechCrunch",
+          "author": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+          "section": "AI Pulse",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Miles Wang, an OpenAI researcher whose work includes using AI to accelerate scientific and biological discovery, is leaving the ChatGPT maker to launch a new startup focused on developing AI models for drug discovery, according to four people with knowledge of his plans. Several other OpenAI researchers are expected to join the new company. Wang is in talks to raise about $200 million at a $2 billion valuation, two of the people said. Lightspeed is in discussions to lead the funding round, according to sources. Talks are ongoing, the deal may not be final and details could change. Wang disputed the story’s funding figures and description of the company but did not specify the correct numbers or details. Lightspeed didn’t respond to a request for comment.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 416989,
+          "ave": 3857.15
+        },
+        {
+          "id": "ooe4cn",
+          "headline": "After $4.7B Sale To Novo Nordisk, Former Akero Team Announces New I&I Company With China Drug",
+          "source": "Endpoints News",
+          "author": "Kyle LaHucik",
+          "url": "https://endpoints.news/former-akero-team-announces-new-ii-company-avere-with-china-drug/",
+          "section": "Industry News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Everything around China biotech really does seem to be speeding up. On Tuesday, the former executive team behind Akero Therapeutics unveiled a new company, a pipeline drug from China and a reverse merger to go public on the Nasdaq. The new company, Avere Therapeutics, is based on a clinical-stage oral IL-23 receptor antagonist (AVR-001) licensed from China’s Hansoh Pharmaceutical for $120 million upfront. And it will merge with the publicly traded cancer biotech NextCure, backed by a $320 million private placement. Hansoh said it will own between 30% to 40% of the combined company.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 795883,
+          "ave": 7361.92
+        },
+        {
+          "id": "ne03k3",
+          "headline": "In The Weight-Loss Wars, Novo’s Obesity Pill Is Pulling Way Ahead Of Lilly’s",
+          "source": "The Wall Street Journal",
+          "author": "Peter Loftus",
+          "url": "https://www.wsj.com/health/pharma/in-the-weight-loss-wars-novos-obesity-pill-is-pulling-way-ahead-of-lillys-d6e8ec3c",
+          "section": "Industry News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "The launch of weight-loss pills is the hottest battle in pharma. So far, Eli Lilly is losing to rival Novo Nordisk. Since its obesity pill Foundayo hit the market in April, Lilly has captured about 11% of the prescription volume for new pills, according to the latest weekly data. Novo Nordisk’s Wegovy pill, which launched in January, commands the rest. It is a remarkable turn of events for the near $80 billion anti-obesity market, among the hottest in the industry. Lilly dominates sales of shots. Analysts figured the company’s pill would similarly crush it. Among the challenges, doctors say, is study data indicating that people taking Novo Nordisk’s pill lost an average of 16.6% of body weight after more than a year, versus 12.4% for Foundayo.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 11615615,
+          "ave": 107444.44
+        },
+        {
+          "id": "t1kw8i",
+          "headline": "Top Democrats Question RFK Jr.’s Health Care Advisory Panel",
+          "source": "STAT News",
+          "author": "Chelsea Cirruzzo",
+          "url": "https://www.statnews.com/2026/07/14/senators-raise-question-hhs-healthcare-advisory-committee-members/",
+          "section": "Industry News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Two high-ranking Democratic senators are questioning the credentials and financial conflicts of members of an advisory committee established by health secretary Robert F. Kennedy Jr. that aims to improve and modernize the health care system. In a letter sent Tuesday to Kennedy and Centers for Medicare and Medicaid Services Administrator Mehmet Oz, Oregon Sens. Jeff Merkley, ranking member of the budget committee, and Ron Wyden, ranking member of the finance committee, write that they have “serious concerns” about credibility and conflicts of interest among those on the Healthcare Advisory Committee, which was announced in March.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 478047,
+          "ave": 4421.93
+        },
+        {
+          "id": "24ost9",
+          "headline": "Sales From Controversial U.S. Drug Discount Program Rose To $100 Billion Last Year",
+          "source": "STAT News",
+          "author": "Ed Silverman",
+          "url": "https://www.statnews.com/pharmalot/2026/07/14/sales-from-controversial-drug-discount-program-rose-to-100-billion-last-year/",
+          "section": "Industry News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Prescription medicines purchased in the U.S. under a controversial government discount program amounted to $100 billion in 2025, a 22.8% increase from the previous year, according to the Health Resources and Services Administration, which oversees the program. Expensive medicines represented an increasing proportion of spending in the 340B Drug Discount Program, accounting for $61.9 billion, or nearly 62% of all prescription drugs purchased through the program. Nearly $8.9 billion was spent on Merck’s Keytruda immunotherapy treatment, followed by more than $4.47 billion on Biktarvy, an HIV medicine sold by Gilead Sciences.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 478047,
+          "ave": 4421.93
+        },
+        {
+          "id": "ko3tmb",
+          "headline": "AstraZeneca To License Lung Cancer Drug From China's Dizal Pharmaceutical",
+          "source": "Reuters",
+          "author": "Andrew Silver",
+          "url": "https://www.reuters.com/legal/litigation/astrazeneca-license-lung-cancer-drug-chinas-dizal-pharmaceutical-2026-07-14/",
+          "section": "Industry News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Shares in China's Dizal Pharmaceutical rose 20% on Tuesday, after the ​AstraZeneca spin-off announced that the drugmaker would pay $600 million upfront ‌for global rights to one of its treatments for a type of lung cancer. Sunvozertinib, also known as Zegfrovy, is approved in the United States and China ​as a locally advanced or metastatic non-small cell lung cancer ​treatment for adults whose tumors have a rare genetic mutation. ⁠The first-line treatment for those patients largely relies on chemotherapy, according ​to Dizal, which was established in 2017. A study of a late-stage multinational clinical trial with 324 patients found the primary endpoint, progression-free survival, was a ​median of 10.3 months for patients on Sunvozertinib versus only 7.5 ​months for those on chemotherapy, though the overall survival data was immature.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials",
+            "M&A / Markets"
+          ],
+          "brands": [
+            "AstraZeneca"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "c5xgyp",
+          "headline": "How AstraZeneca Built Constraint-Based Planning With OMP",
+          "source": "Supply Chain Brain",
+          "author": "",
+          "url": "https://www.supplychainbrain.com/articles/44447-how-astrazeneca-built-constraint-based-planning-with-omp",
+          "section": "Industry News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Maintaining exceptional service levels to ensure quality patient care is critical to AstraZeneca, a biopharmaceutical company. But for years, its exceptional service levels came at a cost for the company in the form of elevated inventory levels and planning decisions made with limited end-to-end visibility into its supply chain, which impacted agility and growth. Recognizing the need for change, AstraZeneca began by rethinking its global supply chain planning. Rather than pursuing an off-the-shelf solution, the company sought a partner that could support a broader transformation that aligned technology, processes and people. That journey led AstraZeneca to supply chain planning software provider OMP. Working together, the two organizations translated AstraZeneca’s planning challenges into a constraint-based planning ecosystem. For the first time, planners could see true capacity and material limitations reflected directly in the plan, enabling more confident decisions and reducing the need to rely on excess inventory as a safety net.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "AstraZeneca"
+          ],
+          "reach": 121466,
+          "ave": 1123.56
+        }
+      ]
+    }
+  }
+}

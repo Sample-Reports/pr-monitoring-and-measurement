@@ -1,0 +1,204 @@
+{
+  "_app": "InfoVision Intelligence",
+  "_industry": "qsr",
+  "_savedAt": "2026-07-15T13:38:48.690Z",
+  "_dayCount": 1,
+  "days": {
+    "2026-07-15": {
+      "uploadedAt": "2026-07-15T13:38:45.173Z",
+      "filename": "InfoVision_QSR_Media_Briefing_2026-07-15.docx",
+      "articles": [
+        {
+          "id": "eph2aa",
+          "headline": "This Underrated KFC Menu Item 'Doesn't Even Taste Like Fast Food'",
+          "source": "Tasting Table",
+          "author": "Julia Holland",
+          "url": "https://www.tastingtable.com/2211238/kfc-menu-item-doesnt-taste-like-fast-food-pot-pie/",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "KFC is one of the oldest fast food fried chicken chains and has established itself as a classic in the U.S. and beyond. While KFC keeps things fresh with new deals and menu items, it also has tried-and-true classics with a loyal fanbase. According to this fanbase, customers are sleeping on one of the most underrated KFC menu items: the chicken pot pie. KFC's chicken pot pie features a filling of peas, carrots, shredded chicken, and potatoes in a thick gravy sauce under a flaky crust. As per KFC regulars on Reddit, it \"doesn't even taste like fast food.\" One fan even claimed that \"there isn't a better single tasting item at a fast food mega chain\" and that it's more akin to \"something someone's grandma made.\" Multiple customers have echoed the sentiment. One Redditor described it as a \"crust [that] is light and flaky in a really good way. The chicken and vegetables are balanced in a delicious gravy.\" Customers have also complimented the crust-to-filling ratio, breaking up the top crust to mix it into the filling for a well-rounded bite every time.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 760318,
+          "ave": 7032.94
+        },
+        {
+          "id": "rk7432",
+          "headline": "Authorities Investigate Taco Bell And Lettuce In Multistate Cyclosporiasis Outbreak",
+          "source": "The Washington Post",
+          "author": "Lena H. Sun",
+          "url": "https://www.washingtonpost.com/health/2026/07/14/authorities-investigate-taco-bell-lettuce-multistate-cyclosporiasis-outbreak/",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Federal and state health officials are investigating whether Taco Bell restaurants played a role in one of the largest U.S. outbreaks of a gastrointestinal illness caused by a parasite that contaminates fresh produce, according to two individuals familiar with the investigation. The two individuals spoke on the condition of anonymity because the investigation is ongoing into the outbreak of the infection that can cause days of diarrhea and has sickened thousands. Notices posted at some Detroit-area Taco Bell restaurants last week told customers the chain was “currently unable to sell Lettuce, Cilantro Onion, Pico de Gallo, and Guacamole due to a nationwide recall,” according to media reports. Authorities have not yet identified a specific produce grower or supplier responsible for the multistate outbreak of cyclosporiasis that has hospitalized more than 80 people. Public health officials say there could be multiple culprits.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 659937,
+          "ave": 6104.42
+        },
+        {
+          "id": "7hfrx9",
+          "headline": "Chipotle Backs Innovators Transforming Food Systems",
+          "source": "Food Business News",
+          "author": "Brooke Just",
+          "url": "https://www.foodbusinessnews.net/articles/30659-chipotle-backs-innovators-transforming-food-systems",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Six young companies have landed backing from Chipotle Mexican Grill’s Cultivate Next venture fund as the restaurant chain looks to seed new ideas across agriculture, sustainability, supply chains and restaurant technology. The companies that received investments include: Benchmark Labs, founded by Carlos Gaitan, develops artificial intelligence (AI)-powered weather forecasting and climate intelligence technology by combining environmental data, machine learning and predictive analytics to help agriculture operators make more informed decisions, the company said. IMIO, founded by Charles Smith, said it develops microbial agricultural solutions designed to improve soil health, crop performance and farm productivity to reduce dependence on conventional chemical inputs.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Sustainability & Labor"
+          ],
+          "brands": [
+            "Chipotle"
+          ],
+          "reach": 589489,
+          "ave": 5452.77
+        },
+        {
+          "id": "o6mvp6",
+          "headline": "Will Tim Hortons And Burger King Momentum Shift Restaurant Brands International's (QSR) Diversified Portfolio Narrative",
+          "source": "Simply Wall St",
+          "author": "Sasha Jovanovic",
+          "url": "https://simplywall.st/stocks/us/consumer-services/nyse-qsr/restaurant-brands-international/news/will-tim-hortons-and-burger-king-momentum-shift-restaurant-b",
+          "section": "AI Pulse",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Restaurant Brands International recently attracted fresh attention after Tim Hortons extended its comparable sales momentum and Burger King reported improved operating performance across its system. This combination points to healthier fundamentals in two of the company’s largest banners, reinforcing the benefits of its diversified quick-service portfolio. Next, we’ll examine how Tim Hortons’ sustained comparable sales momentum could influence Restaurant Brands International’s broader investment narrative and outlook. Invest in the nuclear renaissance through our list of 89 elite nuclear energy infrastructure plays powering the global AI revolution.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "AI & Automation"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 263901,
+          "ave": 2441.08
+        },
+        {
+          "id": "5kaltr",
+          "headline": "McDonald's Has A New Sauce Coming To Its Menu",
+          "source": "USA Today",
+          "author": "Mike Snider",
+          "url": "https://www.usatoday.com/story/money/food/2026/07/14/mcdonalds-menu-new-sauce-caesar/90916116007/",
+          "section": "Industry News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "McDonald's has a saucy menu option coming soon: Caesar sauce. The fast-food chain will begin offering McDonald's Caesar sauce on July 21 as a limited-time option on chicken menu items. The new Caesar sauce is described as \"a creamy, garlicky parmesan blend infused with notes of lemon,\" according to McDonald's Menu Spotter site. Back in June, McDonald's began offering a FIFA World Cup 26 Meal with one of nine collectible cups featuring soccer stars such as current USMNT's Christian Pulisic, Spain's Lamine Yamal, Mexico's Santiago Gimenez, French superstar now Fox analyst Thierry Henry, LAFC forward Son Heung-min, David Beckham and others – including Grimace.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "McDonald's"
+          ],
+          "reach": 20125212,
+          "ave": 186158.21
+        },
+        {
+          "id": "c73bjr",
+          "headline": "Pizzeria Buffet-Inspired QSR Menus",
+          "source": "Trend Hunter",
+          "author": "Michael Hemsworth",
+          "url": "https://www.trendhunter.com/amp/trends/throwback-value-menu",
+          "section": "Industry News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "The Pizza Hut Throwback Value Menu is a new offering from the QSR brand that's inspired by its previous dining experiences to take aim at Millennial nostalgia in a cost-effective way. The menu encourages consumers to build their own Pizza Hut buffet experience by mixing and matching various items that can be conveniently ordered to their house. The menu is competitively priced as a nod to increasing calls for low-cost dining options with prices starting at $3 to encourage customers to order multiples of their favorites. The Pizza Hut Throwback Value Menu is being launched with the Back to the Hut digital experience to quiz consumers on their brand knowledge to unlock rewards and more. Both announcements come as part of the nostalgia marketing surge that's meant to capture the excitement consumers have about their childhood experiences with their favorite brands.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering"
+          ],
+          "brands": [],
+          "reach": 77405,
+          "ave": 716
+        },
+        {
+          "id": "qxt8kd",
+          "headline": "How Food Waste Tracking Can Unlock Stronger Restaurant Margins",
+          "source": "QSR Magazine",
+          "author": "",
+          "url": "https://www.qsrmagazine.com/story/how-food-waste-tracking-can-unlock-stronger-restaurant-margins/",
+          "section": "Industry News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "For quick-service restaurant operators, performance is measured in seconds and cents. Operators track ticket times, labor ratios and food costs down to the unit. Yet one of the most consistent drivers of margin loss has received far less attention: surplus food from plates, preparation scraps, overpurchasing and more. That is beginning to change. As inflation, supply volatility and labor pressures continue to challenge profitability, operators are reexamining what gets thrown away and why. What they are finding is that these losses are not random. Surplus food is measurable, patterned and in many cases, preventable. In the United States, ReFED estimates that restaurants generate an estimated 11.4 million tons of food waste each year, representing roughly $25 billion in lost value. For QSR brands operating hundreds or thousands of units, even small reductions translate into meaningful gains.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Value & Pricing",
+            "Sustainability & Labor"
+          ],
+          "brands": [],
+          "reach": 68484,
+          "ave": 633.48
+        },
+        {
+          "id": "4xmazz",
+          "headline": "Gusto! Introducing Adders And Snack To Menu",
+          "source": "QSR Magazine",
+          "author": "",
+          "url": "https://www.qsrmagazine.com/food/menu-innovations/gusto-introducing-adders-and-snack-to-menu/",
+          "section": "Industry News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Atlanta-based fast-casual brand gusto! is introducing Adders and Snacks, two new menu offerings that give guests more choice and more occasions to enjoy the brand. Available beginning July 14 at all 13 metro Atlanta locations, the launch marks the first time guests can customize gusto!’s signature bowls and wraps, alongside a new lineup of snacks for today’s more flexible eating occasions. For the first time in gusto!’s 11-year history, guests can customize their favorite bowls and wraps with Adders—a collection of fresh ingredients that lets every guest put their own fresh twist on the flavors they love. At the same time, the Snacks menu introduces a new way to enjoy gusto!, with four menu items designed for everything from post-workout cravings and afternoon pick-me-ups to those moments when a full meal is more than you need.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 68484,
+          "ave": 633.48
+        },
+        {
+          "id": "612lg8",
+          "headline": "Sauce-Focused Fried Chicken Menus",
+          "source": "Trend Hunter",
+          "author": "Michael Hemsworth",
+          "url": "https://www.trendhunter.com/trends/mcdonalds-caesar-menu",
+          "section": "Industry News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "The McDonald's Caesar menu is a new series of items headed to the QSR brand's lineup for a limited time only to help satisfy customer interest in sauce-driven fried chicken items. The menu puts the brand's Caesar-style dipping sauce in the spotlight that boasts a creamy Parmesan blend base with notes of garlic and lemon throughout. The menu features the Bacon Caesar McCrispy, Caesar Snack Wrap and the McCrispy Strips with Caesar Sauce, which are each part of the brand's McCrispy platform to complement the new sauce. The McDonald's Caesar menu helps the QSR brand to catch the attention of fried chicken fans and also help to expand on its existing category prowess for a newstalgia twist that works well for foodies.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "McDonald's"
+          ],
+          "reach": 77405,
+          "ave": 716
+        }
+      ]
+    }
+  }
+}

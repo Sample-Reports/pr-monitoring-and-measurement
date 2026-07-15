@@ -1,0 +1,313 @@
+{
+  "_app": "InfoVision Intelligence",
+  "_industry": "retail",
+  "_savedAt": "2026-07-15T13:39:04.765Z",
+  "_dayCount": 1,
+  "days": {
+    "2026-07-15": {
+      "uploadedAt": "2026-07-15T13:39:03.474Z",
+      "filename": "InfoVision_Retail_Media_Briefing_2026-07-15.docx",
+      "articles": [
+        {
+          "id": "lvlyzl",
+          "headline": "Sephora Copies A Walmart Move Shoppers Love",
+          "source": "The Street",
+          "author": "Maurie Backman",
+          "url": "https://www.thestreet.com/retail/sephora-copies-walmart-quiet-hours-neurodiverse",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "If you’ve ever walked into a Sephora location before, you may have experienced the same thing I did — sensory overload. Of course, for some beauty enthusiasts, there’s nothing more exciting than stepping into a massive store that’s loaded with just about every skin care and makeup product imaginable. For someone like myself whose beauty routine consists mostly of ChapStick, the main reason you’ll find me inside a Sephora is because one of my daughters has asked, or because I’ve stopped in to buy a gift.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 899790,
+          "ave": 8323.06
+        },
+        {
+          "id": "pptj1",
+          "headline": "Walmart Among Chains Forced By The Government To Give Away Food For Free Under New ‘Recovery’ Law",
+          "source": "The Sun",
+          "author": "Grace Harrington",
+          "url": "https://www.the-sun.com/news/16691730/connecticut-food-donation-walmart/",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "WALMART is among the chains that will need to donate food for free under a proposed law put forward by a state government. Chains would also need to document how much food they give away. A proposed Connecticut law seeks to address food insecurity by allowing food retailers like grocery stores to donate surplus food. The bill would require the state’s Departments of Consumer Protection and Public Health to develop and implement guidelines for retailers to donate surplus food.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "f2v6yp",
+          "headline": "Walmart Makes Another Move To Win Higher-Income Shoppers",
+          "source": "The Street",
+          "author": "Madison Troyer",
+          "url": "https://www.thestreet.com/retail/walmart-adds-caraway-premium-brand",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "For the last few months, Walmart has been working hard to change shoppers’ perceptions. The retailer spent decades establishing itself as a value destination, offering rock-bottom prices on everyday goods, but has recently put forth a concerted effort to appeal to higher-income earners. It’s a strategy that appears to be working. Executives have repeatedly highlighted growing market-share gains among households earning more than $100,000, and the retailer has drastically expanded its assortment of premium brands across fashion, beauty and home.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 899790,
+          "ave": 8323.06
+        },
+        {
+          "id": "oe94p3",
+          "headline": "Coresight: Walmart, Amazon Cross Major Market-Share Milestone",
+          "source": "Chain Store Age",
+          "author": "Marianne Wilson",
+          "url": "https://chainstoreage.com/coresight-walmart-amazon-cross-major-market-share-milestone",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Accelerating market-share consolidation among top-tier retailers has become a “defining story” of the U.S. retail competitive landscape. That's according to new data from Coresight Research, which found that for the first time, two retailers crossed the threshold of capturing more than 10% of total U.S. retail sales. The frontrunner was Walmart, accounting for 11.08% of U.S. retail sales in 2025.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart",
+            "Amazon"
+          ],
+          "reach": 600481,
+          "ave": 5554.45
+        },
+        {
+          "id": "s8hjzs",
+          "headline": "Heating Up Walmart’s Chaotic ‘Route’ Change In Stores Leaves Furious Shoppers With ‘Melting’ Groceries",
+          "source": "The Sun",
+          "author": "Grace Harrington",
+          "url": "https://www.the-sun.com/news/16690456/walmart-spark-delivery-melting-groceries/",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "An update in Walmart’s Spark delivery app has left angry customers with melted groceries and workers complaining of slow delivery times. The change affects the routes delivery workers take in-store. Workers who use Spark, Walmart’s shopping and home delivery service, say the app’s new policy making the shopping process more inefficient. Delivery drivers told Business Insider that the app has changed its feature that maps out a route to pick up items in store.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "qnywds",
+          "headline": "Walmart’s 7,200 Price Cuts Land Heaviest In One Category",
+          "source": "The Street",
+          "author": "Damilola Esebame",
+          "url": "https://www.thestreet.com/retail/walmart-grocery-rollback-prices-summer",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Walmart has lowered prices on a range of grocery staples, including ground beef, corn on the cob, cherries, and 24-packs of soda. The nation’s largest retailer recently unveiled a summer rollback campaign covering thousands of products across groceries, household essentials, and seasonal goods nationwide. Walmart had about 7,200 rollbacks in place during its fiscal first quarter ending April 30, up more than 20% year over year, and roughly half of them targeted food items, Walmart Chief Financial Officer John David Rainey told Yahoo Finance.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart",
+            "Target"
+          ],
+          "reach": 899790,
+          "ave": 8323.06
+        },
+        {
+          "id": "lfvgcr",
+          "headline": "Walmart Reveals Soccer Fans’ World Cup Shopping Habits",
+          "source": "Modern Retail",
+          "author": "Mitchell Parton",
+          "url": "https://www.modernretail.co/operations/walmart-reveals-soccer-fans-world-cup-shopping-habits/",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Data is starting to trickle in about how consumers’ shopping habits shifted during the World Cup. A new study from Walmart shows how its soccer-watching consumers planned to grocery shop during the World Cup, from how much they would spend to what kind of snacks they would buy — and the company has seen some of these results validated over the course of the tournament. About half of consumers who identified as soccer fans expected to increase grocery spending by at least 25% during major match weeks, Walmart found through surveys in June, according to its analytics arm Walmart Data Ventures. These surveys included 1,021 both casual and dedicated soccer fans who were members of the Walmart Customer Spark Community.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 482884,
+          "ave": 4466.68
+        },
+        {
+          "id": "bz954m",
+          "headline": "Walmart Agrees To Police Mercury Content In Skin Lighteners Under NGO Settlement",
+          "source": "HBW Insight",
+          "author": "Eileen Francis",
+          "url": "https://insights.citeline.com/hbw-insight/beauty/policy-and-regulation/legal/walmart-agrees-to-police-mercury-content-in-skin-lighteners-under-ngo-settlement-LUZVF6KQZZAC5GUS5PC6FNRV74/",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "The US Food and Drug Administration has stepped up its efforts to combat skin-lightening products containing banned mercury above trace levels, but a legal settlement between Walmart Inc. and NGO the Mercury Policy Project highlights the challenges faced by retailers and resellers confronting the products still on the market. The settlement came shortly after FDA issued an advisory cautioning consumers of sky-high mercury levels found...",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 613013,
+          "ave": 5670.37
+        },
+        {
+          "id": "tjk8dt",
+          "headline": "Walmart EV Charger Deployments Exploded In Q2. Only Tesla Installed More Plugs",
+          "source": "Inside EVs",
+          "author": "Suvrat Kothari",
+          "url": "https://insideevs.com/news/801603/walmart-q2-ev-fast-charging-growth/",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "America's electric vehicle fast-charging market keeps throwing surprises every quarter. Despite the reset in EV sales momentum, the fast-charging network continues to grow at a rapid clip. New players like Ionna have ramped up quickly, deploying hundreds of new ports in just about a year since entering the market. But retail giant Walmart is coming in hot with its own charging ambitions, posting some serious numbers for Q2. According to EV charging data platform Paren, Walmart outranked every charging network except Tesla in second-quarter deployments. Walmart added 368 new ports in Q2, behind Tesla's 1,185 but ahead of ChargePoint (333), Red E (315) and Electrify America (202). That means Walmart alone accounted for 8.4% of new public fast-charging stations in the U.S. during the quarter, even though its all-time market share is still below 1%.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 272734,
+          "ave": 2522.79
+        },
+        {
+          "id": "y7ba6s",
+          "headline": "Walmart Cuts Prices Again. Small Businesses Should Do The Opposite",
+          "source": "Forbes",
+          "author": "Micah Logan",
+          "url": "https://www.forbes.com/sites/micahlogan/2026/07/14/walmart-cuts-prices-again-small-businesses-should-do-the-opposite/",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Walmart has strategically cut prices on thousands of items in its stores to help customers cope with inflation over the last few years. News like this could be tempting for Small Business Owners to copy as a pricing strategy in their own businesses; however, price matching is not always a winning strategy. It’s often a race, pun intended, to the bottom. In a 2025 survey of Small Business Owners, 66% say that big retailers are their fiercest competitors. The real business operator question shouldn’t be, \"How do I compete on price?\" but \"Why am I tempted to pull that lever first?\" There are five plays that Business Owners can use instead of competing on price, which could prove disastrous to their bottom line.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Store Strategy",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 15044999,
+          "ave": 139166.24
+        },
+        {
+          "id": "55jq6e",
+          "headline": "Walmart Bets On AI And Digital Twins To Shape Its Supply Chain Strategy",
+          "source": "CFO Dive",
+          "author": "Paige Gross",
+          "url": "https://www.cfodive.com/news/Walmart-supply-chain-ai-digital-twin/825173/",
+          "section": "AI Pulse",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Before Walmart kicked off an effort to get AI into the hands of 2 million employees, the retail giant’s supply chain team already relied on the technology to help get products where they needed to go. Predictive models have always had a home within the supply chain industry, Indira Uppuluri, Walmart’s SVP of supply chain technology, told CIO Dive. But the amount of data and AI tools her teams have access to now gives them stronger signals to navigate a sometimes challenging landscape, Uppuluri said — “That’s where the industry is going.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "AI & Personalization",
+            "Supply Chain"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 49736,
+          "ave": 460.06
+        },
+        {
+          "id": "lt43ky",
+          "headline": "US Retail Sales Extend Growth Streak As June Spending Rises",
+          "source": "Retail Insight Network",
+          "author": "Mohamed Dabo",
+          "url": "https://www.retail-insight-network.com/features/us-retail-sales-extend-growth-streak-as-june-spending-rises/",
+          "section": "Industry News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "US retail sales continued to grow in June, marking a ninth straight month of gains as consumers maintained spending despite ongoing economic uncertainty. US retail sales increased for the ninth consecutive month in June, with shoppers continuing to spend despite economic uncertainty, according to the latest CNBC/NRF Retail Monitor. The report, released by the National Retail Federation (NRF) and based on anonymised credit and debit card transactions compiled by Affinity Solutions, showed total retail sales excluding automobile dealers and petrol stations rose 0.33% month on month on a seasonally adjusted basis.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 658135,
+          "ave": 6087.75
+        },
+        {
+          "id": "2ydawu",
+          "headline": "Massive 7-Eleven Shakeup Will Close Hundreds Of Stores Across America This Year",
+          "source": "AL.com",
+          "author": "Grant Butler",
+          "url": "https://www.al.com/life/2026/07/massive-7-eleven-shakeup-will-close-hundreds-of-stores-across-america-this-year.html",
+          "section": "Industry News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "For millions of Americans, it’s the kind of convenience store that’s become part of the daily routine – a quick stop for coffee on the way to work, a late-night snack run or a fill-up at the pump. But behind the familiar storefronts, the retail giant is preparing for a major shake-up that will affect hundreds of locations across the country. 7-Eleven is planning to close or convert 645 locations, according to the company’s first-quarter earnings presentation.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 291486,
+          "ave": 2696.25
+        },
+        {
+          "id": "dikbb",
+          "headline": "US Retail Sales Rise 9.41% YoY In June, Clothing Leads Growth",
+          "source": "Fibre2Fashion",
+          "author": "",
+          "url": "https://www.fibre2fashion.com/news/retail-industry/us-retail-sales-rise-9-41-yoy-in-june-clothing-leads-growth-311746-newsdetails.htm",
+          "section": "Industry News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "The United States total retail sales, excluding automobile dealers and gasoline stations, increased 0.33 per cent seasonally adjusted from May and 9.41 per cent unadjusted from June 2025, according to the CNBC/National Retail Federation (NRF) Retail Monitor, powered by Affinity Solutions. In May, the monitor had reported gains of 0.42 per cent month on month (MoM) and 7.19 per cent year on year (YoY).",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 352472,
+          "ave": 3260.37
+        }
+      ]
+    }
+  }
+}

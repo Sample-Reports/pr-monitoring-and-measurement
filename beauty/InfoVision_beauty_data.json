@@ -1,0 +1,268 @@
+{
+  "_app": "InfoVision Intelligence",
+  "_industry": "beauty",
+  "_savedAt": "2026-07-15T13:39:17.340Z",
+  "_dayCount": 1,
+  "days": {
+    "2026-07-15": {
+      "uploadedAt": "2026-07-15T13:39:16.350Z",
+      "filename": "InfoVision_Beauty_Media_Briefing_2026-07-15.docx",
+      "articles": [
+        {
+          "id": "i0zgut",
+          "headline": "Ulta Beauty Appoints Kelly Garcia As Chief Technology Officer",
+          "source": "Global Cosmetic News",
+          "author": "",
+          "url": "https://www.globalcosmeticsnews.com/ulta-beauty-appoints-kelly-garcia-as-chief-technology-officer/",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Ulta Beauty has appointed Kelly Garcia as Chief Technology Officer (CTO), strengthening its executive leadership team to support the company’s technology and digital growth strategy. Effective August 31, 2026, Garcia will join Ulta Beauty’s executive team after serving on the company’s Board of Directors since 2022, from which he will resign upon assuming the role. He most recently served as Executive Vice President and CTO at Domino’s Pizza, where he led the company’s global technology strategy for more than a decade. Garcia brings over 25 years of experience spanning e-commerce, customer loyalty, digital innovation, artificial intelligence and cybersecurity.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Retail & Distribution",
+            "AI Beauty Tech"
+          ],
+          "brands": [
+            "Ulta Beauty"
+          ],
+          "reach": 315367,
+          "ave": 2917.14
+        },
+        {
+          "id": "5dqt78",
+          "headline": "Estee Lauder Cos. Decides Not To Sell Dr.Jart, Too Faced & Smashbox",
+          "source": "Beauty Packaging",
+          "author": "Rachel Klemovitch",
+          "url": "https://www.beautypackaging.com/breaking-news/estee-lauder-cos-decides-not-to-sell-dr-jart-too-faced-smashbox/",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "According to recent reports, Estee Lauder Companies (ELC) has decided against selling Dr.Jart, Too Faced, and Smashbox. Rather than selling the brands, ELC has explored different strategic options and chose to restructure the brands’ operating models. These restructurings will help increase growth and profitability. Too Faced will relocate its headquarters from Los Angeles to New York and join the company’s makeup cluster alongside MAC and Bobbi Brown with a significantly streamlined team. While no president has been named to oversee Too Faced, Lisa Sequino is currently the president of the makeup cluster that Too Faced joins.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch"
+          ],
+          "brands": [
+            "Estée Lauder"
+          ],
+          "reach": 652991,
+          "ave": 6040.17
+        },
+        {
+          "id": "ozuxdp",
+          "headline": "L’Oréal, MAC, And Clinique Fans Warned Of New Law BANNING Makeup Products Over Hidden Ingredient",
+          "source": "The Sun",
+          "author": "Grace Harrington",
+          "url": "https://www.the-sun.com/news/16691145/illinois-makeup-pfas-chemical-ban/",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "TOP makeup brands are being forced to abide by a new statewide law banning so-called forever chemicals from beauty products. The law will affect L’Oréal, MAC, Clinique and all other makeup manufacturers. A new Illinois law is banning the intentional addition of polyfluoroalkyl substances, or PFAS, in cosmetics, dental floss, juvenile products, menstrual products, and intimate apparel. PFAS are synthetic chemicals designed to make products resistant to heat, water, oil, or stains.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Markets & Regulation"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "irjirt",
+          "headline": "After The Estée Lauder-Puig Collapse, Which Beauty Mergers Would Actually Work?",
+          "source": "Beauty Independent",
+          "author": "Rachel Brown",
+          "url": "https://www.beautyindependent.com/estee-lauder-puig-collapse-which-beauty-mergers-actually-work/",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "The proposed marriage between Estée Lauder and Puig collapsed in May before it was ever consummated. Since the engagement was called off, Lauder’s shares have climbed roughly 4%. Puig’s shares, however, are down more than 4%. The collapse underscored a blunt reality: the merger that made sense on paper (Lauder would gain enviable fragrance assets while Puig would achieve greater scale) quickly unraveled when confronted with the complexities of integration. Without rehashing all the sordid details of the blame game, from Charlotte Tilbury’s contract negotiations to disagreements over price, the deal ultimately appeared too messy for both the companies and investors, who wanted portfolio clarity and discipline but instead saw a clash of family-controlled dynasties and the prospect of prolonged post-acquisition pain.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Markets & Regulation"
+          ],
+          "brands": [
+            "Estée Lauder"
+          ],
+          "reach": 151990,
+          "ave": 1405.91
+        },
+        {
+          "id": "k6mjzk",
+          "headline": "L’Oréal Becomes The Exclusive Beauty Partner Of The Plenitude Arena",
+          "source": "WebWire",
+          "author": "",
+          "url": "https://www.webwire.com/ViewPressRel.asp?aId=357674",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "The L’Oréal Group and the Plenitude Arena announce the signing of an exclusive, renewable two-year partnership. This partnership places the world leader in beauty and its 40 international brands at the heart of the world’s greatest cultural and sporting events, hosted by Europe’s largest indoor venue (up to 45,000 seats), located in Nanterre, on the outskirts of Paris. Recently renamed Plenitude Arena as of July 1, 2026, the venue has just begun a new chapter in its history, driven by renewed ambitions and the arrival of leading partners to support its world-renowned events.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 152711,
+          "ave": 1412.58
+        },
+        {
+          "id": "aq5oj1",
+          "headline": "Chanel Dares To Rework Its Iconic Watch: Will The New J12 Make Us Forget The Original?",
+          "source": "Le Nouveau Réveil",
+          "author": "Mila Lazri",
+          "url": "https://lenouveaureveil.com/en/chanel-new-j12/",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "The Chanel J12 Calibre 12.1 38 mm opens a new chapter for a watch that has become one of the Parisian house’s most recognizable models. More than twenty-five years after its launch, Chanel has chosen to update its icon without disrupting the silhouette that built its success. This new interpretation joins a collection created in 2000 under the artistic direction of Jacques Helleu. Inspired by racing cars and J-Class sailing yachts, the J12 helped establish ceramic in the world of high-end sports watches. Following the glossy black of the original version and the white model introduced in 2003, Chanel is now exploring a more understated expression of its flagship watch.Produits de luxe",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution"
+          ],
+          "brands": [
+            "Chanel"
+          ],
+          "reach": 400295,
+          "ave": 3702.73
+        },
+        {
+          "id": "u40bm5",
+          "headline": "Gucci Claimed A Monte Carlo Beach Club Through October: 4 More Luxury Pop-Ups Still Open",
+          "source": "Travellers Today",
+          "author": "Edward Mills",
+          "url": "https://www.travelerstoday.com/articles/60373/20260714/gucci-claimed-monte-carlo-beach-club-through-october-4-more-luxury-pop-ups-still-open.htm",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "This is mid-July, which means you are squarely inside the window. Six luxury fashion houses have taken over some of the most storied beach clubs and coastal hotels in Europe — from Monaco to Portofino to Ibiza — and every single one of them is still open. The first to close, Burberry on the French Riviera and Chloé in Formentera, runs through September 30. Gucci's Monaco takeover and Jacquemus's Bodrum debut hold until the end of October. What used to be a niche marketing move — a branded sunbed here, a logo parasol there — has grown into a genuine travel phenomenon, with fashion houses now designing full seasonal programs around specific coastal addresses, right down to the cocktails, the bicycles, and the restaurant menus. Here is where they are, what each one looks like in practice, and the critical detail most coverage leaves out: which ones you can walk into without booking a room.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Prestige vs Mass",
+            "Marketing & Influence"
+          ],
+          "brands": [],
+          "reach": 704245,
+          "ave": 6514.27
+        },
+        {
+          "id": "40bw05",
+          "headline": "Ulta Beauty Welcomes Monpure London",
+          "source": "Beauty Packaging",
+          "author": "Rachel Klemovitch",
+          "url": "https://www.beautypackaging.com/breaking-news/ulta-beauty-welcomes-monpure-london/",
+          "section": "Brand News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "Monpure London, the trichologist-backed British hair and scalp health brand, adds Ulta Beauty to a growing U.S. retail roster that already includes Nordstrom, Bloomingdale’s and Mybeautyspace.com. Scalp health has shifted from niche interest to mainstream priority in the U.S., with bond repair following close behind. Monpure’s position, built on clinical research and trichologist insight rather than trend, places it among a small number of brands with the credibility to lead that shift at retail.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Retail & Distribution"
+          ],
+          "brands": [
+            "Ulta Beauty"
+          ],
+          "reach": 652991,
+          "ave": 6040.17
+        },
+        {
+          "id": "y5aaf",
+          "headline": "Ingredient-Led Brands Are Dominating AI Beauty Citations",
+          "source": "Glossy",
+          "author": "Emily Jensen",
+          "url": "https://www.glossy.co/beauty/ingredient-led-brands-are-dominating-ai-beauty-citations/",
+          "section": "AI Pulse",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "The Ordinary shook up the beauty aisle when it launched in 2016 with affordable skin-care formulations built around a single active ingredient, like hyaluronic acid or caffeine. A decade later, that approach appears to be helping the Estée Lauder-owned skin-care brand in a new era of beauty consumption. According to data from 5W AI Communications, The Ordinary tops the list of beauty brands surfaced in AI citations. The brand’s products appeared in 7% of responses to beauty-related consumer prompts submitted to ChatGPT, Claude, Perplexity and Google AI Overviews. Skin-care brands largely dominated the top results, with CeraVe and La Roche-Posay also in the top five brands by AI citations.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "AI Beauty Tech",
+            "Prestige vs Mass",
+            "Markets & Regulation"
+          ],
+          "brands": [
+            "Estée Lauder"
+          ],
+          "reach": 170991,
+          "ave": 1581.67
+        },
+        {
+          "id": "9r9nqv",
+          "headline": "Glamsquad Is Redefining The Beauty Experience",
+          "source": "WWD",
+          "author": "",
+          "url": "https://wwd.com/business-news/business-features/glamsquad-personalized-beauty-services-technology-1238870537/",
+          "section": "Industry News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "David Goldweitz, cofounder and chief executive officer of Glamsquad, and Giovanni Vaccaro, cofounder of Glamsquad, discuss with Fairchild Studio how the beauty services platform is shaping the future of beauty experiences with tech-driven personalization and brand partnerships.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI Beauty Tech"
+          ],
+          "brands": [],
+          "reach": 126372,
+          "ave": 1168.94
+        },
+        {
+          "id": "pl49tt",
+          "headline": "Wellness Briefing: Is Hormone Tracking The Future Of Women’s Wearables? Plus News",
+          "source": "Glossy",
+          "author": "Lexy Lebsack",
+          "url": "https://www.glossy.co/beauty/wellness/wellness-briefing-is-hormone-tracking-the-future-of-womens-wearables-plus-news/",
+          "section": "Industry News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "For the Wellness Briefing, Glossy interviewed Jenny Duan, the 22-year-old founder who has raised $11.6 million to launch a continuous hormone-tracking wearable named Clair. It’s part of the burgeoning hormone-tracking marketplace that could soon upend how women interact with wearables. Additionally, NYC Mayor Zohran Mamdani announces a new “click to cancel” law that will soon impact gyms and subscription-based CPG. Plus, a new stat illustrates spa worker burnout, and CorePower Yoga and Gold’s Gym experience exec shakeups.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch"
+          ],
+          "brands": [],
+          "reach": 170991,
+          "ave": 1581.67
+        },
+        {
+          "id": "hb1qml",
+          "headline": "Influencer Marketing Insights: Traackr And Unilever Discuss Creator Collaborations",
+          "source": "WWD",
+          "author": "",
+          "url": "https://wwd.com/voices/from-the-mainstage/influencer-marketing-evolution-traackr-unilever-1238981520/",
+          "section": "Industry News",
+          "date": "July 14, 2026",
+          "iso": "2026-07-13",
+          "summary": "At the WWD Beauty CEO Summit, Pierre-Loïc Assayag, cofounder and chief executive officer of Traackr, and Casey DePalma McCartney, chief strategy and brand communications officer at Unilever U.S., sat down with Amanda Smith, CEO of Fairchild Media Group, to share how influencer marketing is evolving. This special episode of WWD Voices features their live discussion from the mainstage. During the panel, speakers noted the importance of establishing relationships with creators and social listening, which together enable brands to react to trending online conversations quickly and authentically.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch",
+            "Marketing & Influence"
+          ],
+          "brands": [],
+          "reach": 126372,
+          "ave": 1168.94
+        }
+      ]
+    }
+  }
+}
