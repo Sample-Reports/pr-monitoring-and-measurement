@@ -1650,17 +1650,15 @@ function renderAll(){ renderLanding(); }
 
   function toggleUpload() {
     var uw = document.querySelector('.upload-wrap');
-    var db = document.getElementById('dataBar');
     var btn = document.getElementById('uploadToggleBtn');
     if (!uw) return;
     var hidden = uw.style.display === 'none';
     uw.style.display = hidden ? '' : 'none';
-    if (db) db.style.display = hidden ? '' : 'none';
     btn.textContent = hidden ? 'Hide upload' : '+ Upload briefing';
   }
 
   document.addEventListener('DOMContentLoaded', function(){
-    /* Hide upload/data-bar by default on admin too — surfaced via button */
+    /* Hide upload section and entire data-bar (save/load/reset) — not needed */
     var uw = document.querySelector('.upload-wrap');
     var db = document.getElementById('dataBar');
     if (uw) uw.style.display = 'none';
