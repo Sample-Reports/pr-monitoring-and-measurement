@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "beauty",
-  "_savedAt": "2026-07-15T13:39:17.340Z",
-  "_dayCount": 1,
+  "_savedAt": "2026-07-16T14:06:54.346Z",
+  "_dayCount": 2,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:16.350Z",
@@ -261,6 +261,238 @@
           "brands": [],
           "reach": 126372,
           "ave": 1168.94
+        }
+      ]
+    },
+    "2026-07-16": {
+      "uploadedAt": "2026-07-16T13:54:25.603Z",
+      "filename": "InfoVision_Beauty_Media_Briefing_2026-07-16.docx",
+      "articles": [
+        {
+          "id": "3ainln",
+          "headline": "Gucci Racing Appoints VP",
+          "source": "WWD",
+          "author": "Luisa Zargani",
+          "url": "https://wwd.com/fashion-news/designer-luxury/gucci-racing-vice-president-tancredi-vitale-1239065251/",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Tancredi Vitale will join Gucci from the Venezia Football Club, where he served as managing director, on Sept. 1. Gucci Racing has named Tancredi Vitale its vice president, effective Sept. 1, joining from the Venezia Football Club, where he served as managing director.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 126372,
+          "ave": 1168.94
+        },
+        {
+          "id": "scizik",
+          "headline": "Chanel Just Found Its New Crush, And Her Name Is Gracie Abrams",
+          "source": "New Beauty",
+          "author": "Amaya Garcia",
+          "url": "https://www.newbeauty.com/view/gracie-abrams-chanel-fragrance",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Mademoiselle Abrams has entered the chat. Chanel just announced Gracie Abrams as the new face of Coco Mademoiselle Crush Absolu, the house's newest fragrance, launching this August—and if you've been keeping tabs on her steady rise through the Chanel universe, this one tracks perfectly.The 26-year-old singer has been a Chanel ambassador since 2025, fronting the Spring-Summer Pre-Collection campaign before becoming the face of Coco Crush jewelry. Landing Crush Absolu feels like the natural next chapter, a continuation of a relationship that's clearly working for both sides. \"It's unreal to be the new face of Coco Mademoiselle, I feel an immense sense of pride,\" Abrams said in a press release. \"I love that Coco is someone who leaves a mark everywhere she goes. Sometimes, I wish I could be more like her.\"",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Marketing & Influence"
+          ],
+          "brands": [
+            "Chanel"
+          ],
+          "reach": 933308,
+          "ave": 8633.1
+        },
+        {
+          "id": "bn7iwf",
+          "headline": "Ulta Beauty Names Domino’s Veteran As CTO",
+          "source": "CIO Dive",
+          "author": "Paige Gross",
+          "url": "https://www.ciodive.com/news/ulta-names-new-cto/825347/",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Ulta Beauty has named a new CTO in Kelly Garcia, a current board member who will begin his new role Aug. 31, the company announced Tuesday. As CTO, Garcia will continue to advance the beauty retailer’s technology capabilities and its tech-driven Ulta Beauty Unleashed strategy, which aims to drive market share growth. Garcia will leave his seat on Ulta’s board to take the position, as well as his 14-year tenure at Domino’s, where he served most recently as the company’s EVP and CTO. “Kelly has been an impactful member of our Board of Directors, providing valuable business insights and technology expertise, including perspectives on emerging technologies such as AI,” Kecia Steelman, president and CEO, said in a statement.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Retail & Distribution",
+            "AI Beauty Tech"
+          ],
+          "brands": [
+            "Ulta Beauty"
+          ],
+          "reach": 786517,
+          "ave": 7275.28
+        },
+        {
+          "id": "k100ob",
+          "headline": "Publicis Groupe Wins Gucci And Balenciaga Global Media Account",
+          "source": "Campaign US",
+          "author": "Shauna Lewis",
+          "url": "https://www.campaignlive.com/article/publicis-groupe-wins-gucci-balenciaga-global-media-account/1964690",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Gucci owner Kering has appointed Publicis Groupe to its global media account, following a competitive review led by ID Comms. The incumbent on the account was Dentsu's iProspect, which was appointed in 2021, following a competitive review in which Publicis agency Zenith unsuccessfully defended the account. In 2025, the company's media spend totalled $319.9m (£240.2m), according to COMvergence, and in 2026 it is predicted to spend less, at $293.3m (£220.2m). As well as Gucci, Kering’s brands include Balenciaga, Bottega Veneta, Stella McQueen, Saint Laurent and Brioni.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 711378,
+          "ave": 6580.25
+        },
+        {
+          "id": "qy2sod",
+          "headline": "L’Oréal Paris’ New Revitalift Serum Reverses Five Years Of Dark Spots",
+          "source": "Happi",
+          "author": "Lianna Albrizo",
+          "url": "https://www.happi.com/breaking-news/loreal-paris-new-revitalift-serum-reverses-five-years-of-dark-spots/",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "As consumers brave the worst of summer heat waves brought on by blankets of harsh sunlight, it also means the development of dreaded dark spots. Happi International Top 30 Company L’Oréal Paris says it has the antidote: Revitalift Melasyl Dark Spot Creamy-Serum. The innovation, two decades in the making, is formulated to visibly correct dark spots, improve skin tone uniformity and smooth wrinkles. Melasyl, the latest addition to L’Oréal Groupe’s Revitalift franchise, utilizes a patented cosmetic ingredient.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Markets & Regulation"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 234448,
+          "ave": 2168.64
+        },
+        {
+          "id": "5rgool",
+          "headline": "Coty (COTY) Is Up 10.7% After Handing Back Gucci Beauty License To Kering For US$400 Million",
+          "source": "Simply Wall Street",
+          "author": "",
+          "url": "https://simplywall.st/stocks/us/household/nyse-coty/coty/news/coty-coty-is-up-107-after-handing-back-gucci-beauty-license/amp",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "In early July 2026, Coty Inc. announced it would transition the Gucci Beauty license back to Kering for about US$400 million, continue operating the brand through at least June 30, 2027, and use the proceeds for debt reduction, core prestige investments, and organizational streamlining. The deal not only reshapes Coty’s prestige portfolio by exiting a key licensed brand but also resolves all related litigation with Kering and accelerates Coty’s shift toward a more focused, centrally managed operating model.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Prestige vs Mass"
+          ],
+          "brands": [
+            "Coty"
+          ],
+          "reach": 570497,
+          "ave": 5277.1
+        },
+        {
+          "id": "5lw5n1",
+          "headline": "Brands Urge TikTok Shop Creators To Ditch AI Fakes, Report Says",
+          "source": "Independent",
+          "author": "Erin Keller",
+          "url": "https://www.the-independent.com/us/money/tiktok-brands-ai-ads-b3015535.html",
+          "section": "AI Pulse",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "AI-generated shopping videos are spreading across TikTok Shop, raising concerns among brands that the technology could misrepresent products and make it harder for shoppers to distinguish between authentic reviews and computer-generated promotions. AI video tools now allow creators and sellers to quickly produce product demonstrations, virtual influencers and promotional clips without filming real people or using physical products. While TikTok has rolled out AI features to help sellers create shoppable content, some brands are setting limits on how their products can appear in these videos.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Brand & Product Launch",
+            "AI Beauty Tech",
+            "Marketing & Influence"
+          ],
+          "brands": [],
+          "reach": 201146,
+          "ave": 1860.6
+        },
+        {
+          "id": "w990tc",
+          "headline": "How Beauty Retailers Are Winning the Attention Economy",
+          "source": "Beauty Matter",
+          "author": "Larry Stansbury",
+          "url": "https://beautymatter.com/articles/how-beauty-retailers-are-winning-the-attention-economy",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "For decades, beauty brands largely relied on editors, publishers, and magazines to introduce new products, educate consumers, and shape conversations before the retailer served as the point of purchase. Today, that model is evolving. As beauty discovery becomes increasingly fragmented across TikTok, Amazon, AI-powered search tools, creators, and brick and mortar, beauty retailers are competing for consumers’ attention long before they make a purchase. The goal is not simply to sell the products but to foster a community and connection that keep consumers engaged before and well after a purchase occurs. Retailers that successfully maintain that relationship are more likely to",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "Marketing & Influence"
+          ],
+          "brands": [],
+          "reach": 873349,
+          "ave": 8078.48
+        },
+        {
+          "id": "m1dueb",
+          "headline": "K-Beauty Value Sales Jump 53% Year On Year Finds New NIQ Report",
+          "source": "FashionNetwork USA",
+          "author": "Isabelle Crossley",
+          "url": "https://us.fashionnetwork.com/news/K-beauty-value-sales-jump-53-year-on-year-finds-new-niq-report,1852880.html",
+          "section": "Industry News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "K-Beauty value sales increased by 53% year on year and 131% over two years as the product category continues to grow in global popularity, according to a new report by consumer intelligence business NIQ Global Intelligence plc titled ‘K-Beauty Goes Global.’ NIQ attributes Korean beauty brands’ category growth to digitally driven consumer demand and strong regional innovation, the business announced in a release on Wednesday. Social commerce also plays a key role in the acceleration of K-Beauty in global markets. Citing data published by TikTok Shop, NIQ notes that searches for K-Beauty on the platform increased by 125% in the UK in 2025. TikTok Shop also reported a 430% year on year increase in value sales for K-Beauty brands in the UK, US, Spain, and Germany.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "AI Beauty Tech",
+            "Marketing & Influence"
+          ],
+          "brands": [],
+          "reach": 707929,
+          "ave": 6548.34
+        },
+        {
+          "id": "2xmp5x",
+          "headline": "Bustle’s 2026 Big Life Beauty Awards",
+          "source": "Bustle",
+          "author": "",
+          "url": "https://www.bustle.com/bustle-big-life-beauty-awards-2026",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Beauty doesn’t exist in a vacuum — it exists in the middle of real life. It’s the sunscreen stick you aggressively reapply while sprinting through the airport, the concealer that makes you look awake during your third Zoom call of the day, the hairspray that somehow survives humidity and a chaotic commute, and the body oil that convinces you your everything shower counts as self-care (because honestly, it does). For Bustle’s 2026 Big Life Beauty Awards, we wanted to celebrate the products that don’t just sit prettily on your vanity, but actually show up for you. The formulas that survive sweaty dance floors, long workdays, beach trips, bad breakouts, red-eye flights, emotional support baths, and every overbooked calendar moment in between.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch"
+          ],
+          "brands": [],
+          "reach": 456813,
+          "ave": 4225.52
+        },
+        {
+          "id": "m0rnw1",
+          "headline": "Neutrogena® Announces ‘Break The Rules,’ A New Brand Mission Empowering Consumers To Break Beauty’s Rules With Science",
+          "source": "Kenvue",
+          "author": "",
+          "url": "https://www.kenvue.com/media/neutrogena-announces-break-the-rules",
+          "section": "Industry News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "New retinol campaign from Neutrogena® proves consumers don’t have to compromise, advancing the brand’s dermatologist-led innovation and culturally relevant storytelling. Break the Rules debuts July 15, 2026, and unites the brand’s dermatologist-backed science, consumer-first approach, and breakthrough product development under one clear brand mission: Neutrogena® breaks the rules with science, so consumers can break the rules of beauty. Social listening (Pulsar) found nearly 17,000 U.S. consumer posts about retinol on TikTok and Instagram between January–May 2026, consistently surfacing a core tension: consumers want retinol’s results without the irritation",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch",
+            "Marketing & Influence"
+          ],
+          "brands": [],
+          "reach": 51214,
+          "ave": 473.73
         }
       ]
     }
