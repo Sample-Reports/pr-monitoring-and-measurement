@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "pharma",
-  "_savedAt": "2026-07-15T13:38:13.049Z",
-  "_dayCount": 1,
+  "_savedAt": "2026-07-16T14:07:07.703Z",
+  "_dayCount": 2,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:09.000Z",
@@ -397,6 +397,406 @@
           ],
           "reach": 121466,
           "ave": 1123.56
+        }
+      ]
+    },
+    "2026-07-16": {
+      "uploadedAt": "2026-07-16T11:52:14.317Z",
+      "filename": "InfoVision_Pharma_Media_Briefing_2026-07-16.docx",
+      "articles": [
+        {
+          "id": "77nn1e",
+          "headline": "Eli Lilly Nears Deal To Buy Psychedelic Drugmaker Ataibeckley, Bloomberg News Reports",
+          "source": "Reuters",
+          "author": "Fabiola Arámburo",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-nears-deal-buy-psychedelic-drugmaker-ataibeckley-bloomberg-news-2026-07-15/",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Eli Lilly is ​in talks to acquire psychedelic drugmaker ‌AtaiBeckley (ATAI.O), opens new tab and a deal could be announced as soon as this week, Bloomberg News ​reported on Wednesday, citing people ​familiar with the matter. AtaiBeckley shares soared 66% ⁠in aftermarket trading, while Lilly ​was flat. AtaiBeckley was up 31% so far ​this year and had a market value of $1.97 billion as of Wednesday's close, according to ​LSEG data. Lilly is negotiating a deal ​at a premium, Bloomberg News said. Eli Lilly and ‌AtaiBeckley ⁠were not immediately available for comment outside regular business hours. New York-based AtaiBeckley focuses on psychedelic-based treatments for mental health ​conditions and is developing ​BPL-003, ⁠an intranasal formulation of 5-MeO-DMT for treatment-resistant depression.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "M&A / Markets"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "9oyfrc",
+          "headline": "J&J Axes Eye Disease Gene Therapy After Key Phase 2b Readout",
+          "source": "Fierce Biotech",
+          "author": "Nick Paul Taylor",
+          "url": "https://www.fiercebiotech.com/biotech/jj-axes-eye-disease-gene-therapy-after-key-phase-2b-readout",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Johnson & Johnson has stopped development of an eye disease gene therapy after reviewing data from one of its key readouts for 2026. Exiting the first quarter, J&J named (PDF) data from the phase 2b Parasol study among its key events for 2026. The sham-controlled clinical trial evaluated JNJ-1887 for the treatment of geographic atrophy, an advanced form of the eye disease age-related macular degeneration (AMD). J&J, which acquired the asset in 2020, bet the gene therapy could protect retinal cells to slow and prevent disease progression. But a J&J spokesperson confirmed to Fierce this morning that the pharma has dropped JNJ-1887 from its pipeline.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 467472,
+          "ave": 4324.12
+        },
+        {
+          "id": "f0agxg",
+          "headline": "No Patent Protection For Stelara? No Problem For J&J As Tremfya Fills The Void",
+          "source": "Fierce Pharma",
+          "author": "Kevin Dunleavy",
+          "url": "https://www.fiercepharma.com/pharma/no-patent-protection-stelara-no-problem-jj-tremfya-fills-void",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "After a 7% increase in revenue for the second quarter, which came on the heels of a 10% gain in Q1, Johnson & Johnson has bumped up its annual sales guidance. The company now projects 2026 revenue at the midpoint to land at $101.1 billion, versus a prior midpoint estimate of $100.8 billion. “The major driver here is our performance in ulcerative colitis and in Crohn’s disease,” Jennifer Taubert, J&J’s innovative medicines chief, said during a conference call, pointing out that Tremfya is attracting more than half of the new patients in both inflammatory bowel disease (IBD) indications as it battles AbbVie’s rival IL-23 med Skyrizi.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 432715,
+          "ave": 4002.61
+        },
+        {
+          "id": "xusf90",
+          "headline": "Amid $55B US Manufacturing Push, J&J Turns To Streamlining Its Pharma Supply Chain",
+          "source": "BioSpace",
+          "author": "Gabrielle Masson",
+          "url": "https://www.biospace.com/business/amid-55b-us-manufacturing-push-j-j-turns-to-streamlining-its-pharma-supply-chain",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "After committing $55 billion last year to bolster U.S. manufacturing capabilities, Johnson & Johnson is making changes to its pharmaceutical supply chain. Johnson & Johnson is restructuring its supply chain for medicines, offloading certain sites as part of an effort to streamline operations. The changes, announced Wednesday in the company’s Q2 earnings release, follow last year’s $55 billion initiative to make all of J&J’s advanced medicines used in the U.S. domestically. Part of that investment includes a recent $1 billion commitment to scale U.S. manufacturing for vision products, packaging and distribution capabilities. The new changes will cost up to an estimated $750 million and are expected to be largely completed by the end of fiscal year 2029, according to the company.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 932094,
+          "ave": 8621.87
+        },
+        {
+          "id": "zhkolo",
+          "headline": "AHA Urges Court To Reject AbbVie Bid To Change 340B Program Rules",
+          "source": "American Hospital Association",
+          "author": "",
+          "url": "https://www.aha.org/news/headline/2026-07-15-aha-urges-court-reject-abbvie-bid-change-340b-program-rules",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "The AHA today filed a friend-of-the-court brief supporting the Department of Health and Human Services’ motion to dismiss AbbVie’s lawsuit challenging the agency’s longstanding definition of “patient” under the 340B Drug Pricing Program. The AHA argued that AbbVie is attempting to bypass the 340B program’s required audit and administrative dispute resolution processes and use litigation to change established program rules. The association said that HHS’ interpretation of “patient” is consistent with the 340B statute and allowing the case to proceed could deprive hospitals of due process protections guaranteed under the law. Joining the AHA in the brief were America’s Essential Hospitals, the Children’s Hospital Association, the Association of American Medical Colleges and the American Society of Health-System Pharmacists.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 488475,
+          "ave": 4518.39
+        },
+        {
+          "id": "pl46om",
+          "headline": "Boehringer Ingelheim Posts Sales Growth As Obesity Drug Filing Awaits",
+          "source": "The Wall Street Journal",
+          "author": "Adrià Calatayud",
+          "url": "https://www.wsj.com/health/pharma/boehringer-ingelheim-posts-sales-growth-as-obesity-drug-filing-awaits-96497016",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Boehringer Ingelheim said its Jardiance diabetes drug helped it increase sales in the first half, as the German drugmaker gears up to file for U.S. approval of a new obesity medicine. Net sales for the first half were 15.8 billion euros ($18.04 billion), up 16% compared with the year-earlier period when adjusted for currency changes, the privately held company said Wednesday.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [
+            "Boehringer Ingelheim"
+          ],
+          "reach": 11615615,
+          "ave": 107444.44
+        },
+        {
+          "id": "wqukmp",
+          "headline": "Insilico Extends AI Deal Streak With $2.5B Bora Alliance",
+          "source": "FirstWord PHARMA",
+          "author": "Anna Bratulic",
+          "url": "https://firstwordpharma.com/story/7701002",
+          "section": "AI Pulse",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Insilico Medicine has added another name to its ever-expanding roster of AI partnerships. The AI drug discovery specialist inked an alliance with Taiwan-based contract development and manufacturing organisation (CDMO) Bora Pharmaceuticals in a deal that could top $2.5 billion. The collaboration framework would combine Insilico's AI platform for drug discovery with Bora's global capabilities in drug development, manufacturing, quality and commercialisation. \"Building on our collaborations with Takeda and SK Biopharmaceuticals in Asia-Pacific, this alliance with Bora further demonstrates [our] commitment to partnering with leading biopharmaceutical innovators across the region,\" said Alex Zhavoronkov, co-CEO and chief business officer at Insilico.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [
+            "Takeda"
+          ],
+          "reach": 158563,
+          "ave": 1466.71
+        },
+        {
+          "id": "pcr9nu",
+          "headline": "Manufacturing Intelligence: Sizing Up Pharma's Biggest AI Deals, Part One",
+          "source": "PharmTech",
+          "author": "Richard Jaenisch, Christopher Cole",
+          "url": "file:///C:\\Users\\2293\\Downloads\\Manufacturing%20Intelligence:%20Sizing%20Up%20Pharma's%20Biggest%20AI%20Deals,%20Part%20One",
+          "section": "AI Pulse",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "In the first half of a two-part deep dive on major pharma-AI partnerships, Richard Jaenisch, senior director of education, outreach, and digital experience at Open Biopharma, breaks down why Roche's raw GPU infrastructure buildout and Sanofi's regional talent hub represent fundamentally different bets on where AI adoption actually stalls in pharmaceutical manufacturing. Speaking with Chris Cole, associate editorial director at PharmTech, Jaenisch argues that compute investment and workforce investment solve different bottlenecks entirely. Roche's approach, he explains, functions as a hedge: excess GPU capacity gets monetized as a service to offset cost, and if external demand falls short, the infrastructure simply gets absorbed into internal operations.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery"
+          ],
+          "brands": [
+            "Sanofi"
+          ],
+          "reach": 652954,
+          "ave": 6039.82
+        },
+        {
+          "id": "g5xbbg",
+          "headline": "How Well Are AI-Discovered Drugs Faring In The Clinic?",
+          "source": "Pharma Voice",
+          "author": "Kelly Bilodeau",
+          "url": "https://www.pharmavoice.com/news/ai-drugs-Insilico-Recursion-Pharma/825249/",
+          "section": "AI Pulse",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "AI has been touted as a tool to streamline drug R&D, which can cost $2.6 billion and take up to 15 years, according to the Journal of Medicinal Chemistry. But whether AI will actually develop better drugs remains an open and complicated question. To date, few AI drugs have reached clinical trials. Those that have tend to see more success in phase 1 than traditional drugs. However, that advantage might not last in phase 2. The space has also been marked by high-profile setbacks, including Verge Genomics’s AI-identified ALS candidate, VRG50635, which failed to move beyond phase 1. While the overall picture is still emerging, a few closely-watched candidates offer some real-world insights into how AI-developed drugs are performing.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 480913,
+          "ave": 4448.45
+        },
+        {
+          "id": "qmw8xg",
+          "headline": "Specialist Microscopy And AI Analysis Can Improve Lung Cancer Testing",
+          "source": "Inside Precision Medicine",
+          "author": "",
+          "url": "https://www.insideprecisionmedicine.com/topics/oncology/specialist-microscopy-and-ai-analysis-can-improve-lung-cancer-testing/",
+          "section": "AI Pulse",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Research shows fluorescence lifetime imaging microscopy (FLIM) combined with a form of artificial intelligence (AI) known as deep learning can predict if a person has lung cancer-related EGFR mutations with no need for genetic testing or tissue staining. As reported in the journal Cancer Research, the AI model was able to achieve 96.6% accuracy on a standard diagnostic test and could also distinguish between the two most important subtypes of the EGFR mutation, which matters because they respond differently to treatment and carry different survival outlooks.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 154176,
+          "ave": 1426.13
+        },
+        {
+          "id": "rjg55o",
+          "headline": "How To Overcome Purification Bottlenecks In Modern Drug Discovery",
+          "source": "News Medical",
+          "author": "Maria Osipova",
+          "url": "https://www.news-medical.net/news/20260715/How-to-overcome-purification-bottlenecks-in-modern-drug-discovery.aspx",
+          "section": "AI Pulse",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Artificial intelligence is enabling drug discovery teams to design and synthesize more compounds than ever before. However, as the throughput of the design and analysis stages in the design, make, test, and analyze (DMTA) cycle continues to increase, one critical component of the cycle has not advanced at the same pace: purification. Although chromatography itself has become highly automated, many of the surrounding purification steps still rely heavily on manual intervention. These manual processes create a bottleneck that limits both the speed and scalability of modern drug discovery workflows.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 301756,
+          "ave": 2791.24
+        },
+        {
+          "id": "pmj5ec",
+          "headline": "AI Model Predicts 348 Diseases From Electronic Health Record, Genetics",
+          "source": "Inside Precision Medicine",
+          "author": "",
+          "url": "https://www.insideprecisionmedicine.com/news-and-features/ai-model-predicts-348-diseases-from-electronic-health-record-genetics/",
+          "section": "AI Pulse",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Research led by Harvard University shows an artificial intelligence algorithm can predict how likely it is that a given patient will develop 348 diseases based on data collected from electronic health records (EHRs) and genetic data. As reported in Nature, the researchers built a new computational tool called ALADYNOULLI, a statistical machine learning model known as a Bayesian generative model, that jointly analyzes EHR data and genetics to model how disease risk evolves over an individual’s lifetime. They applied it to over 683,000 participants across three independent biobanks, the UK Biobank, Mass General Brigham, and All of Us, covering 348 diseases and up to 52 years of follow-up. ALADYNOULLI identified 21 disease signatures, which the researchers defined as clusters of conditions that tend to co-occur and evolve together over time, such as cardiovascular or metabolic disease. These were remarkably consistent across all three biobanks.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 154176,
+          "ave": 1426.13
+        },
+        {
+          "id": "8q9w0d",
+          "headline": "Sanofi Sues Pfizer, Moderna Over COVID Shot Technology",
+          "source": "Reuters",
+          "author": "Blake Brittain",
+          "url": "https://www.reuters.com/legal/litigation/sanofi-sues-pfizer-moderna-over-covid-shot-technology-2026-07-15/",
+          "section": "Industry News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Sanofi has sued Pfizer and Moderna alleging that their COVID-19 vaccines infringe several of the French pharmaceutical company's patents. The two lawsuits ​filed on Tuesday in New Jersey federal court allege ‌that the blockbuster vaccines violate Sanofi's patent rights in messenger RNA (mRNA) innovations. The cases add to a web of high-stakes patent lawsuits filed by biotech companies against Pfizer ​and Moderna over the mRNA technology used in their COVID ​vaccines. Spokespeople for Pfizer and Moderna did not immediately respond ⁠to requests for comment on Sanofi's new lawsuits on Wednesday. A ​Sanofi spokesperson said on Wednesday that the company is \"seeking fair compensation for ​use of its patented technology\" and not seeking to block sales of the vaccines.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Pipeline & R&D",
+            "Public Health Policy"
+          ],
+          "brands": [
+            "Sanofi",
+            "Pfizer"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "iwmuc6",
+          "headline": "The Escalator: AstraZeneca, GSK, Roche And More",
+          "source": "Medical Marketing and Media",
+          "author": "Blake Brittain",
+          "url": "https://www.mmm-online.com/news/the-escalator-astrazeneca-gsk-roche-and-more/",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Former Novartis leader Nikita Popov joined GSK as SVP, R&D technology transformation and operations. Kristen Corr was promoted to director, channel strategy, U.S. media at AstraZeneca. AstraZeneca (Thailand), a leading global biopharmaceutical company, announced the appointment of John Serry as country president, Thailand and frontier markets. Roche named Pascal Bouye as president, generics manufacturing and supply, and a member of the Sandoz executive committee. Roche announced that Glenn Gerecke, who would step down from the committee to take on a new role within the company, effective Aug. 20.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "AstraZeneca",
+            "GSK"
+          ],
+          "reach": 552942,
+          "ave": 5114.71
+        },
+        {
+          "id": "rkduk2",
+          "headline": "Is Merck (MRK) Undervalued As KEYTRUDA Wins New FDA Approvals And Phase 3 Success?",
+          "source": "Simply Wall St",
+          "author": "Blake Brittain",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-mrk/merck/news/is-merck-mrk-undervalued-as-keytruda-wins-new-fda-approvals",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Merck (MRK) is back in focus after two fresh KEYTRUDA milestones, new FDA approvals for bladder cancer regimens with Padcev, and Phase 3 success in endometrial cancer, putting its oncology pipeline under closer investor scrutiny. Merck’s recent KEYTRUDA approvals and trial results come after a period of strong momentum, with a 1 month share price return of 7.58% and a year to date share price return of 16.12%. The 1 year total shareholder return of 54.97% and 5 year total shareholder return of 89.13% point to meaningful compounding over time.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials",
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 263901,
+          "ave": 2441.08
+        },
+        {
+          "id": "elgx0u",
+          "headline": "Pfizer Scraps Seagen-Developed ADC For Solid Tumors",
+          "source": "BioSpace",
+          "author": "Gabrielle Masson",
+          "url": "https://www.biospace.com/drug-development/pfizer-scraps-seagen-developed-adc-for-solid-tumors",
+          "section": "Industry News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Just weeks after Pfizer’s Seagen-acquired antibody-drug conjugate sigvotatug vedotin failed a Phase 3 non-small cell lung cancer study, the big pharma has quietly culled another program being developed by the ADC specialist. Pfizer is scrapping an antibody-drug conjugate designed to treat advanced solid tumors, terminating a Phase 1 trial evaluating the drug coded SGN-MesoC2. “We are no longer developing SGN-MesoC2 and the decision was due to business reasons, reflecting a strategic prioritization of resources toward programs we believe will deliver the greatest impact for patients,” a spokesperson told BioSpace on Wednesday via email. The terminated open-label trial launched in 2024 and had enrolled 19 patients, according to ClinicalTrials.gov. The study discontinuation was not related to safety, according to the site.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [
+            "Pfizer"
+          ],
+          "reach": 932094,
+          "ave": 8621.87
+        },
+        {
+          "id": "ht58uk",
+          "headline": "Pfizer Building’s Column Scare Tests Midtown East’s Biggest Conversion Bet",
+          "source": "The Real Deal",
+          "author": "Sheridan Wall",
+          "url": "https://therealdeal.com/new-york/2026/07/15/pfizer-building-scare-tests-midtown-biggest-conversion-bet/",
+          "section": "Industry News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "All eyes were on Midtown East last week after steel columns buckled inside the Pfizer building conversion project, forcing evacuations at the site and nearby buildings on Tuesday. The structural failures at 235 East 42nd Street — where Nathan Berman’s MetroLoft Management and investor David Werner are converting the pharmaceutical firm’s former headquarters into 1,600 apartments — captured national headlines and sparked surprise among industry players, as well as a probe by the city’s Department of Investigation into their cause. Though the building has since been stabilized, its near-collapse — and the spotlight it attracted — also raises questions about whether the negative press and concerns over the building’s safety will affect the success of the project, regarded by some developers and owners as a testing ground for asking rents and demand in a neighborhood undergoing a residential transformation.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "M&A / Markets"
+          ],
+          "brands": [
+            "Pfizer"
+          ],
+          "reach": 768737,
+          "ave": 7110.82
+        },
+        {
+          "id": "x026cn",
+          "headline": "AAIC: Roche ‘Very Interested’ In Testing Tau For Alzheimer’s Despite Focus On Phase 3-Stage Amyloid Drug",
+          "source": "Fierce Biotech",
+          "author": "James Waldron",
+          "url": "https://www.fiercebiotech.com/biotech/aaic-roche-very-interested-tau-despite-focus-phase-3-amyloid-alzheimers-asset",
+          "section": "Industry News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Roche’s biggest bet in the Alzheimer’s disease space may be its phase 3-stage amyloid asset, but the Swiss pharma is keeping its options open when it comes to targeting tau. Tau is one of two proteins that become deformed and clumped in Alzheimer’s, with the other, amyloid beta, already successfully targeted by Biogen’s Leqembi and Eli Lilly’s Kisunla. At the Alzheimer’s Association International Conference in London this week, Biogen shared phase 2 data from diranersen, an antisense oligonucleotide that blocks the production of tau by binding to its precursor mRNA.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 467472,
+          "ave": 4324.12
+        },
+        {
+          "id": "5d0j36",
+          "headline": "Kelun-Biotech’s Sac-TMT–Keytruda Combination Outperforms Standard First-Line Therapy In Phase III Lung Cancer Trial",
+          "source": "BioPharma APAC",
+          "author": "",
+          "url": "https://biopharmaapac.com/news/31/8182/kelun-biotechs-sac-tmtkeytruda-combination-outperforms-standard-first-line-therapy-in-phase-iii-lung-cancer-trial.html",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "As a head-to-head Phase III trial comparing sac-TMT plus pembrolizumab with the first-line standard of care (immunotherapy plus chemotherapy), OptiTROP-Lung06 demonstrated the superiority of replacing conventional pemetrexed/platinum chemotherapy with sac-TMT, with significantly prolonged PFS and a positive OS trend compared with pembrolizumab plus pemetrexed and platinum-based chemotherapy. Focusing on the particularly challenging first-line treatment for PD-L1-negative non-squamous NSCLC population, the introduction of a TROP2 ADC to a PD-1 mAb not only delivers ADC's precise targeting and killing of tumor cells, but also activates the immune microenvironment through their synergetic mechanisms. This strategy is expected to unlock the therapeutic potential of the PD-1 mAb in patients with PD-L1-negative or limited immune responses, breaking this therapeutic bottleneck.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 50996,
+          "ave": 471.71
         }
       ]
     }
