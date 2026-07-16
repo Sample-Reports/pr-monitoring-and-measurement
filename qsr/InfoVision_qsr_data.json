@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "qsr",
-  "_savedAt": "2026-07-15T13:38:48.690Z",
-  "_dayCount": 1,
+  "_savedAt": "2026-07-16T14:07:15.378Z",
+  "_dayCount": 2,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:45.173Z",
@@ -197,6 +197,378 @@
           ],
           "reach": 77405,
           "ave": 716
+        }
+      ]
+    },
+    "2026-07-16": {
+      "uploadedAt": "2026-07-16T11:52:25.850Z",
+      "filename": "InfoVision_QSR_Media_Briefing_2026-07-16.docx",
+      "articles": [
+        {
+          "id": "gk0xlw",
+          "headline": "KFC Vs Chick-Fil-A: Which Serves A Healthier Classic Chicken Sandwich?",
+          "source": "Tasting Table",
+          "author": "Kashmir Brummel",
+          "url": "https://www.tastingtable.com/2211532/kfc-vs-chick-fil-a-healthier-chicken-sandwich/",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "If you're looking for a healthy option for lunch or dinner, a classic chicken sandwich probably won't be top of your list. But if you do have a craving that nothing else will satisfy, it's not necessarily off-limits; it might just be about making the best choice. On paper, KFC and Chick-fil-A have fairly similar offerings: a fried chicken filet and a couple of pickle slices on a bun, with KFC opting for mayo, while the Chick-fil-A bun is buttered. Despite this, there are some significant nutritional differences between the two. Before making your choice, you need to consider what makes food healthy or unhealthy? Generally speaking, healthy foods contain higher levels of beneficial nutrients such as protein and fiber and lower levels of saturated fat, sodium, or added sugar. Calorie count isn't necessarily an indicator of whether something is healthy or not, as long as you're not eating more calories than you need.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "Chick-fil-A",
+            "KFC"
+          ],
+          "reach": 760318,
+          "ave": 7032.94
+        },
+        {
+          "id": "jn9dfd",
+          "headline": "KFC Puts Iconic Cult-Classic Item Back On The Menu After Fans Demand Return: ‘Times Are Healing’",
+          "source": "New York Post",
+          "author": "Ben Cost",
+          "url": "https://nypost.com/2026/07/15/lifestyle/kfc-resurrects-iconic-popcorn-chicken-after-fan-demands/",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "KFC is catering to nosh-talgic fast food fans by dusting off a cult classic dish from the late 20th century — popcorn chicken. On Monday, July 13, the red and white chicken chain started serving the crispy protein nuggets, marking a triumphant return for the fan-favorite food, per a press release. Originally debuting in the 1990s, Popcorn Chicken graced KFC menus until it was discontinued in 2023. By that point, this donut hole-ified fried chicken had earned a massive cult following, with the dish’s diehards flocking to social media to demand its return. So, by pop-ular demand, the chicken conglomerate decided to bring it back. “For years, KFC has heard directly from fans clamoring for Popcorn Chicken’s return,” said Melissa Cash, Chief Marketing Officer, KFC US. “We read every comment, every DM, and even every online petition signature, and the message was impossible to ignore.”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 581777,
+          "ave": 5381.44
+        },
+        {
+          "id": "2bi1ar",
+          "headline": "Health Officials Investigate Possible Taco Bell Lettuce Link To Cyclosporiasis Outbreak, Report Says",
+          "source": "Houston Chronicle",
+          "author": "Naina Srivastava",
+          "url": "https://www.houstonchronicle.com/news/houston-texas/trending/article/taco-bell-cyclosporiasis-outbreak-22346173.php",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Public health officials are investigating whether lettuce served at Taco Bell restaurants contributed to the outbreak of an intestinal infection, cyclosporiasis, the Washington Post reported Tuesday, citing unnamed sources. Federal officials said on Tuesday that infection patterns may differ by location, and that they believe cases in four states — Michigan, Ohio, Kentucky and West Virginia — are linked. Michigan has been hit hardest by the outbreak, tallying over 3,309 cases, according to the Michigan Department of Health and Human Services. Some who contracted the illness told investigators they had eaten at Taco Bell, a person familiar with the national investigation told the Post. But others who became sick had not eaten there. Taco Bell locations in the Detroit area posted notices that told customers they were “currently unable to sell Lettuce, Cilantro Onion, Pico de Gallo, and Guacamole due to a nationwide recall.\"",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 463021,
+          "ave": 4282.94
+        },
+        {
+          "id": "rg7w1a",
+          "headline": "State Prosecutors Say Charges Altered In Food Adulteration Case At Upstate Wendy's",
+          "source": "WYFF",
+          "author": "Zach Rainey, Chloe McCoy",
+          "url": "https://www.wyff4.com/article/wendys-fast-food-tampering-case-workers-arrested/71935477",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "We are learning more about an alleged food adulterating case at an Upstate South Carolina Wendy's that resulted in the arrest of three employees. Back in June, three employees at the Wendy's in Union were charged with tampering with a food product following an incident that happened on May 30. In that incident, a customer reported to law enforcement that an employee advised her not to eat the food she had just purchased from the restaurant. According to the report, the employee told the customer that the food had been placed in a trash can, retrieved, spit on, and then rewrapped before being given to her. The solicitor's office said they completed their review of the incident on Wednesday, July 15, and concluded the most appropriate charge was adulteration of food, rather than food product tampering.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Digital & Ordering",
+            "Sustainability & Labor"
+          ],
+          "brands": [
+            "Wendy's"
+          ],
+          "reach": 919586,
+          "ave": 8506.17
+        },
+        {
+          "id": "d29tfe",
+          "headline": "Fast Food Chain Continues Central Kentucky Expansion With New Restaurant Opening",
+          "source": "Lexington Herald-Leader",
+          "author": "Brian Simms",
+          "url": "https://www.kentucky.com/lexgoeat/restaurants/article316522853.html",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "A new-to-Richmond fast food chain is opening in the Central Kentucky town. Chipotle Mexican Grill is opening its first location in Richmond at 10:45 a.m. on Thursday, July 16. The new restaurant is located at 863 Eastern Bypass, near Hobby Lobby and Menards. The fast-casual restaurant chain specializes in bowls, tacos and burritos made to order in front of the customer. The new location is part of a massive expansion of Chipotle restaurants in recent years in Central Kentucky. New locations have opened or opening soon in Lexington, Georgetown, Frankfort and Nicholasville. The new Richmond location will feature a “Chipotlane,” a drive-thru pick-up lane that allows guests to pick up digital orders without leaving their cars. It will also have the restaurant’s new high protein menu with dishes that range from 15 to 81 grams of protein per item.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chipotle"
+          ],
+          "reach": 650622,
+          "ave": 6018.25
+        },
+        {
+          "id": "vfd1k1",
+          "headline": "Chipotle’s Latest Expansion Plan Comes With Real Risk",
+          "source": "TheStreet",
+          "author": "Tony Owusu",
+          "url": "https://www.thestreet.com/restaurants/chipotle-moves-to-mexico",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "I remember the first time I brought my Mexican girlfriend to Chipotle (CMG). She had never heard of the fast food restaurant. Unlike Taco Bell, which seemingly has a mythical status in Mexico (though there are no locations there at the moment), Chipotle isn’t very popular south of the border. “Taco Bell? Chipotle blows Taco Bell out of the water,” I assured her and her family. But the truth was that I actually hadn’t eaten at Chipotle in years. If all goes well for Chipotle now, my girlfriend’s family won’t have to come to the U.S. to try the food. Chipotle announced that it will open its inaugural store in the Monterrey area on Thursday with plans to open other locations in the state of Nuevo Leon later in the year.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chipotle",
+            "Taco Bell"
+          ],
+          "reach": 271892,
+          "ave": 2515
+        },
+        {
+          "id": "gtt0dw",
+          "headline": "New Look For Burger King In Lufkin Promises A Fresh Dining Vibe",
+          "source": "Talk 1340",
+          "author": "Danny Merrell",
+          "url": "https://kkam.com/ixp/151/p/burger-king-sizzle-redesign/",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "The innovators at Burger King recently introduced its new 'Sizzle' concept, the company's latest attempt to freshen the brand and deliver a more appealing dining experience for its customers. Don't worry, their signature flame-grilled burgers are not on the chopping block. This is all part of the company's 'Reclaim the Flame' initiative, which was introduced in 2023. Since that time, numerous BK locations have been renovated to Sizzle standards, with many more upgrades on the way. This is much more than a coat of paint on a fading wall. According to a post on BurgerBeast.com, this complete redesign will incorporate \"double-lane drive-thrus, digital kiosks, open-flame grills visible to customers, and interiors that feel closer to fast-casual than fast food.\" Some new menu items and options may also be a possibility.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 130418,
+          "ave": 1206.37
+        },
+        {
+          "id": "5yx8io",
+          "headline": "Burger King Brings Back A Retro Chicken Favorite",
+          "source": "TheStreet",
+          "author": "Moz Farooque",
+          "url": "https://www.thestreet.com/restaurants/burger-king-new-chicken-sandwiches",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Fast-food menus continue to get louder as chains try to capture the attention of younger consumers whose noses are often buried in their phones. I still love the McDonald’s Big Mac because its appeal is straightforward: two beef patties, a familiar sauce, and a taste that has barely needed reinvention. Some of my younger friends, though, want more oomph. They gravitate toward oversized patties, hotter sauces, and increasingly aggressive flavor combinations. I’m not from the TikTok generation, so I don’t always “get it,” but the best fast food often comes down to a few recognizable ingredients prepared consistently. Burger King is leaning into that same idea, with a nostalgic twist. The chain is giving longtime fans a new reason to revisit it. Burger King is giving its long-running Original Chicken Sandwich two limited-time makeovers for summer, adding a Loaded Jalapeño version and a Club version at participating restaurants nationwide, according to BrandEating. The Loaded Jalapeño Original Chicken Sandwich pairs Burger King’s crispy, breaded white-meat chicken patty with creamy jalapeño sauce, crispy, pickled jalapeños, crispy onions, lettuce, tomatoes, and American cheese, all served on the chain’s familiar hoagie-style sesame-seed bun.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "McDonald's",
+            "Burger King"
+          ],
+          "reach": 271892,
+          "ave": 2515
+        },
+        {
+          "id": "ylk5tj",
+          "headline": "The Seriously Nostalgic Burger King Fries That Are Long Overdue For A Revival",
+          "source": "Tasting Table",
+          "author": "Rosie Govin",
+          "url": "https://www.tastingtable.com/2211401/burger-king-shake-em-up-fries-2002-nostalgia-overdue-revival/",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "In a theoretical in-memoriam montage of discontinued Burger King items, one stands out as something that may have simply been too far ahead of its time to succeed when first released. Burger King Shake 'Em Up Fries were introduced in 2002 and consisted of French fries and a little baggie of cheese-flavored powder. You'd pour the cheese powder into the bag of fries, shake them up, and be left with cheesy, coated, flavorful spuds. In the early oughts, this proved to be a little too high-concept for Burger King customers, despite the iconic commercial. Shake 'Em Up Fries were discontinued within a year. But fast-forward a couple of decades, and fans are more than ready for their triumphant return. \"Brooooo that was my childhood,\" one Redditor reminisced. \"Go to Burger King for the Shake 'Em fries and the cream Icee. Head home and sit watching the Cartoon Network Friday Night line up.\"",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 760318,
+          "ave": 7032.94
+        },
+        {
+          "id": "ba0q7c",
+          "headline": "The Next Generation Of QSR, Part 1: The New Economics Of Value",
+          "source": "Simply Wall St",
+          "author": "Sasha Jovanovic",
+          "url": "https://www.qsrweb.com/articles/the-next-generation-of-qsr-part-1-the-new-economics-of-value/",
+          "section": "AI Pulse",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "This is part one of a series. In Part 2 of The Next Generation of QSR series, we'll explore how loyalty programs, artificial intelligence and personalization are becoming the next frontier in creating value, strengthening guest relationships and driving long-term growth. According to the U.S. Bureau of Labor Statistics' Consumer Price Index (CPI) for Food Away From Home (restaurants and other foodservice), the cost of dining out has increased by an estimated 30% over the past five years. That means quick-service brands are rethinking the term value. Specifically, what it means for their guests, their brands and their bottom lines.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Value & Pricing",
+            "Digital & Ordering",
+            "Sustainability & Labor"
+          ],
+          "brands": [],
+          "reach": 263901,
+          "ave": 2441.08
+        },
+        {
+          "id": "wonaoi",
+          "headline": "FDA Outlines Risk-Based Future For Food Industry Oversight",
+          "source": "The Food Institute",
+          "author": "Virginia Lee",
+          "url": "https://foodinstitute.com/focus/the-fda-plans-to-shift-routine-food-facility-inspections-to-states-while-using-ai-to-target-higher-risk-cases-signaling-major-compliance-changes-for-the-food-industry/",
+          "section": "AI Pulse",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Food companies with strong compliance records could face fewer routine federal inspections as the FDA redirects resources toward higher-risk facilities, complex investigations and imported foods, as noted at this week’s IFT FIRST event. Dr. Donald Prater, the FDA’s acting deputy commissioner for human foods, outlined a changing regulatory model built around state partnerships, artificial intelligence and greater access to industry data. “This is not a reduction in oversight,” Prater said. “It’s a reallocation of FDA resources toward higher-risk, more complex work.” Prater said the FDA’s seeking new ways to address acute threats such as foodborne illness alongside chronic risks involving nutrition and food ingredients.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 497026,
+          "ave": 4597.49
+        },
+        {
+          "id": "h26mm5",
+          "headline": "Fresh Kitchen Expands Leadership Team",
+          "source": "QSR Magazine",
+          "author": "",
+          "url": "https://www.qsrmagazine.com/growth/fast-casual/fresh-kitchen-expands-leadership-team/",
+          "section": "Industry News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Fresh Kitchen (FK), the healthy, fast, Modern-American bowl concept, has announced two additions to its leadership team: William “Bill” Knopf as SVP, Head of Operations and Matt Livingston as Chief Development Officer. Knopf joins Fresh Kitchen following senior operations roles at honeygrow and Noodles & Company. Livingston joins after more than a decade leading real estate, asset management and market development at First Watch Restaurants. The executives will lead two functions critical to Fresh Kitchen’s next phase of growth: operating incredible restaurants and developing the real estate pipeline required to support the company’s plan of 100+ remarkable restaurants in the coming years. “Bill and Matt have helped grow some of the most respected brands in the restaurant industry, but what matters most is that they embody the FK culture,” said Tyler Azzarelli, CEO of Fresh Kitchen. “They understand that growth starts with great people and remarkable restaurant execution. Bill will raise the bar on operations and leadership, while Matt will build the development pipeline for what comes next.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 68484,
+          "ave": 633.48
+        },
+        {
+          "id": "3qmzhj",
+          "headline": "How Casey’s Keeps Outperforming Its C-Store And QSR Peers",
+          "source": "C-Store Dive",
+          "author": "Brett Dworski",
+          "url": "https://www.cstoredive.com/news/caseys-recipe-for-success-think-like-restaurants-not-cstores/825138/",
+          "section": "Industry News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "In a presentation to a room full of analysts and investors in New York City in late June, Darren Rebelez laid out the framework for how Casey’s General Stores intends to grow over the next three years. The plan includes adding 400 convenience stores through a combination of new builds and small-scale acquisitions, growing inside sales by the mid-single digits and increasing EBITDA at an 8%-10% compound annual growth rate. Before attendees had a chance to ask how the company would achieve those goals, Rebelez, the retailer’s president and CEO, said simply: Casey’s will keep doing what Casey’s does.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 53411,
+          "ave": 494.05
+        },
+        {
+          "id": "o4qy8v",
+          "headline": "Soccer-Celebrating QSR Menu Promotions",
+          "source": "Trend Hunter",
+          "author": "Michael Hemsworth",
+          "url": "https://www.trendhunter.com/amp/trends/mcdonalds-saved-menu",
+          "section": "Industry News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "McDonald's Saved Menu has been developed as a temporary transformation of its Saver Menu that's influenced by the World Cup to build on the excitement surrounding the sporting event. The promotional menu is inspired by England's goalkeeper Jordan Pickford and honors the player's achievement as the country's most-capped player with some exclusive deals for customers who visit restaurants in Washington to claim. The menu will be on offer on July 15, 2026 from 5pm to 6pm and will entitle customers to choose one item from the Saver Menu free of charge. The promotional menu will also be supported by the goalkeeper's signature penalty prediction cheat sheet in the form of a sticker on the brand's cold drink cups. The McDonald's Saved Menu promotion tackles the regional marketing surge that has been taking place on a global scale during the 2026 FIFA World Cup to accelerate foot traffic by targeting fan demand.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "McDonald's"
+          ],
+          "reach": 77405,
+          "ave": 716
+        },
+        {
+          "id": "sov0k8",
+          "headline": "A Surprising Restaurant Chain Outgrew Starbucks, Chipotle, And Dunkin’ Last Year",
+          "source": "Fast Company",
+          "author": "María José Gutiérrez Chávez",
+          "url": "https://www.fastcompany.com/91573526/a-surprising-restaurant-chain-outgrew-starbucks-chipotle-and-dunkin-last-year",
+          "section": "Industry News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "America’s fastest-growing restaurant isn’t Starbucks, Chick-fil-A, or Chipotle. It’s a chicken wing chain that’s been opening hundreds of new locations. In a preview of QSR Magazine’s annual QSR 50, which ranks the leading fast food chains, Wingstop led the 2026 cohort of restaurants. The full report is expected to be released in August. While in past years Starbucks has topped the ranking, this year Wingstop has earned the top spot by opening 382 new locations, around 100 more than any other brand. Wingstop has risen through the ranks, becoming the fourth-fastest-growing brand in 2024 and reaching the top spot in just under two years. At the time, Starbucks was ahead by 589 locations, but Wingstop has since caught up.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chick-fil-A",
+            "Starbucks",
+            "Chipotle"
+          ],
+          "reach": 462201,
+          "ave": 4275.36
+        },
+        {
+          "id": "j8k5dr",
+          "headline": "Krispy Kreme Turns 89, Rolls Out 89-Cent Dozen",
+          "source": "QSR Web",
+          "author": "",
+          "url": "https://www.qsrweb.com/news/krispy-kreme-turns-89-rolls-out-89-cent-dozen/",
+          "section": "Industry News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Krispy Kreme will celebrate the brand's 89th birthday Friday, July 17, by offering 89-cent Original Glazed doughnuts by the dozen, the company announced in a news release. On Friday only, fans can score an Original Glazed dozen for just 89 cents with the purchase of any dozen at regular price. The promotion will run at participating U.S. locations. The limit is two dozen in-shop and at the drive-thru, while customers can purchase an extra one dozen for online pickup or delivery. \"Every Krispy Kreme birthday is really a celebration of our fans,\" Alison Holder, Krispy Kreme chief brand and product officer, said in the press release. \"Offering Original Glazed® dozens for just 89 cents is our way of saying thank you to the guests who make Krispy Kreme part of their celebrations, traditions and everyday sweet moments.\"",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Value & Pricing",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 682532,
+          "ave": 6313.42
+        },
+        {
+          "id": "u619pp",
+          "headline": "Chicken Finger Favorite Zaxbys Announces Further Expansion In Chicago Suburbs",
+          "source": "Daily Herald",
+          "author": "Rick West",
+          "url": "https://www.dailyherald.com/20260715/business-openings/chicken-finger-favorite-zaxbys-announces-further-expansion-in-chicago-suburbs/",
+          "section": "Industry News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Zaxbys, the popular fast-casual chicken chain from Georgia, announced its second Chicago-area development deal as it looks to expand its footprint in the Midwest. The seven-restaurant development deal comes six months after the brand opened its first Illinois location at 13429 Illinois Route 59 in Plainfield in January. “The response we've seen in Chicagoland has validated what we believed about the market from the beginning,” said Russ Holland, chief development officer at Zaxbys, in a news release. “Between the success of our Plainfield opening and the strong interest from experienced operators, we're building meaningful momentum in the region. This second development agreement is another important step in establishing Zaxbys as a long-term growth brand throughout Chicago and the broader Midwest.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 239467,
+          "ave": 2215.07
         }
       ]
     }
