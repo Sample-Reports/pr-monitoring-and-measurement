@@ -1584,7 +1584,7 @@ function renderAll(){ renderLanding(); }
     var token = getToken();
     if (!token) return;
 
-    if (!window.DB || !Object.keys(window.DB.days || {}).length) {
+    if (typeof DB === 'undefined' || !Object.keys(DB.days || {}).length) {
       alert('No data loaded. Upload a briefing first.');
       return;
     }
@@ -1597,8 +1597,8 @@ function renderAll(){ renderLanding(); }
       _app: 'InfoVision Intelligence',
       _industry: CFG.key,
       _savedAt: new Date().toISOString(),
-      _dayCount: Object.keys(window.DB.days).length,
-      days: window.DB.days
+      _dayCount: Object.keys(DB.days).length,
+      days: DB.days
     };
 
     var filePath = CFG.key + '/InfoVision_' + CFG.key + '_data.json';
