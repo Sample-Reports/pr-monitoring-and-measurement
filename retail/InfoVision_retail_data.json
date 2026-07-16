@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "retail",
-  "_savedAt": "2026-07-15T13:39:04.765Z",
-  "_dayCount": 1,
+  "_savedAt": "2026-07-16T14:07:21.061Z",
+  "_dayCount": 2,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:03.474Z",
@@ -306,6 +306,255 @@
           "brands": [],
           "reach": 352472,
           "ave": 3260.37
+        }
+      ]
+    },
+    "2026-07-16": {
+      "uploadedAt": "2026-07-16T11:52:37.260Z",
+      "filename": "InfoVision_Retail_Media_Briefing_2026-07-16.docx",
+      "articles": [
+        {
+          "id": "yajofw",
+          "headline": "Walmart Pursues Plan For Mammoth Distribution Center In Orange County",
+          "source": "Westfair Communications",
+          "author": "Peter Katz",
+          "url": "https://westfaironline.com/construction/walmart-pursues-plan-for-mammoth-distribution-center-in-orange-county/",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Walmart has revived and updated a plan for a mammoth warehouse and distribution center at 146 and 150 Route 17K in the Orange County Town of Wallkill. Plans for WalMart Stores Inc. to build a slightly smaller distribution center had been approved by Wallkill in 2003. In 2017, another application was made to Wallkill for the warehouse and distribution center but nothing was constructed. The company has now submitted revised plans to the Wallkill Planning Board that call for a warehouse and distribution center of 1.5 million square feet that would employ 810 people during each shift with two shifts per day.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "Supply Chain"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 157322,
+          "ave": 1455.23
+        },
+        {
+          "id": "ddj14i",
+          "headline": "Walmart Grocery Delivery Workers Have Issue With New App Tool",
+          "source": "Supermarket News",
+          "author": "Bill Wilson",
+          "url": "https://www.supermarketnews.com/grocery-technology/walmart-grocery-delivery-workers-have-issue-with-new-app-tool",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Walmart has updated its Spark delivery worker app in a way that has led to confusion and delays, Business Insider reports. A mapping feature called Smart Path has changed the way workers navigate stores to fulfill orders. The app used to provide workers with a route around the store for each order to help with efficiency. The update, however, tracks workers’ locations in the store and rearranges the list of items based on their proximity. In many instances, workers pick up perishables and frozen food first rather than at the end.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 223972,
+          "ave": 2071.74
+        },
+        {
+          "id": "if6bbv",
+          "headline": "Walmart Rival Slashes Prices Up To 10% On 300 Items Like Snacks And Produce Through Labor Day",
+          "source": "The Sun",
+          "author": "Jacob Willeford",
+          "url": "https://www.the-sun.com/money/16697144/giant-eagle-launches-labor-day-sales-beef/",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "A MAJOR competitor to Walmart has slashed prices on more than 300 products for customers in honor of Labor Day. It isn’t that uncommon for retailers to either launch sales for the holiday or close down locations to give employees time off. Giant Eagle, which has more than 197 supermarkets in Ohio, Pennsylvania, Maryland, Indiana, and West Virginia, is averaging around 10% discounts on merchandise as of July 9, per a press release. The chain has launched the seasonal promotion as part of its campaign that started in 2025 to remind shoppers that it can offer them serious value.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "r998f2",
+          "headline": "Walmart Heads Back-To-School With Emphasis On Value, Convenience",
+          "source": "HomePage News",
+          "author": "",
+          "url": "https://www.homepagenews.com/retail-articles/walmart-heads-back-to-school-with-emphasis-on-value-convenience/",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Walmart said it is posting its lowest back-to-school prices since 2019 on the most popular school supplies, affordable solutions for every stage of the scholastic journey and healthy meals to fill lunchboxes as the company also touts delivery and pickup conveniences.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 675643,
+          "ave": 6249.7
+        },
+        {
+          "id": "rnxoxs",
+          "headline": "Walmart Teams With General Mills, ADM On Regenerative Agriculture Initiative",
+          "source": "Progressive Grocer",
+          "author": "Julia Tabisz",
+          "url": "https://progressivegrocer.com/walmart-teams-general-mills-adm-regenerative-agriculture-initiative",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Walmart is teaming up with General Mills and ADM, a wheat supplier that manages nearly 5 million regenerative acres globally, to accelerate regenerative agriculture practices across 40,000 wheat acres in Illinois, Indiana and Missouri, the companies said Wednesday. The initiative spans across the supply chain, with a focus on growing regions where General Mills sources wheat from ADM for products sold through Walmart and Sam's Club, the companies said. Along with ADM, Walmart and General Mills will give farmers technical assistance and financial incentives to adopt practices that improve soil health, water quality and carbon sequestration, such as no-till farming and cover crops.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Supply Chain"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 801215,
+          "ave": 7411.24
+        },
+        {
+          "id": "q41smd",
+          "headline": "Worker Says Walmart Fired Her After She Reported Racial Slurs",
+          "source": "Humar Resources Director",
+          "author": "Tez Romero",
+          "url": "https://www.hcamag.com/us/specialization/employment-law/worker-says-walmart-fired-her-after-she-reported-racial-slurs/582535",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "A Walmart worker says she was fired after she reported a supervisor's racial remarks about her biracial baby and a co-worker's sexual harassment. That is the core of a complaint an employee filed on July 14, 2026, in the US District Court for the Northern District of Florida, accusing Wal-Mart Stores East, LP of race discrimination, sexual harassment, and retaliation under Title VII and Section 1981. The employee worked as a Fresh Team Associate in the produce and deli department of a Pensacola Supercenter, according to the filing. She says her problems began not long after she transferred there in December 2024.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 810870,
+          "ave": 7500.55
+        },
+        {
+          "id": "cixjom",
+          "headline": "Walmart Quietly Rolls Out Camouflaged ‘Pedestal’ Anti-Theft Measure Secretly Watching Shoppers",
+          "source": "The Sun",
+          "author": "Joseph Brogan",
+          "url": "https://www.the-sun.com/news/16695465/walmart-new-anti-theft-measure-electronic-article-surveillance-pedestals/",
+          "section": "Brand News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "A HIDDEN anti-theft measure is keeping a close eye on Walmart shoppers, and they may not even realize. The big-box retailer’s new surveillance pedestals are cleverly disguised to look like anything but an anti-theft tool. Walmart has used electronic article surveillance pedestals for years, but is now changing their appearance on salesfloors. The technology is now being branded with Walmart colors and logos, hiding the otherwise visible sensors and surveillance technology underneath.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "rarm3n",
+          "headline": "Walmart Accelerates AI And Automation Investment To Transform Retail Operations",
+          "source": "International Supermarket News",
+          "author": "",
+          "url": "https://internationalsupermarketnews.com/walmart-accelerates-ai-and-automation-investment-to-transform-retail-operations/",
+          "section": "AI Pulse",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Walmart is stepping up its investment in artificial intelligence, automation and advanced digital technologies as the world’s largest retailer continues to modernise its operations and strengthen its position in an increasingly competitive global grocery market. The company is expanding the use of AI across multiple areas of its business, including inventory management, demand forecasting, supply chain optimisation and customer service. By integrating advanced technology into daily operations, Walmart aims to improve efficiency, reduce costs and ensure products are available when customers need them.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "AI & Personalization",
+            "Supply Chain"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 166926,
+          "ave": 1544.07
+        },
+        {
+          "id": "hh7upm",
+          "headline": "The State Of Agentic Storefronts: How AI Agents Guide Shoppers On Frictionless, Full-Funnel Journeys",
+          "source": "Modern Retail",
+          "author": "",
+          "url": "https://www.modernretail.co/sponsored/the-state-of-agentic-storefronts-how-ai-agents-guide-shoppers-on-frictionless-full-funnel-journeys/",
+          "section": "AI Pulse",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Artificial intelligence is the new entry point in e-commerce, as more shoppers rely on AI-powered summaries and assistants to discover products. Beyond discovery and product recommendations, AI agents are also helping shoppers evaluate options, make decisions and even complete purchases. According to Salesforce data, AI and agents drove 20% of all retail sales and accounted for $262 billion in holiday spend during the 2025 holiday shopping season. To keep up, brands and retailers are implementing agentic tools to better personalize shopper experiences and drive growth. Others are rethinking the traditional e-commerce model from the ground up — shifting from static websites to agentic storefronts with conversational experiences that guide customers every step of the way.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "AI & Personalization",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 482884,
+          "ave": 4466.68
+        },
+        {
+          "id": "j0qb6r",
+          "headline": "US Retailers Turn To New Tools As Fraud Becomes More Complex",
+          "source": "Retail Insight Network",
+          "author": "Mahamed Dabo",
+          "url": "https://www.retail-insight-network.com/features/us-retailers-turn-to-new-tools-as-fraud-becomes-more-complex/",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "US retailers are adopting a new industry framework to better understand and respond to changing fraud risks as criminals use more advanced methods across stores and digital channels. The National Retail Federation (NRF) has released an updated retail fraud taxonomy, a classification system designed to help retailers, technology companies, financial organisations and public agencies use a common language when identifying fraud threats. The update reflects a changing retail environment where fraud is no longer limited to traditional theft. Businesses now face a wider range of challenges, including online scams, payment abuse, account takeovers and organised criminal activity.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [],
+          "reach": 658135,
+          "ave": 6087.75
+        },
+        {
+          "id": "8mshuv",
+          "headline": "Shoppers Choose Mass Retailers Over Traditional Grocers For BTS Supplies: Report",
+          "source": "Progressive Grocer",
+          "author": "Samantha Schober",
+          "url": "https://progressivegrocer.com/shoppers-choose-mass-retailers-over-traditional-grocers-bts-supplies-report",
+          "section": "Industry News",
+          "date": "July 15, 2026",
+          "iso": "2026-07-14",
+          "summary": "Grocery chains are losing back-to-school shoppers to mass merchandisers this year, even as the overall BTS season is set to grow to $36.1 billion, according to two new reports from Coresight Research. Walmart will capture 59% of BTS shoppers in 2026, up from 56% last year, while Target holds steady at 39% and Amazon trails at 38%, per Coresight’s June 29 survey of 510 U.S. consumers with children aged 5-17. Mass merchandisers overall drew 67.8% of shoppers, a lead of 22.3 percentage points over online-only retailers in second place.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart",
+            "Target",
+            "Amazon"
+          ],
+          "reach": 801215,
+          "ave": 7411.24
         }
       ]
     }
