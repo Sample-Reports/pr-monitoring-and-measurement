@@ -1589,6 +1589,14 @@ function renderAll(){ renderLanding(); }
       return;
     }
 
+    var days = Object.keys(DB.days).sort();
+    var dayList = days.map(function(d) {
+      var art = (DB.days[d].articles || []).length;
+      return d + ' (' + art + ' articles)';
+    }).join('\n');
+    var ok = confirm('About to publish ' + days.length + ' day(s) to live:\n\n' + dayList + '\n\nContinue?');
+    if (!ok) return;
+
     var btn = document.getElementById('publishBtn');
     btn.textContent = 'Publishing…';
     btn.disabled = true;
