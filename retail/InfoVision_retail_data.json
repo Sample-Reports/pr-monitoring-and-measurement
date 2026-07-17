@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "retail",
-  "_savedAt": "2026-07-16T14:07:21.061Z",
-  "_dayCount": 2,
+  "_savedAt": "2026-07-17T12:10:14.807Z",
+  "_dayCount": 3,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:03.474Z",
@@ -555,6 +555,183 @@
           ],
           "reach": 801215,
           "ave": 7411.24
+        }
+      ]
+    },
+    "2026-07-17": {
+      "uploadedAt": "2026-07-17T12:10:08.034Z",
+      "filename": "InfoVision_Retail_Media_Briefing_2026-07-17.docx",
+      "articles": [
+        {
+          "id": "1xgq27",
+          "headline": "General Mills, ADM And Walmart Expand Regenerative Agriculture Programme Across 40,000 Midwest Wheat Acres",
+          "source": "Food & Beverage Outlook",
+          "author": "Neil Perry",
+          "url": "https://www.foodbeverage-outlook.com/agriculture-farming/general-mills-adm-and-walmart-expand-regenerative-agriculture-programme-across-40000-midwest-wheat-acres",
+          "section": "Industry News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "General Mills, ADM and Walmart have announced a strategic collaboration to accelerate regenerative agriculture across 40,000 wheat acres in the US Midwest. The programme focuses on wheat-growing regions where General Mills sources wheat from ADM for products sold through Walmart and Sam’s Club. The companies said the initiative is intended to strengthen supply chain resilience while supporting farming communities.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Supply Chain"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 185000,
+          "ave": 1711.25
+        },
+        {
+          "id": "jd4n2y",
+          "headline": "Wakefern Updates Bowl & Basket Products To Remove Synthetic Dyes By January 2027",
+          "source": "Perishable News",
+          "author": "",
+          "url": "https://perishablenews.com/retailfoodservice/wakefern-updates-bowl-basket-products-to-remove-synthetic-dyes-by-january-2027/",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Wakefern Food Corp., the largest retailer-owned supermarket cooperative in the United States whose supermarket banners include ShopRite, Price Rite Marketplace, The Fresh Grocer, Dearborn Market, Gourmet Garage, Fairway Market, Di Bruno Bros. and Morton Williams, has announced updates to its Own Brands food and beverage portfolio, including plans to eliminate all synthetic dyes and additional ingredients from Bowl & Basket products by January 2027. The initiative will remove these ingredients from Bowl & Basket food and beverage items sold at Wakefern supermarket banners, reflecting changing customer preferences and supporting evolving regulatory guidance. The updates are designed to maintain the taste and value customers expect while reflecting how families shop, cook and eat today.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 156936,
+          "ave": 1451.66
+        },
+        {
+          "id": "3918lw",
+          "headline": "This Grocery Store Just Passed ALDI And Walmart For The Best Savings",
+          "source": "Southern Living",
+          "author": "Melissa Locker",
+          "url": "https://www.southernliving.com/kroger-best-priced-store-brands-12017118",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "When you’re strolling the aisles of H-E-B, Aldi, or Publix, have you ever wondered if the store’s in-house brand is a good deal? Now, budget-conscious shoppers (a.k.a. most of us) have an answer. Restaurant Furniture Plus conducted a study to finally get to the bottom of that burning question. To make its determination, the group went virtual shopping, according to the results shared online. They went to four national grocery store chains with in-house brands and bought a basketful of 15 essential items, including a gallon of milk, bread, a dozen eggs, and chicken breast, as well as pantry items such as spaghetti, canned beans, and baking goods. They exclusively bought items from the store brand to determine which chain offers the best bargains.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 642581,
+          "ave": 5943.87
+        },
+        {
+          "id": "ne19ko",
+          "headline": "Walmart Seeking To Expand Pickup And Delivery At South Hanover Store",
+          "source": "Evening Sun",
+          "author": "Harrison Jones",
+          "url": "https://www.eveningsun.com/story/money/business/2026/07/17/expansion-proposed-for-south-hanover-pa-walmart-on-baltimore-pike/90902799007/?gca-cat=p&gnt-cfr=1",
+          "section": "Industry News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "Walmart is looking to upgrade its south Hanover location to expand its online pickup and delivery options, a company spokesperson said. The West Manheim Township Zoning Hearing Board will hold a public hearing in late July 2026 for a variance request made by Walmart for its 1881 Baltimore Pike location in the township.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 164276,
+          "ave": 1519.55
+        },
+        {
+          "id": "uz95oc",
+          "headline": "Walmart Is Betting On These 10 AI-Proof Jobs—And Many Pay 6 Figures",
+          "source": "Inc",
+          "author": "Kayla Webster",
+          "url": "https://www.inc.com/kaylawebster/walmart-is-betting-on-these-10-ai-proof-jobs-and-many-pay-6-figures/91375461",
+          "section": "AI Pulse",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Walmart says not to worry about AI stealing jobs—there are still plenty of opportunities at the world’s largest private employer. For founders scaling their own teams, there is a massive lesson to be learned from this playbook: Even in the tech-first era, prioritizing and pathing your people is your greatest competitive advantage. The retail giant employs more than 2.1 million workers and prides itself on providing employees with opportunities to advance from within—both CEO John Furner and former chief Doug McMillon started in hourly positions. While Walmart has invested heavily in AI, the company maintains that people are still essential to its operations.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI & Personalization"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 113662,
+          "ave": 1051.37
+        },
+        {
+          "id": "m3tc9s",
+          "headline": "Consumers Wary About AI Shopping Assistants But Amazon Is Changing Perceptions",
+          "source": "Retail Customer Experience",
+          "author": "Judy Mottl",
+          "url": "https://www.retailcustomerexperience.com/articles/consumers-wary-about-ai-shopping-assistants-but-amazon-is-changing-perceptions/",
+          "section": "AI Pulse",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "Artificial intelligence in the retail store shopping experience is increasingly the focus of research papers, studies and industry analysis. That's because consumers are not only becoming more familiar with AI shopping assistant technology but are slowly, yet steadily, tapping the technology for various reasons – including personal needs, lifestyle challenges, product discovery, discount offer opportunities and product decision making. In fact a hefty number of consumers, 70%, are using AI in their personal lives and nearly half, 45%, are using it daily compared to half that just nine months ago, according to a Bain & Company's Consumer Lab AI survey that also revealed most consumers trust Gen AI for research.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "AI & Personalization",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Amazon"
+          ],
+          "reach": 265135,
+          "ave": 2452.5
+        },
+        {
+          "id": "tp3l3g",
+          "headline": "Food Safety Needs An AI Upgrade: Why Better Risk Communication Matters For Grocery Retail",
+          "source": "Retail Insider",
+          "author": "Sylvian Charlebois",
+          "url": "https://retail-insider.com/retail-insider/2026/07/food-safety-needs-an-ai-upgrade-why-better-risk-communication-matters-for-grocery-retail/",
+          "section": "AI Pulse",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Every summer, Canadians are reminded that fresh produce, while essential to a healthy diet, can also pose food safety risks. This year’s Cyclospora outbreak in the United States has already sickened more than 1,600 people, making it one of the largest in recent memory. Yet despite its scale, investigators have not identified the specific fruit, vegetable, farm or supplier responsible. Canada’s food regulators have appropriately resisted calls to suspend produce imports because there is simply no scientific evidence pointing to a particular commodity or country of origin. From a regulatory standpoint, that is the right decision. From a communications standpoint, however, we have an opportunity to do much better.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "AI & Personalization"
+          ],
+          "brands": [],
+          "reach": 851847,
+          "ave": 7879.58
+        },
+        {
+          "id": "p6cdya",
+          "headline": "Is The Retail Industry Ready For The Booming “Chat” Economy?",
+          "source": "Forbes",
+          "author": "Greg Petro",
+          "url": "https://www.forbes.com/sites/gregpetro/2026/07/16/is-the-retail-industry-ready-for-the-booming-chat-economy/",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Don’t search, just ask. That’s shorthand for a profound change that is quietly but quickly forcing retailers to rethink how they market, how they structure their websites, and how to deal with the inevitable sunset of traditional search advertising. According to reports on industry news sites, there appear to be a lot of retailers who are just now scrambling to catch up. The cost to retool websites to synch with AI is enormous. There may be a number of retailers, especially those who sell direct-to-consumers, who do not survive the transition. And it’s coming faster than most realize. By the end of next year, the predominant way consumers will shop is expected to be through one AI platform or another. Furthermore, the interaction will not be a search, it will be a chat.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "AI & Personalization",
+            "Pricing & Consumer"
+          ],
+          "brands": [],
+          "reach": 15044999,
+          "ave": 139166.24
         }
       ]
     }
