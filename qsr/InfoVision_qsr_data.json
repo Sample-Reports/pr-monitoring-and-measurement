@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "qsr",
-  "_savedAt": "2026-07-16T14:07:15.378Z",
-  "_dayCount": 2,
+  "_savedAt": "2026-07-17T12:09:48.724Z",
+  "_dayCount": 3,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:45.173Z",
@@ -569,6 +569,355 @@
           "brands": [],
           "reach": 239467,
           "ave": 2215.07
+        }
+      ]
+    },
+    "2026-07-17": {
+      "uploadedAt": "2026-07-17T12:09:39.665Z",
+      "filename": "InfoVision_QSR_Media_Briefing_2026-07-17.docx",
+      "articles": [
+        {
+          "id": "ciedho",
+          "headline": "KFC Is Bringing Back A Beloved Menu Favorite Fans Have Missed For Years",
+          "source": "Southern Living",
+          "author": "Kait Hanson",
+          "url": "https://www.southernliving.com/kfc-brings-back-popcorn-chicken-12015687",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "For more than three years, KFC fans have been mourning the loss of a bite-sized favorite. They took to Reddit, social media, and even started petitions to make their voices heard, and now, the fried chicken chain is finally bringing back the beloved menu item. That’s right, starting Monday, July 13, and only while supplies last, KFC fans can once again order Popcorn Chicken. In a release shared with Southern Living, KFC confirmed that Popcorn Chicken will be available in three different ways, giving fans plenty of options to get their fix: $10 Popcorn Chicken Bucket: For those who want to skip the sides and go all-in, this option includes 16 ounces of Popcorn Chicken served with four dipping sauces. Popcorn Chicken Big Box: This combo includes six ounces of Popcorn Chicken, two Original Recipe Tenders, a medium order of fries, a medium drink, two dipping sauces, and a chocolate chunk cookie for $10.99. Popcorn Chicken Combo: This option includes six ounces of Popcorn Chicken, a medium order of fries, a medium drink, and one dipping sauce for $8.49.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering",
+            "AI & Automation"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 642581,
+          "ave": 5943.87
+        },
+        {
+          "id": "j8vrsw",
+          "headline": "KFC Expands In Arizona With New Sun City Restaurant",
+          "source": "Franchising.com",
+          "author": "",
+          "url": "https://www.franchising.com/amp/news/20260716_kfc_expands_in_arizona_with_new_sun_city_restaurant.html",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "KFC is officially expanding in the Grand Canyon State with the opening of its newest restaurant in Sun City, Arizona. The restaurant will officially open for business on Wednesday, July 8, at 10 a.m., bringing KFC's signature fried chicken, sandwiches, bowls and family meals to the community. Located at 10801 W. Grand Avenue near Plaza de Grande, the restaurant is owned and operated by Pak Foods, LLC, a multi-unit, multi-brand operating group with locations across the Southwest. Leadership team members Tanweer and Rehman Ahmed are spearheading operations in Sun City. The opening expands Pak Foods' footprint in Arizona while further strengthening KFC's presence throughout the Greater Phoenix area.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 148659,
+          "ave": 1375.1
+        },
+        {
+          "id": "vevdjr",
+          "headline": "Taco Bell To Replace KFC In Landrum",
+          "source": "The Tryon Daily Bulletin",
+          "author": "Jamie Lewis",
+          "url": "https://tryondailybulletin.com/2026/07/16/taco-bell-to-replace-kfc-in-landrum/",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "A Taco Bell will soon be opening in Landrum, replacing the former KFC restaurant on Highway 14 and adding another national fast-food option for area residents. Online job postings from franchise operator Fulenwider Enterprises show the company is hiring managers and crew members for the new Taco Bell at 1708 Highway 14, the site previously occupied by KFC. The KFC has ceased operations. Fulenwider Enterprises operates both KFC and Taco Bell restaurants throughout the Carolinas. While the company has not announced an official opening date, preparations for the conversion are underway.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Taco Bell",
+            "KFC"
+          ],
+          "reach": 232227,
+          "ave": 2148.1
+        },
+        {
+          "id": "4u8v5c",
+          "headline": "CDC, FDA Link Taco Bell Lettuce Supplier To Multistate Cyclosporiasis Outbreak",
+          "source": "The Washington Post",
+          "author": "Lena H. Sun, Rachel Roubein",
+          "url": "https://www.washingtonpost.com/health/2026/07/16/lettuce-supplier-is-potential-source-cyclosporiasis-outbreak-investigators-say/",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Federal health officials said Thursday that a multistate outbreak of cyclosporiasis that has sickened thousands of people has been linked to shredded iceberg lettuce served at Taco Bell restaurants in five states, confirming key findings first reported by The Washington Post.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 659937,
+          "ave": 6104.42
+        },
+        {
+          "id": "46icjh",
+          "headline": "Wendy's Is Selling $1 Frostys. How, When To Get One",
+          "source": "USA Today",
+          "author": "Greta Cross",
+          "url": "https://www.usatoday.com/story/money/food/2026/07/16/wendys-1-dollar-frosty/90947850007/",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Wendy's is celebrating the summer heat with $1 Frostys. To celebrate National Ice Cream Day on Sunday, July 19, Wendy's is offering $1 Frostys to rewards members who order through the mobile app, according to a news release. The deal will then be available to all customers through most of August. Several chains are offering special deals for National Ice Cream Day. Dairy Queen is serving up a free Dilly Bar with any purchase of $1 or more through the DQ app placed July 13-19. Baskin-Robbins is offering $5 off an order of $20 or more to reward members July 19-25. And delivery services like DoorDash and GoPuff have several sweet treat deals for the \"holiday.\"",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Value & Pricing",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Wendy's"
+          ],
+          "reach": 20125212,
+          "ave": 186158.21
+        },
+        {
+          "id": "gbg7z9",
+          "headline": "Chipotle Puts A New Twist On Soccer's Hydration Break With $1 Million In Free Burritos",
+          "source": "Chipotle Press Release",
+          "author": "",
+          "url": "https://newsroom.chipotle.com/2026-07-16-CHIPOTLE-PUTS-A-NEW-TWIST-ON-SOCCERS-HYDRATION-BREAK-WITH-1-MILLION-IN-FREE-BURRITOS",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Chipotle Mexican Grill today announced that it is turning one of soccer's newest matchday traditions into a $1 million burrito giveaway inspired by the long-running social conversation surrounding its iconic water cups. During the international tournament final on July 19, viewers at home can participate in a Chipotle \"Water\" Break for a chance to unlock free entrée offers. When play pauses for the match's second official hydration break, Chipotle will bring a stadium-inspired game to fans watching from home. The brand will share a video from the @ChipotleOpens in new window Instagram account challenging viewers to follow a lemonade-filled cup as three identical Chipotle water cups shuffle across the screen. At the end of the video, the lemonade-filled cup will reveal a text-to-win code. The first 100,000 participants to text the code to 888-222 will receive a free entrée offer.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chipotle"
+          ],
+          "reach": 781228,
+          "ave": 7226.36
+        },
+        {
+          "id": "lmoa5l",
+          "headline": "13 Of The Best New Fast Food Items Of Summer 2026 So Far",
+          "source": "Tasting Table",
+          "author": "Ian Fortey",
+          "url": "https://www.tastingtable.com/2216285/best-new-fast-food-summer-2026/",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Summer 2026 is in full swing, and many fast food restaurants have rolled out new seasonal offerings. The focus is on nostalgia, big and bold flavors, and reliable combinations folks know and love. There are also a few collaborative and cross-promotional efforts that have resonated with diners, proving that creative partnerships can pay off. Burger King kicked off the summer in June with a few new releases, but the one that really resonated with fans most was the Orange Dreamsicle Freezee King. Featuring a frozen orange slushy base and an orange cream cold foam topping, it's basically an orange Creamsicle turned into a drink. The Firecracker Cookie Pie is like a cross between a cheesecake and a cookie, covered with patriotic sprinkles. This summer, Wendy's went all in for its collaboration with Illumination for the film \"Minions & Monsters\" to bring the Banana Swirl Frosty. The base is a traditional vanilla Frosty, but it's swirled with a sweet banana sauce. You can always count on Taco Bell for some innovations that hit with fans, and the Fajita Street Chalupa seems like another winner.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Sustainability & Labor"
+          ],
+          "brands": [
+            "Taco Bell",
+            "Wendy's",
+            "Burger King"
+          ],
+          "reach": 760318,
+          "ave": 7032.94
+        },
+        {
+          "id": "i0ms7l",
+          "headline": "Capacity And Foodbridge Team Up To Rewire Hunger Relief With AI",
+          "source": "Food & Beverage Magazine",
+          "author": "",
+          "url": "https://www.fb101.com/capacity-foodbridge-ai-hunger-relief-social-equity-initiative-302824703",
+          "section": "AI Pulse",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Food deserts are widening, donations are shrinking, and demand keeps climbing. For the hunger relief organizations caught in the middle, the math has never been harder—and the systems they rely on have never felt more disconnected. That is the problem a new St. Louis–born partnership is aiming squarely at. On July 14, 2026, Capacity, the AI-powered support automation platform, announced a partnership with FoodBridge to launch the Hunger Relief & Social Equity Initiative—a joint effort to make it dramatically easier for individuals to connect to food, benefits and community care. The pitch is deceptively simple: stitch together the pieces that have always lived in separate silos. The initiative pairs conversational, agentic and relational AI with modern food access tools so food banks and community organizations can move people from intake to a full grocery cart without the usual bureaucratic maze.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "AI & Automation"
+          ],
+          "brands": [],
+          "reach": 320263,
+          "ave": 2962.43
+        },
+        {
+          "id": "i7fzob",
+          "headline": "Building A Restaurant Telephony AI Host With Amazon Bedrock Agentcore And Amazon Nova 2 Sonic",
+          "source": "AWS Blogs",
+          "author": "Sergio Barraza, Salman Ahmed, Ravi Kumar",
+          "url": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/",
+          "section": "AI Pulse",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Restaurants miss an average of 150 phone calls per location every month, and about 60 percent of those are customers trying to place an order or book a table. Most of these calls come in during dinner service, exactly when the host is seating guests, servers are turning tables, and the phone becomes an afterthought. Pulling someone off the floor to answer doesn’t fix the problem. It only makes two experiences worse. Adding an app or a website helps customers who prefer to order online, but it does nothing for the person who only wants to call.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Digital & Ordering",
+            "AI & Automation",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 534798,
+          "ave": 4946.88
+        },
+        {
+          "id": "dfgtkd",
+          "headline": "Best Hotel Restaurants Of 2026: OpenTable List Goes Live As AI Concierge Moves To Homepage",
+          "source": "Tech Times",
+          "author": "Maxwell Templeton",
+          "url": "https://www.techtimes.com/articles/320769/20260716/best-hotel-restaurants-2026-opentable-list-goes-live-ai-concierge-moves-homepage.htm",
+          "section": "AI Pulse",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "OpenTable on Tuesday published its 2026 Top 100 Hotel Restaurants in America — a ranking drawn from more than 10 million verified diner reviews — and simultaneously upgraded its generative AI dining assistant, Concierge, to operate directly from the platform's homepage for the first time, as announced in the company's official press release. The double announcement marks OpenTable's most aggressive move yet to position itself not just as a reservation management tool, but as the AI discovery layer that intercepts the \"where should I eat?\" query before travelers ever reach a search engine or review site. The timing is not coincidental. Survey data commissioned by OpenTable found that 61% of Americans who have dined at a hotel restaurant in the past five years have chosen a travel destination specifically because of its food or restaurant scene, and 60% of respondents planning summer travel say they booked a hotel because of its on-site restaurant, according to the Ripple Research survey. Those numbers show up in the platform's own reservations data: hotel restaurant dining by travelers rose 13% year-over-year, and overall seated diners at hotel restaurants climbed 7%, both measured against the same January-through-April window from 2025 to 2026.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI & Automation",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 901284,
+          "ave": 8336.88
+        },
+        {
+          "id": "6qhtdn",
+          "headline": "Not Popeyes, Not KFC: This Chain Biscuit Was Named The Best Fast Food Side In The US",
+          "source": "The Takeout",
+          "author": "Rolland Judd",
+          "url": "https://www.thetakeout.com/2216813/not-popeyes-kfc-chain-churchs-biscuit-best-fast-food-side-in-the-us/",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Sometimes a fast food restaurant's side dishes are just as (if not more) appealing than its entrees, like McDonald's perfectly cut fries and Popeyes' Homestyle Mac and Cheese. KFC's best side dish may be its flaky biscuits, but that doesn't mean it makes the best rendition of that side across all fast food chains in the country. That distinction has been awarded to Church's Texas Chicken by USA TODAY readers, who gave the chain's Honey-Butter Biscuits top marks in USA TODAY's 10BEST fast food poll. Church's sells millions of its cherished Honey-Butter Biscuits each year, and it's easy to see why. The soft, flaky side dish is dripping with home-cooked allure because it's made from scratch daily. Once they're drizzled with the chain's iconic honey butter, they become a sweet, fluffy delicacy that customers all over the country adore. Some people are so enamored with the biscuits that they try to recreate the side dish at home, as demonstrated by the dozens of copycat recipes online.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "McDonald's",
+            "KFC"
+          ],
+          "reach": 623720,
+          "ave": 5769.41
+        },
+        {
+          "id": "d3b61e",
+          "headline": "Restaurant Review: Worth The Wait? Raising Cane’s Westwood Location Packs Flavor Into Every Dollar",
+          "source": "Daily Bruin",
+          "author": "Emily Berkowitz",
+          "url": "https://dailybruin.com/2026/07/16/restaurant-review-worth-the-wait-raising-canes-westwood-location-packs-flavor-into-every-dollar",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "For three years, Bruins walked past construction barriers. Now, they’re walking out with Box Combos. As of Monday, Raising Cane’s Chicken Fingers, located on the corner of Broxton Avenue and Weyburn Avenue in Westwood, is open for business. The fast-food chain, known for its chicken fingers, Texas toast and crinkle-cut fries, operates nearly 1,000 locations across the United States. With doors finally open, the Daily Bruin tried Cane’s to see if its long-anticipated arrival lived up to the hype – and how it measured up against Westwood’s established favorites. Stepping inside Raising Cane’s on opening week felt like stepping into a celebration: three oversized disco balls twirled overhead, Mariah Carey’s “Fantasy” blasted through the speakers and every table was packed with groups of friends digging into chicken fingers and fries. The lively atmosphere felt fitting for one of Westwood’s most anticipated restaurant openings in recent history.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 863869,
+          "ave": 7990.79
+        },
+        {
+          "id": "vqkiqj",
+          "headline": "Sweetgreen Falls On Parasite Outbreak Tied To Produce",
+          "source": "Bloomberg",
+          "author": "Peyton Forte, Janet Freund",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-16/sweetgreen-plunges-as-parasite-outbreak-tied-to-produce-spreads",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Sweetgreen Inc. has lost more than a quarter of its market value in just four days as investors dump the stock due to fears about outbreak of cyclosporiasis — an intestinal infection caused by parasites in raw produce and water that has sickened thousands across the US. The shares are down 26% this week after four straight sessions in the red, putting them on track for their worst week since May 2025. And they aren’t far from their record low, after falling as much as 8.5% on Thursday and closing at the weakest level in three months. It’s the worst performer in the Russell 2000 Restaurants and Bars Index over the past four sessions, which itself is down less than 1%.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Value & Pricing"
+          ],
+          "brands": [],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "pdgn30",
+          "headline": "Chick-Fil-A Construction Plans Advance In Collierville",
+          "source": "Action News 5",
+          "author": "Stuart Rucker",
+          "url": "https://www.actionnews5.com/2026/07/17/chick-fil-a-construction-plans-advance-collierville/",
+          "section": "Industry News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "Collierville town leaders have put an end to the debate over a new Chick-Fil-A. On Thursday, the board of mayor and aldermen approved plans for Chick-Fil-A to move forward at a new location near Poplar Avenue and Bray Station. Passionate community members were present, both supporting and opposing the new location. Some attendees expressed frustration over the abrupt decision to hold the meeting and voiced worries about the lengthy battle the town has faced regarding this issue. “Be fully on message friends, our town is for sale to the highest bidder and there is no longer anyone at the gates to protect you and your families,” a community member said.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Digital & Ordering",
+            "AI & Automation",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chick-fil-A"
+          ],
+          "reach": 838194,
+          "ave": 7753.29
+        },
+        {
+          "id": "84el1d",
+          "headline": "Bojangles Coming To Corpus Christi, First Coastal Bend Location Expected In Spring 2027",
+          "source": "KIIITV.com",
+          "author": "Ryan Hopper",
+          "url": "https://www.kiiitv.com/article/news/local/bojangles-coming-to-corpus-christi-first-coastal-bend-location-expected-in-spring-2027/503-89bfea1d-b0b4-441d-9be3-d17279d6e3d5",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Bojangles is bringing its first Coastal Bend location to Corpus Christi, with the restaurant expected to open in spring 2027 and create between 50 and 75 jobs. Franchise owner Terrence Thames said the Corpus Christi restaurant will be his sixth Bojangles location. Known for its Southern-style menu, Bojangles serves hand-breaded chicken, made-from-scratch biscuits and breakfast all day. \"It's a Southern flavor mix,\" Thames said. \"Our chicken tenders are hand breaded every day, fresh, handmade. Our biscuits are made every 20 minutes by hand.\" He believes the same demand that has fueled his San Antonio restaurants will translate to the Coastal Bend.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 774803,
+          "ave": 7166.93
+        },
+        {
+          "id": "vr5yrw",
+          "headline": "Are Hardee's Closing? What To Know After This Franchisee's Bankruptcy.",
+          "source": "USA Today",
+          "author": "Saleen Martin",
+          "url": "https://www.usatoday.com/story/money/food/2026/07/16/hardees-franchisee-files-bankruptcy-after-closures/90944077007/",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "A Hardee’s franchisee with more than a dozen locations in Kentucky has filed for bankruptcy after closing more than 30 locations last year. Hardee’s franchisee Superior Star LLC filed for Chapter 11 bankruptcy on Thursday, July 9, according to court documents reviewed by USA TODAY. The company said it owes more than 1,000 creditors and has between $10 million and $50 million in assets and liabilities. As of July, the company operates 59 Hardee’s locations across 10 states, including 14 in Kentucky, according to the documents. While the company generated $80 million in gross revenue in 2025, the franchisee said it still wasn’t enough for the owners to have a profitable year. Superior Star isn't the only franchisee to file for bankruptcy. Franchisee ⁠ARC Burger filed in 2025, citing financial difficulties, and closed 77 locations, reported the Tallahassee Democrat, part of the USA TODAY Network. Hardee's has since reopened some of those closed locations in Georgia, South Carolina and Missouri, noting that they are “now corporate owned.\"",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 20125212,
+          "ave": 186158.21
         }
       ]
     }
