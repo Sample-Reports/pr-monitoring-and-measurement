@@ -1589,25 +1589,9 @@ function renderAll(){ renderLanding(); }
       return;
     }
 
-    var days = Object.keys(DB.days).sort();
-    var dayList = days.map(function(d) {
-      var art = (DB.days[d].articles || []).length;
-      return d + ' (' + art + ' articles)';
-    }).join('\n');
-    var ok = confirm('About to publish ' + days.length + ' day(s) to live:\n\n' + dayList + '\n\nContinue?');
-    if (!ok) return;
-
     var btn = document.getElementById('publishBtn');
     btn.textContent = 'Publishing…';
     btn.disabled = true;
-
-    var payload = {
-      _app: 'InfoVision Intelligence',
-      _industry: CFG.key,
-      _savedAt: new Date().toISOString(),
-      _dayCount: Object.keys(DB.days).length,
-      days: DB.days
-    };
 
     var filePath = CFG.key + '/InfoVision_' + CFG.key + '_data.json';
     var apiUrl = 'https://api.github.com/repos/Sample-Reports/pr-monitoring-and-measurement/contents/' + filePath;
@@ -1621,6 +1605,32 @@ function renderAll(){ renderLanding(); }
       var getRes = await fetch(apiUrl, { headers: headers });
       var fileData = await getRes.json();
       if (!fileData.sha) throw new Error(fileData.message || 'Cannot get file info from GitHub');
+
+      // Merge server's current days into local DB.days so no previously published days are lost
+      try {
+        var serverJson = JSON.parse(decodeURIComponent(escape(atob(fileData.content.replace(/\n/g,'')))));
+        if (serverJson && serverJson.days) {
+          Object.keys(serverJson.days).forEach(function(d) {
+            if (!DB.days[d]) DB.days[d] = serverJson.days[d];
+          });
+        }
+      } catch(e) { /* server file unreadable — proceed with local data */ }
+
+      var days = Object.keys(DB.days).sort();
+      var dayList = days.map(function(d) {
+        var art = (DB.days[d].articles || []).length;
+        return d + ' (' + art + ' articles)';
+      }).join('\n');
+      var ok = confirm('About to publish ' + days.length + ' day(s) to live:\n\n' + dayList + '\n\nContinue?');
+      if (!ok) { btn.textContent = 'Publish to live ↗'; btn.disabled = false; return; }
+
+      var payload = {
+        _app: 'InfoVision Intelligence',
+        _industry: CFG.key,
+        _savedAt: new Date().toISOString(),
+        _dayCount: days.length,
+        days: DB.days
+      };
 
       var content = btoa(unescape(encodeURIComponent(JSON.stringify(payload, null, 2))));
 
