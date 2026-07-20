@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "beauty",
-  "_savedAt": "2026-07-17T15:40:39.334Z",
-  "_dayCount": 3,
+  "_savedAt": "2026-07-20T13:46:02.984Z",
+  "_dayCount": 4,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:16.350Z",
@@ -265,8 +265,8 @@
       ]
     },
     "2026-07-16": {
-      "uploadedAt": "2026-07-17T15:40:10.357Z",
-      "filename": "InfoVision_Beauty_Media_Briefing_2026-07-16 (1).docx",
+      "uploadedAt": "2026-07-16T13:54:25.603Z",
+      "filename": "InfoVision_Beauty_Media_Briefing_2026-07-16.docx",
       "articles": [
         {
           "id": "3ainln",
@@ -296,7 +296,7 @@
           "section": "Brand News",
           "date": "July 16, 2026",
           "iso": "2026-07-15",
-          "summary": "Mademoiselle Abrams has entered the chat. Chanel just announced Gracie Abrams as the new face of Coco Mademoiselle Crush Absolu, the house's newest fragrance, launching this August—and if you've been keeping tabs on her steady rise through the Chanel universe, this one tracks perfectly. The 26-year-old singer has been a Chanel ambassador since 2025, fronting the Spring-Summer Pre-Collection campaign before becoming the face of Coco Crush jewelry. Landing Crush Absolu feels like the natural next chapter, a continuation of a relationship that's clearly working for both sides. \"It's unreal to be the new face of Coco Mademoiselle, I feel an immense sense of pride,\" Abrams said in a press release. \"I love that Coco is someone who leaves a mark everywhere she goes. Sometimes, I wish I could be more like her.\"",
+          "summary": "Mademoiselle Abrams has entered the chat. Chanel just announced Gracie Abrams as the new face of Coco Mademoiselle Crush Absolu, the house's newest fragrance, launching this August—and if you've been keeping tabs on her steady rise through the Chanel universe, this one tracks perfectly.The 26-year-old singer has been a Chanel ambassador since 2025, fronting the Spring-Summer Pre-Collection campaign before becoming the face of Coco Crush jewelry. Landing Crush Absolu feels like the natural next chapter, a continuation of a relationship that's clearly working for both sides. \"It's unreal to be the new face of Coco Mademoiselle, I feel an immense sense of pride,\" Abrams said in a press release. \"I love that Coco is someone who leaves a mark everywhere she goes. Sometimes, I wish I could be more like her.\"",
           "sentiment": "positive",
           "sentimentAuto": "positive",
           "themes": [
@@ -708,6 +708,203 @@
           ],
           "reach": 625348,
           "ave": 5784.47
+        }
+      ]
+    },
+    "2026-07-20": {
+      "uploadedAt": "2026-07-20T13:45:54.224Z",
+      "filename": "InfoVision_Beauty_Media_Briefing_2026-07-20.docx",
+      "articles": [
+        {
+          "id": "al88o8",
+          "headline": "Is Beauty’s Refill Movement Actually Working?",
+          "source": "Cosmetics Business",
+          "author": "Nyima Jobe",
+          "url": "https://cosmeticsbusiness.com/is-beauty-s-refill-movement-actually-working",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Beauty brands have spent the past five years betting big on refillable products, but is the movement actually changing consumer buying habits From giants like L'Oréal Groupe, to smaller companies such as Wild and Neal's Yard Remedies, beauty businesses have been investing heavily in refill systems as they race to cut packaging waste and appeal to increasingly sustainability-conscious consumers. L'Oréal Groupe alone has increased its refillable beauty offering 3.7-fold between 2019 and 2025, while the latest iteration of its #JoinTheRefillMovement campaign now spans 18 brands across all four of its divisions – Luxe, Consumer, Professional and Dermatological. But while refill options are multiplying across prestige and mass beauty alike, one question remains: are shoppers actually changing the way they buy beauty?",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Brand & Product Launch",
+            "Prestige vs Mass",
+            "Marketing & Influence"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 625348,
+          "ave": 5784.47
+        },
+        {
+          "id": "p2pgws",
+          "headline": "‘Chasing Dual Excellence’: Why L’Oréal Believes Growth And Responsibility Go Hand-In-Hand",
+          "source": "Edie",
+          "author": "Matilda Cox",
+          "url": "https://www.edie.net/chasing-dual-excellence-why-loreal-believes-growth-and-responsibility-go-hand-in-hand/?amp=true",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "L’Oréal Groupe's chief corporate responsibility officer, Ezgi Barcenas, sits down with edie to discuss why and how the company aims to make an impact beyond commercial performance, from supporting start-ups to philanthropic funding.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 395035,
+          "ave": 3654.07
+        },
+        {
+          "id": "qo65x4",
+          "headline": "Madeleine Boyd Joins The Estée Lauder Group To Boost Brand Desirability",
+          "source": "Premium Beauty News",
+          "author": "",
+          "url": "https://www.premiumbeautynews.com/en/madeleine-boyd-joins-the-estee,27950,en",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Amid the ongoing restructuring of its brand portfolio, The Estée Lauder Companies has appointed Madeleine Boyd as Senior Vice President, Global Brand Communications. She will take up the position on July 20, 2026. In her new role, Ms. Boyd will establish and lead a newly integrated Global Brand Communications team. She will oversee the development of a unified communications strategy across The Estée Lauder Companies’ diverse brand portfolio, while advancing bold, consumer-centric storytelling designed to enhance earned media, cultural relevance, and brand desirability. Ms. Boyd brings extensive experience spanning brand strategy, communications, consumer engagement, and cultural insights across the beauty, luxury, and lifestyle sectors.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Prestige vs Mass"
+          ],
+          "brands": [
+            "Estée Lauder"
+          ],
+          "reach": 438702,
+          "ave": 4057.99
+        },
+        {
+          "id": "q7e4c1",
+          "headline": "Cosmetics Business’ 5 Dream Beauty Partnerships And Collaborations",
+          "source": "Cosmetics Business",
+          "author": "Lollie Hancock",
+          "url": "https://cosmeticsbusiness.com/cosmetics-business-dream-beauty-partnerships-and-collaborations",
+          "section": "Brand News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "With beauty brands announcing A-list partnerships and cool collaborations on the daily, the Cosmetics Business team have dreamt up their fantasy crossovers, from unlikely video game and make-up collaborations, to seeing actors Paul Rudd and Danny Devito fronting campaigns. Paris Hilton and NYX Professional Makeup, Gracie Abrams for Chanel, L’Oréal Paris x Elle and… Danny DeVito fronting a hair campaign? With celebrity endorsements, ambassadorships and collaborations announced by beauty brands almost on the daily, it is clear that the industry truly sees value in bringing on a famous face",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Marketing & Influence"
+          ],
+          "brands": [
+            "L'Oréal",
+            "Chanel"
+          ],
+          "reach": 625348,
+          "ave": 5784.47
+        },
+        {
+          "id": "ckhnf1",
+          "headline": "Chanel Opens Standalone Fragrance & Beauty Boutique At YYZ",
+          "source": "TR Business",
+          "author": "Naomi Chadderton",
+          "url": "https://www.trbusiness.com/regional-news/the-americas/chanel-opens-standalone-fragrance-beauty-boutique-at-yyz/281778",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Chanel has strengthened its travel retail presence in North America with the opening of a standalone Fragrance & Beauty boutique at Toronto Pearson International Airport’s Terminal 1. The new boutique, opened with Avolta, has been designed to deliver an immersive and personalised beauty experience for international travellers, combining the House’s heritage with a contemporary retail concept inspired by summer.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution"
+          ],
+          "brands": [
+            "Chanel"
+          ],
+          "reach": 355522,
+          "ave": 3288.58
+        },
+        {
+          "id": "qlviic",
+          "headline": "Amazon Is Reinvigorating Its Beauty Shopping Experience",
+          "source": "WWD",
+          "author": "",
+          "url": "https://wwd.com/business-news/business-features/amazon-beauty-shopping-ai-personalization-wendy-franks-1238923416/",
+          "section": "AI Pulse",
+          "date": "July 19, 2026",
+          "iso": "2026-07-18",
+          "summary": "Fairchild Studio: What are you excited about for your new role at Amazon in health and beauty? What’s the trajectory for 2026? Wendy Franks: Health and beauty is such a dynamic category and one where we’re seeing incredible innovation and momentum at Amazon. We’ve gone from being a destination for replenishing everyday products to a more elevated experience, where customers can discover prestige brands, indie products and complete their entire health and beauty regimen in one stop. Beauty is one of the fastest-growing categories at Amazon — and with that comes an outsized opportunity to innovate. We’re leaning into artificial intelligence and personalization to make discovery more seamless and relevant, while continuing to expand our wide assortment of brands, especially in the fragrance category, where we have some exciting developments coming this year.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Prestige vs Mass"
+          ],
+          "brands": [],
+          "reach": 126372,
+          "ave": 1168.94
+        },
+        {
+          "id": "qx91mu",
+          "headline": "Korean Brands Touch Down In LA For Monthlong Retail Showcase",
+          "source": "Korea Times",
+          "author": "Lee Kyung-min",
+          "url": "https://www.koreatimes.co.kr/amp/business/companies/20260720/korean-brands-touch-down-in-la-for-monthlong-retail-showcase",
+          "section": "Industry News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "A Korean retail platform has brought a slice of Seoul to one of Los Angeles’ busiest shopping destinations, creating a monthlong stage for small and midsize Korean brands seeking a foothold in the United States. The Korea Trade-Investment Promotion Agency (KOTRA) said Monday it is operating a K-beauty and lifestyle pop-up store with Lotte Home Shopping at The Grove in Los Angeles from July 17 to Aug. 15. The event features 39 Korean small and midsize companies aiming to expand into the U.S. market through a mix of consumer experiences and business matchmaking.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Retail & Distribution",
+            "AI Beauty Tech"
+          ],
+          "brands": [],
+          "reach": 606416,
+          "ave": 5609.35
+        },
+        {
+          "id": "4vioge",
+          "headline": "How Much Unsold Merchandise Do Luxury Brands Destroy Every Year?",
+          "source": "Ethos",
+          "author": "",
+          "url": "https://the-ethos.co/how-much-unsold-merchandise-do-luxury-brands-destroy-every-year/",
+          "section": "Industry News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "As the EU’s July 19 ban on destroying unsold clothing takes effect, a Chanel theft trial in Hong Kong reveals the scale of luxury’s disposal habit — and the recycling infrastructure brands are racing to build. During the Tuesday trial of two former warehouse staffers accused of trying to steal 724 items earmarked for destruction, prosecutors in Hong Kong told the court that Chanel’s local operation destroys between 10,000 and 20,000 products every six months. The figure came up as evidence in a property case, but it also put a specific number on something luxury houses have been doing for decades, which is to systematically destroy the goods they have decided not to sell.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch",
+            "Prestige vs Mass"
+          ],
+          "brands": [
+            "Chanel"
+          ],
+          "reach": 722205,
+          "ave": 6680.4
+        },
+        {
+          "id": "7pwc8e",
+          "headline": "Korean Beauty Products Are Becoming Mainstream In The U.S. Why There May Be Even More Growth Ahead",
+          "source": "CNBC",
+          "author": "Sean Conlon",
+          "url": "https://www.cnbc.com/2026/07/18/korean-beauty-products-are-becoming-mainstream-in-the-us.html",
+          "section": "Industry News",
+          "date": "July 18, 2026",
+          "iso": "2026-07-17",
+          "summary": "When Olive Young opened its first U.S. outpost in late May, shoppers were already camping out, and the line spanned multiple blocks. On opening weekend, the leading South Korean beauty retailer’s new store in Pasadena, California, had 6,000 customers move through its doors, and it currently sees an average of more than 1,600 visitors per day, the company said. It has since opened another location, in Century City, California, and said it plans to open more stores in the U.S. That popularity is a microcosm of a bigger trend playing out in the U.S.: Consumers can’t get enough of beauty products from a country thousands of miles away — positioning some companies to get ahead.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution"
+          ],
+          "brands": [],
+          "reach": 313068,
+          "ave": 2895.88
         }
       ]
     }
