@@ -1,7 +1,7 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "retail",
-  "_savedAt": "2026-07-17T12:10:14.807Z",
+  "_savedAt": "2026-07-20T13:46:54.629Z",
   "_dayCount": 3,
   "days": {
     "2026-07-15": {
@@ -558,180 +558,393 @@
         }
       ]
     },
-    "2026-07-17": {
-      "uploadedAt": "2026-07-17T12:10:08.034Z",
-      "filename": "InfoVision_Retail_Media_Briefing_2026-07-17.docx",
+    "2026-07-20": {
+      "uploadedAt": "2026-07-20T13:46:53.670Z",
+      "filename": "InfoVision_Retail_Media_Briefing_2026-07-20.docx",
       "articles": [
         {
-          "id": "1xgq27",
-          "headline": "General Mills, ADM And Walmart Expand Regenerative Agriculture Programme Across 40,000 Midwest Wheat Acres",
-          "source": "Food & Beverage Outlook",
-          "author": "Neil Perry",
-          "url": "https://www.foodbeverage-outlook.com/agriculture-farming/general-mills-adm-and-walmart-expand-regenerative-agriculture-programme-across-40000-midwest-wheat-acres",
-          "section": "Industry News",
+          "id": "kbptje",
+          "headline": "Walmart’s Secret Self-Checkout ‘Texting’ Tactic Is Hidden In Plain Sight & Explains Frustrating Worker Habit",
+          "source": "The Sun",
+          "author": "Grace Harrington",
+          "url": "https://www.the-sun.com/money/16714050/walmart-self-checkout-texting-tactic/",
+          "section": "Brand News",
+          "date": "July 19, 2026",
+          "iso": "2026-07-18",
+          "summary": "WALMART’S secret anti-theft tactic has been revealed – and workers can track shoplifters while hidden in plain sight. The chain has rolled out a new “texting” method that allows workers to easily monitor customers. Walmart shoppers may notice that some workers positioned around the store appear to be texting on their phones. While customers may assume that the employees are distracted, Josh Bush, research project coordinator on the Loss Prevention Research Council, told Slate it’s all part of the brand’s shoplifting strategy.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "730tkg",
+          "headline": "I Went On Walmart's Last World Cup Store Tour. It Was Peak America.",
+          "source": "Business Insider",
+          "author": "Ben Shimkus",
+          "url": "https://www.businessinsider.com/walmart-world-cup-store-tour-fifa-mania-ranch-dressing-2026-7",
+          "section": "Brand News",
+          "date": "July 19, 2026",
+          "iso": "2026-07-18",
+          "summary": "A Walmart Supercenter is a fluorescent palace of American consumption. To US shoppers, it's a utilitarian one-stop shop where groceries, televisions, tires, and just about everything else sit beneath one enormous roof. To some international World Cup fans, though, it is a viral tourist sensation. Many fans made a point to visit Walmart during their stay in the United States. Even Spanish soccer star Lamine Yamal shopped there between matches.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 12885674,
+          "ave": 119192.48
+        },
+        {
+          "id": "crjj5d",
+          "headline": "Wakefern Produce Summit Aims To Boost Local, Regional Growers",
+          "source": "The Shelby Report",
+          "author": "",
+          "url": "https://theshelbyreport.com/2026/07/17/wakefern-produce-summit-aims-to-boost-local-regional-growers/",
+          "section": "Brand News",
           "date": "July 17, 2026",
           "iso": "2026-07-16",
-          "summary": "General Mills, ADM and Walmart have announced a strategic collaboration to accelerate regenerative agriculture across 40,000 wheat acres in the US Midwest. The programme focuses on wheat-growing regions where General Mills sources wheat from ADM for products sold through Walmart and Sam’s Club. The companies said the initiative is intended to strengthen supply chain resilience while supporting farming communities.",
+          "summary": "Wakefern Food Corp. hosted its annual Local Produce Supplier Summit on July 15 at the New Jersey Convention and Expo Center in Edison, New Jersey, bringing together local and regional growers, agricultural leaders and the cooperative’s produce procurement teams. At the event, Ross Farnsworth, VP of produce and floral for Wakefern, reaffirmed the cooperative’s recently announced $500 million, five-year commitment to sourcing produce from local and regional farms throughout the Northeast.",
           "sentiment": "positive",
           "sentimentAuto": "positive",
           "themes": [
             "Supply Chain"
           ],
+          "brands": [],
+          "reach": 667858,
+          "ave": 6177.69
+        },
+        {
+          "id": "i9lbpq",
+          "headline": "Kieran Shanahan To Exit Walmart, Third Top Exec To Leave In Two Months",
+          "source": "Talk Business & Politics",
+          "author": "Kim Souza",
+          "url": "https://talkbusiness.net/2026/07/kieran-shanahan-to-exit-walmart-third-top-exec-to-leave-in-two-months/",
+          "section": "Brand News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "Kieran Shanahan, second in charge of Walmart’s U.S. business as chief operating officer, is leaving the retailer. Shanahan is the third top executive to leave in the past two months, following Tom Ward and Cedric Clark. The three have 70 years of retail experience. Once seen as a potential future CEO at Walmart, Shanahan spent his entire retail career there. The past two decades have been in management, beginning with eight years at Asda, Walmart’s former grocery chain in the U.K. He was transferred to the U.S. in 2014 under then-CEO Greg Foran’s oversight of Walmart U.S., where he helped to usher in online grocery.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel"
+          ],
           "brands": [
             "Walmart"
           ],
-          "reach": 185000,
-          "ave": 1711.25
+          "reach": 256711,
+          "ave": 2374.58
         },
         {
-          "id": "jd4n2y",
-          "headline": "Wakefern Updates Bowl & Basket Products To Remove Synthetic Dyes By January 2027",
-          "source": "Perishable News",
+          "id": "sluq9h",
+          "headline": "Walmart Beats Costco At Its Own Game",
+          "source": "The Street",
+          "author": "Daniel Kline",
+          "url": "https://www.thestreet.com/retail/walmart-beats-costco-at-its-own-game",
+          "section": "Brand News",
+          "date": "July 18, 2026",
+          "iso": "2026-07-17",
+          "summary": "Costco has a simple business model. It sells memberships, and only members can shop in its stores. In exchange for paying $65 for a Gold membership or $130 to be an Executive member, which comes with added perks, including 2% cash back on most purchases, members get low prices. Costco generated $5.3 billion in membership fees in fiscal 2025, according to its fourth-quarter earnings call. “That sounds modest compared to $275 billion in total sales. But net income, what the company actually kept after all its costs, was $8.3 billion. Do the math.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart",
+            "Costco"
+          ],
+          "reach": 899790,
+          "ave": 8323.06
+        },
+        {
+          "id": "pb1cz5",
+          "headline": "Walmart Rolls Out App Update That Tracks User Locations And Slows Down Shopping Times",
+          "source": "The Sun",
+          "author": "Grace Harrington",
+          "url": "https://www.the-sun.com/money/16710610/walmart-spark-app-route/",
+          "section": "Brand News",
+          "date": "July 18, 2026",
+          "iso": "2026-07-17",
+          "summary": "An update to Walmart’s app that tracks user location has left customers complaining that the new feature is slowing down shopping times. The tool maps out a shopping route for customers, but many complain that the path is nonsensical and inefficient. A new tool recently rolled out in Walmart’s home delivery service app is causing issues for shoppers. Workers who use Spark say the app’s new feature, called Smart Path, is making the shopping process more inefficient.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "2b1t6u",
+          "headline": "Walmart Pulls Lettuce Linked To Cyclospora Outbreak",
+          "source": "USA Today",
+          "author": "Mike Snider",
+          "url": "https://www.usatoday.com/story/news/health/2026/07/18/walmart-recall-iceberg-lettuce-cyclospora-risk/90965606007/",
+          "section": "Brand News",
+          "date": "July 18, 2026",
+          "iso": "2026-07-17",
+          "summary": "Walmart stores in 27 states sold Taylor Farms-supplied lettuce being removed for a potential link to a cyclosporiasis outbreak. The retailer has pulled some bags of Marketside Bagged Iceberg Salad and Shredded Iceberg Salads, the company said in a statement to USA TODAY. So far there have been no confirmed illnesses associated with the products, according to Walmart. \"We are working closely with our supplier and took immediate steps to remove the products from sale,\" the company's statement said.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 20125212,
+          "ave": 186158.21
+        },
+        {
+          "id": "tai1xb",
+          "headline": "Walmart Self-Checkout Cameras Track Hand Movements: What Shoppers Must Know Now",
+          "source": "Travelers Today",
+          "author": "Patricia Graham",
+          "url": "https://www.travelerstoday.com/articles/60470/20260719/walmart-self-checkout-cameras-track-hand-movements-what-shoppers-must-know-now.htm",
+          "section": "Brand News",
+          "date": "July 19, 2026",
+          "iso": "2026-07-18",
+          "summary": "Those employees at the Walmart self-checkout who look like they're scrolling through their phones aren't. They're watching you — and every other customer in the lane — through a real-time surveillance feed delivered to a handheld device. Walmart's AI-powered \"Missed Scan Detection\" system, built by Irish tech firm Everseen and active in thousands of US stores since 2017, is now expanding to cover 50 percent of Walmart locations by late 2026. And when it flags a transaction, it does so in seconds — sometimes correctly, sometimes not.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 528787,
+          "ave": 4891.28
+        },
+        {
+          "id": "gaahr2",
+          "headline": "Walmart Helps Americans Navigate Their Annual Back-To-School Reset",
+          "source": "The Desert Review",
           "author": "",
-          "url": "https://perishablenews.com/retailfoodservice/wakefern-updates-bowl-basket-products-to-remove-synthetic-dyes-by-january-2027/",
-          "section": "Industry News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "Wakefern Food Corp., the largest retailer-owned supermarket cooperative in the United States whose supermarket banners include ShopRite, Price Rite Marketplace, The Fresh Grocer, Dearborn Market, Gourmet Garage, Fairway Market, Di Bruno Bros. and Morton Williams, has announced updates to its Own Brands food and beverage portfolio, including plans to eliminate all synthetic dyes and additional ingredients from Bowl & Basket products by January 2027. The initiative will remove these ingredients from Bowl & Basket food and beverage items sold at Wakefern supermarket banners, reflecting changing customer preferences and supporting evolving regulatory guidance. The updates are designed to maintain the taste and value customers expect while reflecting how families shop, cook and eat today.",
+          "url": "https://www.thedesertreview.com/business/walmart-helps-americans-navigate-their-annual-back-to-school-reset/article_b3f1e8f0-0a4c-43c7-9204-6325474235d8.html",
+          "section": "Brand News",
+          "date": "July 18, 2026",
+          "iso": "2026-07-17",
+          "summary": "Every summer, millions of Americans prepare for one of life's biggest annual reset moments. Parents are rebuilding routines. Students are getting ready for new classrooms and campuses. Teachers are stocking supplies for a new school year. And families everywhere are balancing confidence, convenience and cost. This season, Walmart is helping customers navigate America's annual back-to-school reset with its lowest prices since 2019 on the 14 most popular school supplies, affordable solutions for every stage of the school journey, healthy meals to fill lunchboxes, and convenient shopping experiences that help families save money and time. And for customers looking to get even more out of the season, being a Walmart+ member makes it easier to shop for school—from everyday essentials to last-minute needs.",
           "sentiment": "neutral",
           "sentimentAuto": "neutral",
           "themes": [
             "Pricing & Consumer",
             "Earnings & Markets"
           ],
-          "brands": [],
-          "reach": 156936,
-          "ave": 1451.66
-        },
-        {
-          "id": "3918lw",
-          "headline": "This Grocery Store Just Passed ALDI And Walmart For The Best Savings",
-          "source": "Southern Living",
-          "author": "Melissa Locker",
-          "url": "https://www.southernliving.com/kroger-best-priced-store-brands-12017118",
-          "section": "Industry News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "When you’re strolling the aisles of H-E-B, Aldi, or Publix, have you ever wondered if the store’s in-house brand is a good deal? Now, budget-conscious shoppers (a.k.a. most of us) have an answer. Restaurant Furniture Plus conducted a study to finally get to the bottom of that burning question. To make its determination, the group went virtual shopping, according to the results shared online. They went to four national grocery store chains with in-house brands and bought a basketful of 15 essential items, including a gallon of milk, bread, a dozen eggs, and chicken breast, as well as pantry items such as spaghetti, canned beans, and baking goods. They exclusively bought items from the store brand to determine which chain offers the best bargains.",
-          "sentiment": "positive",
-          "sentimentAuto": "positive",
-          "themes": [
-            "Store Strategy",
-            "E-commerce & Omnichannel"
-          ],
           "brands": [
             "Walmart"
           ],
-          "reach": 642581,
-          "ave": 5943.87
+          "reach": 815340,
+          "ave": 7541.89
         },
         {
-          "id": "ne19ko",
-          "headline": "Walmart Seeking To Expand Pickup And Delivery At South Hanover Store",
-          "source": "Evening Sun",
-          "author": "Harrison Jones",
-          "url": "https://www.eveningsun.com/story/money/business/2026/07/17/expansion-proposed-for-south-hanover-pa-walmart-on-baltimore-pike/90902799007/?gca-cat=p&gnt-cfr=1",
-          "section": "Industry News",
-          "date": "July 17, 2026",
-          "iso": "2026-07-16",
-          "summary": "Walmart is looking to upgrade its south Hanover location to expand its online pickup and delivery options, a company spokesperson said. The West Manheim Township Zoning Hearing Board will hold a public hearing in late July 2026 for a variance request made by Walmart for its 1881 Baltimore Pike location in the township.",
-          "sentiment": "positive",
-          "sentimentAuto": "positive",
-          "themes": [
-            "Store Strategy",
-            "E-commerce & Omnichannel"
-          ],
-          "brands": [
-            "Walmart"
-          ],
-          "reach": 164276,
-          "ave": 1519.55
-        },
-        {
-          "id": "uz95oc",
-          "headline": "Walmart Is Betting On These 10 AI-Proof Jobs—And Many Pay 6 Figures",
-          "source": "Inc",
-          "author": "Kayla Webster",
-          "url": "https://www.inc.com/kaylawebster/walmart-is-betting-on-these-10-ai-proof-jobs-and-many-pay-6-figures/91375461",
+          "id": "5wpo41",
+          "headline": "Conversational AI Is The New Commercial Imperative For Retailers",
+          "source": "Business Wire",
+          "author": "",
+          "url": "https://www.businesswire.com/news/home/20260720308248/en/Conversational-AI-Is-the-New-Commercial-Imperative-for-Retailers",
           "section": "AI Pulse",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "Walmart says not to worry about AI stealing jobs—there are still plenty of opportunities at the world’s largest private employer. For founders scaling their own teams, there is a massive lesson to be learned from this playbook: Even in the tech-first era, prioritizing and pathing your people is your greatest competitive advantage. The retail giant employs more than 2.1 million workers and prides itself on providing employees with opportunities to advance from within—both CEO John Furner and former chief Doug McMillon started in hourly positions. While Walmart has invested heavily in AI, the company maintains that people are still essential to its operations.",
-          "sentiment": "neutral",
-          "sentimentAuto": "neutral",
-          "themes": [
-            "AI & Personalization"
-          ],
-          "brands": [
-            "Walmart"
-          ],
-          "reach": 113662,
-          "ave": 1051.37
-        },
-        {
-          "id": "m3tc9s",
-          "headline": "Consumers Wary About AI Shopping Assistants But Amazon Is Changing Perceptions",
-          "source": "Retail Customer Experience",
-          "author": "Judy Mottl",
-          "url": "https://www.retailcustomerexperience.com/articles/consumers-wary-about-ai-shopping-assistants-but-amazon-is-changing-perceptions/",
-          "section": "AI Pulse",
-          "date": "July 17, 2026",
-          "iso": "2026-07-16",
-          "summary": "Artificial intelligence in the retail store shopping experience is increasingly the focus of research papers, studies and industry analysis. That's because consumers are not only becoming more familiar with AI shopping assistant technology but are slowly, yet steadily, tapping the technology for various reasons – including personal needs, lifestyle challenges, product discovery, discount offer opportunities and product decision making. In fact a hefty number of consumers, 70%, are using AI in their personal lives and nearly half, 45%, are using it daily compared to half that just nine months ago, according to a Bain & Company's Consumer Lab AI survey that also revealed most consumers trust Gen AI for research.",
-          "sentiment": "neutral",
-          "sentimentAuto": "neutral",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Insights from global AI-first cloud communications platform Infobip and Retail Economics reveal that the \"broadcast\" era of retail engagement, characterised by one-way notifications, is being replaced by a conversational, AI-driven relationship layer. When consumers are increasingly exposed to great digital experiences, retailers must up their game. With email open rates falling and fragmented attention, the cost of staying still has surpassed the cost of digital transformation.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
           "themes": [
             "Store Strategy",
             "E-commerce & Omnichannel",
             "AI & Personalization",
             "Pricing & Consumer"
           ],
-          "brands": [
-            "Amazon"
-          ],
-          "reach": 265135,
-          "ave": 2452.5
-        },
-        {
-          "id": "tp3l3g",
-          "headline": "Food Safety Needs An AI Upgrade: Why Better Risk Communication Matters For Grocery Retail",
-          "source": "Retail Insider",
-          "author": "Sylvian Charlebois",
-          "url": "https://retail-insider.com/retail-insider/2026/07/food-safety-needs-an-ai-upgrade-why-better-risk-communication-matters-for-grocery-retail/",
-          "section": "AI Pulse",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "Every summer, Canadians are reminded that fresh produce, while essential to a healthy diet, can also pose food safety risks. This year’s Cyclospora outbreak in the United States has already sickened more than 1,600 people, making it one of the largest in recent memory. Yet despite its scale, investigators have not identified the specific fruit, vegetable, farm or supplier responsible. Canada’s food regulators have appropriately resisted calls to suspend produce imports because there is simply no scientific evidence pointing to a particular commodity or country of origin. From a regulatory standpoint, that is the right decision. From a communications standpoint, however, we have an opportunity to do much better.",
-          "sentiment": "neutral",
-          "sentimentAuto": "neutral",
-          "themes": [
-            "E-commerce & Omnichannel",
-            "AI & Personalization"
-          ],
           "brands": [],
-          "reach": 851847,
-          "ave": 7879.58
+          "reach": 228325,
+          "ave": 2112.01
         },
         {
-          "id": "p6cdya",
-          "headline": "Is The Retail Industry Ready For The Booming “Chat” Economy?",
-          "source": "Forbes",
-          "author": "Greg Petro",
-          "url": "https://www.forbes.com/sites/gregpetro/2026/07/16/is-the-retail-industry-ready-for-the-booming-chat-economy/",
-          "section": "Industry News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "Don’t search, just ask. That’s shorthand for a profound change that is quietly but quickly forcing retailers to rethink how they market, how they structure their websites, and how to deal with the inevitable sunset of traditional search advertising. According to reports on industry news sites, there appear to be a lot of retailers who are just now scrambling to catch up. The cost to retool websites to synch with AI is enormous. There may be a number of retailers, especially those who sell direct-to-consumers, who do not survive the transition. And it’s coming faster than most realize. By the end of next year, the predominant way consumers will shop is expected to be through one AI platform or another. Furthermore, the interaction will not be a search, it will be a chat.",
-          "sentiment": "neutral",
-          "sentimentAuto": "neutral",
+          "id": "659i4",
+          "headline": "AI In Retail: From Adoption To Advantage",
+          "source": "Consumer Goods",
+          "author": "",
+          "url": "https://consumergoods.com/ai-retail-adoption-advantage",
+          "section": "AI Pulse",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Retail and e-commerce leaders are confident about AI, but confidence and results don't always align. In the 2026 EXL Enterprise AI Study, 84% of retail executives said they're ahead of competitors, yet only 6% qualify as Leaders — the widest perception-performance gap of any industry. Adoption is strongest in customer experience and merchandising, while agentic AI is gaining ground in supply chain, pricing, and the contact center. Data consistency and trust remain the biggest roadblocks to scale. Discover what sets retail AI leaders apart and the four priorities that turn AI investment into measurable competitive advantage.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
           "themes": [
             "E-commerce & Omnichannel",
             "AI & Personalization",
-            "Pricing & Consumer"
+            "Pricing & Consumer",
+            "Supply Chain"
           ],
           "brands": [],
-          "reach": 15044999,
-          "ave": 139166.24
+          "reach": 800492,
+          "ave": 7404.55
+        },
+        {
+          "id": "7b64gc",
+          "headline": "The Influence Of AI In Sustainable Retail Operations",
+          "source": "Kiosk Marketplace",
+          "author": "",
+          "url": "https://www.kioskmarketplace.com/blogs/the-influence-of-ai-in-sustainable-retail-operations/",
+          "section": "AI Pulse",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "What does artificial intelligence (AI) actually change about sustainable retail operations? AI changes how decisions are made and how accurately teams respond to demand. Retail sustainability depends on strong inventory control and disciplined financial management. Stable operations require retailers to keep inventory aligned with demand while maintaining careful oversight of costs and purchasing decisions. AI strengthens these operational foundations by analyzing large volumes of retail data and converting that information into clear insights that support more informed planning and consistent decision-making. This technology processes this information quickly and identifies meaningful patterns that support confident planning.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI & Personalization",
+            "Supply Chain"
+          ],
+          "brands": [],
+          "reach": 273484,
+          "ave": 2529.73
+        },
+        {
+          "id": "2trn4t",
+          "headline": "The World Cup Provided A Much-Needed Boost To The Retail Industry This Summer",
+          "source": "Modern Retail",
+          "author": "Gabriela Barkho",
+          "url": "https://www.modernretail.co/marketing/the-world-cup-provided-a-much-needed-boost-to-the-retail-industry-this-summer/",
+          "section": "Industry News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Despite some early doubt, the 2026 FIFA World Cup has served as a major marketing and retail catalyst for the U.S.’s retail and service industries throughout the summer. From tourists’ obsession with ranch dressing to viral Waffle House trips, the 2026 World Cup brought a much-needed boost to the U.S. retail and service industries this summer. Host cities, in particular, experienced a surge in consumer activity as millions of international and domestic fans flocked to stadiums and fan zones. This influx of visitors delivered a revenue boost from foot traffic as people spent more on sports merchandise, watching games at bars and restaurants and even hosting their own watch parties.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 482884,
+          "ave": 4466.68
+        },
+        {
+          "id": "hcnzsv",
+          "headline": "Former Retail Giant Closes More Stores",
+          "source": "The Street",
+          "author": "Fernanda Tronco",
+          "url": "https://www.thestreet.com/retail/staples-closing-stores-2026",
+          "section": "Industry News",
+          "date": "July 19, 2026",
+          "iso": "2026-07-18",
+          "summary": "After quietly shrinking its retail footprint over the past year, one of the nation’s largest office supply chains is set to close more stores in August, extending its ongoing effort to adapt to changing consumer demand. As online shopping grows in popularity and digital tools replace many paper-based workflows, retailers focused on workplace products have been forced to rethink their physical footprints. Rising operating costs and an uncertain economic environment have only accelerated that shift. Founded in 1986 in Brighton, Massachusetts, Staples grew into one of the country’s largest providers of office supplies, expanding to more than 900 U.S. stores.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer",
+            "Supply Chain"
+          ],
+          "brands": [],
+          "reach": 899790,
+          "ave": 8323.06
+        },
+        {
+          "id": "5va7mu",
+          "headline": "Retail Industry Set To Record Its Fastest Growth Rate Since 2022",
+          "source": "Mass Market Retailers",
+          "author": "Scot Meyer",
+          "url": "https://massmarketretailers.com/retail-industry-set-to-record-its-fastest-growth-rate-since-2022/",
+          "section": "Industry News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "Coresight Research says tax refunds and rising prices are lifting the top line, even as a K-shaped economy divides shoppers. The U.S. retail industry is barreling toward $6 trillion in annual sales, according to a new report from Coresight Research. But the road there runs through an increasingly split economy. The research firm's \"Market Navigator: US Retail\" report projects total retail sales growth will accelerate to 4.4% in 2026, up from 4.0% last year and the biggest increase since 2022, pushing the market to $5.5 trillion. Coresight expects total retail sales to hit the $6 trillion threshold in 2029.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 502389,
+          "ave": 4647.1
+        },
+        {
+          "id": "qozm9p",
+          "headline": "Trump Touts Giant Eagle Price Cuts On More Than 300 Products Through Labor Day",
+          "source": "Fox Business",
+          "author": "Landon Mion",
+          "url": "https://www.foxbusiness.com/retail/giant-eagle-price-cuts-grocery-products-labor-day.amp",
+          "section": "Industry News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "'The Big Money Show' panel debates whether Walmart's sweeping price cuts are driven by competition, consumer demand or President Donald Trump's economic agenda as the retail giant slashes prices on thousands of items. President Donald Trump on Sunday praised Giant Eagle for lowering prices on more than 300 frequently purchased products through Labor Day. The grocery chain launched the seasonal promotion on July 9, reducing prices by an average of 10% on products that include proteins, produce and summer snacks. Trump said the grocery chain will be cutting prices \"by a lot.\"",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 386225,
+          "ave": 3572.58
+        },
+        {
+          "id": "c3o0w9",
+          "headline": "Major Grocery Chain Beats Walmart, Aldi In Price War As Shoppers Hunt For Checkout Relief",
+          "source": "Fox Business",
+          "author": "Sophia Compton",
+          "url": "https://www.foxbusiness.com/lifestyle/major-grocery-chain-beats-walmart-aldi-price-war-shoppers-hunt-checkout-relief",
+          "section": "Industry News",
+          "date": "July 19, 2026",
+          "iso": "2026-07-18",
+          "summary": "Shoppers looking to stretch their grocery budgets may want to take a closer look at Kroger. The Ohio-based grocer had the cheapest store-brand grocery basket in a new price comparison of four major U.S. grocery chains. A new study from Restaurant Furniture Plus compared the cost of 15 store-brand essentials at Kroger, Walmart, Aldi and Albertsons, including milk, bread, eggs, chicken breast, spaghetti, canned beans and baking items, Southern Living reported. Kroger ranked No. 1 with a total basket cost of $30.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart",
+            "Kroger"
+          ],
+          "reach": 386225,
+          "ave": 3572.58
+        },
+        {
+          "id": "jgyffc",
+          "headline": "Walmart Rival Deploys Hidden Anti-Theft Tactic That Is Triggered The Second You Enter – Beware Of ‘Watch List’",
+          "source": "The Sun",
+          "author": "Grace Harrington",
+          "url": "https://www.the-sun.com/money/16709878/grocery-outlet-california-facial-recognition-shoplifting/",
+          "section": "Industry News",
+          "date": "July 18, 2026",
+          "iso": "2026-07-17",
+          "summary": "A WALMART rival has rolled out a hidden anti-theft tactic – and shoppers won’t know that they’re on a watchlist. Shoppers and privacy experts have mixed feelings about the technology, but stores say it’s important for tracking shoplifting. Grocery Outlet stores in the San Francisco Bay Area have deployed facial recognition technology to curb shoplifting. Signs posted on the front doors of Grocery Outlet locations around the region alert customers that they are being tracked by a software called SAFR.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
         }
       ]
     }
