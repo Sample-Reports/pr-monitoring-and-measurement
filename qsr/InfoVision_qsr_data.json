@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "qsr",
-  "_savedAt": "2026-07-17T12:09:48.724Z",
-  "_dayCount": 3,
+  "_savedAt": "2026-07-20T13:46:37.529Z",
+  "_dayCount": 4,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:45.173Z",
@@ -569,6 +569,394 @@
           "brands": [],
           "reach": 239467,
           "ave": 2215.07
+        }
+      ]
+    },
+    "2026-07-20": {
+      "uploadedAt": "2026-07-20T13:46:33.669Z",
+      "filename": "InfoVision_QSR_Media_Briefing_2026-07-20.docx",
+      "articles": [
+        {
+          "id": "hd3kvg",
+          "headline": "Why KFC Stopped Calling Itself Kentucky Fried Chicken — And The Myths That Still Won't Die",
+          "source": "Fox News",
+          "author": "Teresa Mull",
+          "url": "https://www.foxnews.com/food-drink/why-kfc-stopped-calling-itself-kentucky-fried-chicken-myths-still-wont-die",
+          "section": "Brand News",
+          "date": "July 18, 2026",
+          "iso": "2026-07-17",
+          "summary": "Kentucky Fried Chicken officially shortened its name to KFC in 1991, and the reason behind the rebranding has fueled rumors ever since. One persistent myth falsely claims the Commonwealth of Kentucky trademarked the state's name and forced the company to pay licensing fees. Another urban legend alleged KFC was breeding extra-large, \"genetically modified organisms\" with extra legs, so they couldn’t technically call their signature dish \"chicken\" anymore. The mutant chicken rumors resulted in Chinese courts finding several companies liable for spreading false claims that damaged KFC’s reputation. KFC China won a defamation lawsuit that resulted in three tech firms being fined for damaging KFC’s brand, Reuters reported in 2016.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 23808004,
+          "ave": 220224.04
+        },
+        {
+          "id": "rxfyhl",
+          "headline": "10 Clear Signs KFC's Struggles Aren't Over",
+          "source": "Tasting Table",
+          "author": "Fred Decker",
+          "url": "https://www.tastingtable.com/2215799/crystal-clear-signs-kfc-struggling-survive/",
+          "section": "Brand News",
+          "date": "July 19, 2026",
+          "iso": "2026-07-18",
+          "summary": "KFC is considered to be one of the most iconic American fast food brands, with its distinctive red and white buckets of chicken and familiar \"It's finger lickin' good\" slogan. The company has been around in one way or another since Colonel Harland Sanders opened Sanders Court and Café in Corbin, Kentucky in 1930. After more than two decades of trials and travails – including perfecting his now-famous recipe — Sanders turned to franchising. The first Kentucky Fried Chicken franchise opened in 1952, and rapidly grew into a titan of the then-new fast food industry.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 760318,
+          "ave": 7032.94
+        },
+        {
+          "id": "hte1gz",
+          "headline": "KFC Expands In Arizona With Restaurant Opening In Sun City",
+          "source": "QSR Web",
+          "author": "",
+          "url": "https://www.qsrweb.com/news/kfc-expands-in-arizona-with-restaurant-opening-in-sun-city/",
+          "section": "Brand News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "KFC has expanded its presence in Arizona with the opening of a restaurant in Sun City, according to a press release. The restaurant, located at 10801 W. Grand Ave. near Plaza de Grande, officially opened for business on July 8. The location is owned and operated by Pak Foods, LLC, a Houston-based franchisee group that operates more than 160 restaurants across the Southwest. Leadership team members Tanweer and Rehman Ahmed are spearheading the operations in Sun City. \"We're proud to officially bring KFC to the Sun City community and create a convenient new destination for residents and visitors to enjoy the brand's iconic menu offerings,\" Rehman said in the press release. \"Our team is committed to providing a welcoming experience and high-quality service for every guest who visits. We look forward to becoming part of the community and serving Sun City residents for years to come.\"",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 682532,
+          "ave": 6313.42
+        },
+        {
+          "id": "3mf75g",
+          "headline": "5 Chain Restaurants With The Best Loaded Mashed Potato Bowls, According To Diners",
+          "source": "Eat This Not That",
+          "author": "Leah Groth",
+          "url": "https://www.eatthis.com/best-chain-restaurant-loaded-mashed-potato-bowls/",
+          "section": "Brand News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "The potato is one of the most versatile veggies. You can bake it, mash it, fry it; the options are endless. Mashed potatoes are a favorite, especially when loaded. Some places serve it in a bowl as a “loaded mashed potato” side, while others add fried chicken and veggies and serve it as an entree. The most famous restaurant serving loaded mashed potato bowls is KFC, which offers the signature Famous Bowl made with mashed potatoes, gravy, sweet corn, crispy chicken nuggets, and a 3-cheese blend. They are so legendary that there are endless copycat recipes available online.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 453838,
+          "ave": 4198
+        },
+        {
+          "id": "q9q9fl",
+          "headline": "Wendy’s Is Celebrating National Ice Cream Day With $1 Frostys",
+          "source": "Sporked",
+          "author": "Mikaela Hardiman",
+          "url": "https://sporked.com/article/wendys-is-celebrating-national-ice-cream-day-with-1-frostys/",
+          "section": "Brand News",
+          "date": "July 18, 2026",
+          "iso": "2026-07-17",
+          "summary": "Those days have mostly disappeared. Dollar menus became value menus, value menus became $5 meal deals, and now even a basic combo can creep toward $15 depending on where you live. For a little while, though, Wendy’s is bringing back one of fast food’s increasingly rare bargains. To celebrate National Ice Cream Day, the chain is offering small Classic Chocolate and Vanilla Frostys for just $1. Wendy’s Rewards members get early access through the app on July 19th, before the promotion opens to everyone from July 20th through August 23rd at participating locations. It’s a straightforward deal. But it also feels like a reminder that the Frosty has become one of fast food’s few untouchable classics.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 267830,
+          "ave": 2477.43
+        },
+        {
+          "id": "vhhbbn",
+          "headline": "World Cup Final 2026 Deals And Freebies: Mcdonald’s, Chipotle And More",
+          "source": "New York Post",
+          "author": "Andrea Palladino",
+          "url": "https://nypost.com/2026/07/19/lifestyle/world-cup-final-2026-food-deals-mcdonalds-chipotle-and-more/",
+          "section": "Brand News",
+          "date": "July 19, 2026",
+          "iso": "2026-07-18",
+          "summary": "As the World Cup Final kicks off on Sunday, July 19, fans don’t need a jersey to score and win big. Whether you’re a die-hard Soccer fan or just looking for halftime snacks, restaurants and chains are serving up major league deals for your watch party. The Mexican chain is giving away $1 million in free food during Sunday’s final. Keep your eyes peeled during the match’s second hydration break, usually the 67th-minute mark.Chipotle will post an instagram video that will reveal a code to help you win free food.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Value & Pricing"
+          ],
+          "brands": [
+            "McDonald's",
+            "Chipotle"
+          ],
+          "reach": 581777,
+          "ave": 5381.44
+        },
+        {
+          "id": "ix13lx",
+          "headline": "This Is The Worst Week In Slop Bowl History",
+          "source": "Slate Magazine",
+          "author": "Nitish Pahwa",
+          "url": "https://slate.com/business/2026/07/cyclosporiasis-taco-bell-chipotle-slop-bowl.html",
+          "section": "Brand News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "We still don’t know what exactly is driving our national outbreak of cyclosporiasis, the parasitic infection that has stricken thousands of Americans with explosive diarrhea. In part, you can thank the Trump administration’s self-sabotaged public health apparatus. That likely includes Taco Bell—which has now “voluntarily and temporarily” removed some unnamed ingredients from restaurants located within various Midwestern and Appalachian states—but none of this is a mere consequence of living más. The sheer reach of the Cyclospora parasite indicates other contributors at play, and despite expert recommendations to the contrary, it’s already fomenting a mild panic over produce. Shares of publicly traded fast-casual staples like Sweetgreen, Cava, and Chipotle took steady hits this week, as did T-Bell parent company Yum! Brands. And sheer uncertainty abounds over how to handle raw fruits and veggies while this parasite crawls about.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Chipotle",
+            "Taco Bell"
+          ],
+          "reach": 636091,
+          "ave": 5883.84
+        },
+        {
+          "id": "8oh010",
+          "headline": "How Burger King Is Preparing For The GLP-1 Revolution",
+          "source": "NBC News",
+          "author": "Grace Thomas, Hallie Jackson",
+          "url": "https://www.nbcnews.com/business/ceo-interviews/burger-king-glp1s-tom-curtis-rcna588024",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "As weight loss drugs reshape how Americans eat, Burger King is gearing up for a future where customers still want fast food — just less of it. “My impulse has always been that this GLP-1 movement is going to have a profound impact on the industry,” said Burger King’s president of U.S. and Canada, Tom Curtis, in an interview in Miami for NBC’s Business in America franchise. “We haven’t seen it yet, so I keep telling the team, ‘Hey, we need to be prepared for this,’” he said. At Burger King, the preparations have already begun. Curtis said the chain is testing menu items like Whopper Bites and protein-forward bowls, partly to accommodate the shifting tastes of GLP-1 users.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 8916188,
+          "ave": 82474.74
+        },
+        {
+          "id": "8o92l3",
+          "headline": "How Burger King Is Navigating Changing American Eating Habits And Rising Costs",
+          "source": "NBC News",
+          "author": "",
+          "url": "https://www.nbcnews.com/nightly-news/video/how-burger-king-is-navigating-changing-american-eating-habits-and-rising-costs-266922053831",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "NBC News’ Hallie Jackson sat down with Burger King President Tom Curtis to discuss how his company, famous for its Whopper burgers, is positioning itself at a time when more and more Americans turn to GLP-1s to lose weight.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 8916188,
+          "ave": 82474.74
+        },
+        {
+          "id": "i2p7xg",
+          "headline": "Burger King Offers Duo And Trio Meal Deals — Starting At Just $5",
+          "source": "Greater Seattle on the Cheap",
+          "author": "",
+          "url": "https://www.greaterseattleonthecheap.com/burger-king-offers-duo-and-trio-meal-deals-starting-at-just-5/",
+          "section": "Brand News",
+          "date": "July 19, 2026",
+          "iso": "2026-07-18",
+          "summary": "Would like two items or three? Burger King is treating bargain hunters like royalty with two great meal deal options – the Duo or Trio. You have the option of choosing items from a select menu for a discounted price: Two items for $5 or three items for $7. Create your very own value meal deal or share the savings with a friend, family or co-worker. Plus, you can always save the extra item(s) for dinner or lunch the next day…or even a midnight snack!",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Sustainability & Labor"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 828739,
+          "ave": 7665.84
+        },
+        {
+          "id": "in3crm",
+          "headline": "Over 2,000 Operators Surveyed In New Drive-Thru Study",
+          "source": "QSR Magazine",
+          "author": "",
+          "url": "https://www.qsrmagazine.com/sponsored_content/over-2000-operators-surveyed-in-new-drive-thru-study/",
+          "section": "AI Pulse",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "Quick-service restaurant operators want a seamless, profitable drive-thru. Legacy in-ground sensors and operational blind spots quietly leak revenue from the lane without anyone realizing it. The alternative gaining rapid traction is camera-based AI and video analytics. Unlike in-ground loops, camera-based AI technology provides “visual truth” by tracking the total journey from the moment a car enters the property. The report highlights that 55.4 percent of operators who successfully solved lane issues did so through technology and AI adoption, while only 12.1 percent found success through staffing adjustments alone.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI & Automation"
+          ],
+          "brands": [],
+          "reach": 68484,
+          "ave": 633.48
+        },
+        {
+          "id": "4n4u2",
+          "headline": "The Restaurant Profitability Gap: Why AI Adopters Are Pulling Ahead",
+          "source": "Food & Beverage Magazine",
+          "author": "",
+          "url": "https://www.fb101.com/restaurant365-restaurant-profitability-gap-ai-adopters-302825987",
+          "section": "AI Pulse",
+          "date": "July 19, 2026",
+          "iso": "2026-07-18",
+          "summary": "For years, \"AI in the back office\" sounded like a pitch deck promise. New data suggests it's now a P&L reality—and the operators who ignored it may be watching competitors quietly widen the margin gap. On July 16, 2026, Restaurant365, the restaurant management platform, released its 2026 State of the Restaurant Industry Mid-Year Report, drawing on survey responses from more than 420 restaurant operators representing nearly 10,000 U.S. locations across quick-service, fast casual, casual dining, fine dining, pizza, and coffee concepts. The headline finding: a measurable Restaurant Profitability Gap is opening between operators who use AI to turn operational data into action and those who haven't adopted it yet. According to the report, 62% of operators have implemented or plan to implement AI in at least one back-office function—more than double the level reported at the beginning of the year. Reporting and analytics lead the way, followed by scheduling and inventory forecasting.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI & Automation",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 320263,
+          "ave": 2962.43
+        },
+        {
+          "id": "u5el62",
+          "headline": "4 Ways AI-Using Restaurants Are Cutting Food, Labor Costs To Outpace Competitors",
+          "source": "Fast Casual",
+          "author": "Cherryh Cansler",
+          "url": "https://www.fastcasual.com/blogs/4-ways-ai-using-restaurants-are-cutting-food-labor-costs-to-outpace-competitors/",
+          "section": "AI Pulse",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "Let's start with the obvious: Restaurants using AI are pulling ahead of those that aren't. If that headline alone doesn't shock you, I'm not surprised. We've been watching this trend build for a while now, but mid-year research from Restaurant365 puts real numbers behind the gap. Its 2026 State of the Restaurant Industry Mid-Year Report surveyed over 420 operators representing nearly 10,000 U.S. locations spanning quick-service, fast casual, casual dining, fine dining, pizza and coffee concepts. The company is calling the divide it uncovered the \"Restaurant Profitability Gap,\" and it's not just a catchy label; it's a measurable difference in how restaurants are performing depending on whether they've put AI to work in the back office.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "AI & Automation",
+            "Expansion & Store",
+            "Sustainability & Labor"
+          ],
+          "brands": [],
+          "reach": 348751,
+          "ave": 3225.95
+        },
+        {
+          "id": "3cbg1p",
+          "headline": "Panera Just Announced A Big Change, And Now Some Fans Are Swearing Off The Chain For Good",
+          "source": "Allrecipes",
+          "author": "Samantha Dillard",
+          "url": "https://www.allrecipes.com/panera-announces-sip-club-limits-12021858",
+          "section": "Industry News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "Panera makes a habit of listening to its guests. When it entered its “new era,” it began rebuilding the menu with customer value and preferences in mind. Over the last few years, fans have been treated to revamped versions of their favorite meals, a new value menu, and the return of beloved seasonal favorites. But not every change is being met with excitement. Recently, Panera announced an update to its Sip Club membership, and some fans say they’re considering leaving the chain for good.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing"
+          ],
+          "brands": [],
+          "reach": 498172,
+          "ave": 4608.09
+        },
+        {
+          "id": "x4ezwq",
+          "headline": "My Favorite Fast Food Dessert Is So Much Better Than A Dairy Queen Blizzard—Here's Why",
+          "source": "Allrecipes",
+          "author": "Deanne Revel",
+          "url": "https://www.allrecipes.com/why-the-mcflurry-tastes-better-than-blizzard-12001274",
+          "section": "Industry News",
+          "date": "July 19, 2026",
+          "iso": "2026-07-18",
+          "summary": "Soft serve is the OG fast food dessert. Without drive-thru soft serve, we wouldn't have the Wendy's Frosty, A&W's Root Beer Float, or the Dairy Queen Blizzard. DQ's iconic treat has come a long way since the '80s, with seemingly an infinite list of flavor options and secret menu items to boot. But I get overwhelmed by a vast menu. And I'm also a creature of habit. Nothing is better than a classic Oreo Blizzard. Well, except for the Oreo McFlurry. Turn your cup upside down all you want. To quote the modern-day sage Shania Twain, \"That don't impress me much.\" The McDonald's Oreo McFlurry is ten times better than the Dairy Queen Oreo Blizzard—and I can prove it.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "McDonald's",
+            "Wendy's"
+          ],
+          "reach": 498172,
+          "ave": 4608.09
+        },
+        {
+          "id": "gcnt06",
+          "headline": "Surprise, Raising Cane's Reopens In Fort Collins Earlier Than Expected",
+          "source": "The Coloradoan",
+          "author": "David Dishman",
+          "url": "https://www.coloradoan.com/story/news/local/colorado/2026/07/18/fort-collins-raising-canes-reopens/90968018007/",
+          "section": "Industry News",
+          "date": "July 18, 2026",
+          "iso": "2026-07-17",
+          "summary": "Raising Cane's has reopened in Fort Collins. The popular national fried chicken chain opened July 18 after a summer renovation. Founded in Baton Rouge, Louisiana, in 1996, Raising Cane's is known for its chicken fingers, crinkle-cut fries, Texas toast and signature Cane's Sauce. The chain has since grown into one of the nation's largest chicken-focused fast-food brands, with more than 800 restaurants nationwide, according to the company's website.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 55045,
+          "ave": 509.17
+        },
+        {
+          "id": "mv0y8r",
+          "headline": "Raising Cane's Owner Todd Graves On How Viral Tom Brady-Rob Gronkowski Dunk Tank Came To Be At Fanatics Fest",
+          "source": "Fox News",
+          "author": "Scott Thompson",
+          "url": "https://www.foxnews.com/sports/raising-canes-owner-todd-graves-viral-tom-brady-rob-gronkowski-dunk-tank-fanatics-fest",
+          "section": "Industry News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "Fanatics Fest is a viral moment waiting to happen considering the plethora of superstars under one Manhattan roof, and perhaps the first one came on Thursday’s opening day at the Javits Center in the Raising Cane’s activation. It was a legendary combination of Tom Brady, Rob Gronkowski and 500 gallons of Raising Cane’s famous sauce filled in a dunk tank. Brady, whose accuracy with a football is still unmatched, didn’t miss his target. Gronkowski went splashing into the sauce, as Brady and Raising Cane’s owner Todd Graves joined the masses in celebrating one of the coolest moments to kick off Fanatics Fest.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 23808004,
+          "ave": 220224.04
+        },
+        {
+          "id": "ohd2an",
+          "headline": "The Fast Food Spicy Chicken Sandwich You Should Order Every Time",
+          "source": "Food Republic",
+          "author": "Nikita Ephanov",
+          "url": "https://www.foodrepublic.com/2213275/best-fast-food-spicy-chicken-sandwich-chick-fil-a/",
+          "section": "Industry News",
+          "date": "July 19, 2026",
+          "iso": "2026-07-18",
+          "summary": "Americans love eating chicken; it comes as no surprise the protein is such a fast food staple. Convenient poultry options range from fried tenders to grilled filets, but an especially tasty dish is a spicy chicken sandwich. The delights the dish are widespread, so to navigate the options, our own Food Republic reviewer ranked 7 fast food spicy chicken sandwiches. The option that leads the pack? Unsurprising to many, the Chick-fil-A spicy chicken sandwich. The most successful chicken chain gets the details right, covering a tender marinated chicken breast in a signature paprika-cayenne seasoning, pressure fried in peanut oil to perfection. The battered chicken is served on buttery buns, alongside a few pickle slices, all ready to dip into the chain's expansive selection of sauces.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Chick-fil-A"
+          ],
+          "reach": 659810,
+          "ave": 6103.24
         }
       ]
     },
