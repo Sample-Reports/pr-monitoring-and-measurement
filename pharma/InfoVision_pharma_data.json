@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "pharma",
-  "_savedAt": "2026-07-17T12:09:18.974Z",
-  "_dayCount": 3,
+  "_savedAt": "2026-07-20T13:46:22.341Z",
+  "_dayCount": 4,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:09.000Z",
@@ -797,6 +797,485 @@
           "brands": [],
           "reach": 50996,
           "ave": 471.71
+        }
+      ]
+    },
+    "2026-07-20": {
+      "uploadedAt": "2026-07-20T13:46:18.219Z",
+      "filename": "InfoVision_Pharma_Media_Briefing_2026-07-20.docx",
+      "articles": [
+        {
+          "id": "h8b5b2",
+          "headline": "Eli Lilly Long-Term GLP-1 Franchise Faces Limited Generic Threat, UBS Says",
+          "source": "FirstWord PHARMA",
+          "author": "",
+          "url": "https://firstwordpharma.com/story/7755385",
+          "section": "Brand News",
+          "date": "July 19, 2026",
+          "iso": "2026-07-18",
+          "summary": "Analysts at UBS Securities said Eli Lilly's long-term GLP-1 franchise is unlikely to face significant pressure from generic GLP-1 drugs, as manufacturing constraints should limit generic market penetration, as reported in Fidelity. Generic semaglutide is expected to supply only about 25% to 30% of the global branded GLP-1 market by 2030, they said, citing bottlenecks in fill-finish capacity, device integration and auto-injector pen manufacturing rather than active pharmaceutical ingredient production. Research into Indian suppliers and the broader device supply chain suggests generic manufacturers will struggle to scale production despite multiple market entrants, leaving a structural supply shortfall, according to the UBS report.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 158563,
+          "ave": 1466.71
+        },
+        {
+          "id": "7sca0a",
+          "headline": "The Market For Psychedelic Drugs To Treat Mental Health Conditions Gets A Big Buy Signal",
+          "source": "CNBC",
+          "author": "Bob Woods",
+          "url": "https://www.cnbc.com/2026/07/19/psychedelic-drugs-mental-health.html",
+          "section": "Brand News",
+          "date": "July 19, 2026",
+          "iso": "2026-07-18",
+          "summary": "Thursday’s announcement that Eli Lilly will acquire AtaiBeckley, a clinical-stage maker of psychedelic drugs, for up to $3.8 billion indicates Big Pharma’s increasing embrace of a long-stigmatized class of medications as alternatives for treating an array of mental health conditions. The news comes on the heels of positive clinical trial results of several different psychedelics, as well as President Trump’s executive order in April fast-tracking reviews of such drugs by the Food and Drug Administration. AtaiBeckley’s lead asset, BPL-003, is a synthetic form of 5-MeO-DMT — derived from the venom of Sonoran Desert toads —administered as an intranasal spray for treatment-resistant depression, a severe form of the illness that ​does not improve after standard treatments, which affects around four million Americans.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 313068,
+          "ave": 2895.88
+        },
+        {
+          "id": "nbwom1",
+          "headline": "Watch Out, Eli Lilly And Novo Nordisk: Viking Therapeutics Just Started Testing A Weight Loss Drug That Goes Beyond GLP-1",
+          "source": "The Motley Fool",
+          "author": "Alex Carchidi",
+          "url": "https://www.fool.com/investing/2026/07/18/watch-out-eli-lilly-and-novo-nordisk-viking-just/",
+          "section": "Brand News",
+          "date": "July 18, 2026",
+          "iso": "2026-07-17",
+          "summary": "The human appetite has more than one off switch, and drugmakers like Eli Lilly and Novo Nordisk are doing their darndest to identify and develop a medicine to target every single one. On June 24, Viking Therapeutics announced a phase 1 trial for one of its candidates that's attempting to flip one of those as-yet unmedicated appetite switches. That marks its first obesity candidate working outside the incretin pathway that includes GLP-1, or glucagon-like peptide-1, the hormone behind Ozempic and Wegovy and one of two hormones behind Zepbound and Mounjaro. Let's take a look at this program and determine whether it's really going to be a threat to Novo Nordisk and Eli Lilly.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 743991,
+          "ave": 6881.92
+        },
+        {
+          "id": "dd2mxq",
+          "headline": "Eli Lilly Files Initial Plans For $6.5B Generation Park Manufacturing Site",
+          "source": "The Business Journals",
+          "author": "Jishnu Nair",
+          "url": "https://www.bizjournals.com/houston/news/2026/07/17/eli-lilly-early-filings-generation-park-plant.html",
+          "section": "Brand News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "The pharmaceutical giant made a major splash last year by announcing its commitment to Houston and Texas for a pharmaceutical manufacturing site. Early filings show some of the initial vision behind the campus.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 304269,
+          "ave": 2814.49
+        },
+        {
+          "id": "pomfd8",
+          "headline": "J&J Asks Court To Dismiss All 67,000 Ovarian Cancer Talc Lawsuits",
+          "source": "Mesothelioma.net",
+          "author": "",
+          "url": "https://mesothelioma.net/mesothelioma-news/jj-asks-court-to-dismiss-all-67000-ovarian-cancer-talc-lawsuits/",
+          "section": "Brand News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "Facing tens of thousands of personal injury and wrongful death claims from mesothelioma and ovarian cancer victims, Johnson & Johnson has asked a federal judge to dismiss 67,000 lawsuits alleging that use of its baby powder caused ovarian cancer. Attorneys representing the victims say that the legal maneuver is “as breathtaking as it is meritless,” calling it a desperate attempt to avoid jury trials that have repeatedly resulted in massive verdicts against the company. While most mesothelioma victims are filing individual claims, thousands of ovarian cancer victims have joined a multi-district litigation group (MDL) that will be heavily affected by the outcomes of several bellweather claims.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 784216,
+          "ave": 7254
+        },
+        {
+          "id": "ok5s7d",
+          "headline": "How Will AbbVie's $10.9 Billion Acquisition Of Apogee Impact Its Dividend?",
+          "source": "The Motley Fool",
+          "author": "Prosper Junior Bakiny",
+          "url": "https://www.fool.com/investing/2026/07/19/how-will-abbvies-109-billion-acquisition-of-apogee/",
+          "section": "Brand News",
+          "date": "July 19, 2026",
+          "iso": "2026-07-18",
+          "summary": "On June 22, AbbVie announced that it would acquire Apogee Therapeutics for $10.9 billion in cash. Some investors celebrated the move, since it will add zumilokibart, a promising investigational medicine for eczema, to AbbVie's lineup and help it solidify its leadership in immunology. However, others may fear that, given how much it will spend on this buyout, the transaction may impact AbbVie's dividend program, one of the company's key selling points. Expensive acquisitions can put downward pressure on a company's dividend program if they significantly reduce the cash available to be returned to shareholders. With AbbVie ending 2025 with $17.8 billion in free cash flow, some fear that this is what will happen. But it's worth noting that AbbVie is a Dividend King, or a corporation with 50 (or more) consecutive years of dividend increases, once we factor in the time it spent under Abbott Laboratories' wing.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 743991,
+          "ave": 6881.92
+        },
+        {
+          "id": "cre6qs",
+          "headline": "Bristol Myers (BMY) Is Up 5.5% After FDA Accepts Mezigdomide NDA In Multiple Myeloma",
+          "source": "Simply Wall St.",
+          "author": "",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-bmy/bristol-myers-squibb/news/bristol-myers-bmy-is-up-55-after-fda-accepts-mezigdomide-nda/amp",
+          "section": "Brand News",
+          "date": "July 19, 2026",
+          "iso": "2026-07-18",
+          "summary": "In July 2026, Bristol Myers Squibb announced that the FDA accepted its New Drug Application for mezigdomide in combination with carfilzomib and dexamethasone to treat relapsed or refractory multiple myeloma, backed by Phase 3 data showing a clinically meaningful improvement in progression-free survival versus standard of care. An interesting aspect of this update is that the SUCCESSOR-2 trial enrolled a heavily pretreated, mostly triple-class-exposed patient population, highlighting potential relevance for difficult-to-treat multiple myeloma cases and reinforcing the importance of cereblon E3 ligase modulators in BMS’s hematology portfolio. We’ll now examine how the Phase 3 progression-free survival benefit for MeziKd could influence Bristol Myers Squibb’s broader investment narrative.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 737391,
+          "ave": 6820.87
+        },
+        {
+          "id": "x1dsqa",
+          "headline": "Understanding Agentic AI In Clinical Development",
+          "source": "Fierce Biotech",
+          "author": "Rajneesh Patil",
+          "url": "https://www.fiercebiotech.com/sponsored/understanding-agentic-ai-clinical-development",
+          "section": "AI Pulse",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Earlier this year, my colleague Matt Harrington suggested that clinical leaders should stop asking whether their organizations have an “AI strategy”, not because strategy doesn’t matter, but because the question often produces the wrong conversation. Too often, discussions about AI become conversations about platforms, vendors, models and roadmaps. What leaders really need to understand is how AI is being used to predict what matters, optimize what works and automate activities that improve clinical development performance. These are the capabilities that ultimately determine whether technology creates measurable value or becomes another underutilized investment.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 467472,
+          "ave": 4324.12
+        },
+        {
+          "id": "cp7813",
+          "headline": "AI-Driven Discovery Platforms",
+          "source": "Trend Hunter",
+          "author": "",
+          "url": "https://www.trendhunter.com/amp/trends/Pharma-AI-suite",
+          "section": "AI Pulse",
+          "date": "July 19, 2026",
+          "iso": "2026-07-18",
+          "summary": "Takeda partnered with Insilico Medicine to use the Pharma AI suite for early-stage drug discovery across multiple therapeutic areas. The collaboration gives Takeda exclusive worldwide rights to develop, manufacture and commercialize candidates identified through the program, with Insilico leading the AI-driven discovery process before Takeda advances selected therapies through clinical development. The Pharma.AI suite includes PandaOmics for target identification, Chemistry42 for de novo molecule design and InClinico for clinical trial prediction. The agreement includes approximately US$60 million in upfront and near-term payments and could reach around US$600 million through preclinical, clinical, commercial and sales milestones. Insilico is also eligible to receive tiered royalties, while the collaboration complements Takeda's broader use of automation, robotics and generative AI in drug discovery.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Clinical Trials"
+          ],
+          "brands": [
+            "Takeda"
+          ],
+          "reach": 77405,
+          "ave": 716
+        },
+        {
+          "id": "g5xbbg",
+          "headline": "How Well Are AI-Discovered Drugs Faring In The Clinic?",
+          "source": "BioPharma Dive",
+          "author": "Kelly Bilodeau",
+          "url": "https://www.biopharmadive.com/news/ai-drug-discovery-insilico-recursion-verge/825367/",
+          "section": "AI Pulse",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "AI has been touted as a tool to streamline drug R&D, which can cost $2.6 billion and take up to 15 years, according to the Journal of Medicinal Chemistry. But whether AI will actually develop better drugs remains an open and complicated question. To date, few AI drugs have reached clinical trials. Those that have tend to see more success in phase 1 than traditional drugs. However, that advantage might not hold up in additional testing. The space has also been marked by high-profile setbacks, including Verge Genomics’s AI-identified ALS candidate, VRG50635, which failed to move beyond an early-stage trial.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 835921,
+          "ave": 7732.27
+        },
+        {
+          "id": "aqkxi",
+          "headline": "The End For GSK’s Chronic Cough Treatment",
+          "source": "STAT News",
+          "author": "Meghana Keshavan",
+          "url": "https://www.statnews.com/2026/07/17/biotech-news-gsk-chronic-cough-treatment-meets-the-end-of-the-line/",
+          "section": "AI Pulse",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "Hiya. Today, we explore a gene therapy approach that’s drawing excitement but also skepticism, and see that Jennifer Doudna is moving into AI-designed gene editors that push beyond evolution. Plus, our trusty podcasters unpack the buzzy prediction market Kalshi’s move into biotech.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "GSK"
+          ],
+          "reach": 478047,
+          "ave": 4421.93
+        },
+        {
+          "id": "wgas3w",
+          "headline": "Artificial Intelligence In Pharmacy Practice: Enhancing Efficiency And Clinical Decision-Making",
+          "source": "Pharmacy Times",
+          "author": "Anjeza Fero",
+          "url": "https://www.pharmacytimes.com/view/artificial-intelligence-in-pharmacy-practice-enhancing-efficiency-and-clinical-decision-making",
+          "section": "AI Pulse",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "Artificial intelligence (AI) is widely discussed in health care, but it is already being applied in practical, workflow-driven ways throughout pharmacy practice. Rather than functioning as a clinical decision-making authority, these tools are embedded within existing systems to help manage increasing complexity in medication-related care. Their primary value is not to replace pharmacist judgment but to enhance it by organizing large volumes of clinical data, identifying meaningful patterns, and improving prioritization of patient care activities. In this context, AI functions as a supportive layer that improves efficiency while preserving the pharmacist’s central role in therapeutic decision-making. One of the most established uses for AI in pharmacy practice is predictive risk modeling using electronic health record (EHR) data. These learning systems analyze large data sets to identify patterns associated with outcomes such as hospital readmission, clinical deterioration, and medication nonadherence. Rather than producing treatment recommendations, they generate risk scores that stratify patients by likelihood of adverse outcomes.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 690777,
+          "ave": 6389.69
+        },
+        {
+          "id": "txtgqx",
+          "headline": "AI In Drug Discovery: From Target Identification To Clinical Translation",
+          "source": "Drug Discovery News",
+          "author": "Trevor J Henderson",
+          "url": "https://www.drugdiscoverynews.com/ai-in-drug-discovery-from-target-identification-to-clinical-translation-17335",
+          "section": "AI Pulse",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "AI in drug discovery has moved from a speculative tool to a working part of the pipeline at nearly every major pharmaceutical company. Machine learning now contributes to how targets are identified, how molecules are designed, how their properties are predicted, and how clinical trials are planned, and by early 2024 each of the top 20 pharmaceutical companies had announced activity in the space. But the honest picture is more nuanced than either the enthusiasts or the sceptics suggest: AI has measurably accelerated parts of discovery and improved some early success rates, while the hardest problem, reliably translating a preclinical prediction into a drug that works in patients, remains largely unsolved.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 507843,
+          "ave": 4697.55
+        },
+        {
+          "id": "ro71tq",
+          "headline": "Trump's Election Interference Claims, Red Sea Threat And Wildfire Smoke",
+          "source": "Reuters",
+          "author": "",
+          "url": "https://www.reuters.com/podcasts/trumps-election-interference-claims-red-sea-threat-wildfire-smoke-2026-07-17/",
+          "section": "Industry News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "Reuters aired a podcast in which the panel discussed Eli Lilly's entry into the psychedelic therapeutics market through its planned acquisition of AtaiBeckley for up to $3.8 billion. The deal which gives it a late-stage psychedelic-based nasal spray for treatment-resistant depression. It's the latest move by Lilly to use its massive weight-loss drug profits to diversify, and it comes as the Trump administration eases regulations on psychedelic therapies.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "M&A / Markets"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "c5hffp",
+          "headline": "What Comes After Merck’s Keytruda? The Race For The Next Standard Cancer Treatment.",
+          "source": "Barron’s",
+          "author": "Bill Alpert",
+          "url": "https://www.barrons.com/articles/merck-keytruda-cancer-drugs-treatments-ec397d85",
+          "section": "Industry News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "For many cancers now, the standard treatment is chemotherapy plus an immunotherapy such as Merck’s Keytruda, the best-selling drug in the world. But many patients eventually relapse and Keytruda patents start peeling off in 2028.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 259080,
+          "ave": 2396.49
+        },
+        {
+          "id": "oba7f0",
+          "headline": "AstraZeneca Highlights Rare Diseases In $80bn Revenue Push",
+          "source": "Financial Times",
+          "author": "Aanu Adeoye",
+          "url": "https://www.ft.com/content/159edf3d-4b88-4597-a8ef-a5fb955d2712?syn-25a6b1a6=1",
+          "section": "Industry News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. The field of rare disease medicine remains a largely untapped area open for pharmaceutical and biotech companies to develop new treatments for thousands of diseases that lack approved therapies, the head of one of the world’s largest rare disease drugmakers has said. Marc Dunoyer, chief executive of Alexion, the US-based rare disease subsidiary of AstraZeneca, said patients living with about “95 per cent” of the “10,000 identified, specific rare diseases” do not have medicines available to them. “The rare disease world is an immense field of new opportunities,” said Dunoyer, who has led Alexion since it was acquired by AstraZeneca for $39bn in 2021.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Public Health Policy"
+          ],
+          "brands": [
+            "AstraZeneca"
+          ],
+          "reach": 21414033,
+          "ave": 198079.81
+        },
+        {
+          "id": "cmkj0y",
+          "headline": "Merck Pill Becomes First Oral Option In Growing Class Of Cholesterol-Lowering Drugs",
+          "source": "Financial Times",
+          "author": "Frank Vinluan",
+          "url": "https://medcitynews.com/2026/07/merck-ldl-cholesterol-lipfendra-enlicitide-macrocyclic-peptide-pcsk9-inhibitor-mrk/",
+          "section": "Industry News",
+          "date": "July 19, 2026",
+          "iso": "2026-07-18",
+          "summary": "Statins are a standard drug for managing high cholesterol, but for patients who need something stronger, a newer class of medicines has become another option. In the more than a decade since these PCSK9 inhibitors have reached the market, all of them have been injectable. FDA approval of a Merck drug brings patients the first oral option in the class. The Thursday regulatory decision covers use of the new Merck drug alongside diet and exercise as a way to reduce excessively high LDL-cholesterol, including an inherited form of high cholesterol called heterozygous familial hypercholesterolemia (HeFH). Known in development as enlicitide, Merck’s once-daily pill will be marketed under the brand name Lipfendra.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 21414033,
+          "ave": 198079.81
+        },
+        {
+          "id": "bkfewx",
+          "headline": "Novartis Faces Drug Pipeline Test With Valuation Premium In Focus",
+          "source": "Reuters",
+          "author": "Bhanvi Satija",
+          "url": "https://www.reuters.com/legal/litigation/novartis-faces-drug-pipeline-test-with-valuation-premium-focus-2026-07-20/",
+          "section": "Industry News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Novartis investors will look beyond Tuesday's quarterly results for indications about three major drug trial readouts due in ‌the second half of the year seen as vital to justifying the Swiss drugmaker's premium valuation. Analysts say the experimental drugs - pelacarsen for cardiovascular disease, remibrutinib for multiple sclerosis and genetic disorder drug del-desiran - could shape the Basel-headquartered firm's growth outlook into the next decade, as looming patent expiries put drugmakers' pipelines under increasing scrutiny.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Clinical Trials",
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "f0x1yv",
+          "headline": "Novartis Gains Full FDA Nod For Fabhalta In Kidney Disorder IgAN",
+          "source": "Fierce Pharma",
+          "author": "Kevin Dunleavy",
+          "url": "https://www.fiercepharma.com/pharma/novartis-gains-full-fda-nod-fabhalta-kidney-disorder-igan",
+          "section": "Industry News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "With two approved medicines to treat primary immunoglobulin A nephropathy (IgAN) and a third therapy in phase 3 testing, Novartis is on its way to cornering the market for the indication. On Friday its first drug to hit the market for IgAN, Fabhalta, gained a full blessing from the FDA, with the U.S. regulator converting the drug's accelerated approval into a traditional nod. Fabhalta is now endorsed to slow kidney function decline in adult IgAN patients who are at risk for disease progression. The original, speedy IgAN approval for the first-in-class factor B complement inhibitor came two years ago to reduce proteinuria. “Today’s approval reinforces Fabhalta’s role in preserving kidney function by significantly slowing disease progression, an outcome that matters deeply to patients at risk of long-term kidney damage,” Victor Bultó, Novartis’ US president, said in a release.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 432715,
+          "ave": 4002.61
+        },
+        {
+          "id": "wriajs",
+          "headline": "A Pancreatic Cancer Vaccine Shows Promise In A Phase 1 Clinical Trial",
+          "source": "The Scientist",
+          "author": "Shelby Bradford",
+          "url": "https://www.the-scientist.com/a-pancreatic-cancer-vaccine-shows-promise-in-a-phase-1-clinical-trial-74762",
+          "section": "Industry News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Pancreatic ductal adenocarcinoma (PDAC), the most common form of pancreatic cancer, is often not detected until the advanced stages because of the limited symptoms it causes early on, leading to poor survival rates for patients. However, PDAC tumors develop slowly over decades from more benign cysts or lesions. Since 10 percent of people who develop PDAC have a genetic predisposition, this provides an opportunity for clinicians to introduce interventions early that could delay or even completely prevent the progression of pancreatic cancer. A team of researchers at Johns Hopkins University explored the potential of a vaccine targeting the most common mutations in the KRAS gene, one of the most frequently affected cell growth genes in PDAC and pancreatic lesions, for high-risk individuals.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Clinical Trials",
+            "Pipeline & R&D",
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 830537,
+          "ave": 7682.47
+        },
+        {
+          "id": "au8g49",
+          "headline": "GLP-1 Insurance Change Impacts Millions Of Americans: What To Know, How To Tell If You’re Covered",
+          "source": "The Hill",
+          "author": "Alix Martichoux",
+          "url": "https://thehill.com/policy/healthcare/5972729-glp-1-insurance-change-impacts-millions-of-americans-what-to-know-how-to-tell-if-youre-covered/",
+          "section": "Industry News",
+          "date": "July 18, 2026",
+          "iso": "2026-07-17",
+          "summary": "Insurance coverage just changed for as many as 56 million Americans when it comes to the popular GLP-1 medications used to promote weight loss. Medicare announced it is offering certain GLP-1s for $50 a month through a new trial called Medicare GLP-1 Bridge starting in July 2026. The program is temporary for now – only slated to run until the end of 2027. Still, it’s an opportunity for millions of older Americans to access a drug that’s otherwise very expensive out-of-pocket.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 68624,
+          "ave": 634.77
+        },
+        {
+          "id": "6rd2cx",
+          "headline": "GSK Stops Development Of Chronic Cough Drug After Late-Stage Trial Miss",
+          "source": "Reuters",
+          "author": "Bhanvi Satija, Prerna Bedi",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/gsk-halt-further-development-cough-drug-after-missing-main-goal-2026-07-17/",
+          "section": "Industry News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "GSK will halt development of an experimental drug ‌to treat refractory chronic cough after it failed to meet key goals across two late-stage trials, sending the British drugmaker's shares down about 4% on Friday. The higher 50 mg dose of camlipixant reduced daily coughing over 12 weeks in one trial but failed to ​replicate that result in a second study over 24 weeks, data showed. The trial failure could raise questions ​for investors who are not fully convinced that the company can reach its target ⁠of £40 billion ($53.76 billion) in annual revenue by 2031.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Clinical Trials",
+            "M&A / Markets"
+          ],
+          "brands": [
+            "GSK"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "yszqq3",
+          "headline": "How To Stop China From Leapfrogging The U.S. In Biotech",
+          "source": "The Washington Post",
+          "author": "Editorial Board",
+          "url": "https://www.washingtonpost.com/opinions/2026/07/17/how-stop-china-leapfrogging-us-biotech/",
+          "section": "Industry News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "The Washington post published an opinion piece which noted that, “China aims to overtake the United States in biopharma by running the same playbook it has employed in other sectors: a coordinated, state-led strategy that combines subsidies with scale and speed. The best way to fend off Beijing’s ambitions isn’t to copy its tactics or launch another trade war. It’s to stop punishing U.S. pharmaceutical companies and let them outcompete their rivals. China has overtaken the U.S. in clinical trials, by some measures. It has more than 7,000 drugs in the development pipeline. Chinese-made medicines cost a fraction of the price of U.S. pharmaceuticals in the global market. The US FDA’s approval process for early-stage clinical research is slow and cumbersome. It can take 10 to 12 years from discovery to final approval of a new drug",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 659937,
+          "ave": 6104.42
         }
       ]
     },
