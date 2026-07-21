@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "pharma",
-  "_savedAt": "2026-07-20T13:46:22.341Z",
-  "_dayCount": 4,
+  "_savedAt": "2026-07-21T12:14:33.554Z",
+  "_dayCount": 5,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:09.000Z",
@@ -800,6 +800,396 @@
         }
       ]
     },
+    "2026-07-17": {
+      "uploadedAt": "2026-07-17T12:08:46.296Z",
+      "filename": "InfoVision_Pharma_Media_Briefing_2026-07-17.docx",
+      "articles": [
+        {
+          "id": "nhxroi",
+          "headline": "Lilly To Acquire AtaiBeckley To Advance Therapies For Treatment-Resistant Depression And Other Mental Health Conditions",
+          "source": "PR Newswire",
+          "author": "",
+          "url": "https://www.prnewswire.com/news-releases/lilly-to-acquire-ataibeckley-to-advance-therapies-for-treatment-resistant-depression-and-other-mental-health-conditions-302827468.html",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Eli Lilly and Company and AtaiBeckley Inc., a clinical-stage biopharmaceutical company developing innovative therapeutics for mental health conditions, today announced a definitive agreement for Lilly to acquire AtaiBeckley. AtaiBeckley is advancing a pipeline of rapid-acting neuroplastogens, including multiple clinical-stage programs and a discovery pipeline of next-generation compounds. The lead asset, BPL-003 (mebufotenin benzoate), is a synthetic form of 5-MeO-DMT administered intranasally for treatment-resistant depression, which affects millions of people in the United States. Emerging research indicates that treatment-resistant depression and other serious mental health conditions may involve a loss of synaptic plasticity, the brain's ability to form and strengthen connections in regions critical to mood regulation. AtaiBeckley's therapies are designed to restore synaptic connectivity and aim to promote the growth of new neural connections, offering a distinct mechanism from conventional antidepressants that primarily target neurotransmitter levels.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 499370,
+          "ave": 4619.17
+        },
+        {
+          "id": "roz9oz",
+          "headline": "Association Files Amicus Brief Defending 340B Patient Definition",
+          "source": "America's Essential Hospitals",
+          "author": "Evan Schweikert",
+          "url": "https://essentialhospitals.org/association-files-amicus-brief-defending-340b-patient-definition/",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "America’s Essential Hospitals on July 14 joined a group of hospital associations and health care providers defending the 340B Drug Pricing Program from a lawsuit filed by pharmaceutical manufacturer AbbVie seeking to change the definition of a patient within 340B. In an April lawsuit, AbbVie alleges the Health Resources and Service Administration’s (HRSA’s) longstanding definition of a patient is “outdated, overly expansive and erroneous.” AbbVie further argues the definition denies manufacturers their right to audit providers and enables “widespread 340B program abuse.” AbbVie is suing after HRSA rejected the manufacturer’s attempt to conduct audits using their own proprietary and restrictive definition of a patient. AbbVie seeks to replace the 1996 patient definition with a far more restrictive version. The manufacturer proposes that a prescription can only qualify for a 340B discount if the medication was prescribed because of an appointment at a 340B facility, the patient received medical care at the facility, and the prescriber is managing the patient’s care, which was provided in the last 12 months.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 292959,
+          "ave": 2709.87
+        },
+        {
+          "id": "gel7bw",
+          "headline": "Biopharma Bites: Boehringer Strays From 'Triple G' Template In Obesity, Plus Supply Chain And Shortage Woes",
+          "source": "FirstWord PHARMA",
+          "author": "Elizabeth S. Eaton",
+          "url": "https://firstwordpharma.com/story/7706304",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Boehringer Ingelheim started a Phase II obesity trial on Thursday of BI 3034701, a triple agonist developed by partner Gubra — though with a slightly different mechanism of action than Eli Lilly's GLP-1/GIP/glucagon-targeting \"triple G\" agonist, retatrutide. Like retatrutide, BI 3034701 agonises GLP-1 and GIP, but instead of glucagon, it activates neuropeptide Y2 (NPY2), which is thought to modulate central hunger signalling, according to Boehringer. The candidate's advancement was prompted by Phase I findings, which demonstrated a \"generally favourable safety and tolerability profile\" for BI 3034701. \"We expect obesity care to become much more differentiated, and with BI 3034701, we aim to go beyond short-term weight loss and address both the biological and behavioural drivers of obesity,\" said Shashank Deshpande, chairman of the board of managing directors and Boehringer's head of human pharma.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [
+            "Boehringer Ingelheim",
+            "Eli Lilly"
+          ],
+          "reach": 158563,
+          "ave": 1466.71
+        },
+        {
+          "id": "lbw3rf",
+          "headline": "Boehringer Ingelheim Advances Potential First-In-Class Triple Receptor Agonist BI 3034701 To Phase 2 For Obesity",
+          "source": "BioPharm International",
+          "author": "Feliza Mirasol",
+          "url": "https://www.biopharminternational.com/view/boehringer-ingelheim-phase-2-bi-3034701-triple-receptor-agonist-obesity",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Boehringer Ingelheim has begun a phase 2 clinical trial of BI 3034701, an investigational triple glucagon-like peptide-1 (GLP-1)/glucose-dependent insulinotropic polypeptide (GIP)/neuropeptide Y2 (NPY2) receptor agonist, in adults with obesity and overweight, the company announced on July 16, 2026.¹ The trial, registered as NCT07662122, follows a phase 1 program in which BI 3034701 showed a generally favorable safety and tolerability profile.¹,⁴ If successful, BI 3034701 would add a third, differentiated hunger-signaling pathway to the GLP-1/GIP mechanisms that underlie currently marketed obesity therapies.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [
+            "Boehringer Ingelheim"
+          ],
+          "reach": 574710,
+          "ave": 5316.07
+        },
+        {
+          "id": "bpks4g",
+          "headline": "Braveheart, Attovia, Vogenx Keep IPOs Ballooning With Plans To Compete In Cardiometabolic, Immuno",
+          "source": "BioSpace",
+          "author": "Tristan Manalac",
+          "url": "https://www.biospace.com/business/braveheart-attovia-vogenx-keep-ipos-ballooning-with-plans-to-compete-in-cardiometabolic-immuno",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Braveheart Bio is looking to take on Bristol Myers Squibb in hypertrophic cardiomyopathy, while Attovia Therapeutics wants to challenge Sanofi and Regeneron’s Dupixent. Vogenx, meanwhile, is looking to establish its name in the cardiometabolic space. Wednesday witnessed double initial public offerings, maintaining an upswing in biotech public debuts this year that have already more than doubled last year’s total. A third player joined the fray on Thursday, with Vogenx also launching its bid for the Nasdaq. This week, Braveheart Bio and Attovia Therapeutics, looking to stand up to industry giants and their blockbuster drugs, announced their intention to hit the public markets as they develop their pipelines in cardiovascular and immunology indications, respectively. Vogenx, meanwhile, is advancing a pipeline of cardiometabolic therapies.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "Sanofi"
+          ],
+          "reach": 932094,
+          "ave": 8621.87
+        },
+        {
+          "id": "e5v4tw",
+          "headline": "Johnson & Johnson (JNJ) Crosses $100 Billion As DePuy Synthes Buys Spine Tech",
+          "source": "Simply Wall St",
+          "author": "Bailey Pemberton",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-jnj/johnson-johnson/news/johnson-johnson-jnj-crosses-100-billion-as-depuy-synthes-buy",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "For investors watching Johnson & Johnson, the $100b revenue milestone arrives with a stock that is trading at $247.02 and has gained 19.1% year to date and 53.7% over the past year. The longer term picture is also strong, with the share price up 69.9% over three years and 67.8% over five years, reflecting how the market has treated the company’s scale in pharmaceuticals and MedTech. These latest moves in MedTech, including the Expanding Innovations acquisition, add another layer to the Johnson & Johnson story for anyone tracking NYSE:JNJ as a healthcare anchor in a portfolio. The updated 2026 guidance and focus on advanced spine surgery technology may shape how investors think about the balance between its Innovative Medicine and MedTech operations over the coming years.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 263901,
+          "ave": 2441.08
+        },
+        {
+          "id": "dr95vc",
+          "headline": "Johnson & Johnson, TIME Launch Award Honoring U.S. Health Care Professionals",
+          "source": "ROI-NJ",
+          "author": "Sean Whooley",
+          "url": "https://www.roi-nj.com/2026/07/16/healthcare/johnson-johnson-time-launch-award-honoring-u-s-health-care-professionals/",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Johnson & Johnson and TIME have launched a new national award recognizing health care professionals whose work is helping improve patient care and advance change across the health system. The Healthcare Champion of the Year, a branded award created in partnership with Johnson & Johnson, will honor a U.S. health care professional selected by Johnson & Johnson and a panel of industry experts chosen by the company. Nominations for the inaugural award open July 16 and will close at 5 p.m. Aug. 28. The honoree will be announced ahead of TIME’s “A Year in TIME” celebration, scheduled for Dec. 9 in New York City. Eligible nominees include physicians, nurses, advanced practice clinicians, surgeons, community health workers, care navigators and other health care professionals actively involved in clinical care or care delivery in the United States.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 238275,
+          "ave": 2204.04
+        },
+        {
+          "id": "i5u5q9",
+          "headline": "Johnson & Johnson Builds Connected MedTech Platforms Around AI And Robotics",
+          "source": "The National CIO Review",
+          "author": "David Eberly",
+          "url": "https://nationalcioreview.com/articles-insights/cio-field-notes/johnson-johnson-builds-connected-medtech-platforms-around-ai-and-robotics/",
+          "section": "AI Pulse",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Johnson & Johnson reported second-quarter 2026 worldwide sales of $25.3 billion, an operational increase of 5.6%. Sales, excluding STELARA, grew at a double-digit rate. Innovative Medicine delivered growth of 6.8%, supported by product launches and demand across its medicine portfolio. Technology received considerable attention as the company covered AI-enabled cardiovascular tools, surgical robotics, and connected treatment platforms to improve clinical workflows and product performance. AI-Powered Imaging Enters the Electrophysiology Portfolio: Johnson & Johnson introduced CARTOSOUND SONATA during the quarter, adding AI-powered imaging and mapping capabilities to its electrophysiology business.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 178386,
+          "ave": 1650.07
+        },
+        {
+          "id": "eej3gj",
+          "headline": "Can Governance-By-Design Make AI Compliant In Pharma? (Part II)",
+          "source": "PharmTech.com",
+          "author": "Brian Drapeau",
+          "url": "https://www.pharmtech.com/view/can-governance-by-design-make-ai-compliant-in-pharma-part-ii",
+          "section": "AI Pulse",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Most conversations about artificial intelligence in regulated environments begin with hallucinations and content accuracy. Those concerns are real, but after more than a decade across GxP learning, quality systems, manufacturing, and research, I do not think they are the defining challenge. Documents are only the visible output of a regulated process. The harder problem begins after a document is approved. Someone still has to determine applicability, identify affected roles, update curricula, trigger qualification, verify competency, revise assessments, authorize execution, and assemble evidence that will withstand inspection. AI may reduce the time required to draft an SOP from days to minutes. That sounds transformative until the document reaches the same approval queues, training matrices, disconnected systems, and people reconstructing impact by hand. Generating faster can simply feed more content into a governance model already struggling to keep up.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 437267,
+          "ave": 4044.72
+        },
+        {
+          "id": "6fdba7",
+          "headline": "Pharma Turns To AI Self-Regulation In Canada Amid Governance Lag",
+          "source": "BioXconomy",
+          "author": "Brandy Fidler",
+          "url": "https://www.bioxconomy.com/legal/pharma-turns-to-ai-self-regulation-in-canada-amid-governance-lag",
+          "section": "AI Pulse",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "While artificial intelligent (AI) tools are already embedded in daily operation across the sector, governance is struggling to keep up, according to compliance experts from Boehringer Ingelheim, Amgen, and AstraZeneca. During a session focused on the role and ethical considerations of AI at the PCC Canada Pharma & MedTech Compliance conference in Toronto, panelists discussed the need for self-governance frameworks in the absence of AI regulation in Canada. Lina Combariza, compliance associate director at Amgen, opened the session with a quote from Spider-Man: “With great power comes great responsibility.” She continued, “Basically AI adoption is —and the way innovation is— accelerating, we’re facing a challenge that basically innovation is moving faster than regulation.”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [
+            "Boehringer Ingelheim",
+            "AstraZeneca"
+          ],
+          "reach": 238903,
+          "ave": 2209.85
+        },
+        {
+          "id": "n8a19v",
+          "headline": "AI-Ready Engineering For Life Sciences",
+          "source": "News-Medical",
+          "author": "",
+          "url": "https://www.news-medical.net/whitepaper/20260716/AI-ready-engineering-for-life-sciences.aspx",
+          "section": "AI Pulse",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "However, the Benchling team has collaborated with more than a thousand life sciences companies, consulting on their data maturity and helping them enhance and even reconstruct their data approaches. A common characteristic among successful teams is the understanding that achieving AI-ready data is a journey rather than an instant solution. They work with their current data while advancing toward data maturity goals. A popular belief in the life sciences industry is that only pristine “gold data” is valuable, particularly for AI. However, the reality is that waiting to reach perfect data is a trap. Instead, teams should embrace “silver data” – structured, contextualized, and interoperable datasets that are sufficient to drive automation, analytics, and AI, without the unrealistic burden of perfection.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 676119,
+          "ave": 6254.1
+        },
+        {
+          "id": "s3873c",
+          "headline": "Can Agentic AI Work On The Pharma Plant Floor? Pharma AI Startup Katalyze Raises $10.5M To Find Out",
+          "source": "ERP Today",
+          "author": "",
+          "url": "https://erp.today/katalyze-ai-pharma-manufacturing-agentic-ai-funding/",
+          "section": "AI Pulse",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Katalyze AI has raised $10.5 million in seed funding to expand an agentic AI operating system built for pharmaceutical manufacturing and life sciences. Tech Startups reported on July 6 that the round was led by Bonfire Ventures, with participation from Inovia Capital, Ripple Ventures, Alumni Ventures, and angel investors including Gokul Rajaram and Farzad Soleimani. Katalyze plans to use the funding to expand its engineering, scientific, and go-to-market teams, grow its catalog of AI agents, and scale deployments with large pharmaceutical companies. Katalyze’s pitch reflects a key difference between AI in drug discovery and AI in manufacturing. In pharmaceutical production, an AI-generated answer is only useful if teams can trace it back to the underlying process data, quality records, batch history, lab results, and approved systems.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 854588,
+          "ave": 7904.94
+        },
+        {
+          "id": "x1dsqa",
+          "headline": "Understanding Agentic AI In Clinical Development",
+          "source": "Fierce Biotech",
+          "author": "Rajneesh Patil",
+          "url": "https://www.fiercebiotech.com/sponsored/understanding-agentic-ai-clinical-development",
+          "section": "AI Pulse",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Earlier this year, my colleague Matt Harrington suggested that clinical leaders should stop asking whether their organizations have an “AI strategy”, not because strategy doesn’t matter, but because the question often produces the wrong conversation. Too often, discussions about AI become conversations about platforms, vendors, models and roadmaps. What leaders really need to understand is how AI is being used to predict what matters, optimize what works and automate activities that improve clinical development performance. These are the capabilities that ultimately determine whether technology creates measurable value or becomes another underutilized investment. At its simplest, agentic AI describes systems that can do more than generate answers or complete tasks. They can evaluate information, determine next steps, interact with tools and systems, and adapt as conditions change in pursuit of a defined objective.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 467472,
+          "ave": 4324.12
+        },
+        {
+          "id": "8z56li",
+          "headline": "FDA Approves Merck’s Oral PCSK9 Drug, A First",
+          "source": "STAT News",
+          "author": "Meghana Keshavan",
+          "url": "https://www.statnews.com/2026/07/16/biotech-news-fda-approves-merck-oral-pcsk9-drug-in-a-first/",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Want to stay on top of the science and politics driving biotech today? Sign up to get our biotech newsletter in your inbox. Kalshi is unveiling new biopharma betting markets, we have a deeper understanding of the link between Epstein-Barr virus and multiple sclerosis, and Merck gets an FDA approval on its oral PCSK9. Prediction market giant Kalshi announced this morning that it will now start taking bets on clinical trial outcomes and FDA approvals, STAT’s Elaine Chen writes. It’s starting with a small number of markets selected alongside partner AppliedXL, a tech company that already monitors and predicts clinical trial outcomes.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 478047,
+          "ave": 4421.93
+        },
+        {
+          "id": "i7b0a8",
+          "headline": "Novartis Marks 30 Years Of Breakthroughs, Building On 250 Years Of Discovery To Reimagine What Medicine Can Do Next",
+          "source": "Novartis Press Release",
+          "author": "",
+          "url": "https://www.novartis.com/stories/novartis-marks-30-years-breakthroughs-building-250-years-discovery-reimagine-what-medicine-can-do-next",
+          "section": "Industry News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "The roots of Novartis reach back more than 250 years, to the chemical and scientific traditions that helped shape modern healthcare. Thirty years after its creation, a legacy of discovery and curiosity continues to guide its pursuit of new possibilities for patients. Thirty years ago today, the merger of Ciba-Geigy and Sandoz brought together two of Switzerland’s most storied companies and created something new: Novartis. Approved by the European Union Commission on July 17, 1996, it was among the largest corporate mergers of its time. More importantly, it united companies whose histories stretched back more than 250 years and whose generations of scientists and innovators saw possibilities where others did not.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 542626,
+          "ave": 5019.29
+        },
+        {
+          "id": "q1znvs",
+          "headline": "Merck Scores At FDA As Lipfendra Becomes World's First Oral PCSK9 Treatment",
+          "source": "Fierce Pharma",
+          "author": "Kevin Dunleavy",
+          "url": "https://www.fiercepharma.com/pharma/merck-scores-fda-nod-lipfendra-becomes-first-oral-pcsk9-treatment",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Since reaching the market a decade ago, PCSK9 inhibitors have not lived up to their lofty expectations. While drugs such as Amgen’s Repatha and Regeneron and Sanofi’s Praluent have proven more effective than statins at reducing “bad” cholesterol, their uptake was initially blunted by price and access limitations. But now representing a new type of PCSK9 med is Merck’s enlicitide. The macrocyclic peptide, which was approved Thursday by the FDA and will take the commercial moniker Lipfendra, becomes the first oral PCSK9 on the market. The FDA has endorsed a 20-mg daily dose of Lipfendra to reduce low-density lipoprotein cholesterol (LDL-C) in adults with hypercholesterolemia, a life-threatening condition in which cholesterol levels are so high that they can cause heart attacks or stroke. The nod includes patients with heterozygous familial hypercholesterolemia (HeFH).",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [
+            "Sanofi"
+          ],
+          "reach": 432715,
+          "ave": 4002.61
+        },
+        {
+          "id": "irzaz6",
+          "headline": "Should You Take The Powerful New Cholesterol Pill Approved By The FDA?",
+          "source": "The Washington Post",
+          "author": "Christopher Rowland",
+          "url": "https://www.washingtonpost.com/health/2026/07/16/fda-approves-powerful-new-cholesterol-drug/",
+          "section": "Industry News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "A new pill to treat stubbornly high cholesterol has been approved by the Food and Drug Administration, a development that will make treatment more convenient for patients at high risk of cardiovascular disease and heart attack. The drug, Merck’s Lipfendra, is a daily alternative to cholesterol-lowering injections.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 659937,
+          "ave": 6104.42
+        },
+        {
+          "id": "wldxld",
+          "headline": "Pfizer (PFE) Could Be 16% Undervalued On New FDA Approval In Bladder Cancer",
+          "source": "Simply Wall St",
+          "author": "",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-pfe/pfizer/news/pfizer-pfe-could-be-16-undervalued-on-new-fda-approval-in-bl",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Pfizer (PFE) is back in focus after the U.S. Food and Drug Administration approved PADCEV plus Keytruda as a platinum free neoadjuvant and adjuvant regimen for adult patients with muscle invasive bladder cancer. The latest FDA approval lands as Pfizer’s share price has been under pressure over longer periods, with a 90 day share price return that declined 8.78% but a 1 year total shareholder return of 9.43%. This suggests momentum is trying to rebuild from a weaker multi year base.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [
+            "Pfizer"
+          ],
+          "reach": 263901,
+          "ave": 2441.08
+        },
+        {
+          "id": "8drol7",
+          "headline": "Foundation Medicine Launches 'Quality First' Initiative To Stand Out In Cancer Testing Market",
+          "source": "Fierce Pharma",
+          "author": "Nick Paul Taylor",
+          "url": "https://www.fiercepharma.com/marketing/foundation-medicine-launches-quality-first-initiative-stand-out-cancer-testing-market",
+          "section": "Industry News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "Foundation Medicine has started the “Quality First” initiative to create awareness of how “not all cancer biomarker tests are created equal.” The Roche subsidiary pioneered comprehensive genomic profiling. But with other diagnostic companies entering the market, the cancer testing specialist faces a fight to differentiate its products from its rivals’ tests. With “Quality First,” Foundation Medicine is making the case that cancer biomarker tests differ in ways that have implications for patient outcomes. The campaign materials include video testimonials by Greg and Karen. Greg is a patient advocate who was diagnosed with stage 4 non-small cell lung cancer that had metastasized to the extent that the CT scan lit up “like a Christmas tree.” Karen meanwhile is a patient advocate who calls herself one of the longest-living people in the U.S. with stage 4 triple-negative breast cancer.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 432715,
+          "ave": 4002.61
+        }
+      ]
+    },
     "2026-07-20": {
       "uploadedAt": "2026-07-20T13:46:18.219Z",
       "filename": "InfoVision_Pharma_Media_Briefing_2026-07-20.docx",
@@ -1279,183 +1669,167 @@
         }
       ]
     },
-    "2026-07-17": {
-      "uploadedAt": "2026-07-17T12:08:46.296Z",
-      "filename": "InfoVision_Pharma_Media_Briefing_2026-07-17.docx",
+    "2026-07-21": {
+      "uploadedAt": "2026-07-21T12:14:11.323Z",
+      "filename": "InfoVision_Pharma_Media_Briefing_2026-07-21.docx",
       "articles": [
         {
-          "id": "nhxroi",
-          "headline": "Lilly To Acquire AtaiBeckley To Advance Therapies For Treatment-Resistant Depression And Other Mental Health Conditions",
-          "source": "PR Newswire",
-          "author": "",
-          "url": "https://www.prnewswire.com/news-releases/lilly-to-acquire-ataibeckley-to-advance-therapies-for-treatment-resistant-depression-and-other-mental-health-conditions-302827468.html",
+          "id": "imdolg",
+          "headline": "Big Pharma And Psychedelic Medicine—Eli Lilly’s $3.8 Billion Bet",
+          "source": "Forbes",
+          "author": "Robert Glatter",
+          "url": "https://www.forbes.com/sites/robertglatter/2026/07/20/big-pharma-and-psychedelic-medicine-eli-lillys-38-billion-bet/",
           "section": "Brand News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "Eli Lilly and Company and AtaiBeckley Inc., a clinical-stage biopharmaceutical company developing innovative therapeutics for mental health conditions, today announced a definitive agreement for Lilly to acquire AtaiBeckley. AtaiBeckley is advancing a pipeline of rapid-acting neuroplastogens, including multiple clinical-stage programs and a discovery pipeline of next-generation compounds. The lead asset, BPL-003 (mebufotenin benzoate), is a synthetic form of 5-MeO-DMT administered intranasally for treatment-resistant depression, which affects millions of people in the United States. Emerging research indicates that treatment-resistant depression and other serious mental health conditions may involve a loss of synaptic plasticity, the brain's ability to form and strengthen connections in regions critical to mood regulation. AtaiBeckley's therapies are designed to restore synaptic connectivity and aim to promote the growth of new neural connections, offering a distinct mechanism from conventional antidepressants that primarily target neurotransmitter levels.",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "On July 16, 2026, Eli Lilly announced it would acquire AtaiBeckley for up to $3.8 billion — $2.8 billion up front, with another $1 billion in milestone-linked contingent value rights. The candidate drug is BPL-003 (mebufotenin benzoate), a fast-acting, DMT-based nasal spray in Phase 3 development for treatment-resistant depression (TRD). It’s the largest deal the psychedelic-medicine sector has ever seen, just eleven months after AbbVie paid up to $1.2 billion for Gilgamesh Pharmaceuticals’ lead candidate, Bretisilocin (GM-2505). Bretisilocin is a 5HT-2a receptor agonist producing hallucinatory and psychedelic-like effects with a duration of 60-90 minutes. Together, these two transactions mark the moment psychedelic psychiatry stopped being a biotech curiosity and became something the largest drugmakers in the world are willing to write nine- and ten-figure checks for.",
           "sentiment": "positive",
           "sentimentAuto": "positive",
           "themes": [
-            "Pipeline & R&D"
+            "Clinical Trials"
           ],
           "brands": [
             "Eli Lilly"
           ],
-          "reach": 499370,
-          "ave": 4619.17
+          "reach": 15044999,
+          "ave": 139166.24
         },
         {
-          "id": "roz9oz",
-          "headline": "Association Files Amicus Brief Defending 340B Patient Definition",
-          "source": "America's Essential Hospitals",
-          "author": "Evan Schweikert",
-          "url": "https://essentialhospitals.org/association-files-amicus-brief-defending-340b-patient-definition/",
+          "id": "46c3bw",
+          "headline": "The Bull Case For Eli Lilly (LLY) Could Change Following Its Deeper Role In Illumina’s Billion Cell Atlas",
+          "source": "Simple Wall St.",
+          "author": "Sasha Jovanovic",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-lly/eli-lilly/news/the-bull-case-for-eli-lilly-lly-could-change-following-its-d",
           "section": "Brand News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "America’s Essential Hospitals on July 14 joined a group of hospital associations and health care providers defending the 340B Drug Pricing Program from a lawsuit filed by pharmaceutical manufacturer AbbVie seeking to change the definition of a patient within 340B. In an April lawsuit, AbbVie alleges the Health Resources and Service Administration’s (HRSA’s) longstanding definition of a patient is “outdated, overly expansive and erroneous.” AbbVie further argues the definition denies manufacturers their right to audit providers and enables “widespread 340B program abuse.” AbbVie is suing after HRSA rejected the manufacturer’s attempt to conduct audits using their own proprietary and restrictive definition of a patient. AbbVie seeks to replace the 1996 patient definition with a far more restrictive version. The manufacturer proposes that a prescription can only qualify for a 340B discount if the medication was prescribed because of an appointment at a 340B facility, the patient received medical care at the facility, and the prescriber is managing the patient’s care, which was provided in the last 12 months.",
-          "sentiment": "negative",
-          "sentimentAuto": "negative",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "In January 2026, Illumina announced the launch of its Billion Cell Atlas alliance, naming Eli Lilly as a founding member in a program that uses CRISPR-based, large-scale genomic perturbation data and AI to map disease biology across more than 200 cell lines and hundreds of cell types. By mid-July 2026, the Atlas had already sequenced over 350 million cells and generated several petabytes of data, positioning Lilly closer to the core of AI-driven target discovery and mechanistic insights for future therapies. Now we’ll examine how Lilly’s deeper role in Illumina’s Billion Cell Atlas could reshape its investment narrative around R&D productivity and innovation.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 934587,
+          "ave": 8644.93
+        },
+        {
+          "id": "9wzilw",
+          "headline": "Eli Lilly-Backed Scribe Therapeutics Seeks $107.2 Million In IPO",
+          "source": "Bloomberg",
+          "author": "Angel Adegbesan",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-20/eli-lilly-backed-scribe-therapeutics-seeks-107-2-million-in-ipo",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Scribe Therapeutics Inc., a clinical-stage developer of gene therapies for heart diseases, is seeking to raise as much as $107.2 million in a US initial public offering. The Alameda, California-based biotech firm, which counts Eli Lilly & Co. as a backer, plans to market 7.2 million shares for $13 to $15 each, according to its filing Monday with the US Securities and Exchange Commission. At the top of the price range, Scribe would have a market value of about $242.7 million, based on the outstanding shares listed in the filing.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "M&A / Markets"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "r1nlj1",
+          "headline": "J&J, Time Link Up To Spotlight Healthcare Leadership With Healthcare Champion Of The Year Award",
+          "source": "Fierce Pharma",
+          "author": "Zoey Becker",
+          "url": "https://www.fiercepharma.com/marketing/jj-time-spotlight-healthcare-workers-newly-launched-healthcare-champion-year-award",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "After nearly a century of naming its Person of the Year each December, Time is adding another prestigious recognition with help from Johnson & Johnson. J&J and Time are teaming up to honor a Healthcare Champion of the Year, to be chosen by J&J and a panel of industry experts and recognized at Time’s “A Year in TIME” celebration in New York City in December. Nominations for the award opened July 16 and will close August 28. The branded award will go to someone who is “shaping the future of health,” J&J explained in a press release, spotlighting impact and highlighting “what becomes possible when healthcare professionals are supported and empowered to lead change where it matters most.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
           "themes": [
             "General Coverage"
           ],
           "brands": [],
-          "reach": 292959,
-          "ave": 2709.87
+          "reach": 432715,
+          "ave": 4002.61
         },
         {
-          "id": "gel7bw",
-          "headline": "Biopharma Bites: Boehringer Strays From 'Triple G' Template In Obesity, Plus Supply Chain And Shortage Woes",
-          "source": "FirstWord PHARMA",
-          "author": "Elizabeth S. Eaton",
-          "url": "https://firstwordpharma.com/story/7706304",
-          "section": "Brand News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "Boehringer Ingelheim started a Phase II obesity trial on Thursday of BI 3034701, a triple agonist developed by partner Gubra — though with a slightly different mechanism of action than Eli Lilly's GLP-1/GIP/glucagon-targeting \"triple G\" agonist, retatrutide. Like retatrutide, BI 3034701 agonises GLP-1 and GIP, but instead of glucagon, it activates neuropeptide Y2 (NPY2), which is thought to modulate central hunger signalling, according to Boehringer. The candidate's advancement was prompted by Phase I findings, which demonstrated a \"generally favourable safety and tolerability profile\" for BI 3034701. \"We expect obesity care to become much more differentiated, and with BI 3034701, we aim to go beyond short-term weight loss and address both the biological and behavioural drivers of obesity,\" said Shashank Deshpande, chairman of the board of managing directors and Boehringer's head of human pharma.",
-          "sentiment": "negative",
-          "sentimentAuto": "negative",
-          "themes": [
-            "Clinical Trials"
-          ],
-          "brands": [
-            "Boehringer Ingelheim",
-            "Eli Lilly"
-          ],
-          "reach": 158563,
-          "ave": 1466.71
-        },
-        {
-          "id": "lbw3rf",
-          "headline": "Boehringer Ingelheim Advances Potential First-In-Class Triple Receptor Agonist BI 3034701 To Phase 2 For Obesity",
-          "source": "BioPharm International",
-          "author": "Feliza Mirasol",
-          "url": "https://www.biopharminternational.com/view/boehringer-ingelheim-phase-2-bi-3034701-triple-receptor-agonist-obesity",
-          "section": "Brand News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "Boehringer Ingelheim has begun a phase 2 clinical trial of BI 3034701, an investigational triple glucagon-like peptide-1 (GLP-1)/glucose-dependent insulinotropic polypeptide (GIP)/neuropeptide Y2 (NPY2) receptor agonist, in adults with obesity and overweight, the company announced on July 16, 2026.¹ The trial, registered as NCT07662122, follows a phase 1 program in which BI 3034701 showed a generally favorable safety and tolerability profile.¹,⁴ If successful, BI 3034701 would add a third, differentiated hunger-signaling pathway to the GLP-1/GIP mechanisms that underlie currently marketed obesity therapies.",
-          "sentiment": "neutral",
-          "sentimentAuto": "neutral",
-          "themes": [
-            "Clinical Trials"
-          ],
-          "brands": [
-            "Boehringer Ingelheim"
-          ],
-          "reach": 574710,
-          "ave": 5316.07
-        },
-        {
-          "id": "bpks4g",
-          "headline": "Braveheart, Attovia, Vogenx Keep IPOs Ballooning With Plans To Compete In Cardiometabolic, Immuno",
+          "id": "1ynbb1",
+          "headline": "Lilly’s AtaiBeckley Buy Validates Space As Big Pharma Takes Note Of Psychedelics",
           "source": "BioSpace",
-          "author": "Tristan Manalac",
-          "url": "https://www.biospace.com/business/braveheart-attovia-vogenx-keep-ipos-ballooning-with-plans-to-compete-in-cardiometabolic-immuno",
+          "author": "Heather McKenzie",
+          "url": "https://www.biospace.com/business/lillys-ataibeckley-buy-validates-space-as-big-pharma-takes-note-of-psychedelics",
           "section": "Brand News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "Braveheart Bio is looking to take on Bristol Myers Squibb in hypertrophic cardiomyopathy, while Attovia Therapeutics wants to challenge Sanofi and Regeneron’s Dupixent. Vogenx, meanwhile, is looking to establish its name in the cardiometabolic space. Wednesday witnessed double initial public offerings, maintaining an upswing in biotech public debuts this year that have already more than doubled last year’s total. A third player joined the fray on Thursday, with Vogenx also launching its bid for the Nasdaq. This week, Braveheart Bio and Attovia Therapeutics, looking to stand up to industry giants and their blockbuster drugs, announced their intention to hit the public markets as they develop their pipelines in cardiovascular and immunology indications, respectively. Vogenx, meanwhile, is advancing a pipeline of cardiometabolic therapies.",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Eli Lilly’s proposed acquisition of AtaiBeckley is “the clearest strategic validation to date” of psychedelics as an emerging pharmaceutical category, according to H.C. Wainwright. The analyst cautioned, however, that the transaction should not be seen as “supporting a uniform re-rating of every psychedelic developer.” Last week, Eli Lilly became the latest top pharma to buy into the psychedelics craze. Analysts are calling Lilly’s bid to buy AtaiBeckley for up to $3.8 billion the biggest endorsement yet of the sector, which could secure its first-ever approval this year.",
           "sentiment": "positive",
           "sentimentAuto": "positive",
           "themes": [
-            "M&A / Markets",
-            "Pipeline & R&D"
+            "Regulatory & Approvals",
+            "M&A / Markets"
           ],
           "brands": [
-            "Sanofi"
+            "Eli Lilly"
           ],
           "reach": 932094,
           "ave": 8621.87
         },
         {
-          "id": "e5v4tw",
-          "headline": "Johnson & Johnson (JNJ) Crosses $100 Billion As DePuy Synthes Buys Spine Tech",
-          "source": "Simply Wall St",
-          "author": "Bailey Pemberton",
-          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-jnj/johnson-johnson/news/johnson-johnson-jnj-crosses-100-billion-as-depuy-synthes-buy",
-          "section": "Brand News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "For investors watching Johnson & Johnson, the $100b revenue milestone arrives with a stock that is trading at $247.02 and has gained 19.1% year to date and 53.7% over the past year. The longer term picture is also strong, with the share price up 69.9% over three years and 67.8% over five years, reflecting how the market has treated the company’s scale in pharmaceuticals and MedTech. These latest moves in MedTech, including the Expanding Innovations acquisition, add another layer to the Johnson & Johnson story for anyone tracking NYSE:JNJ as a healthcare anchor in a portfolio. The updated 2026 guidance and focus on advanced spine surgery technology may shape how investors think about the balance between its Innovative Medicine and MedTech operations over the coming years.",
-          "sentiment": "positive",
-          "sentimentAuto": "positive",
-          "themes": [
-            "M&A / Markets"
-          ],
-          "brands": [],
-          "reach": 263901,
-          "ave": 2441.08
-        },
-        {
-          "id": "dr95vc",
-          "headline": "Johnson & Johnson, TIME Launch Award Honoring U.S. Health Care Professionals",
-          "source": "ROI-NJ",
-          "author": "Sean Whooley",
-          "url": "https://www.roi-nj.com/2026/07/16/healthcare/johnson-johnson-time-launch-award-honoring-u-s-health-care-professionals/",
-          "section": "Brand News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "Johnson & Johnson and TIME have launched a new national award recognizing health care professionals whose work is helping improve patient care and advance change across the health system. The Healthcare Champion of the Year, a branded award created in partnership with Johnson & Johnson, will honor a U.S. health care professional selected by Johnson & Johnson and a panel of industry experts chosen by the company. Nominations for the inaugural award open July 16 and will close at 5 p.m. Aug. 28. The honoree will be announced ahead of TIME’s “A Year in TIME” celebration, scheduled for Dec. 9 in New York City. Eligible nominees include physicians, nurses, advanced practice clinicians, surgeons, community health workers, care navigators and other health care professionals actively involved in clinical care or care delivery in the United States.",
-          "sentiment": "positive",
-          "sentimentAuto": "positive",
-          "themes": [
-            "General Coverage"
-          ],
-          "brands": [],
-          "reach": 238275,
-          "ave": 2204.04
-        },
-        {
-          "id": "i5u5q9",
-          "headline": "Johnson & Johnson Builds Connected MedTech Platforms Around AI And Robotics",
-          "source": "The National CIO Review",
-          "author": "David Eberly",
-          "url": "https://nationalcioreview.com/articles-insights/cio-field-notes/johnson-johnson-builds-connected-medtech-platforms-around-ai-and-robotics/",
+          "id": "b5a6uo",
+          "headline": "YSM Joins International Team To Develop AI For Precision Medicine",
+          "source": "Yale School of Medicine",
+          "author": "Rajneesh Patil",
+          "url": "https://medicine.yale.edu/news-article/develop-ai-for-precision-medicine/",
           "section": "AI Pulse",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "Johnson & Johnson reported second-quarter 2026 worldwide sales of $25.3 billion, an operational increase of 5.6%. Sales, excluding STELARA, grew at a double-digit rate. Innovative Medicine delivered growth of 6.8%, supported by product launches and demand across its medicine portfolio. Technology received considerable attention as the company covered AI-enabled cardiovascular tools, surgical robotics, and connected treatment platforms to improve clinical workflows and product performance. AI-Powered Imaging Enters the Electrophysiology Portfolio: Johnson & Johnson introduced CARTOSOUND SONATA during the quarter, adding AI-powered imaging and mapping capabilities to its electrophysiology business.",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "One disease can look very different across individuals. Even within the same subtype of a particular disease, patients may experience dramatically different disease progression rates, treatment responses, complications, and more. Because of this, disease models that are built on data from many people often don’t surface the biological details that might be most important for an individual and their personalized treatment plans. With this challenge in mind, Naftali Kaminski, MD, Boehringer Ingelheim Pharmaceuticals, Inc. Professor of Medicine (Pulmonary) at Yale School of Medicine (YSM), began working together with researchers interested in this problem—the need for models that can both extend across disease and be biologically detailed enough for precision medicine. The interdisciplinary, international group that they formed has now received a €16.9 million grant from the European Union’s Horizon Europe Programme to tackle this issue with artificial intelligence (AI). Their new research project, called AIRIS (Mechanism-Informed Multimodal Generative AI for Causal and Dynamical Modelling in Biomedical Research), brings together the multidisciplinary expertise of 21 research and industry partners from nine European countries, the United States, and Canada.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "Boehringer Ingelheim"
+          ],
+          "reach": 436790,
+          "ave": 4040.31
+        },
+        {
+          "id": "9ajvy5",
+          "headline": "Pharmaceutical Executive Daily: Bristol Myers Squibb Expands Partnership With Nvidia",
+          "source": "Pharmaceutical Executive",
+          "author": "Nicholas Jacobus",
+          "url": "https://www.pharmexec.com/view/daily-bristol-myers-squibb--partnership-nvidia",
+          "section": "AI Pulse",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "In today's Pharmaceutical Executive Daily, Invivyd's chief scientific officer discusses a platform designed to predict future viral variants ahead of time, Bristol Myers Squibb expands its AI compute infrastructure with Nvidia to build what it calls the most powerful AI factory in life sciences, and FDA clears Consano Bio's IND for a non-opioid biologic targeting chronic sciatica. Bristol Myers Squibb is expanding its AI computing infrastructure with an Nvidia DGX SuperPOD featuring Vera Rubin NVL72 systems, which the company says will be the most powerful, energy-efficient AI infrastructure in life sciences. The new architecture delivers up to ten times greater performance per megawatt than its predecessor, supporting research across oncology, hematology, cardiovascular disease, immunology, and neuroscience. BMS said AI agents are already automating target identification and validation, saving scientists weeks of manual work, while its \"Predict First\" methodology now shapes experimental design for every small molecule program. The company frames the effort as a hybrid intelligence model, pairing AI execution with human judgment on interpretation and direction.",
           "sentiment": "positive",
           "sentimentAuto": "positive",
           "themes": [
             "Regulatory & Approvals",
-            "AI in Drug Discovery"
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
           ],
           "brands": [],
-          "reach": 178386,
-          "ave": 1650.07
+          "reach": 326251,
+          "ave": 3017.82
         },
         {
-          "id": "eej3gj",
-          "headline": "Can Governance-By-Design Make AI Compliant In Pharma? (Part II)",
-          "source": "PharmTech.com",
-          "author": "Brian Drapeau",
-          "url": "https://www.pharmtech.com/view/can-governance-by-design-make-ai-compliant-in-pharma-part-ii",
+          "id": "2wpmn7",
+          "headline": "How AI Is Supercharging Drug Development",
+          "source": "AXIOS",
+          "author": "Adriel Bettelheim",
+          "url": "https://www.axios.com/2026/07/20/artificial-intelligence-drug-development-impact",
           "section": "AI Pulse",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "Most conversations about artificial intelligence in regulated environments begin with hallucinations and content accuracy. Those concerns are real, but after more than a decade across GxP learning, quality systems, manufacturing, and research, I do not think they are the defining challenge. Documents are only the visible output of a regulated process. The harder problem begins after a document is approved. Someone still has to determine applicability, identify affected roles, update curricula, trigger qualification, verify competency, revise assessments, authorize execution, and assemble evidence that will withstand inspection. AI may reduce the time required to draft an SOP from days to minutes. That sounds transformative until the document reaches the same approval queues, training matrices, disconnected systems, and people reconstructing impact by hand. Generating faster can simply feed more content into a governance model already struggling to keep up.",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Artificial intelligence is dramatically speeding up drug development — and a proprietary survey shows how it's priming a bigger automation push that's changing the trajectory of early stage pharma research. Why it matters: The TD Cowen survey of 80 biopharma leaders and insiders finds AI is compressing drug developers' preclinical costs and timelines by as much as 70%. That's fueling demand for cutting-edge software, sequencing tools and computer models that will help churn out more experimental treatments in the next five years. The big picture: AI can't replace scientific intuition. But the way it can streamline the grueling R&D before human testing begins is making computer screens as important a feature of drug design as traditional laboratories.",
           "sentiment": "neutral",
           "sentimentAuto": "neutral",
           "themes": [
@@ -1464,100 +1838,138 @@
             "Pipeline & R&D"
           ],
           "brands": [],
-          "reach": 437267,
-          "ave": 4044.72
+          "reach": 663158,
+          "ave": 6134.21
         },
         {
-          "id": "6fdba7",
-          "headline": "Pharma Turns To AI Self-Regulation In Canada Amid Governance Lag",
-          "source": "BioXconomy",
-          "author": "Brandy Fidler",
-          "url": "https://www.bioxconomy.com/legal/pharma-turns-to-ai-self-regulation-in-canada-amid-governance-lag",
+          "id": "5eff1r",
+          "headline": "AI-Driven Lead Optimization: How Machine Learning Is Accelerating Medicinal Chemistry",
+          "source": "Drug Discovery News",
+          "author": "Trevor J Henderson",
+          "url": "https://www.drugdiscoverynews.com/ai-driven-lead-optimization-how-machine-learning-is-accelerating-medicinal-chemistry-17354",
           "section": "AI Pulse",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "While artificial intelligent (AI) tools are already embedded in daily operation across the sector, governance is struggling to keep up, according to compliance experts from Boehringer Ingelheim, Amgen, and AstraZeneca. During a session focused on the role and ethical considerations of AI at the PCC Canada Pharma & MedTech Compliance conference in Toronto, panelists discussed the need for self-governance frameworks in the absence of AI regulation in Canada. Lina Combariza, compliance associate director at Amgen, opened the session with a quote from Spider-Man: “With great power comes great responsibility.” She continued, “Basically AI adoption is —and the way innovation is— accelerating, we’re facing a challenge that basically innovation is moving faster than regulation.”",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Some of the most practical returns from artificial intelligence (AI) in drug discovery are showing up not in headline-grabbing molecule generation but in the grind of lead optimization, and AI lead optimization in drug discovery is now a working part of many medicinal chemistry programs. Lead optimization is the long, iterative stage where a promising but imperfect molecule is refined through hundreds or thousands of analogues into a viable clinical candidate, balancing potency, selectivity, safety, and drug-like properties at once. AI is not replacing that chemistry. What it is changing is how candidates are selected and prioritized, which analogues get made, and in what order, so that the expensive make-and-test cycle is spent on the most promising compounds. This article covers the applications medicinal chemists are actually using. It sits within DDN's coverage of generative AI in molecular design, builds on the discussion of diffusion models for 3D generation and AlphaFold and protein structure, and connects to the broader guide to AI across drug discovery.",
           "sentiment": "neutral",
           "sentimentAuto": "neutral",
           "themes": [
             "AI in Drug Discovery"
           ],
-          "brands": [
-            "Boehringer Ingelheim",
-            "AstraZeneca"
-          ],
-          "reach": 238903,
-          "ave": 2209.85
+          "brands": [],
+          "reach": 507843,
+          "ave": 4697.55
         },
         {
-          "id": "n8a19v",
-          "headline": "AI-Ready Engineering For Life Sciences",
-          "source": "News-Medical",
-          "author": "",
-          "url": "https://www.news-medical.net/whitepaper/20260716/AI-ready-engineering-for-life-sciences.aspx",
+          "id": "jujajh",
+          "headline": "Johns Hopkins Surgeon Highlights AI Breakthrough That Could Spot Pancreatic Cancer Before Doctors",
+          "source": "Fox Business",
+          "author": "Arabella Bennett",
+          "url": "https://www.foxbusiness.com/media/johns-hopkins-surgeon-highlights-ai-breakthrough-spot-pancreatic-cancer-before-doctors",
           "section": "AI Pulse",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "However, the Benchling team has collaborated with more than a thousand life sciences companies, consulting on their data maturity and helping them enhance and even reconstruct their data approaches. A common characteristic among successful teams is the understanding that achieving AI-ready data is a journey rather than an instant solution. They work with their current data while advancing toward data maturity goals. A popular belief in the life sciences industry is that only pristine “gold data” is valuable, particularly for AI. However, the reality is that waiting to reach perfect data is a trap. Instead, teams should embrace “silver data” – structured, contextualized, and interoperable datasets that are sufficient to drive automation, analytics, and AI, without the unrealistic burden of perfection.",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Artificial intelligence is rapidly changing cancer care, with researchers developing tools that could help identify some of the deadliest cancers much earlier than doctors can on their own. Dr. Peter A. Najjar, a surgeon and Johns Hopkins Health System's clinical innovation vice president, joined FOX Business' Maria Bartiromo on \"Mornings with Maria\" to discuss how artificial intelligence is already helping researchers improve cancer detection, speed up drug development and make patient care more efficient, while stressing that more real-world evidence is still needed before its full impact can be measured. Najjar pointed to recent research involving pancreatic cancer, saying artificial intelligence models are helping researchers recognize patterns that would otherwise take physicians decades of experience to identify.",
           "sentiment": "positive",
           "sentimentAuto": "positive",
           "themes": [
-            "General Coverage"
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
           ],
           "brands": [],
-          "reach": 676119,
-          "ave": 6254.1
+          "reach": 386225,
+          "ave": 3572.58
         },
         {
-          "id": "s3873c",
-          "headline": "Can Agentic AI Work On The Pharma Plant Floor? Pharma AI Startup Katalyze Raises $10.5M To Find Out",
-          "source": "ERP Today",
-          "author": "",
-          "url": "https://erp.today/katalyze-ai-pharma-manufacturing-agentic-ai-funding/",
-          "section": "AI Pulse",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "Katalyze AI has raised $10.5 million in seed funding to expand an agentic AI operating system built for pharmaceutical manufacturing and life sciences. Tech Startups reported on July 6 that the round was led by Bonfire Ventures, with participation from Inovia Capital, Ripple Ventures, Alumni Ventures, and angel investors including Gokul Rajaram and Farzad Soleimani. Katalyze plans to use the funding to expand its engineering, scientific, and go-to-market teams, grow its catalog of AI agents, and scale deployments with large pharmaceutical companies. Katalyze’s pitch reflects a key difference between AI in drug discovery and AI in manufacturing. In pharmaceutical production, an AI-generated answer is only useful if teams can trace it back to the underlying process data, quality records, batch history, lab results, and approved systems.",
+          "id": "gl975y",
+          "headline": "Merck’s Keytruda Faces A Patent Cliff. These New Cancer Drugs Could Take Over.",
+          "source": "Barron’s",
+          "author": "Bill Alpert",
+          "url": "https://www.barrons.com/articles/merck-keytruda-new-cancer-drugs-treatments-ec397d85",
+          "section": "Industry News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "For many cancers now, the standard treatment is chemotherapy plus an immunotherapy such as Merck’s Keytruda, the best-selling drug in the world. But many patients eventually relapse and Keytruda patents start peeling off in 2028.",
           "sentiment": "positive",
           "sentimentAuto": "positive",
+          "themes": [
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 259080,
+          "ave": 2396.49
+        },
+        {
+          "id": "omia35",
+          "headline": "Massive Bio Partners With FOMAT To Expand Cancer Patient Prescreening For Clinical Trial Access",
+          "source": "Business Wire",
+          "author": "Briana Warsing",
+          "url": "https://www.businesswire.com/news/home/20260720835336/en/Massive-Bio-Partners-With-FOMAT-to-Expand-Cancer-Patient-Prescreening-for-Clinical-Trial-Access",
+          "section": "Industry News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Massive Bio, a global precision oncology company, today announced a partnership with FOMAT, the largest Embedded Research Organization (ERO) in the United States, to support AI-powered patient prescreening for oncology clinical trials. Launched in June 2026, the partnership supports patient prescreening across FOMAT's community-based research network, currently running a pilot project to test the efficiency of the integrated workflow before expanding its scope. Despite significant advances in oncology research, the majority of cancer patients who could benefit from clinical trials never enroll, often because the connection between patients and available studies is fragmented, delayed, or simply never made. Prescreening, the process of identifying whether a patient may be eligible for a trial before committing to a full eligibility review, is one of the most critical and time-sensitive steps in that journey. When done well, it reduces burden on both patients and sites while accelerating the path to enrollment.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 228325,
+          "ave": 2112.01
+        },
+        {
+          "id": "kogmn8",
+          "headline": "Kolon’s Cell-Based Gene Therapy Fails Phase 3 Osteoarthritis Trial",
+          "source": "Fierce Biotech",
+          "author": "Nick Paul Taylor",
+          "url": "https://www.fiercebiotech.com/biotech/kolons-cell-based-gene-therapy-fails-phase-3-osteoarthritis-trial",
+          "section": "Industry News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "A phase 3 trial of Kolon TissueGene’s cell-based gene therapy has missed its co-primary endpoints. With a second late-stage study scheduled to report data in October, the biotech is holding off on determining the next steps for the osteoarthritis candidate. The failed phase 3 trial tested TG-C, a drug candidate containing human allogeneic chondrocytes and an irradiated human embryonic kidney-derived cell line stably expressing TGF-β1. Authorities in South Korea authorized the medicine in 2017, only to retract the approval two years later over a mix-up regarding the type of cells used in the therapy. Seeking to validate the candidate, Kolon enrolled 531 people with osteoarthritis of the knee at 27 sites in the U.S. The study, which was delayed by an FDA hold and began enrolling patients four years after Kolon registered the trial, compared intra-articular injections of the cell-based gene therapy and placebo.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
           "themes": [
             "Regulatory & Approvals",
-            "AI in Drug Discovery",
-            "M&A / Markets"
-          ],
-          "brands": [],
-          "reach": 854588,
-          "ave": 7904.94
-        },
-        {
-          "id": "x1dsqa",
-          "headline": "Understanding Agentic AI In Clinical Development",
-          "source": "Fierce Biotech",
-          "author": "Rajneesh Patil",
-          "url": "https://www.fiercebiotech.com/sponsored/understanding-agentic-ai-clinical-development",
-          "section": "AI Pulse",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "Earlier this year, my colleague Matt Harrington suggested that clinical leaders should stop asking whether their organizations have an “AI strategy”, not because strategy doesn’t matter, but because the question often produces the wrong conversation. Too often, discussions about AI become conversations about platforms, vendors, models and roadmaps. What leaders really need to understand is how AI is being used to predict what matters, optimize what works and automate activities that improve clinical development performance. These are the capabilities that ultimately determine whether technology creates measurable value or becomes another underutilized investment. At its simplest, agentic AI describes systems that can do more than generate answers or complete tasks. They can evaluate information, determine next steps, interact with tools and systems, and adapt as conditions change in pursuit of a defined objective.",
-          "sentiment": "positive",
-          "sentimentAuto": "positive",
-          "themes": [
-            "AI in Drug Discovery"
+            "Clinical Trials"
           ],
           "brands": [],
           "reach": 467472,
           "ave": 4324.12
         },
         {
-          "id": "8z56li",
-          "headline": "FDA Approves Merck’s Oral PCSK9 Drug, A First",
-          "source": "STAT News",
-          "author": "Meghana Keshavan",
-          "url": "https://www.statnews.com/2026/07/16/biotech-news-fda-approves-merck-oral-pcsk9-drug-in-a-first/",
+          "id": "i3o8io",
+          "headline": "UMass Chan Researchers Receive FDA Authorization To Advance Gene Therapy Clinical Trial For Tay-Sachs And Sandhoff Diseases",
+          "source": "UMass Chan Medical School",
+          "author": "Hayley Mignacca",
+          "url": "https://www.umassmed.edu/news/articles/2026/07/umass-chan-researchers-receive-fda-authorization-to-advance-gene-therapy-clinical-trial-for-tay-sachs-and-sandhoff-diseases/",
           "section": "Industry News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "Want to stay on top of the science and politics driving biotech today? Sign up to get our biotech newsletter in your inbox. Kalshi is unveiling new biopharma betting markets, we have a deeper understanding of the link between Epstein-Barr virus and multiple sclerosis, and Merck gets an FDA approval on its oral PCSK9. Prediction market giant Kalshi announced this morning that it will now start taking bets on clinical trial outcomes and FDA approvals, STAT’s Elaine Chen writes. It’s starting with a small number of markets selected alongside partner AppliedXL, a tech company that already monitors and predicts clinical trial outcomes.",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "A UMass Chan Medical School research team has received authorization from the U.S. Food and Drug Administration (FDA) to proceed with a Phase I/II clinical trial of a second-generation AAV gene therapy for GM2 gangliosidosis, a group of rare inherited neurodegenerative disorders that includes Tay-Sachs disease and Sandhoff disease. The clinical trial, led by Heather Gray-Edwards, DVM, PhD, associate professor of genetic & cellular medicine, and Miguel Sena-Esteves, PhD, associate professor of genetic & cellular medicine, builds on more than a decade of research at UMass Chan to develop gene therapy approaches for GM2 gangliosidosis. Previous clinical research by the team has demonstrated encouraging findings and supports continued development of this next-generation therapy.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 697370,
+          "ave": 6450.67
+        },
+        {
+          "id": "x5arfs",
+          "headline": "FDA Expands Exa-Cel (Casgevy) Approval, Bringing Gene Therapy To Younger Children",
+          "source": "HCP Live",
+          "author": "Haydar Frangoul",
+          "url": "https://www.hcplive.com/view/fda-expands-exa-cel-casgevy-approval-bringing-gene-therapy-to-younger-children",
+          "section": "Industry News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "The US Food and Drug Administration (FDA) has expanded approval of exagamglogene autotemcel (exa-cel; Casgevy) to children ≥ 2 years of age with sickle cell disease (SCD) and recurrent vaso-occlusive crises (VOCs) or transfusion-dependent β-thalassemia (TDT), making it the first CRISPR-based gene-editing therapy approved for children this young with either condition. Announced on July 1, 2026, the supplemental approval lowers the minimum approved age from 12 years and expands access to a one-time gene-editing therapy earlier in the disease course. The decision was supported by efficacy and safety data in children aged 5 to younger than 12 years, with the indication extending to children aged 2 to younger than 5 years based on extrapolation from those findings. The approval was granted 53 days after filing through the FDA Commissioner's National Priority Voucher pilot program.",
           "sentiment": "positive",
           "sentimentAuto": "positive",
           "themes": [
@@ -1565,107 +1977,8 @@
             "Clinical Trials"
           ],
           "brands": [],
-          "reach": 478047,
-          "ave": 4421.93
-        },
-        {
-          "id": "i7b0a8",
-          "headline": "Novartis Marks 30 Years Of Breakthroughs, Building On 250 Years Of Discovery To Reimagine What Medicine Can Do Next",
-          "source": "Novartis Press Release",
-          "author": "",
-          "url": "https://www.novartis.com/stories/novartis-marks-30-years-breakthroughs-building-250-years-discovery-reimagine-what-medicine-can-do-next",
-          "section": "Industry News",
-          "date": "July 17, 2026",
-          "iso": "2026-07-16",
-          "summary": "The roots of Novartis reach back more than 250 years, to the chemical and scientific traditions that helped shape modern healthcare. Thirty years after its creation, a legacy of discovery and curiosity continues to guide its pursuit of new possibilities for patients. Thirty years ago today, the merger of Ciba-Geigy and Sandoz brought together two of Switzerland’s most storied companies and created something new: Novartis. Approved by the European Union Commission on July 17, 1996, it was among the largest corporate mergers of its time. More importantly, it united companies whose histories stretched back more than 250 years and whose generations of scientists and innovators saw possibilities where others did not.",
-          "sentiment": "positive",
-          "sentimentAuto": "positive",
-          "themes": [
-            "Regulatory & Approvals"
-          ],
-          "brands": [],
-          "reach": 542626,
-          "ave": 5019.29
-        },
-        {
-          "id": "q1znvs",
-          "headline": "Merck Scores At FDA As Lipfendra Becomes World's First Oral PCSK9 Treatment",
-          "source": "Fierce Pharma",
-          "author": "Kevin Dunleavy",
-          "url": "https://www.fiercepharma.com/pharma/merck-scores-fda-nod-lipfendra-becomes-first-oral-pcsk9-treatment",
-          "section": "Industry News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "Since reaching the market a decade ago, PCSK9 inhibitors have not lived up to their lofty expectations. While drugs such as Amgen’s Repatha and Regeneron and Sanofi’s Praluent have proven more effective than statins at reducing “bad” cholesterol, their uptake was initially blunted by price and access limitations. But now representing a new type of PCSK9 med is Merck’s enlicitide. The macrocyclic peptide, which was approved Thursday by the FDA and will take the commercial moniker Lipfendra, becomes the first oral PCSK9 on the market. The FDA has endorsed a 20-mg daily dose of Lipfendra to reduce low-density lipoprotein cholesterol (LDL-C) in adults with hypercholesterolemia, a life-threatening condition in which cholesterol levels are so high that they can cause heart attacks or stroke. The nod includes patients with heterozygous familial hypercholesterolemia (HeFH).",
-          "sentiment": "positive",
-          "sentimentAuto": "positive",
-          "themes": [
-            "Regulatory & Approvals"
-          ],
-          "brands": [
-            "Sanofi"
-          ],
-          "reach": 432715,
-          "ave": 4002.61
-        },
-        {
-          "id": "irzaz6",
-          "headline": "Should You Take The Powerful New Cholesterol Pill Approved By The FDA?",
-          "source": "The Washington Post",
-          "author": "Christopher Rowland",
-          "url": "https://www.washingtonpost.com/health/2026/07/16/fda-approves-powerful-new-cholesterol-drug/",
-          "section": "Industry News",
-          "date": "July 17, 2026",
-          "iso": "2026-07-16",
-          "summary": "A new pill to treat stubbornly high cholesterol has been approved by the Food and Drug Administration, a development that will make treatment more convenient for patients at high risk of cardiovascular disease and heart attack. The drug, Merck’s Lipfendra, is a daily alternative to cholesterol-lowering injections.",
-          "sentiment": "neutral",
-          "sentimentAuto": "neutral",
-          "themes": [
-            "Regulatory & Approvals"
-          ],
-          "brands": [],
-          "reach": 659937,
-          "ave": 6104.42
-        },
-        {
-          "id": "wldxld",
-          "headline": "Pfizer (PFE) Could Be 16% Undervalued On New FDA Approval In Bladder Cancer",
-          "source": "Simply Wall St",
-          "author": "",
-          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-pfe/pfizer/news/pfizer-pfe-could-be-16-undervalued-on-new-fda-approval-in-bl",
-          "section": "Industry News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "Pfizer (PFE) is back in focus after the U.S. Food and Drug Administration approved PADCEV plus Keytruda as a platinum free neoadjuvant and adjuvant regimen for adult patients with muscle invasive bladder cancer. The latest FDA approval lands as Pfizer’s share price has been under pressure over longer periods, with a 90 day share price return that declined 8.78% but a 1 year total shareholder return of 9.43%. This suggests momentum is trying to rebuild from a weaker multi year base.",
-          "sentiment": "negative",
-          "sentimentAuto": "negative",
-          "themes": [
-            "Regulatory & Approvals"
-          ],
-          "brands": [
-            "Pfizer"
-          ],
-          "reach": 263901,
-          "ave": 2441.08
-        },
-        {
-          "id": "8drol7",
-          "headline": "Foundation Medicine Launches 'Quality First' Initiative To Stand Out In Cancer Testing Market",
-          "source": "Fierce Pharma",
-          "author": "Nick Paul Taylor",
-          "url": "https://www.fiercepharma.com/marketing/foundation-medicine-launches-quality-first-initiative-stand-out-cancer-testing-market",
-          "section": "Industry News",
-          "date": "July 17, 2026",
-          "iso": "2026-07-16",
-          "summary": "Foundation Medicine has started the “Quality First” initiative to create awareness of how “not all cancer biomarker tests are created equal.” The Roche subsidiary pioneered comprehensive genomic profiling. But with other diagnostic companies entering the market, the cancer testing specialist faces a fight to differentiate its products from its rivals’ tests. With “Quality First,” Foundation Medicine is making the case that cancer biomarker tests differ in ways that have implications for patient outcomes. The campaign materials include video testimonials by Greg and Karen. Greg is a patient advocate who was diagnosed with stage 4 non-small cell lung cancer that had metastasized to the extent that the CT scan lit up “like a Christmas tree.” Karen meanwhile is a patient advocate who calls herself one of the longest-living people in the U.S. with stage 4 triple-negative breast cancer.",
-          "sentiment": "positive",
-          "sentimentAuto": "positive",
-          "themes": [
-            "General Coverage"
-          ],
-          "brands": [],
-          "reach": 432715,
-          "ave": 4002.61
+          "reach": 356745,
+          "ave": 3299.89
         }
       ]
     }
