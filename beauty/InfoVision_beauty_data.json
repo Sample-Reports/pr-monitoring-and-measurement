@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "beauty",
-  "_savedAt": "2026-07-20T13:46:02.984Z",
-  "_dayCount": 4,
+  "_savedAt": "2026-07-21T12:13:36.693Z",
+  "_dayCount": 5,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:16.350Z",
@@ -264,8 +264,223 @@
         }
       ]
     },
+    "2026-07-17": {
+      "uploadedAt": "2026-07-17T12:07:51.472Z",
+      "filename": "InfoVision_Beauty_Media_Briefing_2026-07-17.docx",
+      "articles": [
+        {
+          "id": "rfneex",
+          "headline": "From Chanel To Dior, The Greek Goddess Effect Endures",
+          "source": "WWD",
+          "author": "Tonya Blazio-Licorish",
+          "url": "https://wwd.com/fashion-news/fashion-features/ancient-greek-dress-influence-fashion-history-1239067581/",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Zendaya’s recent red carpet appearance for summer’s presumed next blockbuster film “The Odyssey” reminded us how Greek dress styles have consistently inspired designer collections through the years. From Chanel to Dior and everywhere in between, Grecian-style draping, flowing pleats and bare-shoulder looks in floor-length to mini silhouettes may echo the past, but continue to resonate as one of fashion’s most enduring sources of inspiration. Across fashion’s timelines, dress codes from ancient Greece — from the chiton to the peplos — have created statement-making moments on and off the runway. While early successes can easily be connected to French couturier Madame Grès, whose meticulously draped and pleated column evening dresses remain iconic, many designers have since added to the conversation.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch"
+          ],
+          "brands": [
+            "Chanel"
+          ],
+          "reach": 126372,
+          "ave": 1168.94
+        },
+        {
+          "id": "3mgk0e",
+          "headline": "Ulta Beauty Hit With Patent Suit Over Store Locator Features",
+          "source": "Bloomberg Law",
+          "author": "Riya Sharma",
+          "url": "https://news.bloomberglaw.com/ip-law/ulta-beauty-hit-with-patent-suit-over-store-locator-features",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Ulta Salon, Cosmetics & Fragrance, which does business as Ulta Beauty, was accused of patent infringement over location-based wireless service methods. The beauty retailer used a store locator feature on its app and website that allegedly infringed on two patents — US Nos. 7,532,899 and 8,774,834 — owned by non-practicing entity Local Interest LLC that cover methods for locating sets of desired locations. The complaint was filed Wednesday in the US District Court for the Eastern District of Texas.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution"
+          ],
+          "brands": [
+            "Ulta Beauty"
+          ],
+          "reach": 391267,
+          "ave": 3619.22
+        },
+        {
+          "id": "4ruwvf",
+          "headline": "The Estée Lauder Companies Appoints Madeleine Boyd As Senior Vice President, Global Brand Communications",
+          "source": "Financial Times",
+          "author": "",
+          "url": "https://markets.ft.com/data/announce/detail?dockey=600-202607161622BIZWIRE_USPRX____20260716_BW738393-1",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "The Estée Lauder Companies Inc. (NYSE: EL) today announced the appointment of Madeleine Boyd as Senior Vice President, Global Brand Communications, effective July 20, 2026. As part of the company’s continued efforts to strengthen how its brands better connect with consumers, Ms. Boyd will establish and lead a newly integrated Global Brand Communications team. In this role, she will ensure the company’s diverse portfolio is anchored by a cohesive enterprise communications strategy, while accelerating bold, consumer-first storytelling that drives earned media, cultural relevance, and brand desirability. She will also strengthen creator engagement, helping the company’s brands gain attention where culture is being shaped.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Marketing & Influence"
+          ],
+          "brands": [
+            "Estée Lauder"
+          ],
+          "reach": 21414033,
+          "ave": 198079.81
+        },
+        {
+          "id": "h0apvv",
+          "headline": "Chanel Says No More Shredding As Unsold Goods Shift To L’Atelier Des Matières",
+          "source": "WWD",
+          "author": "Tianwei Zhang",
+          "url": "https://wwd.com/sustainability/social-impact/chanel-unsold-goods-latelier-des-matieres-hong-kong-trial-1239068714/",
+          "section": "Brand News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "After a court disclosure revealed thousands of products were shredded in Hong Kong every six months back in 2017, Chanel points to L’Atelier des Matières and new circular unit Nevold as proof that unsold goods are now recycled, not destroyed. Chanel is pushing back against figures recently disclosed in a Hong Kong courtroom, stressing they don’t reflect how the brand now handles unsold goods as Europe tightens the rules on fashion waste.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch"
+          ],
+          "brands": [
+            "Chanel"
+          ],
+          "reach": 126372,
+          "ave": 1168.94
+        },
+        {
+          "id": "md0vdd",
+          "headline": "Chanel CFO Philippe Blondiaux To Retire At End Of 2026",
+          "source": "The Impression",
+          "author": "",
+          "url": "https://theimpression.com/chanel-cfo-philippe-blondiaux-to-retire-at-end-of-2026/",
+          "section": "Brand News",
+          "date": "July 16 2026",
+          "iso": "2026-07-15",
+          "summary": "The longtime finance executive will step down after 15 years with the luxury house, with a successor to be announced at a later date. Chanel global chief financial officer Philippe Blondiaux will retire at the end of 2026, concluding a 15-year tenure at the privately held luxury house. Blondiaux joined Chanel in 2011 following an international career spanning finance and business leadership roles at Nestlé and PwC. Over the following decade and a half, he became one of the company’s most visible senior executives, regularly representing Chanel in discussions of its financial performance, investment strategy and long-term approach to growth.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Prestige vs Mass"
+          ],
+          "brands": [
+            "Chanel"
+          ],
+          "reach": 519384,
+          "ave": 4804.3
+        },
+        {
+          "id": "twmn5f",
+          "headline": "Destroy Or Resell: The Impossible Equation For Luxury Giants Facing Their Own Stocks",
+          "source": "NSS Magazine",
+          "author": "Julie Boone",
+          "url": "https://www.nssmag.com/en/fashion/46208/destruction-unsold-luxury-goods-black-market-chanel-burberry",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "Long kept as one of the best-guarded secrets in the luxury industry, the destruction of unsold goods is now caught between ethical questioning and legislative constraints. Behind the scenes of haute couture, prestige has long been measured by what did not sell. To preserve this sense of exclusivity, destroying exceptional pieces rather than discounting them was a tacit but absolute rule. Today, faced with societal pressure and unprecedented regulations, the industry must learn to manage its end-of-cycle products without damaging its image. It is a paradox that has long plagued the fashion industry: artisans spend dozens of hours crafting exceptional bags and garments, only for these very objects to sometimes end up shredded or incinerated in the secrecy of high-security industrial zones.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Brand & Product Launch",
+            "Prestige vs Mass",
+            "Markets & Regulation"
+          ],
+          "brands": [],
+          "reach": 406822,
+          "ave": 3763.1
+        },
+        {
+          "id": "cg0c0c",
+          "headline": "Luxury Retailer’s Employee Criminal Trial Exposes Industry Practice",
+          "source": "The Street",
+          "author": "Fernanda Tronco",
+          "url": "https://www.thestreet.com/retail/chanel-criminal-trial-hidden-controversial-practice",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "One of the world’s most recognizable luxury fashion brands is at the center of a yearslong criminal trial after two former warehouse employees were accused of stealing hundreds of high-end products that had been designated for destruction. Beyond the alleged theft, testimony in the case has pulled back the curtain on a little-known practice in the luxury industry: destroying unsold merchandise to preserve exclusivity rather than allowing it to be sold at discounted prices.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "Prestige vs Mass"
+          ],
+          "brands": [],
+          "reach": 899790,
+          "ave": 8323.06
+        },
+        {
+          "id": "tj7i6w",
+          "headline": "Treatment Stacking To TPE: The Next Aesthetic Treatment Trends To Know",
+          "source": "Vogue",
+          "author": "Amy Francombe",
+          "url": "https://www.vogue.com/article/treatment-stacking-to-tpe-the-next-aesthetic-treatment-trends-to-know",
+          "section": "Industry News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "The modern aesthetics industry, long plagued by fillers, lasers, Botox, and the nips and tucks of aging skin, is sitting on the precipice of its next era. As the age-old act of going under the knife retreats into the background, the next cohort of treatments is waiting in the wings. But this time, the focus goes even deeper than an injectable, with more consumers becoming hyperfixated on skin quality, collagen stimulation, inflammation, hormonal changes, metabolic health, or how to preserve their appearance over decades, not just years.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 72318,
+          "ave": 668.94
+        },
+        {
+          "id": "xaq8mz",
+          "headline": "Regulations Have Been Developed For The Beauty Industry",
+          "source": "Logos Press Business Review",
+          "author": "Tatiana Sichirliiscaia",
+          "url": "https://logos-pres.md/en/news/regulations-have-been-developed-for-the-beauty-industry/",
+          "section": "Industry News",
+          "date": "July 17, 2026",
+          "iso": "2026-07-16",
+          "summary": "The State Tax Service has developed guidelines for providing beauty services. The document is intended to help individuals formalize their business activities. Today, they can operate under the specialty “Hairdressing and Beauty Salon Services,” as defined in the Classification of Economic Activities, and also carry out the activity “Hairdressing and Cosmetic Services” under a business license. The document is available on the tax authority’s official website. It includes information on the types of economic activities in this field. It is emphasized, however, that this does not include the provision of medical services.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch",
+            "Markets & Regulation"
+          ],
+          "brands": [],
+          "reach": 823837,
+          "ave": 7620.49
+        },
+        {
+          "id": "mnomra",
+          "headline": "Paris Hilton Returns To NYX Professional Makeup As The Gloss Boss",
+          "source": "Cosmetics Business",
+          "author": "Lollie Hancock",
+          "url": "https://cosmeticsbusiness.com/paris-hilton-returns-to-nyx-gloss-boss",
+          "section": "Industry News",
+          "date": "July 16, 2026",
+          "iso": "2026-07-15",
+          "summary": "NYX Professional Makeup has named socialite-turned-entrepreneur Paris Hilton as its new Gloss Boss. The appointment comes as part of the next chapter of the L’Oréal-owned make-up brand’s annual campaign, ‘If You NYX, You Know’ (IYNYK). Hilton, who was part of the first installment of IYNYK, which debuted last summer, is welcomed back amongst a roster of celebrity partners, including pop star and ‘Love Lies’ singer Normani, Love Island UK’s Toni Laites, Brazilian model and content creator Gabriela Moura and Middle Eastern beauty creator Yusur Al-khalidi.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch",
+            "Marketing & Influence"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 625348,
+          "ave": 5784.47
+        }
+      ]
+    },
     "2026-07-16": {
-      "uploadedAt": "2026-07-16T13:54:25.603Z",
+      "uploadedAt": "2026-07-17T12:27:28.418Z",
       "filename": "InfoVision_Beauty_Media_Briefing_2026-07-16.docx",
       "articles": [
         {
@@ -496,221 +711,6 @@
         }
       ]
     },
-    "2026-07-17": {
-      "uploadedAt": "2026-07-17T13:19:33.457Z",
-      "filename": "InfoVision_Beauty_Media_Briefing_2026-07-17.docx",
-      "articles": [
-        {
-          "id": "rfneex",
-          "headline": "From Chanel To Dior, The Greek Goddess Effect Endures",
-          "source": "WWD",
-          "author": "Tonya Blazio-Licorish",
-          "url": "https://wwd.com/fashion-news/fashion-features/ancient-greek-dress-influence-fashion-history-1239067581/",
-          "section": "Brand News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "Zendaya’s recent red carpet appearance for summer’s presumed next blockbuster film “The Odyssey” reminded us how Greek dress styles have consistently inspired designer collections through the years. From Chanel to Dior and everywhere in between, Grecian-style draping, flowing pleats and bare-shoulder looks in floor-length to mini silhouettes may echo the past, but continue to resonate as one of fashion’s most enduring sources of inspiration. Across fashion’s timelines, dress codes from ancient Greece — from the chiton to the peplos — have created statement-making moments on and off the runway. While early successes can easily be connected to French couturier Madame Grès, whose meticulously draped and pleated column evening dresses remain iconic, many designers have since added to the conversation.",
-          "sentiment": "positive",
-          "sentimentAuto": "positive",
-          "themes": [
-            "Brand & Product Launch"
-          ],
-          "brands": [
-            "Chanel"
-          ],
-          "reach": 126372,
-          "ave": 1168.94
-        },
-        {
-          "id": "3mgk0e",
-          "headline": "Ulta Beauty Hit With Patent Suit Over Store Locator Features",
-          "source": "Bloomberg Law",
-          "author": "Riya Sharma",
-          "url": "https://news.bloomberglaw.com/ip-law/ulta-beauty-hit-with-patent-suit-over-store-locator-features",
-          "section": "Brand News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "Ulta Salon, Cosmetics & Fragrance, which does business as Ulta Beauty, was accused of patent infringement over location-based wireless service methods. The beauty retailer used a store locator feature on its app and website that allegedly infringed on two patents — US Nos. 7,532,899 and 8,774,834 — owned by non-practicing entity Local Interest LLC that cover methods for locating sets of desired locations. The complaint was filed Wednesday in the US District Court for the Eastern District of Texas.",
-          "sentiment": "neutral",
-          "sentimentAuto": "neutral",
-          "themes": [
-            "Brand & Product Launch",
-            "Retail & Distribution"
-          ],
-          "brands": [
-            "Ulta Beauty"
-          ],
-          "reach": 391267,
-          "ave": 3619.22
-        },
-        {
-          "id": "4ruwvf",
-          "headline": "The Estée Lauder Companies Appoints Madeleine Boyd As Senior Vice President, Global Brand Communications",
-          "source": "Financial Times",
-          "author": "",
-          "url": "https://markets.ft.com/data/announce/detail?dockey=600-202607161622BIZWIRE_USPRX____20260716_BW738393-1",
-          "section": "Brand News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "The Estée Lauder Companies Inc. (NYSE: EL) today announced the appointment of Madeleine Boyd as Senior Vice President, Global Brand Communications, effective July 20, 2026. As part of the company’s continued efforts to strengthen how its brands better connect with consumers, Ms. Boyd will establish and lead a newly integrated Global Brand Communications team. In this role, she will ensure the company’s diverse portfolio is anchored by a cohesive enterprise communications strategy, while accelerating bold, consumer-first storytelling that drives earned media, cultural relevance, and brand desirability. She will also strengthen creator engagement, helping the company’s brands gain attention where culture is being shaped.",
-          "sentiment": "positive",
-          "sentimentAuto": "positive",
-          "themes": [
-            "Marketing & Influence"
-          ],
-          "brands": [
-            "Estée Lauder"
-          ],
-          "reach": 21414033,
-          "ave": 198079.81
-        },
-        {
-          "id": "h0apvv",
-          "headline": "Chanel Says No More Shredding As Unsold Goods Shift To L’Atelier Des Matières",
-          "source": "WWD",
-          "author": "Tianwei Zhang",
-          "url": "https://wwd.com/sustainability/social-impact/chanel-unsold-goods-latelier-des-matieres-hong-kong-trial-1239068714/",
-          "section": "Brand News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "After a court disclosure revealed thousands of products were shredded in Hong Kong every six months back in 2017, Chanel points to L’Atelier des Matières and new circular unit Nevold as proof that unsold goods are now recycled, not destroyed. Chanel is pushing back against figures recently disclosed in a Hong Kong courtroom, stressing they don’t reflect how the brand now handles unsold goods as Europe tightens the rules on fashion waste.",
-          "sentiment": "neutral",
-          "sentimentAuto": "neutral",
-          "themes": [
-            "Brand & Product Launch"
-          ],
-          "brands": [
-            "Chanel"
-          ],
-          "reach": 126372,
-          "ave": 1168.94
-        },
-        {
-          "id": "md0vdd",
-          "headline": "Chanel CFO Philippe Blondiaux To Retire At End Of 2026",
-          "source": "The Impression",
-          "author": "",
-          "url": "https://theimpression.com/chanel-cfo-philippe-blondiaux-to-retire-at-end-of-2026/",
-          "section": "Brand News",
-          "date": "July 16 2026",
-          "iso": "2026-07-15",
-          "summary": "The longtime finance executive will step down after 15 years with the luxury house, with a successor to be announced at a later date. Chanel global chief financial officer Philippe Blondiaux will retire at the end of 2026, concluding a 15-year tenure at the privately held luxury house. Blondiaux joined Chanel in 2011 following an international career spanning finance and business leadership roles at Nestlé and PwC. Over the following decade and a half, he became one of the company’s most visible senior executives, regularly representing Chanel in discussions of its financial performance, investment strategy and long-term approach to growth.",
-          "sentiment": "positive",
-          "sentimentAuto": "positive",
-          "themes": [
-            "Prestige vs Mass"
-          ],
-          "brands": [
-            "Chanel"
-          ],
-          "reach": 519384,
-          "ave": 4804.3
-        },
-        {
-          "id": "twmn5f",
-          "headline": "Destroy Or Resell: The Impossible Equation For Luxury Giants Facing Their Own Stocks",
-          "source": "NSS Magazine",
-          "author": "Julie Boone",
-          "url": "https://www.nssmag.com/en/fashion/46208/destruction-unsold-luxury-goods-black-market-chanel-burberry",
-          "section": "Industry News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "Long kept as one of the best-guarded secrets in the luxury industry, the destruction of unsold goods is now caught between ethical questioning and legislative constraints. Behind the scenes of haute couture, prestige has long been measured by what did not sell. To preserve this sense of exclusivity, destroying exceptional pieces rather than discounting them was a tacit but absolute rule. Today, faced with societal pressure and unprecedented regulations, the industry must learn to manage its end-of-cycle products without damaging its image. It is a paradox that has long plagued the fashion industry: artisans spend dozens of hours crafting exceptional bags and garments, only for these very objects to sometimes end up shredded or incinerated in the secrecy of high-security industrial zones.",
-          "sentiment": "negative",
-          "sentimentAuto": "negative",
-          "themes": [
-            "Brand & Product Launch",
-            "Prestige vs Mass",
-            "Markets & Regulation"
-          ],
-          "brands": [],
-          "reach": 406822,
-          "ave": 3763.1
-        },
-        {
-          "id": "cg0c0c",
-          "headline": "Luxury Retailer’s Employee Criminal Trial Exposes Industry Practice",
-          "source": "The Street",
-          "author": "Fernanda Tronco",
-          "url": "https://www.thestreet.com/retail/chanel-criminal-trial-hidden-controversial-practice",
-          "section": "Industry News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "One of the world’s most recognizable luxury fashion brands is at the center of a yearslong criminal trial after two former warehouse employees were accused of stealing hundreds of high-end products that had been designated for destruction. Beyond the alleged theft, testimony in the case has pulled back the curtain on a little-known practice in the luxury industry: destroying unsold merchandise to preserve exclusivity rather than allowing it to be sold at discounted prices.",
-          "sentiment": "neutral",
-          "sentimentAuto": "neutral",
-          "themes": [
-            "Brand & Product Launch",
-            "Retail & Distribution",
-            "Prestige vs Mass"
-          ],
-          "brands": [],
-          "reach": 899790,
-          "ave": 8323.06
-        },
-        {
-          "id": "tj7i6w",
-          "headline": "Treatment Stacking To TPE: The Next Aesthetic Treatment Trends To Know",
-          "source": "Vogue",
-          "author": "Amy Francombe",
-          "url": "https://www.vogue.com/article/treatment-stacking-to-tpe-the-next-aesthetic-treatment-trends-to-know",
-          "section": "Industry News",
-          "date": "July 17, 2026",
-          "iso": "2026-07-16",
-          "summary": "The modern aesthetics industry, long plagued by fillers, lasers, Botox, and the nips and tucks of aging skin, is sitting on the precipice of its next era. As the age-old act of going under the knife retreats into the background, the next cohort of treatments is waiting in the wings. But this time, the focus goes even deeper than an injectable, with more consumers becoming hyperfixated on skin quality, collagen stimulation, inflammation, hormonal changes, metabolic health, or how to preserve their appearance over decades, not just years.",
-          "sentiment": "positive",
-          "sentimentAuto": "positive",
-          "themes": [
-            "General Coverage"
-          ],
-          "brands": [],
-          "reach": 72318,
-          "ave": 668.94
-        },
-        {
-          "id": "xaq8mz",
-          "headline": "Regulations Have Been Developed For The Beauty Industry",
-          "source": "Logos Press Business Review",
-          "author": "Tatiana Sichirliiscaia",
-          "url": "https://logos-pres.md/en/news/regulations-have-been-developed-for-the-beauty-industry/",
-          "section": "Industry News",
-          "date": "July 17, 2026",
-          "iso": "2026-07-16",
-          "summary": "The State Tax Service has developed guidelines for providing beauty services. The document is intended to help individuals formalize their business activities. Today, they can operate under the specialty “Hairdressing and Beauty Salon Services,” as defined in the Classification of Economic Activities, and also carry out the activity “Hairdressing and Cosmetic Services” under a business license. The document is available on the tax authority’s official website. It includes information on the types of economic activities in this field. It is emphasized, however, that this does not include the provision of medical services.",
-          "sentiment": "neutral",
-          "sentimentAuto": "neutral",
-          "themes": [
-            "Brand & Product Launch",
-            "Markets & Regulation"
-          ],
-          "brands": [],
-          "reach": 823837,
-          "ave": 7620.49
-        },
-        {
-          "id": "mnomra",
-          "headline": "Paris Hilton Returns To NYX Professional Makeup As The Gloss Boss",
-          "source": "Cosmetics Business",
-          "author": "Lollie Hancock",
-          "url": "https://cosmeticsbusiness.com/paris-hilton-returns-to-nyx-gloss-boss",
-          "section": "Industry News",
-          "date": "July 16, 2026",
-          "iso": "2026-07-15",
-          "summary": "NYX Professional Makeup has named socialite-turned-entrepreneur Paris Hilton as its new Gloss Boss. The appointment comes as part of the next chapter of the L’Oréal-owned make-up brand’s annual campaign, ‘If You NYX, You Know’ (IYNYK). Hilton, who was part of the first installment of IYNYK, which debuted last summer, is welcomed back amongst a roster of celebrity partners, including pop star and ‘Love Lies’ singer Normani, Love Island UK’s Toni Laites, Brazilian model and content creator Gabriela Moura and Middle Eastern beauty creator Yusur Al-khalidi.",
-          "sentiment": "neutral",
-          "sentimentAuto": "neutral",
-          "themes": [
-            "Brand & Product Launch",
-            "Marketing & Influence"
-          ],
-          "brands": [
-            "L'Oréal"
-          ],
-          "reach": 625348,
-          "ave": 5784.47
-        }
-      ]
-    },
     "2026-07-20": {
       "uploadedAt": "2026-07-20T13:45:54.224Z",
       "filename": "InfoVision_Beauty_Media_Briefing_2026-07-20.docx",
@@ -905,6 +905,302 @@
           "brands": [],
           "reach": 313068,
           "ave": 2895.88
+        }
+      ]
+    },
+    "2026-07-21": {
+      "uploadedAt": "2026-07-21T12:13:18.774Z",
+      "filename": "InfoVision_Beauty_Media_Briefing_2026-07-21.docx",
+      "articles": [
+        {
+          "id": "qm54hv",
+          "headline": "Nobody Dupes A Bad Brand. That’s Why Chanel Should Love Ballet Flat Knockoffs",
+          "source": "Inc",
+          "author": "Robin Landa",
+          "url": "https://www.inc.com/robin-landa/nobody-dupes-a-bad-brand-thats-why-chanel-should-love-ballet-flat-knockoffs/91377106",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Among fashion-fluent women, the Chanel ballet flat has become stratified. The iconic beige-and-black cap toe, once the grail, is now so common among the style-literate that insiders hunt baby pinks, candy reds, sky blues, denim, and embossed leather. The shoe that once marked the club now distinguishes rank within it. That’s what peak brand power looks like. There’s another tribute to that power. Department stores are full of ballet flats that look remarkably similar for under $100. So what, exactly, is the other $1,000 buying? The answer explains why successful brands become cultural forces.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Retail & Distribution"
+          ],
+          "brands": [
+            "Chanel"
+          ],
+          "reach": 113662,
+          "ave": 1051.37
+        },
+        {
+          "id": "oksq1j",
+          "headline": "No Gucci, No Problem? Coty Learns To Live Without Flagship Brand",
+          "source": "Reuters",
+          "author": "Alexander Marrow and Lisa Jucca",
+          "url": "https://www.reuters.com/legal/transactional/no-gucci-no-problem-coty-learns-live-without-flagship-brand-2026-07-20/",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Coty's (COTY.N), opens new tab $400 million deal to exit its flagship Gucci Beauty licence a year early will cost it a big chunk of near-term ‌earnings, but could prove a turning point for the struggling beauty brand under interim CEO Markus Strobel. The decision to hand back its most prestigious licence means fiscal year 2028 will be rough for the Procter & Gamble veteran, who took over in January from former boss Sue Nabi at a group whose shares have already slid 80% since early 2024.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Retail & Distribution",
+            "Markets & Regulation"
+          ],
+          "brands": [
+            "Coty"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "tordqw",
+          "headline": "Ulta Beauty Hires Kelly Garcia As Chief Technology Officer",
+          "source": "Mass Market Retailers",
+          "author": "",
+          "url": "https://massmarketretailers.com/ulta-beauty-hires-kelly-garcia-as-chief-technology-officer/",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Ulta Beauty Inc. has appointed Kelly Garcia, a company board member, as its chief technology officer, effective August 31. On that date, Garcia will give up the board seat he has held since 2022. “Kelly has been an impactful member of our board of directors, providing valuable business insights and technology expertise, including perspectives on emerging technologies such as AI, and we are excited to enhance our executive team with his leadership as our new CTO,” said Kecia Steelman, president and chief executive officer at Ulta.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Retail & Distribution",
+            "AI Beauty Tech"
+          ],
+          "brands": [
+            "Ulta Beauty"
+          ],
+          "reach": 502389,
+          "ave": 4647.1
+        },
+        {
+          "id": "uzs5g2",
+          "headline": "Cosmetics Giant Estée Lauder Victim Of Mass Oracle Breach",
+          "source": "ComputerWeekly",
+          "author": "Alex Scroxton",
+          "url": "https://www.computerweekly.com/news/366645849/Cosmetics-giant-Estee-Lauder-victim-of-mass-Oracle-breach",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Cosmetics multinational Estée Lauder is contacting both current and former employees after discovering internal data was compromised in a breach orchestrated through Oracle’s E-Business Suite (EBS) service in the summer of 2025. The New York-based Estée Lauder group told victims that on or around 9 August 2025, an unauthorised third-party gained access to its EBS system and was able to obtain data including names, postal and email addresses, dates of birth, US Social Security numbers, passport data, bank details, health information, and internal human resources (HR) data such as payroll and performance reviews.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Prestige vs Mass",
+            "Marketing & Influence"
+          ],
+          "brands": [
+            "Estée Lauder"
+          ],
+          "reach": 514660,
+          "ave": 4760.6
+        },
+        {
+          "id": "dyqj23",
+          "headline": "Madeleine Boyd Named SVP Global Brand Communications At Estée Lauder",
+          "source": "The Beauty Influencers",
+          "author": "Christine Schott Ledes",
+          "url": "https://www.thebeautyinfluencers.com/2026/07/20/10803/",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "The Estée Lauder Companies Inc. has announced the appointment of Madeleine Boyd as Senior Vice President, Global Brand Communications, effective July 20, 2026. As part of the company’s continued efforts to strengthen how its brands better connect with consumers, Boyd will establish and lead a newly integrated Global Brand Communications team. In this role, she will ensure the company’s diverse portfolio is anchored by a cohesive enterprise communications strategy, while accelerating bold, consumer-first storytelling that drives earned media, cultural relevance, and brand desirability. She will also strengthen creator engagement, helping the company’s brands gain attention where culture is being shaped.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Marketing & Influence"
+          ],
+          "brands": [
+            "Estée Lauder"
+          ],
+          "reach": 592863,
+          "ave": 5483.98
+        },
+        {
+          "id": "marork",
+          "headline": "Ulta Beauty vs. Sally Beauty: A Comparison Of Recent Revenue Trends",
+          "source": "The Motley Fool",
+          "author": "John Ballard",
+          "url": "https://www.fool.com/coverage/charts/2026/07/20/ulta-beauty-vs-sally-beauty-a-comparison-of-recent-revenue-trends/",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Ulta Beauty consistently generates higher revenue totals and demonstrates a generally upward longer-term trajectory compared to Sally Beauty. Over the last eight quarters, Ulta Beauty experienced notable quarter-over-quarter fluctuations, while Sally Beauty maintained a highly stable revenue baseline. Investors should watch whether the revenue gap between the two companies continues to widen or begins to stabilize in upcoming quarters.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution"
+          ],
+          "brands": [
+            "Ulta Beauty"
+          ],
+          "reach": 743991,
+          "ave": 6881.92
+        },
+        {
+          "id": "kwf4gd",
+          "headline": "New Report Analyzes AI Visibility In ChatGPT Responses",
+          "source": "Beauty Packaging",
+          "author": "Rachel Klemovitch",
+          "url": "https://www.beautypackaging.com/breaking-news/new-report-analyzes-ai-visibility-in-chatgpt-responses/",
+          "section": "AI Pulse",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Avenue Z, a digital marketing and PR agency specializing in AI visibility and Answer Engine Optimization (AEO), released its 2026 AI Visibility Index (AIVx) Beauty Report. The report analyzes AI visibility, rank, and citation trends across 60 brands and 565 AI citations derived from ChatGPT responses. Whitney Hart, Chief Strategy Officer and Director of the AI Lab at Avenue Z, said: “Beauty brands need to understand that AI visibility is not a content volume game, rather it is a credibility game. In this category, AI visibility is being built through authority that exists beyond a brand’s own channels. The leaders are gaining ground because trusted third parties are consistently shaping how AI understands and recommends them. That is a very different playbook from traditional brand publishing, and it is quickly becoming a real competitive advantage.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI Beauty Tech",
+            "Marketing & Influence"
+          ],
+          "brands": [],
+          "reach": 652991,
+          "ave": 6040.17
+        },
+        {
+          "id": "ac32pz",
+          "headline": "How Brands Can Create Meaning In The Age Of AI",
+          "source": "Vogue",
+          "author": "Amy O’Brien",
+          "url": "https://www.vogue.com/article/how-brands-can-create-meaning-in-the-age-of-ai",
+          "section": "AI Pulse",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "In 1935, German philosopher Walter Benjamin warned that mechanical reproduction would erode the “aura” of art. By allowing paintings and photographs to be copied endlessly, he argued, technology detached cultural objects from the unique contexts (time and place) that gave them meaning. Half a century later, Andy Warhol’s factory flipped this theory on its head. By reproducing Campbell’s soup cans and Marilyn Monroe portraits at industrial scale, Warhol collapsed the distinction between commerce and culture, suggesting that mass production and repetition could become a form of value in itself.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch",
+            "AI Beauty Tech",
+            "Prestige vs Mass"
+          ],
+          "brands": [],
+          "reach": 72318,
+          "ave": 668.94
+        },
+        {
+          "id": "pwgv8o",
+          "headline": "Creator And Influencer Trends Brand Marketers Need To Know About Right Now",
+          "source": "AdAge",
+          "author": "Gillian Follett",
+          "url": "https://adage.com/influencers-creators/aa-trends-gap-alo-yoga-disney-mountain-dew-chanel/",
+          "section": "Industry News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Each week, we highlight the latest developments at the intersection between brands and the creator economy, including new partnerships between brands and creators, notable new features across social media platforms and the growth of creator-led businesses.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI Beauty Tech",
+            "Marketing & Influence"
+          ],
+          "brands": [],
+          "reach": 113724,
+          "ave": 1051.95
+        },
+        {
+          "id": "tal1me",
+          "headline": "The New Beauty Goal Isn’t Looking Younger. It’s Skin Longevity.",
+          "source": "Verna Magazine",
+          "author": "",
+          "url": "https://www.vernamagazine.com/the-new-beauty-goal-isnt-looking-younger-its-skin-longevity/amp/",
+          "section": "Industry News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "For decades, the beauty industry sold us the same promise: look younger. Erase the lines.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch"
+          ],
+          "brands": [],
+          "reach": 247774,
+          "ave": 2291.91
+        },
+        {
+          "id": "dbfdan",
+          "headline": "Cosmoprof North America Signals Beauty’s Next Growth Drivers, From Smarter SPF To Fragrance And K-Beauty",
+          "source": "WWD",
+          "author": "Ryma Chikhoune",
+          "url": "https://wwd.com/beauty-industry-news/beauty-features/cosmoprof-north-america-2026-beauty-trends-1239068730/",
+          "section": "Industry News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Cosmoprof North America returned to Las Vegas July 13 to 15 as retailers, brands, manufacturers and suppliers gathered to gauge where beauty innovation and consumer demand are headed next. Across the show floor, several themes surfaced, from next-generation sunscreen technology and clinically backed, problem-solving products and tools to fragrance’s expansion beyond perfume and K-beauty’s continued evolution. Together, it reflected a beauty market defined by performance, specialization and products that deliver measurable results.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "AI Beauty Tech"
+          ],
+          "brands": [],
+          "reach": 126372,
+          "ave": 1168.94
+        },
+        {
+          "id": "q4q5t6",
+          "headline": "Which Beauty Ingredients Are Trending Most In South Korea?",
+          "source": "WWD",
+          "author": "Noor Lobad",
+          "url": "https://wwd.com/beauty-industry-news/beauty-features/pdrn-korea-azulene-beauty-skin-care-ingredient-trends-1239069353/",
+          "section": "Industry News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Is azulene the next PDRN? Data from Spate detailing the top 10 beauty ingredients by monthly search growth via South Korea’s Naver shows that azulene ranks in the top three, trailing behind already-mainstream counterparts PDRN and minoxidil, respectively. Azulene is an anti-inflammatory compound derived from plants like chamomile and yarrow. Known to calm sensitive skin, the ingredient garnered roughly 15,300 monthly searches on Naver from June 2025 through May 2026, an increase of 29 percent versus the year prior.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Markets & Regulation"
+          ],
+          "brands": [],
+          "reach": 126372,
+          "ave": 1168.94
+        },
+        {
+          "id": "efouqw",
+          "headline": "K-Beauty’s Global Boom: Sales Up 131% In Two Years, Says NIQ",
+          "source": "Premium Beauty News",
+          "author": "",
+          "url": "https://www.premiumbeautynews.com/en/k-beauty-s-global-boom-sales-up,27952",
+          "section": "Industry News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "New data from the consumer intelligence firm shows K-Beauty global value sales rose 53% year-over-year and 131% over two years. In its latest report, K-Beauty Goes Global, NIQ shows how Korean beauty is reshaping consumer expectations, accelerating innovation cycles and redefining competitive dynamics across the global beauty market. According to the market research firm, K-Beauty has become a rapidly growing global beauty segment, with value sales up 53% year-over-year and 131% over the past two years.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 438702,
+          "ave": 4057.99
+        },
+        {
+          "id": "xdabjg",
+          "headline": "Sephora Introduces Global ‘Quiet Hours’ Shopping Experience, A First For Beauty Retailers",
+          "source": "KTLA",
+          "author": "Iman Palm",
+          "url": "https://ktla.com/news/nationworld/sephora-introduces-global-quiet-hours-shopping-experience-a-first-for-beauty-retailers/",
+          "section": "Industry News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Sephora has introduced “Quiet Hours,” a new initiative designed to offer a calmer in-store shopping experience for customers who prefer reduced sensory stimulation. The beauty retailer says it is the first in its industry to roll out “Quiet Hours” globally. During designated times, stores will lower music volume and adjust digital screens to create a quieter environment with fewer distractions. Sephora said the program was shaped with input from neurodiversity advocates, including Open Inclusion and Purposeful Futures, as well as internal employee resource groups.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Retail & Distribution"
+          ],
+          "brands": [
+            "Sephora"
+          ],
+          "reach": 557470,
+          "ave": 5156.6
         }
       ]
     }
