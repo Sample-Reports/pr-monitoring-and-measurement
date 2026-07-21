@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "retail",
-  "_savedAt": "2026-07-20T15:01:03.788Z",
-  "_dayCount": 4,
+  "_savedAt": "2026-07-21T12:15:45.438Z",
+  "_dayCount": 5,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:03.474Z",
@@ -1122,6 +1122,331 @@
           ],
           "reach": 17642013,
           "ave": 163188.62
+        }
+      ]
+    },
+    "2026-07-21": {
+      "uploadedAt": "2026-07-21T12:15:35.176Z",
+      "filename": "InfoVision_Retail_Media_Briefing_2026-07-21.docx",
+      "articles": [
+        {
+          "id": "2cmbyg",
+          "headline": "Ahold Delhaize’s First Decade: Key US Milestones",
+          "source": "Grocery Dive",
+          "author": "Peyton Bigora and Sam Silverstein",
+          "url": "https://www.grocerydive.com/news/ahold-delhaize-usa-adusa-timeline-10-year-merger-anniversary/825596/",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Ten years ago this month, Ahold and Delhaize Group finalized their merger, establishing the grocery company known today as Ahold Delhaize. The companies’ stateside goal was to create a grocery entity that would dominate the East Coast. Prior to the merger, Dutch grocery retailer Ahold operated Stop & Shop and Giant stores, while Delhaize Group ran Food Lion and Hannaford chains. Once the $29 billion tie-up received approval from the Federal Trade Commission in July 2016, a combined company with more than 2,000 U.S. stores was born, making Ahold Delhaize the sixth-largest food retailer in the country at the time.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [],
+          "reach": 158087,
+          "ave": 1462.3
+        },
+        {
+          "id": "crjj5d",
+          "headline": "Wakefern Produce Summit Aims To Boost Local, Regional Growers",
+          "source": "National Grocers",
+          "author": "",
+          "url": "https://www.nationalgrocers.org/news/wakefern-produce-summit-aims-to-boost-local-regional-growers/",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Wakefern Food Corp. hosted its annual Local Produce Supplier Summit on July 15 at the New Jersey Convention and Expo Center in Edison, New Jersey, bringing together local and regional growers, agricultural leaders and the cooperative’s produce procurement teams. At the event, Ross Farnsworth, VP of produce and floral for Wakefern, reaffirmed the cooperative’s recently announced $500 million, five-year commitment to sourcing produce from local and regional farms throughout the Northeast.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Supply Chain"
+          ],
+          "brands": [],
+          "reach": 842343,
+          "ave": 7791.67
+        },
+        {
+          "id": "6aeont",
+          "headline": "Walmart U.S. Names New COO",
+          "source": "Supermarket News",
+          "author": "Mark Hamstra",
+          "url": "https://www.supermarketnews.com/executive-moves/walmart-u-s-names-new-coo",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "The chief operating officer of Walmart’s U.S. division has stepped down and will be succeeded by the COO of Walmart International, the company said in an internal memo provided to Supermarket News on Monday. Kieran Shanahan, a longtime Walmart veteran who started his career at Asda, the company’s former U.K. division, will remain on as an adviser through the company’s current fiscal year, which ends next Jan. 31, the retailer said. Succeeding him as executive VP and COO of Walmart U.S. is Kyle Kinnard, effective immediately.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 223972,
+          "ave": 2071.74
+        },
+        {
+          "id": "61t9fh",
+          "headline": "Walmart Tops U.S. Supermarket Brand Funnel As Aldi And Kroger Lead On Conversion Efficiency",
+          "source": "Mass Market Retailers",
+          "author": "Bill Schiffner",
+          "url": "https://massmarketretailers.com/walmart-tops-u-s-supermarket-brand-funnel-as-aldi-and-kroger-lead-on-conversion-efficiency/",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "While Walmart remained the overall leader, Aldi and Kroger stood out for their ability to convert brand awareness into customer preference according to data from Conjointly",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Walmart",
+            "Kroger"
+          ],
+          "reach": 502389,
+          "ave": 4647.1
+        },
+        {
+          "id": "4mmslk",
+          "headline": "Ahold Delhaize Accelerates Digital Retail Strategy Across Europe And The United States",
+          "source": "International Supermarket News",
+          "author": "",
+          "url": "https://internationalsupermarketnews.com/ahold-delhaize-accelerates-digital-retail-strategy-across-europe-and-the-united-states/",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Ahold Delhaize is continuing to strengthen its position as one of the world’s largest food retailers by increasing investment in digital retailing, technology and supply chain efficiency across its European and American businesses. As consumer shopping habits continue to evolve, the company is focusing on creating a more connected retail operation that combines physical supermarkets with advanced online services. Operating well-known supermarket brands including Albert Heijn in the Netherlands, Delhaize in Belgium, Food Lion, Stop & Shop, Giant Food and Hannaford in the United States, the group serves millions of customers every week. Although each brand operates independently to reflect local market conditions, the company is increasingly sharing technology, logistics expertise and digital innovations across the entire organisation.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer",
+            "Supply Chain"
+          ],
+          "brands": [],
+          "reach": 166926,
+          "ave": 1544.07
+        },
+        {
+          "id": "te0dh1",
+          "headline": "Can Walmart's General Merchandise Revival Unlock Higher Margins?",
+          "source": "Zacks",
+          "author": "",
+          "url": "https://www.tradingview.com/news/zacks:1c9cbed60094b:0-can-walmart-s-general-merchandise-revival-unlock-higher-margins/",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Walmart Inc. WMT delivered a notable improvement in its general merchandise business during the first quarter of fiscal 2027, with stronger performance in discretionary categories beginning to contribute more meaningfully to the merchandise mix. The quarter marked an important development as improved general merchandise sales supported gross-margin expansion despite continued cost pressure from higher fuel expenses.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 645188,
+          "ave": 5967.99
+        },
+        {
+          "id": "fhgjak",
+          "headline": "Trump Calls Walmart 'truly Patriotic' After Price Cuts To Grocery Items",
+          "source": "Cape Cod Times",
+          "author": "Bailey Allen",
+          "url": "https://www.capecodtimes.com/story/grocery/stores/2026/07/21/walmart-groceries-cheaper-falmouth-ma/90979936007/",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Walmart announced it is lowering prices on thousands of items this summer. The retailer, which has a location in Teaticket on Cape Cod, said in an early July press release that customers can expect savings across categories, including \"grocery, household essentials, outdoor living, toys, and apparel\" at both Walmart and Sam's Club stores. \"Customers count on Walmart to deliver the value they need every day, and summer is no exception,\" Julie Barber, executive vice president and chief merchant at Walmart U.S., said in a statement. \"This summer, we're making even more investments in price, with thousands of Rollbacks across the products customers are shopping for most, including beef, fresh produce and beverages, grills, pools, toys, and summer fashion apparel.\"",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 659503,
+          "ave": 6100.4
+        },
+        {
+          "id": "2zg414",
+          "headline": "Walmart Location Does An About-Face On Its Self-Checkout Policy As Shoppers Praise ‘It’s About Time’",
+          "source": "The Sun",
+          "author": "James Evenden",
+          "url": "https://www.the-sun.com/money/16718330/walmart-removes-self-checkout-artesia-new-mexico/",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "WALMART has announced a major U-turn in its self-checkout policy, which has only been implemented in a handful of its stores. While self-checkout regulation takes hold across the US, Walmart has removed most kiosks from several of its locations. Now, a Walmart store in Artesia, New Mexico, has added its name to the list, according to a recent social media post. On Facebook, the majority of the self-checkout machines in the store were removed today.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "wnxh94",
+          "headline": "General Mills, ADM And Walmart Expand Regenerative Agriculture",
+          "source": "ESG News",
+          "author": "",
+          "url": "https://esgnews.com/walmart-general-mills-and-adm-expand-regenerative-wheat/",
+          "section": "Brand News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Walmart, General Mills and ADM have launched a regenerative agriculture program covering 40,000 acres of Midwest wheat production. The collaboration will focus on farming regions that supply ADM with wheat used by General Mills. Those ingredients are then used in products sold through Walmart and Sam’s Club. The companies aim to improve soil health, water quality and carbon sequestration. They also want to strengthen farmer livelihoods and reduce long-term risks across the food supply chain. American Farmland Trust and Ducks Unlimited will provide technical support for the initial projects. ADM will manage the program directly with participating farmers in Illinois, Indiana and Missouri.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Supply Chain"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 470022,
+          "ave": 4347.7
+        },
+        {
+          "id": "9e2chb",
+          "headline": "Walmart Expands Technology Investment To Reinforce Global Retail Leadership",
+          "source": "International Supermarket News",
+          "author": "",
+          "url": "https://internationalsupermarketnews.com/walmart-expands-technology-investment-to-reinforce-global-retail-leadership/",
+          "section": "AI Pulse",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Walmart is continuing to invest heavily in technology, automation and digital retailing as the world’s largest retailer strengthens its competitive position in an increasingly fast-changing grocery market. The company is modernising its stores, distribution centres and online operations while focusing on improving efficiency and enhancing the shopping experience for millions of customers. Although Walmart remains best known for its vast network of hypermarkets and supermarkets, technology has become one of the company’s biggest priorities. Significant investment is being directed towards artificial intelligence, warehouse automation and advanced inventory systems that allow products to move through the supply chain faster and more accurately.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "AI & Personalization",
+            "Supply Chain"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 166926,
+          "ave": 1544.07
+        },
+        {
+          "id": "c0nnmg",
+          "headline": "Giant Eagle Lowers Prices, Joining Other Retailers. What Costs Less?",
+          "source": "USA Today",
+          "author": "Rachel Barber",
+          "url": "https://www.usatoday.com/story/money/economy/2026/07/20/giant-eagle-grocery-stores-cutting-prices/90982158007/",
+          "section": "Industry News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "From ground beef to peanut butter, food retailer Giant Eagle has joined a growing list of grocers lowering prices on thousands of items this summer as many U.S. consumers struggle to make ends meet. A LendingTree survey earlier this year found that 49% of Americans said it was difficult to afford food, and 22% of low-income households reported buying fewer groceries as prices climb. Grocery costs were up 3% over the year in June, according to Labor Department data.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Pricing & Consumer"
+          ],
+          "brands": [],
+          "reach": 20125212,
+          "ave": 186158.21
+        },
+        {
+          "id": "h7chg0",
+          "headline": "Retail Media’s Next Act: Proving Business Growth, Not Just Ad Performance",
+          "source": "eMarketer",
+          "author": "Arielle Feger",
+          "url": "https://www.emarketer.com/content/retail-media-s-next-act--proving-business-growth--not-just-ad-performance",
+          "section": "Industry News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Retail media networks (RMNs) are moving beyond traditional return on ad spend metrics to prove business impact through closed-loop attribution that connects media exposure to actual purchases, both online and in-store. \"We have gotten very good at measuring that the campaign was active, and we have started to mistake that for whether a brand is growing,\" said Shannon Hartmann, group director of media strategy and activation at Kroger Precision Marketing, on a recent Mars United Commerce webinar. The industry now emphasizes long-term growth indicators like household penetration, loyalty, repeat purchases, and category share gains versus competitors. Networks are making performance data accessible through self-service platforms rather than managed service reporting, giving brands real-time visibility into campaign effectiveness.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [
+            "Kroger"
+          ],
+          "reach": 497298,
+          "ave": 4600.01
+        },
+        {
+          "id": "w3ypke",
+          "headline": "Store Managers Say Business Remains Steady As AI Plays Bigger Role",
+          "source": "HomePage News",
+          "author": "",
+          "url": "https://www.homepagenews.com/retail-articles/store-managers-say-business-remains-steady-as-ai-plays-bigger-role/",
+          "section": "Industry News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "Retailers continue to invest in technology, embrace artificial intelligence and expand omnichannel services as they adapt to evolving consumer expectations, according to The Levin Management Corp.’s 2026 Mid-Year Retail Sentiment Survey. The survey of store managers across the shopping center operator’s portfolio of properties further indicated that overall retail performance remained stable: 61.6% of respondents said year-to-date sales were equal to or higher than last year’s revenues. As for drivers, 63.9% of store managers reported that customer traffic was stable or higher year over year. Retailers identified customer traffic (29.9%) and customer spending (23.4%) as the leading factors influencing sales performance today.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "AI & Personalization",
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 675643,
+          "ave": 6249.7
+        },
+        {
+          "id": "nyjmpd",
+          "headline": "In Retail, Automation Isn’t The Problem. Untested Customer Journeys Are.",
+          "source": "Retail Customer Experience",
+          "author": "Mark Rohan",
+          "url": "https://www.retailcustomerexperience.com/blogs/in-retail-automation-isnt-the-problem-untested-customer-journeys-are/",
+          "section": "Industry News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "AI proposes to vastly change industries by automating away grunt work, and businesses worldwide are buying into that promise. But few industries are as exposed to the masses as retail is. That is why conversations in the sector have been dominated by concerns about data privacy and AI ethics. Forty-seven percent of consumers are ready to abandon brands over poor data retention and usage policies, and some even think AI actually worsens customer experience, according to a survey by Sogolytics.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "AI & Personalization",
+            "Pricing & Consumer"
+          ],
+          "brands": [],
+          "reach": 265135,
+          "ave": 2452.5
+        },
+        {
+          "id": "toeqx0",
+          "headline": "Retailers Should View AI As Their ‘New Storefront,’ Survey Concludes",
+          "source": "Invisionmag.com",
+          "author": "",
+          "url": "https://invisionmag.com/retailers-should-view-ai-as-their-new-storefront-survey-concludes/",
+          "section": "Industry News",
+          "date": "July 20, 2026",
+          "iso": "2026-07-19",
+          "summary": "For many Americans, AI has already expanded from a simple research tool into a trusted shopping resource on par with online reviews and personal recommendations, a new survey by integrated marketing agency LDWW found. But there’s still a major caveat for such consumers: most have adopted a “trust-but-verify” approach, paying close attention to where AI gets its information. “AI has become a mainstream shopping channel for American consumers, and its influence is only accelerating,” the LDWW news release its survey results said. “…Nearly 7 in 10 Americans are already using AI to shop for products and services, and 71% expect to use the technology even more in the years ahead, a trend that is fundamentally reshaping how consumers discover, research and buy from brands.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "AI & Personalization",
+            "Pricing & Consumer"
+          ],
+          "brands": [],
+          "reach": 373159,
+          "ave": 3451.72
         }
       ]
     }
