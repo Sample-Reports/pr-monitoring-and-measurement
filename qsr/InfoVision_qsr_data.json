@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "qsr",
-  "_savedAt": "2026-07-21T12:15:14.922Z",
-  "_dayCount": 5,
+  "_savedAt": "2026-07-22T12:09:50.433Z",
+  "_dayCount": 6,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:45.173Z",
@@ -1703,6 +1703,342 @@
           "brands": [],
           "reach": 68484,
           "ave": 633.48
+        }
+      ]
+    },
+    "2026-07-22": {
+      "uploadedAt": "2026-07-22T12:09:43.209Z",
+      "filename": "InfoVision_QSR_Media_Briefing_2026-07-22.docx",
+      "articles": [
+        {
+          "id": "4tdrvd",
+          "headline": "KFC Shuts Down Hundreds Of U.S. Restaurants: What Do The Numbers Mean?",
+          "source": "SILive",
+          "author": "Jessica Jones-Gorman",
+          "url": "https://www.silive.com/business/2026/07/kfc-shuts-down-hundreds-of-us-restaurants-what-do-the-numbers-mean.html",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "KFC is shrinking its U.S. footprint and the reason for the closures is not immediately evident, according to a recent report. The global fast-food restaurant chain, famous for its signature Southern-style fried chicken, has shuttered 312 restaurants across the country in the past year, AI search visibility platform Local Falcon recently revealed — which amounts to a 7.64% reduction in stores. “In all, 278 cities lost a KFC, but just 257 of them lost only one,” the report noted. “San Antonio is the sharp exception. The Texas city lost seven KFC locations over the year, more than any other city in the country …”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "AI & Automation",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 401950,
+          "ave": 3718.04
+        },
+        {
+          "id": "fvns87",
+          "headline": "KFC Turns The Internet's Pickle Obsession Into Nail Bar, Pop-Up And Pickle Club Menu",
+          "source": "Little Black Book",
+          "author": "Havas Paris",
+          "url": "https://lbbonline.com/news/KFC-Pickle",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "From the back of the pantry to global food phenomenon, the pickle has become impossible to ignore. Taste tests, outrageous recipes, unexpected pairings and viral content: across every continent, it has established itself as one of the most talked-about condiments on social media. Deeply divisive, the pickle sparks as much debate as it does devotion - and that's precisely what makes it so successful. Equal parts fascination, humour and creativity, it fuels conversations and has become a true cultural icon. KFC has tapped into this momentum with 'PICKLE CLUB', a new campaign from Havas that celebrates the most passionate fans of this iconic condiment.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 274828,
+          "ave": 2542.16
+        },
+        {
+          "id": "8n9if3",
+          "headline": "Taco Bell And Chipotle Face A Problem Bigger Than Lettuce",
+          "source": "TheStreet",
+          "author": "Daniel Kline",
+          "url": "https://www.thestreet.com/restaurants/taco-bell-and-chipotle-face-a-problem-bigger-than-lettuce",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "A food safety scandal can disappear from headlines within weeks or follow a restaurant brand for years. Taco Bell is now facing the same question that once challenged Chipotle: How long will customers remember? While they have not been implicated by the FDA in serving the infected lettuce that has been causing severe gastrointestinal distress, Chipotle, Cava, Chopt, Panera Bread, and other chains that offer lettuce have seen collateral damage from the scandal. And although it’s never good to be associated with explosive diarrhea, the real issue for these chains is how consumers view the incident over the long term. Past history shows that it can vary greatly.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Chipotle",
+            "Taco Bell"
+          ],
+          "reach": 271892,
+          "ave": 2515
+        },
+        {
+          "id": "k7p0nj",
+          "headline": "Taco Bell Quietly Added 2 New Burritos To The Menu For A Limited Time",
+          "source": "Allrecipes",
+          "author": "Samantha Dillard",
+          "url": "https://www.allrecipes.com/taco-bell-new-pepper-jack-steak-burritos-12022651",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "This summer, Taco Bell has been on a roll, and it shows no signs of slowing down. Last month, the chain dropped new fajitas-inspired entrées and began testing two never-before-seen chili cheese menu items in select locations. If that wasn’t enough to make you ring the bell, the restaurant also brought back the Enchirito, a sauce-topped burrito that fans have been waiting to see return for years. Now, Taco Bell has expanded its offerings once again with three new menu items that pepper Jack cheese lovers won’t want to miss.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 498172,
+          "ave": 4608.09
+        },
+        {
+          "id": "axsd0i",
+          "headline": "Wendy's Launches Sonic The Hedgehog Kids' Meals With Trading Cards",
+          "source": "QSR Web",
+          "author": "",
+          "url": "https://www.qsrweb.com/news/wendys-launches-sonic-the-hedgehog-kids-meals-with-trading-cards/",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "To celebrate the 35th anniversary of Sonic the Hedgehog, Wendy's is offering a collectible Kids' Meal experience this summer featuring one of seven character card cases, each containing a unique set of trading cards. Available now through early September at participating U.S. restaurants, the Wendy's app and Wendys.com, the promotion allows fans to collect 35 trading cards in all. The seven character sets feature heroes like Sonic the Hedgehog, Amy Rose and Miles \"Tails\" Prower, alongside Silver the Hedgehog, Knuckles the Echidna, Shadow the Hedgehog and Rouge the Bat.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Wendy's"
+          ],
+          "reach": 682532,
+          "ave": 6313.42
+        },
+        {
+          "id": "q1adxb",
+          "headline": "Chipotle Is Gaining Some Of Its Value Mojo Back",
+          "source": "QSR Magazine",
+          "author": "Danny Klein",
+          "url": "https://www.qsrmagazine.com/story/chipotle-is-gaining-some-of-its-value-mojo-back/",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "For 15th quarters, William Blair has tracked restaurant engagement and value (check out the last one here). It’s been a chaotic line at times, with guests pulling back over price and shifting toward digital options, then feeling some tech fatigue, and moving up and down the perception ladder when it comes to certain brands. Before diving into trends from the most recent edition, released this week, let’s turn to concept rankings. The percentage of respondents “eating out more often than last year” from the roughly 500 guests surveyed by William Blair outpaced those eating out less often at half the brands in its coverage zone. The gap was most favorable at Black Rock Coffee Bar, Kura Sushi, and Starbucks.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Value & Pricing",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Starbucks",
+            "Chipotle"
+          ],
+          "reach": 68484,
+          "ave": 633.48
+        },
+        {
+          "id": "yyljkv",
+          "headline": "Burger King Launches New 'Whopper Guarantee' To Win Back Customers",
+          "source": "KFDM",
+          "author": "",
+          "url": "https://kfdm.com/news/offbeat/burger-king-launches-your-way-champions-whopper-guarantee-after-customer-feedback-aiming-to-improve-order-accuracy-in-restaurant-service-and-guest-experience-nationwide-with-free-replacement-offers-for-dissatisfied-customer-alerts-cincinnati",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Burger King has launched a new \"Whopper Guarantee\" promotion to win back customers from rivals like McDonald's. Burger King announced Monday that it is introducing two new initiatives aimed at improving customers' in-restaurant experience after receiving thousands of calls and text messages through a nationwide feedback campaign. The fast-food chain said it is launching a new \"Your Way Champion\" restaurant manager role and a Whopper Guarantee as part of its ongoing brand transformation.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "McDonald's",
+            "Burger King"
+          ],
+          "reach": 543780,
+          "ave": 5029.97
+        },
+        {
+          "id": "qaa2wt",
+          "headline": "Burger King Is Reimagining The Restaurant Manager Role To Improve Service",
+          "source": "Nation’s Restaurant News",
+          "author": "Jonathan Maze",
+          "url": "https://www.nrn.com/quick-service/burger-king-is-reimagining-the-restaurant-manager-role-to-improve-service",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Burger King’s latest effort to improve the operation of its restaurants involves special shirts. The fast-food chain, which has spent the bulk of the past five years working to upgrade the way its restaurants are run, is reimagining the manager role, turning them into “Your Way Champions.” The champions will operate as the point person in the restaurant. They will welcome customers, ensure orders are correct and be available when things are needed. They will be marked by a special uniform, which was sent to stores two weeks ago. The champions made their debut this week.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 618551,
+          "ave": 5721.6
+        },
+        {
+          "id": "cm4whi",
+          "headline": "QSR Evolution Launches QSR AI Connect, Bringing Restaurant Leaders Together To Shape The Future of AI",
+          "source": "QSR Magazine",
+          "author": "",
+          "url": "https://www.qsrmagazine.com/story/qsr-evolution-launches-qsr-ai-connect-bringing-restaurant-leaders-together-to-shape-the-future-of-ai/",
+          "section": "AI Pulse",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Artificial intelligence is quickly becoming one of the most significant forces shaping the restaurant industry. From marketing and loyalty to operations, labor, guest experience, and enterprise decision-making, restaurant leaders are facing unprecedented opportunities to rethink how their businesses grow and operate. To help restaurant executives move beyond experimentation and develop a practical path forward, the QSR Evolution Conference, run by Arrowfly and the teams behind QSR and FSR magazines, is launching QSR AI Connect, a new executive initiative designed to help leaders navigate the rapidly evolving AI landscape through education, collaboration, and practical application.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "AI & Automation",
+            "Sustainability & Labor"
+          ],
+          "brands": [],
+          "reach": 68484,
+          "ave": 633.48
+        },
+        {
+          "id": "ldkut0",
+          "headline": "AI Can Drive Better Results, But It Matters What It’s Built On",
+          "source": "Demand Gen Report",
+          "author": "Gladys Kong",
+          "url": "https://www.demandgenreport.com/demanding-views/ai-can-drive-better-results-but-it-matters-what-its-built-on/53655/",
+          "section": "AI Pulse",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Speed is the part of the artificial intelligence (AI) story everyone leads with. Teams that used to wait days for analyst-generated insights can now get answers in seconds. While there is a lot of AI hype and talk about transformational change sometime down the road, we’re seeing tremendous opportunity across key verticals right now. QSR. For QSR brands, AI is accelerating decisions across site selection, operations, and competitive positioning. Teams can rank and evaluate new locations using trade area analysis, surface underperformance signals earlier, and run scenario models before committing resources, all without putting requests in a queue for the analytics team.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI & Automation",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 598553,
+          "ave": 5536.62
+        },
+        {
+          "id": "ti435l",
+          "headline": "Agentic Discovery Inspires Review Generator From Marqii, Thanx",
+          "source": "Food On Demand",
+          "author": "Hans Lammeman",
+          "url": "https://foodondemand.com/07212026/agentic-discovery-inspires-review-generator-from-marqii-thanx/",
+          "section": "AI Pulse",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "With the rise of agentic ordering and AI discovery comes increased value of restaurant reviews, a common source of information for chatbots asked about foodservice operations. That trend inspired Marqii Review Generation, a tool announced July 21 from hospitality-focused discovery platform Marqii. Launched in partnership with guest engagement software system Thanx, the feature automatically triggers SMS requests for reviews to guests immediately after they order. “I’m always looking for tools that deliver real results for my clients without adding to their workload, and Review Generation checks both boxes,” Stacey Kane, chief marketing officer, said in a release. “Asking for a review at exactly the right moment, right after a great ordering experience, is something every brand should be doing. Marqii has made it completely automatic.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering",
+            "AI & Automation"
+          ],
+          "brands": [],
+          "reach": 919926,
+          "ave": 8509.32
+        },
+        {
+          "id": "z0yk9t",
+          "headline": "Popeyes Shines A Spotlight On Its Upgraded Chicken Tenders",
+          "source": "Nation’s Restaurant News",
+          "author": "Alicia Kelso",
+          "url": "https://www.nrn.com/quick-service/popeyes-shines-a-spotlight-on-its-upgraded-chicken-tenders",
+          "section": "Industry News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Popeyes recently upgraded its chicken tenders and now it wants consumers to try them, kicking off a national delivery offer through July 27 in which 11 tenders, one large side, and four biscuits are available for $25 through DoorDash and Uber Eats. The same deal is available for $20 for in-store guests. July 27 is National Chicken Finger Day. The Popeyes’ culinary team has been updating the chain’s tenders to ensure consistent hand-breaded Louisiana flavor and “generous portions.” \"Our Chicken Tenders have earned a loyal following for a reason. They're packed with the bold Louisiana flavor and signature crunch that only Popeyes can deliver,\" Chief Marketing Officer Matt Rubin said in a statement. \"Whether fans are stacking their own Chicken Tender Tower at home or joining us at The Surf Lodge in Montauk, we're bringing craveable flavor to the center of one of summer's biggest cultural moments.\"",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 618551,
+          "ave": 5721.6
+        },
+        {
+          "id": "ulgtlo",
+          "headline": "Two Belleville Hardee’s Restaurants Close Suddenly. Here’s What We Know",
+          "source": "Belleville News-Democrat",
+          "author": "Jennifer Green",
+          "url": "https://www.bnd.com/living/food-drink/article316601308.html",
+          "section": "Industry News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Hardee’s restaurants at 2 S. Belt East and 2516 Green Mount Commons Drive in Belleville abruptly closed this week. An employee at the Green Mount Commons location declined to give his name, but said they learned of the closing Monday morning around 10 a.m. All signage was gone from each location by Tuesday afternoon. Multiple notices were posted on the doors and drive-thru speaker at Green Mount stating, ”This location is closed. Thank you for your business. Please visit our other location in Belleville.” The Hardee’s location at 1617 N. Belt West remains open. Other metro-east locations also remain open in O’Fallon, Caseyville, Collinsville, Glen Carbon, Granite City, and Waterloo.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 338641,
+          "ave": 3132.43
+        },
+        {
+          "id": "t21go4",
+          "headline": "Layne's Chicken Fingers Hits 50 Units And 24 New Franchise Deals In 2026",
+          "source": "Food & Beverage Magazine",
+          "author": "",
+          "url": "https://www.fb101.com/laynes-chicken-fingers-50-units-24-franchise-agreements-2026-302830417",
+          "section": "Industry News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Fifty open restaurants. Two dozen new franchise agreements. A California debut in the works. Layne's Chicken Fingers didn't just have a good start to 2026 — it hit the growth inflection point that separates emerging concepts from real, scalable franchise brands. At the close of the second quarter, the Texas \"Born and Breaded\" chicken finger franchise has expanded to more than 50 operating restaurants and signed two dozen franchise agreements, fueled by a mix of internal development and fresh operators joining the system. The brand also landed a placement on the prestigious Franchise 500 — a credibility marker that matters when you're courting multi-unit operators and institutional capital.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 320263,
+          "ave": 2962.43
+        },
+        {
+          "id": "55iljo",
+          "headline": "Wingstop Added More Restaurants Than Any US Chain In 2025, Report Says",
+          "source": "USA Today",
+          "author": "Fernando Cervantes Jr.",
+          "url": "https://www.usatoday.com/story/money/food/2026/07/20/wingstop-americas-fastest-growing-restaurant/90988334007/",
+          "section": "Industry News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Americans can't seem to get enough Wingstop. The Texas-based chicken chain opened more new restaurants than any other U.S. chain in 2025, adding 382 locations and beating out major brands including Chipotle, Starbucks, Chick-fil-A and Taco Bell, according to a new ranking from QSR Magazine. Wingstop's first-place ranking comes as the chicken chain continues its rapid expansion. According to QSR Magazine, Wingstop had 785 locations when it went public in 2015. By the end of fiscal 2025, the company operated 3,056 restaurants worldwide.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chick-fil-A",
+            "Starbucks",
+            "Chipotle",
+            "Taco Bell"
+          ],
+          "reach": 20125212,
+          "ave": 186158.21
         }
       ]
     }
