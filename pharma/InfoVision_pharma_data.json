@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "pharma",
-  "_savedAt": "2026-07-21T12:14:33.554Z",
-  "_dayCount": 5,
+  "_savedAt": "2026-07-22T12:09:27.600Z",
+  "_dayCount": 6,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:09.000Z",
@@ -1979,6 +1979,411 @@
           "brands": [],
           "reach": 356745,
           "ave": 3299.89
+        }
+      ]
+    },
+    "2026-07-22": {
+      "uploadedAt": "2026-07-22T12:09:11.464Z",
+      "filename": "InfoVision_Pharma_Media_Briefing_2026-07-22.docx",
+      "articles": [
+        {
+          "id": "ie0846",
+          "headline": "GLP-1 Ad War Spills Into Court As Novo Nordisk Alleges Eli Lilly Ignores Science",
+          "source": "The Washington Post",
+          "author": "Christopher Rowland",
+          "url": "https://www.washingtonpost.com/health/2026/07/21/glp-1-ad-war-leads-lawsuit-by-novo-nordisk-claiming-eli-lilly-misleads/",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Ubiquitous TV advertisements for weight-loss drugs are the focus of a new legal dispute between heavyweight pharmaceutical rivals. Novo Nordisk, the maker of the GLP-1 medication Wegovy, filed a lawsuit Tuesday alleging Eli Lilly’s spots deceptively claim Wegovy is considerably weaker than Zepbound. Novo Nordisk contends the ads should be pulled from the airwaves because they unfairly compare low doses of Wegovy to Zepbound’s highest dose, while ignoring weight-loss results from Wegovy’s highest dose, which was approved in March. Eli Lilly “intentionally selected outdated studies” and presents those results as proof of superiority, the company said in a press release.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 659937,
+          "ave": 6104.42
+        },
+        {
+          "id": "1n34lh",
+          "headline": "J&J’s Tremfya Remains On Top In Q2 Pharma Ad Spending League As Overall Outlay Drops",
+          "source": "Fierce Pharma",
+          "author": "Ben Adams",
+          "url": "https://www.fiercepharma.com/marketing/jjs-tremfya-remains-top-q2-pharma-ad-spending-league-overall-spend-drops",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Johnson & Johnson looks set to continue battling AbbVie over ad spend in the second half of 2026 as the U.S. Big Pharma’s immunology drug takes the top spot for a second quarter in a row, according to data from iSpot.tv. J&J’s immunology med Tremfya saw spend for Q2 hit $115.3 million, beating out AbbVie’s rival Skyrizi at $108.7 million. This kept Tremfya in its number one spot for the second quarter in a row. Skyrizi, however, moved up one spot quarter over quarter, displacing AbbVie’s sibling immunology therapy Rinvoq, which dropped down to third position. The amount spent on Tremfya was nevertheless massively down from the $169.1 million J&J spent in Q1, while AbbVie coughed up $16.2 million less on Skyrizi ads over the same period.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 432715,
+          "ave": 4002.61
+        },
+        {
+          "id": "22yo6g",
+          "headline": "Johnson & Johnson Lawyer Jumps To Baker Mckenzie For Deals Work",
+          "source": "Bloomberg Law News",
+          "author": "",
+          "url": "https://news.bloomberglaw.com/business-and-practice/johnson-johnson-lawyer-jumps-to-baker-mckenzie-for-deals-work",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Khelin Aiken joined Baker McKenzie as a partner in Washington, the law firm said Tuesday. Aiken, who was counsel for Johnson & Johnson, will work in the firm’s transactional practice and healthcare & life sciences team. Her work bridges dealmaking and FDA regulatory strategy, advising life sciences clients on major transactions alongside the regulatory risk that shapes them, Baker McKenzie said. She previously was a partner at the firm before taking a regulatory counsel position at Phillip Morris International.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 683242,
+          "ave": 6319.99
+        },
+        {
+          "id": "hdc1n6",
+          "headline": "DePuy Synthes Buys Expandable-Cage Maker Expanding Innovations Ahead Of J&J Spinoff",
+          "source": "Medtech Insight",
+          "author": "Krishna Chandra Eluri",
+          "url": "https://insights.citeline.com/medtech-insight/business/deals/depuy-synthes-buys-expandable-cage-maker-expanding-innovations-ahead-of-jj-spinoff-QHJN3BUZYBANRKYAXGWU7GXSUU/",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Johnson & Johnson’s orthopedics arm DePuy Synthes has acquired Expanding Innovations, Inc., a commercial-stage maker of expandable spinal implants, in a move that deepens its presence in one of the fastest-growing corners of the spine-device market. The deal was announced on July 16 and comes as J&J prepares to spin DePuy Synthes off into a standalone company.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 720602,
+          "ave": 6665.57
+        },
+        {
+          "id": "24xwr2",
+          "headline": "Indian Generics Maker Lupin Seeds US Spinout Kaveri With Cash, Clinical-Phase Cancer Assets",
+          "source": "Fierce Biotech",
+          "author": "Nick Paul Taylor",
+          "url": "https://www.fiercebiotech.com/biotech/lupin-seeds-spinout-kaveri-cash-and-clinical-phase-cancer-assets",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "India-based Lupin has spun out two clinical-phase cancer drug candidates to create Kaveri Therapeutics, a U.S.-based startup that plans to raise cash for further development. Kaveri’s programs hit targets pursued by major drugmakers including AstraZeneca, Bayer and Bristol Myers Squibb. The two assets are the PRMT5 inhibitor LNP7457 and SOS1 inhibitor LNP8701. Lupin reported phase 1 data on LNP7457 in 2025 and delivered first-in-human results on LNP8701 earlier this year. Both phase 1 studies generated preliminary signs of efficacy and evidence that the molecules are well tolerated in people with metastatic solid tumors. Lupin, an Indian manufacturer of generics, specialty medicines and biosimilars, has opted against taking the candidates deeper into the clinic itself. Rather, the drugmaker has granted Kaveri an exclusive license to the molecules.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [
+            "AstraZeneca"
+          ],
+          "reach": 467472,
+          "ave": 4324.12
+        },
+        {
+          "id": "ar1602",
+          "headline": "Boehringer Ingelheim Accelerates Precision Oncology Research With Initiation Of Three Phase III Trials In Hard-To-Treat Cancers",
+          "source": "PR Newswire",
+          "author": "",
+          "url": "https://www.prnewswire.com/news-releases/boehringer-ingelheim-accelerates-precision-oncology-research-with-initiation-of-three-phase-iii-trials-in-hard-to-treat-cancers-302805926.html?utm_source=chatgpt.com",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Boehringer Ingelheim is advancing biomarker-informed approaches and extending precision care across multiple cancers and stages of disease, reinforcing its ambition to bring unprecedented impact and improve long-term outcomes where unmet need remains high. The company has initiated two Phase III clinical trials within the DAREON program: DAREON-Lung-1 in small cell lung cancer (SCLC) and DAREON®-NEC-1 in extrapulmonary neuroendocrine carcinoma (epNEC). In parallel, the Phase III Beamion LUNG-3 trial has been initiated in HER2 (ERBB2)-mutant non-small cell lung cancer (NSCLC). \"People living with aggressive cancers often face a shortage of treatment choices,\" said Lykke Hinsch Gylvin, MD, Chief Medical Officer, Boehringer Ingelheim. \"With the launch of these trials, we are advancing our precision oncology ambitions to move targeted therapies into earlier treatment lines and bring biomarker-informed science into late-stage development. By focusing on the biology of each tumor, we aim to give patients facing cancer more precise treatment options with the goal of improving outcomes where the need is greatest.\"",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "Boehringer Ingelheim"
+          ],
+          "reach": 499370,
+          "ave": 4619.17
+        },
+        {
+          "id": "sc9l1z",
+          "headline": "Bristol Myers Squibb And Nvidia Expand AI Collaboration To Advance Drug Discovery",
+          "source": "HLTH",
+          "author": "",
+          "url": "https://hlth.com/insights/news/bristol-myers-squibb-and-nvidia-expand-ai-collaboration-to-advance-drug-discovery",
+          "section": "AI Pulse",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Bristol Myers Squibb (BMS) has announced an expanded collaboration with Nvidia aimed at significantly increasing its artificial intelligence capabilities for pharmaceutical research and development. The company said it intends to deploy an NVIDIA DGX SuperPOD enabled with AI DGX Vera Rubin NVL72 systems, describing the installation as the most powerful and energy-efficient single-owned Nvidia infrastructure in the life sciences sector. The latest agreement builds on a collaboration that began three years ago when BMS first implemented NVIDIA DGX SuperPOD systems to support research activities. The expanded infrastructure forms part of the company’s broader AI strategy, which also includes recent collaborations with Anthropic to support research and development and Microsoft to accelerate lung cancer diagnosis.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 460664,
+          "ave": 4261.14
+        },
+        {
+          "id": "tgrgld",
+          "headline": "AI Data Becomes Sticking Point In Biopharma Dealmaking",
+          "source": "BioSpace",
+          "author": "Annalee Armstrong",
+          "url": "https://www.biospace.com/business/ai-data-becomes-sticking-point-in-biopharma-dealmaking",
+          "section": "AI Pulse",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "As drug hunting gets more complex, where and how data is generated in partnerships between Big Pharmas and AI biotechs is becoming a headache for dealmakers.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 932094,
+          "ave": 8621.87
+        },
+        {
+          "id": "htlb1j",
+          "headline": "Inside Semmelweis: Doceree's AI Bet On Pharma Marketing",
+          "source": "Pharmaceutical Commerce",
+          "author": "",
+          "url": "https://www.pharmaceuticalcommerce.com/view/inside-semmelweis-docerees-ai-bet-on-pharma-marketing",
+          "section": "AI Pulse",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Doceree launched Semmelweis, an artificial intelligence reasoning and orchestration model built specifically for pharmaceutical commercialization, the company announced. The model underpins Daily Command, Doceree's newly launched commercial operating system for pharma, and the rest of the company's product suite. According to the healthcare marketing platform, Semmelweis differs from general-purpose AI models in that it is grounded in clinical context rather than the open web, drawing on treatment pathways, care behavior and prescribing intent through what Doceree calls Clinical Intent Signals, or CIS.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 419032,
+          "ave": 3876.05
+        },
+        {
+          "id": "v7p4ci",
+          "headline": "Immorta Bio And Collaborators Publish Blueprint For The Future Of AI-Driven Precision Medicine",
+          "source": "PR Newswire",
+          "author": "",
+          "url": "https://www.prnewswire.com/news-releases/immorta-bio-and-collaborators-publish-blueprint-for-the-future-of-ai-driven-precision-medicine-302830918.html",
+          "section": "AI Pulse",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Immorta Bio today announced the publication of a peer-reviewed Perspective article in the Journal of Translational Medicine, \"Aspiration to Architecture: Multi-Omics, AI, Digital Twins, and Blockchain for P4 Medicine,\" developed in collaboration with Theriome Inc. and the American Board of Precision Medicine. The publication outlines a practical framework for transforming Predictive, Preventive, Personalized, and Participatory (P4) Medicine from a long-standing vision into a clinically deployable healthcare model.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 499370,
+          "ave": 4619.17
+        },
+        {
+          "id": "rubp94",
+          "headline": "FDA's Action Plan For AI In Drug Development: What Scientists Need To Know",
+          "source": "Drug Discovery News",
+          "author": "Trevor J Henderson",
+          "url": "https://www.drugdiscoverynews.com/fda-s-action-plan-for-ai-in-drug-development-what-scientists-need-to-know-17367",
+          "section": "AI Pulse",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "A scientist who assumes there is one authoritative FDA AI drug development guidance document to read would be forgiven, and wrong. The reality is closer to a paper trail: a 2021 action plan that most drug scientists have never actually read because it was written for medical devices, a pair of drug-specific discussion papers that quietly did the real groundwork, and a January 2025 draft guidance that is still, as of this writing, in draft. Artificial intelligence (AI) touches every one of these documents differently, and knowing which one actually governs a given use case—discovery, nonclinical, clinical, manufacturing—is most of the battle. This works through that paper trail in order. It connects to the broader hub on regulating AI in drug discovery for how FDA's approach compares with EMA's and ICH's, and to the guide to AI across drug discovery for the wider scientific and technical picture.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 507843,
+          "ave": 4697.55
+        },
+        {
+          "id": "7xwale",
+          "headline": "Novartis CEO Brushes Off Oral PCSK9 Competition As Leqvio Drives Q2 Growth",
+          "source": "Fierce Pharma",
+          "author": "Angus Liu",
+          "url": "https://www.fiercepharma.com/pharma/novartis-ceo-brushes-oral-pcsk9-competition-leqvio-drives-q2-momentum",
+          "section": "Industry News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Novartis' CEO remains unfazed by the threat of a newly approved oral PCSK9 inhibitor in Merck & Co.’s Lipfendra, doubling down on the long-term potential of his company's injectable cholesterol drug, Leqvio. Speaking on the company’s Q2 earnings call, Novartis CEO Vas Narasimhan brushed off fears that daily pills could stall Leqvio. As Novartis moves past key patent expirations to deliver a return to top-line growth—partly thanks to strong performance from Leqvio—Narasimhan argued that Leqvio’s twice-yearly dosing offers a unique opportunity.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 432715,
+          "ave": 4002.61
+        },
+        {
+          "id": "qri6uj",
+          "headline": "Gilead, Merck Weekly HIV Pill Keeps Virus Suppressed In Late-Stage Trials",
+          "source": "Reuters",
+          "author": "Padmanabhan Ananthan",
+          "url": "https://www.reuters.com/legal/litigation/gilead-merck-weekly-hiv-pill-keeps-virus-suppressed-late-stage-trials-2026-07-21/",
+          "section": "Industry News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Gilead Sciences and Merck said on Tuesday their experimental once-weekly HIV pill kept the virus suppressed in two late-stage trials, ​supporting regulatory filings for what could become the first ‌regimen of its kind for the disease. The combination of Merck's islatravir and Gilead's lenacapavir was tested as a single-tablet regimen in adults ​whose HIV was already controlled with daily antiretroviral therapy. HIV ​attacks the body's immune system and, if left untreated, ⁠can progress to acquired immunodeficiency syndrome (AIDS), the most advanced stage of ​infection. In one trial, none of the patients who switched to the ​weekly pill had detectable viral levels at 48 weeks, compared with 0.3% of those who remained on Gilead's daily Biktarvy.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "cudd4i",
+          "headline": "I’m A Cardiologist. I’m Not Sure The New Cholesterol Drug Enlicitide Is A Game-Changer",
+          "source": "STAT News",
+          "author": "Vishal Khetpal",
+          "url": "https://www.statnews.com/2026/07/22/lipfendra-enlicitide-merck-cholesterol-barriers/",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "A long-awaited moment in preventive cardiology arrived last week, when enlicitide (which Merck is selling under the name Lipfendra) was approved by the FDA to lower blood cholesterol levels. As the first oral PCSK9 inhibitor — powerful cholesterol-lowering medications, that, until now, have only been injectable — enlicitide itself is an impressive achievement. It punctuates a story of pharmaceutical innovation that has glided from the stories of families enrolled in the Dallas Heart Study at the bedside, to drug targets discovered at the lab bench, all ultimately transforming care back at the bedside.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 478047,
+          "ave": 4421.93
+        },
+        {
+          "id": "8rd0if",
+          "headline": "Agios Scraps Sickle Cell Treatment After Trial Shows Limited Benefit",
+          "source": "Reuters",
+          "author": "Kunal Das, Puyaan Singh",
+          "url": "https://www.reuters.com/legal/litigation/agios-pharma-discontinue-sickle-cell-disease-treatment-development-2026-07-21/",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Agios Pharmaceuticals Agios Pharmaceuticals said on Tuesday it is discontinuing development of its sickle cell disease treatment ​after trial results failed to show enough benefit to warrant moving ‌the therapy forward, sending its shares down 4%. This comes after the company in May stopped developing the drug for a form of blood cancer, after a separate mid-stage trial failed to ​show sufficient benefit. The sickle cell disease mid-stage trial was designed to ​characterize the dose-response relationship of tebapivat and assess whether its profile ⁠was meaningfully differentiated from other drugs in the pyruvate kinase (PK) activator class.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Clinical Trials",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "810wus",
+          "headline": "Telix Doses First Patient in Phase 3 Trial of TLX250-Tx For Kidney Cancer",
+          "source": "BioPharma APAC",
+          "author": "Kunal Das, Puyaan Singh",
+          "url": "https://biopharmaapac.com/news/79/8216/telix-doses-first-patient-in-phase-3-trial-of-tlx250-tx-for-kidney-cancer.html",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Telix Pharmaceuticals Limited announced that the first patient has been dosed with TLX250-Tx (lutetium-177 (177Lu) girentuximab tetraxetan) in the LUTEON study, the first radiopharmaceutical therapy to enter Phase 3 development for ccRCC. LUTEON is a randomized, prospective, open label, multi-center study evaluating a CAIX-targeting radionuclide therapy in patients with relapsed or recurrent ccRCC. The patient was dosed at GenesisCare Murdoch (Western Australia), under the supervision of Dr. Aviral Singh.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 50996,
+          "ave": 471.71
+        },
+        {
+          "id": "u3z6hh",
+          "headline": "Trial Miss For Agios Pharma’s Tebapivat In Sickle Cell Disease",
+          "source": "The Pharma Letter",
+          "author": "Kunal Das, Puyaan Singh",
+          "url": "https://www.thepharmaletter.com/pharma-news/trial-miss-for-agios-pharma-s-tebapivat-in-sickle-cell-disease",
+          "section": "Industry News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Cambridge, USA-based Agios Pharmaceuticals’ (Nasdaq: AGIO) shares fell as much as 14% today after the company announced it would discontinue development of tebapivat in sickle cell disease following Phase II trial results. The Phase II trial was designed to characterize the dose-response relationship of tebapivat in sickle cell disease and evaluate whether its profile was meaningfully differentiated relative to other PK activators. The trial included a 12-week, double-blind, placebo-controlled period in which 59 participants were randomized 2:2:2:1 to receive one of three once-daily (QD) tebapivat doses (2.5mg, 5.0mg, or 7.5mg) or placebo.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Clinical Trials",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 677658,
+          "ave": 6268.34
+        },
+        {
+          "id": "7tjtd3",
+          "headline": "Novartis CEO Vas Narasimhan Says 'No Change Of Plans'",
+          "source": "Reuters",
+          "author": "Bhanvi Satija, ​Marleen Käsebier",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/novartis-ceo-vas-narasimhan-says-no-change-plans-2026-07-21/",
+          "section": "Industry News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Novartis ​chief executive officer Vas Narasimhan ‌on Tuesday said he will lead the Swiss drugmaker through its ​next phase of growth ​as it prepares for a series ⁠of key drug trial ​data announcements later this year. \"No ​change of plans for me,\" he told journalists on a call after the ​company posted a second-quarter profit ​that beat analysts' expectations. \"I'm looking forward to ‌the (trial) ⁠readouts in the second half, the launches for next year, continuing our AI transformation, a ​lot to ​do,\" ⁠he said.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "dvpbjf",
+          "headline": "Trump Says Generic Drugs To Face No US Tariffs For 2 Years, Then 100% And 200% Tariffs Later",
+          "source": "Reuters",
+          "author": "Kanishka Singh",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/trump-says-generic-drugs-face-no-us-tariffs-2-years-before-rates-100-200-later-2026-07-21/",
+          "section": "Industry News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "President Donald Trump said on Tuesday all generic drugs being ​brought into the U.S. will continue having ‌a tariff of 0% for two years starting from August 1, after which the tariff rate will be raised ​to 100% for one year and to ​200% thereafter. \"This is done in order to RESHORE ⁠Generic Pharmaceutical Production into America, with a penalty ​to those Companies that decide not to build ​Plant and Equipment within the stated period of time given to them,\" Trump said in a post on Truth Social. Trump ​has been pressuring drugmakers through his most-favored-nation drug ​pricing policy to lower prices to what people pay in ‌other ⁠high-income countries.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "eia5ia",
+          "headline": "Exclusive: A David Baker Spinout Launches AI Antibody Data Consortium With GSK, Boltz And Others",
+          "source": "Endpoints News",
+          "author": "Andrew Dunn",
+          "url": "https://endpoints.news/a-alpha-bio-starts-ai-antibody-data-consortium-with-gsk-boltz/",
+          "section": "Industry News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Biopharma’s AI engines need more data. And David Younger thinks there’s a great business to sell those data to them. Younger’s startup, A-Alpha Bio, has spent months studying how protein-designing AI models improve when fed more data. It concluded the field will need far, far more data to solve problems like de novo-generating antibodies and turning those into viable drug candidates. Generating those data is costlier than any drug company can afford on its own. The “volumes of data that we think are needed to hit these generalizability numbers, we’re talking about a price point that is not going to be anywhere near approachable for anyone other than the big AI labs,” he said. Generalizability is the concept that AI models can come up with answers that aren’t already in their training data — essentially, the idea that they can use old knowledge to create new answers.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Clinical Trials"
+          ],
+          "brands": [
+            "GSK"
+          ],
+          "reach": 795883,
+          "ave": 7361.92
         }
       ]
     }
