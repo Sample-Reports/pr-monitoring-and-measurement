@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "beauty",
-  "_savedAt": "2026-07-21T12:13:36.693Z",
-  "_dayCount": 5,
+  "_savedAt": "2026-07-22T12:08:58.167Z",
+  "_dayCount": 6,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:16.350Z",
@@ -1201,6 +1201,204 @@
           ],
           "reach": 557470,
           "ave": 5156.6
+        }
+      ]
+    },
+    "2026-07-22": {
+      "uploadedAt": "2026-07-22T12:08:48.302Z",
+      "filename": "InfoVision_Beauty_Media_Briefing_2026-07-22.docx",
+      "articles": [
+        {
+          "id": "lvmy8x",
+          "headline": "Estée Lauder Notifies Employees Following Oracle E-Business Data Breach",
+          "source": "Global Cosmetics News",
+          "author": "",
+          "url": "https://www.globalcosmeticsnews.com/estee-lauder-notifies-employees-following-oracle-e-business-data-breach/",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "THE WHAT? The Estée Lauder Companies has disclosed that employee data was compromised following a cyberattack targeting Oracle’s E-Business Suite (EBS), prompting the company to notify current and former employees whose information may have been affected. THE DETAILS The company said an unauthorised third party gained access to its Oracle EBS system in August 2025, exposing personal information including names, contact details, dates of birth, Social Security numbers, passport information, bank details, health records and internal HR data. Estée Lauder launched an investigation with external cybersecurity specialists, notified law enforcement and implemented additional security measures. The breach is believed to be linked to a wider campaign exploiting vulnerabilities in Oracle EBS, reportedly associated with the Cl0p ransomware group, although Estée Lauder has not confirmed the identity of the attackers. The company is offering affected employees identity monitoring and fraud protection services.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Marketing & Influence"
+          ],
+          "brands": [
+            "Estée Lauder"
+          ],
+          "reach": 838732,
+          "ave": 7758.27
+        },
+        {
+          "id": "k4hjkp",
+          "headline": "How Women Are Rewriting The Rules Of Grey Hair",
+          "source": "Salon Today",
+          "author": "Stacey Soble",
+          "url": "https://www.salontoday.com/articles/how-women-are-rewriting-the-rules-of-grey-hair",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "At a panel discussion hosted by L’Oréal Professionnel in Paris in early July, French Philosopher Sophie Galabru explored the cultural shift where women are increasingly choosing natural, personalized color results over traditional grey coverage. In an exclusive interview with SALON TODAY, Galabru and L’Oréal Professionnel Colorist Pierrick Beringer discuss this shift and how salons and colorists respond. In early July, L’Oréal Professionnel hosted a press conference and exclusive panel discussion in Paris featuring acclaimed French Philosopher Sophie Galabru to explore a cultural shift that’s redefining one of the salon industry’s most important service categories: grey hair. During the discussion, Galabru explored how women are increasingly moving away from traditional overall grey coverage in favor of more natural, personalized color results. In tandem, L’Oréal Professionnel officially French Blending; a new professional color service designed to seamlessly integrate grey hair for a multidimensional, low-maintenance result.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 195966,
+          "ave": 1812.69
+        },
+        {
+          "id": "3ljdwm",
+          "headline": "Ulta Beauty Is About To Undergo A Major Change",
+          "source": "Finance Buzz",
+          "author": "Erica Loop",
+          "url": "https://financebuzz.com/news/ulta-beauty-upcoming-major-change",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Two of your favorite stores are about to become one. Ulta will carry select Bath & Body Works products starting July 12, and now you won't necessarily have to take an extra trip to the mall just to stock up on your favorite fragrances. While Ulta Beauty is known as the destination for high-end beauty buys from pricey upscale brands like Chanel and Dior, now you can keep more cash in your wallet when you shop this store. The carefully curated line of select Bath & Body Works products is a more affordable option that you already adore. What do shoppers need to know about the refreshing retail move? Keep reading for more details on this welcome collab.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "Prestige vs Mass",
+            "Markets & Regulation"
+          ],
+          "brands": [
+            "Chanel",
+            "Ulta Beauty"
+          ],
+          "reach": 330425,
+          "ave": 3056.43
+        },
+        {
+          "id": "fdo6vu",
+          "headline": "What Ulta Beauty (ULTA)'s CTO Appointment Of Kelly Garcia Means For Shareholders",
+          "source": "Simply Wall Street",
+          "author": "",
+          "url": "https://simplywall.st/stocks/us/retail/nasdaq-ulta/ulta-beauty/news/what-ulta-beauty-ultas-cto-appointment-of-kelly-garcia-means/amp",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Ulta Beauty has announced that Kelly Garcia, a board member since 2022 and former Domino’s Pizza CTO, was appointed Chief Technology Officer effective August 31, 2026, with his resignation from the board coinciding with his start date. Garcia’s deep background in global e-commerce, loyalty, digital innovation, and cybersecurity signals Ulta Beauty’s increasing emphasis on technology to support its Ulta Beauty Unleashed growth plans.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Retail & Distribution",
+            "AI Beauty Tech"
+          ],
+          "brands": [
+            "Ulta Beauty"
+          ],
+          "reach": 570497,
+          "ave": 5277.1
+        },
+        {
+          "id": "vgw5tq",
+          "headline": "Estée Lauder Companies (EL) Names Communications Chief, Is The Stock 13% Undervalued?",
+          "source": "Simple Wall Street",
+          "author": "",
+          "url": "https://simplywall.st/stocks/us/household/nyse-el/estee-lauder-companies/news/este-lauder-companies-el-names-communications-chief-is-the-s",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Estée Lauder Companies (EL) has drawn attention with the appointment of Madeleine Boyd as Senior Vice President, Global Brand Communications. This leadership change arrives as the company works through competitive pressures and softer recent organic revenue trends. Against this backdrop, Estée Lauder Companies’ recent leadership move comes as the stock trades at US$82.37, with the share price down 22.85% year to date but showing a 7.45% 90 day share price return. Longer term total shareholder returns over 3 and 5 years have declined 51.17% and 73.07% respectively, indicating that recent momentum is stabilising from a much weaker multi year performance.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Brand & Product Launch",
+            "Markets & Regulation"
+          ],
+          "brands": [
+            "Estée Lauder"
+          ],
+          "reach": 302347,
+          "ave": 2796.71
+        },
+        {
+          "id": "3xulzn",
+          "headline": "For A Minimal Yet Glowy Summer Beauty Look, Start With Any Of These 16 Chanel Products",
+          "source": "Marie Claire",
+          "author": "Emma Walsh",
+          "url": "https://www.marieclaire.com/beauty/makeup/minimalist-glowy-summer-beauty-chanel/",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "I've always believed that less is more when it comes to makeup. And this summer, I'm replicating the minimalistic beauty look of a chic French woman: softly defined eyes, lightly lined lips, and a fresh, sun-kissed complexion. It's no surprise that Chanel Beauty's opulent makeup and skincare collections are the key to achieving this effortless glow. With water-infused formulas and flawless finishes, each product gives a lit-from-within radiance that says, \"I summer in Saint-Tropez.\" Keep scrolling for the exact products you'll want to shop, from a micro-bubble gel crème to a skin-perfecting tint to a high-shine gloss.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch"
+          ],
+          "brands": [
+            "Chanel"
+          ],
+          "reach": 510474,
+          "ave": 4721.88
+        },
+        {
+          "id": "mbdbb2",
+          "headline": "Sephora Strategies: With Its Expanded Quiet Hours Initiative, Sephora Attempts To Speak To A New Era Of Inclusivity",
+          "source": "Glossy",
+          "author": "Emily Jensen",
+          "url": "https://www.glossy.co/beauty/sephora-strategies-with-its-expanded-quiet-hours-initiative-sephora-attempts-to-speak-to-a-new-era-of-inclusivity/",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "On an average afternoon at many Sephora locations, bright lights, thumping music and the buzz of chattering staff and customers are as much a part of the shopping experience as swatching lip glosses and picking up a new mascara. But for a few hours each week, the LVMH-owned retailer is now attempting to quiet things down. In June, Sephora announced the global rollout of its “Quiet Hours” program. As part of the new initiative, participating stores across the globe will lower the volume of in-store music and adjust lighting during select hours in an effort to create a calmer atmosphere. Stores will also suspend events and let shoppers determine if they want assistance from sales associates during those periods.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Retail & Distribution"
+          ],
+          "brands": [
+            "Sephora"
+          ],
+          "reach": 170991,
+          "ave": 1581.67
+        },
+        {
+          "id": "6zc6t3",
+          "headline": "California Expands Chemical Restrictions On Nail Products And Cleaning Products",
+          "source": "Global Cosmetics News",
+          "author": "",
+          "url": "https://www.globalcosmeticsnews.com/california-expands-chemical-restrictions-on-nail-products-and-cleaning-products/",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "THE WHAT? The California Department of Toxic Substances Control (DTSC) has designated nail products containing more than 250 parts per million (ppm) of triphenyl phosphate (TPhP) as a priority product under the Safer Consumer Products Program and has proposed banning cleaning products containing hydrofluoric acid. THE DETAILS Effective 1 October, manufacturers of nail coatings and nail or cuticle treatments containing more than 250 ppm of TPhP sold in California must notify DTSC and undertake an alternatives analysis to identify safer substitutes. TPhP is used as a plasticiser to improve the flexibility and durability of nail products but has been linked to liver, endocrine, developmental, neurological and reproductive toxicity. Under California’s Safer Consumer Products Program, DTSC may ultimately require manufacturers to reformulate products or remove them from the market if safer alternatives are available. Separately, DTSC has proposed prohibiting the sale of cleaning products containing hydrofluoric acid or related bifluoride compounds, citing the availability of safer alternatives and the chemical’s severe health risks.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Brand & Product Launch"
+          ],
+          "brands": [],
+          "reach": 838732,
+          "ave": 7758.27
+        },
+        {
+          "id": "v07pz0",
+          "headline": "Nine Direct Selling Brands Named To Happi’s Top 50 US Companies List",
+          "source": "Direct Selling News",
+          "author": "",
+          "url": "https://www.directsellingnews.com/2026/07/21/nine-direct-selling-brands-named-to-happis-top-50-us-companies-list/",
+          "section": "Industry News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Happi, a publication covering the household and personal products industry, released its Top 50 Report. Since 1978, the list has created an annual ranking of the top brands in the beauty, household and personal care industries that are headquartered in the US. Results are based on revenue as reported or estimated based on each company’s mix of products. This year, Happi’s 2026 List of the Top 50 US Companies included nine direct selling brands",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch"
+          ],
+          "brands": [],
+          "reach": 651974,
+          "ave": 6030.76
         }
       ]
     }
