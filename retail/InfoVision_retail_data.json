@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "retail",
-  "_savedAt": "2026-07-21T12:15:45.438Z",
-  "_dayCount": 5,
+  "_savedAt": "2026-07-22T12:10:15.133Z",
+  "_dayCount": 6,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:03.474Z",
@@ -1447,6 +1447,248 @@
           "brands": [],
           "reach": 373159,
           "ave": 3451.72
+        }
+      ]
+    },
+    "2026-07-22": {
+      "uploadedAt": "2026-07-22T12:10:04.388Z",
+      "filename": "InfoVision_Retail_Media_Briefing_2026-07-22.docx",
+      "articles": [
+        {
+          "id": "ll61yi",
+          "headline": "Walmart, Target Among Retailers That Could Drop Controversial Pricing Strategy But It Hinges On One Signature",
+          "source": "The Sun",
+          "author": "James Evenden",
+          "url": "https://www.the-sun.com/money/16724508/new-york-state-surveillance-pricing-law-kathy-hochul/",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "RETAILERS in a US state could prohibit a controversial pricing strategy that spies on consumers, but a crucial signature is still needed. Walmart and Target are among retailers in New York State that could see an end to surveillance pricing, which uses AI to tweak prices based on shopping history. The proposed legislation would also ban electronic price tags, which have received backlash from customers over fears of dynamic pricing. While dynamic pricing uses external economic factors to tweak prices at a moment’s notice, surveillance pricing uses shoppers’ purchasing and browsing history, location and income to determine how much to charge.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Store Strategy",
+            "AI & Personalization",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart",
+            "Target"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "b193rh",
+          "headline": "New Study Reveals The Cheapest Grocery Chain For Store-Brand Products… And It's Not Walmart Or Aldi",
+          "source": "Daily Mail",
+          "author": "Sara McGiff",
+          "url": "https://www.dailymail.com/yourmoney/article-15993977/kroger-cheapest-grocery-store-brand.html",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Kroger has come out on top to claim the title of the cheapest store-brand grocery basket in a new price comparison of major grocery chains. The study from Restaurant Furniture Plus looked at four of America's biggest chains to compare the cost of 15 store-brand essentials, including milk, bread, eggs, chicken breast, spaghetti, canned beans and baking items, Southern Living reported. Coming out at number one was Kroger, which operates over 1,229 grocery stores across the US. The total basket cost was a jaw-dropping $30.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart",
+            "Kroger"
+          ],
+          "reach": 368610,
+          "ave": 3409.64
+        },
+        {
+          "id": "nmxc21",
+          "headline": "Instant $109 Walmart Parking Lot Fine For Shoppers If They Take Wrong Path In US City",
+          "source": "The Sun",
+          "author": "Joseph Brogan",
+          "url": "https://www.the-sun.com/motors/16727270/skipping-traffic-lights-parking-lot-illegal-springfield-missouri-walmart/",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "WALMART shoppers could get a three-figure ticket just for going through the wrong path in the retailer’s lot in one US city. The crackdown is targeting a common cut-through tactic used by drivers to avoid long waits while behind the wheel. Cutting through a store’s lot to skip a long traffic light wait is a tempting but risky offer in some Missouri cities like Springfield and Columbia. These cities and others restricting the practice don’t differentiate based on the size of the lot.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Walmart",
+            "Target"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "t7s75y",
+          "headline": "Ahold Delhaize Strengthens Animal Welfare Strategy As Consumer Expectations Continue To Rise",
+          "source": "International Supermarket News",
+          "author": "",
+          "url": "https://internationalsupermarketnews.com/ahold-delhaize-strengthens-animal-welfare-strategy-as-consumer-expectations-continue-to-rise/",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Animal welfare has moved from being a niche concern to becoming a mainstream purchasing factor for millions of European consumers. Recognising this shift, Ahold Delhaize continues to strengthen its animal welfare commitments across its supermarket businesses, reinforcing the growing importance of responsible sourcing within modern food retailing. The international retail group, which operates well-known supermarket chains across Europe and the United States, has been working towards improving welfare standards throughout its supply chain. This includes reducing the use of cage-produced eggs, encouraging higher welfare farming practices and increasing transparency in food sourcing. These initiatives reflect not only changing consumer preferences but also increasing expectations from investors, regulators and environmental organisations.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Pricing & Consumer",
+            "Supply Chain"
+          ],
+          "brands": [],
+          "reach": 166926,
+          "ave": 1544.07
+        },
+        {
+          "id": "l49gr4",
+          "headline": "Walmart To Anchor New St. Cloud Retail Center With Supercenter",
+          "source": "Orlando Business Journal",
+          "author": "Riley Benson",
+          "url": "https://www.bizjournals.com/orlando/news/2026/07/21/walmart-anchor-st-cloud-retail-center-supercenter.html",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Walmart is planning a new Central Florida Supercenter — and it is just the beginning of a much larger retail development.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 620822,
+          "ave": 5742.6
+        },
+        {
+          "id": "5nnjrz",
+          "headline": "7 Walmart Items Shoppers Return The Most",
+          "source": "Eat This, Not That",
+          "author": "Ferozan Mast",
+          "url": "https://www.eatthis.com/walmart-items-shoppers-return-most/",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Walmart has an incredibly impressive variety of products, from pantry staples to hard-to-find items (if in doubt, check Walmart). With thousands of items available every day, it’s inevitable that not all will meet the standards of shoppers, who don’t hesitate to return items that just aren’t worth the money. One look at the reviews section shows how vocal these customers are about their opinion, especially when it comes to private brands like Great Value: Here are seven Walmart items shoppers don’t like.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 866066,
+          "ave": 8011.11
+        },
+        {
+          "id": "kya2mm",
+          "headline": "Target Aims To Strengthen Its Tween Business With New Multi-Year Pacsun Partnership",
+          "source": "Glossy",
+          "author": "Danny Parsi",
+          "url": "https://www.glossy.co/fashion/exclusive-target-aims-to-strengthen-its-tween-business-with-new-multi-year-pacsun-partnership/",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Target is launching one of its largest branded partnerships to date this week, with a new line called Pacsun Kids. The line, co-created with Pacsun, will run for at least three years, with several more collections already in the works. The debut collection — made up of over 100 styles priced at $30 or less — encompasses T-shirts, tank tops, denim and dresses, all targeted at tweens and available in sizes XS-XXL. New products will be added to the collection every month and sold in Target stores and on Target.com.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Target"
+          ],
+          "reach": 170991,
+          "ave": 1581.67
+        },
+        {
+          "id": "qu28q7",
+          "headline": "Wakefern Updating Wholesome Pantry Packaging",
+          "source": "Progressive Grocer",
+          "author": "",
+          "url": "https://progressivegrocer.com/news-briefs/2026-07-21?article=wakefern-updating-wholesome-pantry-packaging",
+          "section": "Brand News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "Wakefern Food Corp. has unveiled a new look for its Wholesome Pantry Organic and Wholesome Pantry free-from products, a redesign spotlighting the quality, ingredients and value that customers at Wakefern’s banners expect. The updated packaging boasts a modernized logo, color cues distinguishing organic and free-from items and design elements that enable key product attributes to pop on the shelf. All Wholesome Pantry products are free from 233 ingredients, among them artificial preservatives, colors, flavors and sweeteners. Wholesome Pantry Organic’s products meet the same free-from standards as Wholesome Pantry and are made only with certified organic ingredients.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 801215,
+          "ave": 7411.24
+        },
+        {
+          "id": "whh3cy",
+          "headline": "Retail’s AI Dilemma: The cost of change vs. The cost of falling behind",
+          "source": "Retail Insight Network",
+          "author": "Mohamed Dabo",
+          "url": "https://www.retail-insight-network.com/features/retails-ai-dilemma-the-cost-of-change-vs-the-cost-of-falling-behind/",
+          "section": "AI Pulse",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Artificial intelligence is transforming retail, but balancing investment costs against the risk of falling behind remains a major challenge. Artificial intelligence is rapidly becoming a competitive necessity across retail. From personalised shopping experiences and demand forecasting to inventory optimisation and customer service automation, AI is changing how retailers operate and engage with customers. Yet for many businesses, embracing AI presents a difficult challenge. Investing too slowly risks losing market share, while replacing ageing technology and integrating new systems demands significant time, money and expertise. The result is a growing technology divide. Retailers with modern digital platforms are moving AI projects from pilot programmes into everyday operations.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "AI & Personalization",
+            "Supply Chain"
+          ],
+          "brands": [],
+          "reach": 658135,
+          "ave": 6087.75
+        },
+        {
+          "id": "swr5mo",
+          "headline": "Thousands Of Shoppers Could Soon Be Hit With Extra Fees As US City Eyes Strict Bag Ban",
+          "source": "The Sun",
+          "author": "Allan Glen",
+          "url": "https://www.the-sun.com/news/16724352/walmart-shoppers-hit-extra-fees-bag-ban/",
+          "section": "Industry News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "SHOPPERS could soon be hit with extra fees after legislators proposed a ban on single-use plastic bags. If the proposal goes ahead, customers could be forced to pay for more expensive reusable bags. Los Alamos County is seeking views of residents on the proposed Single Use Plastic Carryout Bag Ordinance. It is currently under consideration by the Environmental Sustainability Board (ESB).",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "kehz28",
+          "headline": "‘We Were At Their Mercy’: Inside The Amazon Tactics That Hiked Prices Across The Internet",
+          "source": "The Guardian",
+          "author": "George Joseph",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/21/amazon-tactics-prices",
+          "section": "Industry News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "A “modern leather” table lamp, listed online at Walmart, shot up from $24.99 to $39. The price of an air fryer on a retail site called Newegg went from $84.99 to $149.99. An electric ice-cream maker was listed at just $17.99 at Amazon and Best Buy. Then it became unavailable at Best Buy, and more than tripled in price to $59.99 at Amazon. The price hikes and the product disappearances were not the blips of supply and demand – they were the results of behind-the-scenes pressure by Amazon, according to internal emails reviewed by the Guardian and court claims against the world’s largest company.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart",
+            "Amazon",
+            "Best Buy"
+          ],
+          "reach": 446656,
+          "ave": 4131.57
         }
       ]
     }
