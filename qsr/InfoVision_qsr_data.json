@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "qsr",
-  "_savedAt": "2026-07-22T12:09:50.433Z",
-  "_dayCount": 6,
+  "_savedAt": "2026-07-23T12:08:45.211Z",
+  "_dayCount": 7,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:45.173Z",
@@ -2039,6 +2039,360 @@
           ],
           "reach": 20125212,
           "ave": 186158.21
+        }
+      ]
+    },
+    "2026-07-23": {
+      "uploadedAt": "2026-07-23T12:08:37.935Z",
+      "filename": "InfoVision_QSR_Media_Briefing_2026-07-23.docx",
+      "articles": [
+        {
+          "id": "alfbie",
+          "headline": "11 Discontinued KFC Items That Deserve A Revival",
+          "source": "Tasting Table",
+          "author": "Amy Bell",
+          "url": "https://www.tastingtable.com/2218635/discontinued-kfc-menu-items-deserve-revival/",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "While KFC remains a staple for its famous bone-in fried chicken, there are a lot of beloved menu items that have disappeared over the years. Some have been gone for decades, while others linger in our more recent memories. With enough customer interest and petitions, we've seen quite a few beloved but discontinued KFC menu items make a comeback. So, it seems that the company is listening to the voices of its customers. For example, we've seen potato wedges, popcorn chicken, Snackers, Twisters, and honey BBQ wings return to the menu. So, take heart if you've been wishing a favorite discontinued KFC menu item would make a return.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "AI & Automation"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 760318,
+          "ave": 7032.94
+        },
+        {
+          "id": "fnj3oy",
+          "headline": "5 Common Customer Complaints About KFC's Mashed Potatoes",
+          "source": "Tasting Table",
+          "author": "Deepak Narayanan",
+          "url": "https://www.tastingtable.com/2217217/kfc-mashed-potatoes-customer-complaints/",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Let's start with the disclaimer that there is no single correct way to make mashed potatoes. Some people like it silky smooth, others like the textural variety that comes with a few lumps. Mashed potatoes can be hearty or decadent. They can be minimalist, loaded, or served with gravy. In fact, even the type of potato you pick has a bearing on the mash you end up with, not to mention all the different methods you can employ to make mashed potatoes. Basically, if you're running a professional kitchen, it should be hard to go wrong with mashed potatoes — which is why the sheer variety of complaints customers have about KFC's take on the global classic is noteworthy. Kentucky Fried Chicken has been serving mashed potatoes forever. Even an original 1952 menu that popped up on Reddit has whipped potatoes on it. KFC's love affair with mash continued into the 21st century. In 2006, KFC famously launched its Mashed Potato Bowls, which topped its mash with corn, fried chicken, and gravy. More recently, it introduced the Smash'd Potato Bowl, where the mash is topped with fries, bacon, and cheese.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 760318,
+          "ave": 7032.94
+        },
+        {
+          "id": "iakkct",
+          "headline": "Stop The Trucks: Inside Taco Bell’s Rush To Contain Cyclospora",
+          "source": "The Wallstreet Journal",
+          "author": "Heather Haddon",
+          "url": "https://www.wsj.com/business/hospitality/stop-the-trucks-inside-taco-bells-rush-to-contain-cyclospora-4f532230",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "The word went out from Taco Bell’s leaders on the evening of July 14: Stop the trucks. Public-health officials that night had notified the chain that the shredded lettuce garnishing Crunchwrap Supremes, Cantina Chicken Burritos and other menu items was the suspected culprit in a rapidly expanding cyclospora outbreak. Executives rushed to halt shipments then on their way to hundreds of Taco Bell’s 7,785 U.S. locations.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 205971,
+          "ave": 1905.23
+        },
+        {
+          "id": "85mz45",
+          "headline": "Taco Bell Offering $1 Lettuce-Free Deal Amid Cyclospora Outbreak",
+          "source": "USA Today",
+          "author": "Greta Cross, Melina Khan",
+          "url": "https://www.usatoday.com/story/money/food/2026/07/22/taco-bell-offering-dollar-lettuce-free-deal-amid-cyclospora-outbreak/91013601007/",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "As the ongoing cyclosporiasis outbreak impacts its foot traffic, Taco Bell is offering a $1 lettuce-free menu item promotion. In a social media post made the afternoon of July 22, Taco Bell promoted $1 Enchiritos, a flour tortilla filled with ground beef, beans, diced onions, cheddar cheese and a red sauce. The temporary menu item does not include lettuce. The social media post did not explicitly say the deal was created because of the cyclosporiasis outbreak. \"Okay, now please just keep the enchirito on permanent,\" one Instagram user commented on Taco Bell's post promoting the deal. The offer comes as the fast-food chain has experienced a nosedive in foot traffic since its lettuce was linked to the outbreak of cyclosporiasis, which causes diarrhea and other gastrointestinal issues, by the U.S. Food and Drug Administration (FDA).",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 20125212,
+          "ave": 186158.21
+        },
+        {
+          "id": "4qr8bj",
+          "headline": "Wendy's Best Chicken Item Isn't The One You'd Expect — You May Need To Change Up Your Order",
+          "source": "Tasting Table",
+          "author": "Sara Klimek",
+          "url": "https://www.tastingtable.com/2216588/best-wendys-chicken-item-cobb-salad-change-up-order/",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "When you think of Wendy's, what comes to mind? For many, it's the iconic Frosty, the flavors of which one of our tasters tried and ranked, its chili, or its Baconator. However, one of the most slept-on categories at the iconic fast food chain is its chicken. When we sent a writer to rank every Wendy's chicken item, they were surprised by the item that took the top spot in their rankings. It wasn't the nuggets, nor was it some derivative of the chicken sandwich. Rather, it was the Cobb Salad, which features a lettuce base, grilled chicken, diced tomatoes, shredded cheddar, chopped hard-boiled eggs, applewood-smoked bacon, crispy fried onions, and a side of ranch dressing. Our taster appreciated how all of the elements of this salad balanced each other, with the bacon adding salt, cheese adding richness, and chicken adding heartiness. Although it might not be the item you instinctively order at the chain, which is more often associated with burgers and Frostys than salads, it's surely a chicken item that can hold its own.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Wendy's"
+          ],
+          "reach": 760318,
+          "ave": 7032.94
+        },
+        {
+          "id": "9cbp00",
+          "headline": "Wendy’s Is Bringing An International Hit To US Menus",
+          "source": "TheStreet",
+          "author": "Madison Troyer",
+          "url": "https://www.thestreet.com/restaurants/wendys-is-bringing-an-international-hit-to-us-menus",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Over the last few years, limited-time offers (or LTO’s) have become one of the restaurant industry’s most-used tools. Chains like McDonald’s, Taco Bell, Wendy’s, and Chick-fil-A have come to rely on them as a way to generate buzz, create urgency, and drive foot traffic. In fact, between 2020 and 2024, the number of LTO’s offered by restaurants increased by 53% according to data from Technomic that was shared with Axios. For their part, customers love the ever-fresh nature of these menu additions. “52% of consumers say that the availability of an appealing limited-time offer is important when they’re deciding which restaurant to visit,” Lizzy Freier, director of menu research & insights at Technomic, told Axios.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "McDonald's",
+            "Chick-fil-A",
+            "Taco Bell"
+          ],
+          "reach": 271892,
+          "ave": 2515
+        },
+        {
+          "id": "szdlvj",
+          "headline": "Say 'Queso': Why Chipotle Is My Go-To Restaurant Rewards Program",
+          "source": "The Points Guy",
+          "author": "Eric Rosen",
+          "url": "https://thepointsguy.com/loyalty-programs/chipotle-rewards/",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "I'm not what you would call a fast-food connoisseur. You won't find me tearing into mass-made burgers or footlong subs except, perhaps, while dashing through an airport on an all-too-short connection between flights. I do, however, regularly stop by my neighborhood Chipotle to pick up healthy fast-casual meals that fill me up without emptying my bank account. What I order depends on the day — sometimes I'm a carnitas burrito bowl kind of guy, while other days, I just want simple chicken tacos and a side of guacamole. Regardless of what I decide to order, I always make sure to log my purchase in the Chipotle Rewards app, one of the only loyalty program apps on my phone that's not all about airline miles or hotel points. Doing so ensures I earn points with each purchase that can then be redeemed for a free item later.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Chipotle"
+          ],
+          "reach": 197469,
+          "ave": 1826.59
+        },
+        {
+          "id": "wrqutn",
+          "headline": "Burger King Makes Major Changes After Thousands Of Customers Sounded Off",
+          "source": "Fox News",
+          "author": "Teresa Mull",
+          "url": "https://www.foxnews.com/food-drink/burger-king-makes-major-changes-after-thousands-customers-sounded-off",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Visitors to Burger King may soon notice several changes inspired by updates that customers of the fast-food chain said they wanted. \"Earlier this year, we opened our phone lines and invited people to share their honest feedback, and they did,\" a Burger King representative told Fox News Digital. \"One of the biggest takeaways was that our guests want to feel welcomed when they walk in, know their order will be made the way they asked and have confidence that if something isn't right, we'll make it right.\" Burger King said the initiative generated thousands of customer phone calls and text messages. Four months later, the company is introducing two strategies aimed at improving customer service and order accuracy.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 23808004,
+          "ave": 220224.04
+        },
+        {
+          "id": "lnhbzb",
+          "headline": "PAW Patrol Toys Arrive At Burger King Ahead Of New Movie",
+          "source": "QSR Magazine",
+          "author": "",
+          "url": "https://www.qsrmagazine.com/news/paw-patrol-toys-arrive-at-burger-king-ahead-of-new-movie/",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Burger King has launched a new King Jr. Kids’ Meal promotion tied to the upcoming release of PAW Patrol: The Dino Movie, which arrives in theaters August 14. Beginning Wednesday, King Jr. Kids’ Meals will include one of six toys featuring characters from the film. The collection includes Chase, Marshall, Rubble, Skye, Rex, and Rhubarb the T-Rex. Rex and Rhubarb are new characters appearing in the movie. The limited-time collection is part of Burger King’s broader effort to offer family-oriented experiences through its King Jr. Kids’ Meals.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 68484,
+          "ave": 633.48
+        },
+        {
+          "id": "c435c6",
+          "headline": "FSR And QSR Launch First AI Workshop At Annual Conference",
+          "source": "FSR Magazine",
+          "author": "",
+          "url": "https://www.fsrmagazine.com/feature/fsr-and-qsr-launch-first-ai-workshop-at-annual-conference/",
+          "section": "AI Pulse",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "QSR AI Connect is designed around a simple belief: AI success isn't determined by the technology an organization purchases. Artificial intelligence is quickly becoming one of the most significant forces shaping the restaurant industry. From marketing and loyalty to operations, labor, guest experience, and enterprise decision-making, restaurant leaders are facing unprecedented opportunities to rethink how their businesses grow and operate. To help restaurant executives move beyond experimentation and develop a practical path forward, the QSR Evolution Conference, run by Arrowfly and the teams behind QSR and FSR magazines, is launching QSR AI Connect, a new executive initiative designed to help leaders navigate the rapidly evolving AI landscape through education, collaboration, and practical application.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "AI & Automation",
+            "Sustainability & Labor"
+          ],
+          "brands": [],
+          "reach": 358575,
+          "ave": 3316.82
+        },
+        {
+          "id": "fzn6fc",
+          "headline": "How 62 Percent of AI Users Are Successfully Lowering Their Labor Costs",
+          "source": "QSR Magazine",
+          "author": "Teresa Mull",
+          "url": "https://www.qsrmagazine.com/sponsored_content/how-62-percent-of-ai-users-are-successfully-lowering-their-labor-costs/",
+          "section": "AI Pulse",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Labor costs have not stopped rising for quick-service operators. But the industry’s outlook is beginning to shift. Restaurant365’s 2026 State of the Restaurant Industry Mid-Year Report found that 77 percent of operators experienced higher labor costs in the first half of 2026. The impact remains significant: 64 percent are operating below full capacity, 17 percent have limited operating hours, and 7 percent have closed on days they would normally be open. AI can also support a more disciplined labor strategy. The report found that 62 percent of operators using AI said it has reduced labor costs, while roughly one in three users reported overall cost reductions of 6 percent or more. For skeptical operators, Cohen recommends treating AI as a business analyst—not a replacement for people. It can help evaluate forecasts, employee availability, and sales data to build smarter schedules and reduce managers’ administrative workload.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI & Automation",
+            "Expansion & Store",
+            "Sustainability & Labor"
+          ],
+          "brands": [],
+          "reach": 68484,
+          "ave": 633.48
+        },
+        {
+          "id": "cmku42",
+          "headline": "The Next Generation Of QSRs Part 2: How AI, Personalization Are Turning Loyalty Into A Growth Engine",
+          "source": "QSR Web",
+          "author": "Valerie Gritton",
+          "url": "https://www.qsrweb.com/articles/the-next-generation-of-qsrs-part-2-how-ai-personalization-are-turning-loyalty-into-a-growth-engine/",
+          "section": "AI Pulse",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "As QSR brands navigate a more value-conscious consumer, the path forward is becoming increasingly interconnected. Part 1 of our Next-Gen series examined how rising costs and changing spending habits are redefining value, In Part 3, The Next Generation of QSR series will examine how operators are investing in technology, automation and operational efficiencies to improve performance, support teams and build a stronger foundation for growth. In today's quick-service landscape, growth is no longer defined by how much consumers are willing to spend — it's how often they choose to show up. As traffic patterns soften and value perception becomes more fragile, QSR operators are shifting capital toward investments designed to defend frequency, rebuild loyalty, and justify price points that continue to climb. Whether those goals are established and met through the use of AI or enhanced loyalty programs, personalization is a key selling point for both brands and consumers.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Value & Pricing",
+            "Digital & Ordering",
+            "AI & Automation"
+          ],
+          "brands": [],
+          "reach": 682532,
+          "ave": 6313.42
+        },
+        {
+          "id": "5wgig8",
+          "headline": "Chick-Fil-A Alerts DC, Maryland And Other Customers To Data Breach",
+          "source": "WTOP",
+          "author": "Tracy Johnke",
+          "url": "https://wtop.com/consumer-news/2026/07/chick-fil-a-alerts-dc-maryland-and-other-customers-of-data-breach/",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Chick-fil-A rewards program members in D.C., Maryland and eight other states are getting letters warning that hackers may have gained access to partial payment information and other personal data during an “automated attack” on its website and app last month. The notice also suggests that some customers had money stolen from their Chick-fil-A One accounts. The attackers used email addresses and passwords obtained from a third-party source to gain access, Chick-fil-A said. Its investigation of the June breach determined the hackers may have accessed information including names, gift card balances, phone numbers, addresses and the last four digits of customers’ credit card numbers, the company said.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Digital & Ordering",
+            "AI & Automation"
+          ],
+          "brands": [
+            "Chick-fil-A"
+          ],
+          "reach": 915070,
+          "ave": 8464.4
+        },
+        {
+          "id": "6bsa9e",
+          "headline": "California-Based Fast-Food Chain Is No. 1 In The US. Hint: It’s Not In-N-Out",
+          "source": "Sacramento Bee",
+          "author": "Angela Rodriguez",
+          "url": "https://www.sacbee.com/news/california/article316602803.html",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "California is home to some of the nation’s most recognizable fast-food chains, from iconic burger joints to growing coffee shops and ice cream favorites. USA Today readers recently ranked the best fast-food restaurants in 2026 — and one California-based restaurant chain took first place. Here’s a hint: It’s not In-N-Out. “On any given day, tens of millions of Americans are treated to irresistibly delicious food that’s in their hands just a few minutes (or less!) after ordering,” USA Today said in the new ranking, published July 15. “It takes a tremendous amount of hard work and preparation to deliver that sort of speed, quality and scale.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [],
+          "reach": 94223,
+          "ave": 871.56
+        },
+        {
+          "id": "hfq8p1",
+          "headline": "Birdcall Intends To Become The Next Chicken Success Story",
+          "source": "QSR Magazine",
+          "author": "",
+          "url": "https://www.qsrmagazine.com/story/birdcall-intends-to-become-the-next-chicken-success-story/",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Birdcall—an emerging 17-unit chicken chain out of Colorado—is quickly expanding. The fast casual plans to open almost 100 locations in six states over the next five years. The initial pipeline will primarily focus on Midwestern states, such as Indiana, Kansas, Missouri, Nebraska, Ohio, and Wisconsin. VP of franchise development Justin Livingston says it’s a matter of right concept, right place, and right time. He sees consumers becoming tighter with their spending. And if a brand earns their money, “it better be an amazing experience,” he adds. That means putting the customer first and considering the impact of staffing, ingredients, and community.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 68484,
+          "ave": 633.48
+        },
+        {
+          "id": "pg9iqa",
+          "headline": "Layne's Chicken Fingers Celebrates 50 Restaurants; Rapid Q2 Growth",
+          "source": "QSR Web",
+          "author": "",
+          "url": "https://www.qsrweb.com/news/laynes-chicken-fingers-celebrates-50-restaurants-rapid-q2-growth/",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Layne's Chicken Fingers awarded two dozen new franchise deals in the first half of 2026, expanding its operating footprint to more than 50 restaurants through a blend of both internal and external development, according to a press release. The Texas-based franchise reached its 50-restaurant milestone during the second quarter. Driven by expanding existing operators and new franchisees joining the system, Layne's established a 12-unit deal in California with tenured IHOP operators and a 30-unit agreement in Oklahoma with existing franchisee Taylor Thomas. \"We've added dozens of units to the pipeline this year, and we've also opened a significant number,\" CEO Garrett Reed said in the press release.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 682532,
+          "ave": 6313.42
         }
       ]
     }
