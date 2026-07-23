@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "retail",
-  "_savedAt": "2026-07-22T12:10:15.133Z",
-  "_dayCount": 6,
+  "_savedAt": "2026-07-23T12:09:09.127Z",
+  "_dayCount": 7,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:03.474Z",
@@ -1689,6 +1689,290 @@
           ],
           "reach": 446656,
           "ave": 4131.57
+        }
+      ]
+    },
+    "2026-07-23": {
+      "uploadedAt": "2026-07-23T12:09:01.610Z",
+      "filename": "InfoVision_Retail_Media_Briefing_2026-07-23.docx",
+      "articles": [
+        {
+          "id": "tq042a",
+          "headline": "Fruit Puree Pouches Sold At Kroger, Meijer, Target Recalled",
+          "source": "USA Today",
+          "author": "Julia Gomez",
+          "url": "https://www.usatoday.com/story/grocery/stores/2026/07/22/fruit-puree-pouches-recalled-kroger-meijer-target/91005782007/",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Fruit puree pouches sold nationwide at Kroger, Meijer and Target are being recalled due to defective pouches that could introduce plastic into the finished puree. PT Organics announced that it recalled Pumpkin Tree Peter Rabbit Organics Banana & Strawberry 4 oz. (113 g) pouches after its supplier recalled the defective pouches the week before, according to a company announcement posted to the Food and Drug Administration's (FDA) website.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Target",
+            "Kroger"
+          ],
+          "reach": 20125212,
+          "ave": 186158.21
+        },
+        {
+          "id": "a3s3du",
+          "headline": "Cyclospora-Linked Lettuce Reached 27 States, Including Walmart And Jack In The Box Locations",
+          "source": "Consumer Reports",
+          "author": "Paris Martineau",
+          "url": "https://www.consumerreports.org/health/food-recalls/taylor-farms-pulls-mexican-lettuce-linked-to-cyclospora-para-a7871344748/",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Taylor Farms, one of the country’s largest producers of salad greens, said Friday it was recalling from the U.S. market all iceberg lettuce from central Mexico. The company took that step after federal health officials identified a farm in the region as a potential source of at least some of the thousands of illnesses caused by the parasite cyclospora that have occurred across the U.S. this summer. In addition to Taco Bell restaurants, the recalled iceberg lettuce products were sent to Walmart stores, Jack in the Box restaurants, and major food service distributors, including Sysco, between June 29 and July 16. The list of implicated products includes Walmart’s house brand Marketside, a Walmart spokesperson confirmed. The company has removed four bagged iceberg lettuce salad products from select Walmart stores in the 27 states linked to the recall, Rachael Simmons, a spokesperson, told Consumer Reports",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Store Strategy",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 278805,
+          "ave": 2578.95
+        },
+        {
+          "id": "lney9p",
+          "headline": "Walmart Call Scam Targeting Customers For Months, But FCC May Have Finally Stopped It",
+          "source": "AL.com",
+          "author": "Matt Durr",
+          "url": "https://www.al.com/news/2026/07/walmart-text-scam-targeting-customers-for-months-but-fcc-may-have-finally-stopped-it.html",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Despite FCC warnings and a public messaging campaign alerting potential victims, a scam targeting Walmart customers was still active as of last month. However, actions by the FCC may have finally put an end to the costly hoax. In December, the FCC warned Americans of a scam where targets receive an automated call confirming a $919 purchase made on the target’s Walmart account and offering to allow the target to cancel the order. When the target elects to cancel the order, they’re connected with a real person who then seeks personal information which can be used for fraudulent activity. According to KCRA-3 reporter Allie Jasinski, she was recently a target of the scam. Jasinski says she received a voicemail in June that again informed her of a $919 Walmart purchase but instructed her to call back immediately to cancel the purchase.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Walmart",
+            "Target"
+          ],
+          "reach": 291486,
+          "ave": 2696.25
+        },
+        {
+          "id": "1qrbcj",
+          "headline": "Giant Promotes E-Commerce Head To VP Of Marketing",
+          "source": "Grocery Dive",
+          "author": "Peyton Bigora",
+          "url": "https://www.grocerydive.com/news/giant-food-ahold-delhaize-gregg-dorazio-vice-president-marketing/825875/",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "The Ahold Delhaize USA banner promoted Gregg Dorazio to the role, highlighting the grocery company’s ongoing efforts to capitalize on its digital operations. Dorazio was most recently the grocer’s head of strategy and e-commerce. He succeeds Dyani Hanrahan, who is departing Giant Food at the end of the month after nearly a decade with the company. Naming an e-commerce expert to a marketing leadership role underscores Ahold Delhaize’s ongoing efforts to prioritize its digital operations and offerings.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [],
+          "reach": 158087,
+          "ave": 1462.3
+        },
+        {
+          "id": "vlkelp",
+          "headline": "Wakefern Redesigns Packaging For Wholesome Pantry Brand",
+          "source": "Grocery Dive",
+          "author": "Catherine Douglas Moran",
+          "url": "https://www.grocerydive.com/news/wakefern-redesigns-packaging-wholesome-pantry-brand/825823/",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Wakefern Food Corp. announced Tuesday a new design for its Wholesome Pantry Organic and Wholesome Pantry Free-From lines. The new packaging has a modernized logo, color cues to distinguish organic and free-from items, and design elements to highlight certain product attributes. Wakefern said that the packaging design refresh will help draw attention not only to its private brand, but also to details about the products themselves, like ingredients.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 158087,
+          "ave": 1462.3
+        },
+        {
+          "id": "d7bict",
+          "headline": "Target Adds Former 7-Eleven CEO To Board",
+          "source": "Retail Dive",
+          "author": "Dani James",
+          "url": "https://www.retaildive.com/news/target-adds-former-7-eleven-ceo-joe-depinto-board/825863/",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Target is adding former 7-Eleven President and CEO Joe DePinto to its board of directors effective Aug. 1. He’ll serve on the board’s infrastructure and finance committee as well as audit and risk committee, Target announced Wednesday. DePinto led 7-Eleven starting in 2005 and retired from the CEO position at the end of last year. He brings public company governance experience from boards such as Joann Stores, OfficeMax and more. “At Target, we’re leading with merchandising authority, elevating the guest experience, accelerating technology and strengthening our team and communities to pave a new path of growth,” Target CEO Michael Fiddelke said in a statement.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Target"
+          ],
+          "reach": 616977,
+          "ave": 5707.04
+        },
+        {
+          "id": "p9pk3y",
+          "headline": "How AI-Powered Vending Machines Are Changing Customer Experiences",
+          "source": "Programming Insider",
+          "author": "Marc Berman",
+          "url": "https://programminginsider.com/how-ai-powered-vending-machines-are-changing-customer-experiences/",
+          "section": "AI Pulse",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Artificial intelligence makes vending machines more capable by gathering and analyzing data from each transaction. These systems do more than dispense products: they can identify buying patterns, track inventory, and automatically improve how the machine operates. Operators can then make better-informed business decisions, while customers get a smoother experience. Personalization stands out as one of the clearest improvements. Where supported, AI technology can recommend products using customers’ preferences, seasonal demand, or purchasing history. Businesses may see higher sales as a result, and customers may feel better understood by the machine.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI & Personalization",
+            "Supply Chain",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 827311,
+          "ave": 7652.63
+        },
+        {
+          "id": "r59v4m",
+          "headline": "Target's AI & Digital Investments Strengthen Retail Operations",
+          "source": "Zacks",
+          "author": "",
+          "url": "https://www.zacks.com/stock/news/2957866/targets-ai-digital-investments-strengthen-retail-operations",
+          "section": "AI Pulse",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Target Corporation is advancing its digital transformation through investments in artificial intelligence (AI), advanced analytics and technology. The company is expanding the use of AI-enabled tools to support merchandising decisions, improve operational planning and enhance the shopping experience. Management views these investments as a key part of its refreshed strategy to strengthen retail execution across stores and digital channels.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "AI & Personalization"
+          ],
+          "brands": [
+            "Target"
+          ],
+          "reach": 645188,
+          "ave": 5967.99
+        },
+        {
+          "id": "8pnyqt",
+          "headline": "Cleo Expands Intelligent Chargeback Prevention For Retail Supply Chains",
+          "source": "Supply & Demand Chain Executive",
+          "author": "Marina Mayer",
+          "url": "https://www.sdcexec.com/software-technology/ai-ar/news/22970571/cleo-cleo-expands-intelligent-chargeback-prevention-for-retail-supply-chains",
+          "section": "AI Pulse",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Cleo announced an update to its Chargeback Prevention solution for retail suppliers, which entails new AI capabilities designed to surface revenue-impacting anomalies and extend order intelligence in 3PL fulfillment. “Retail suppliers are under constant pressure to move faster while maintaining compliance performance across increasingly complex fulfillment networks,” says Mahesh Rajasekharan, president and CEO of Cleo. “Cleo Integration Cloud helps companies identify operational risks earlier, gain actionable intelligence faster, and prevent costly chargebacks, fines, and deductions before they happen. The result is not only improved margins, but growth of the top line through stronger customer relationships.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "AI & Personalization",
+            "Supply Chain",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 407841,
+          "ave": 3772.53
+        },
+        {
+          "id": "lksquh",
+          "headline": "Consumer Spending Surge Fuels US Plastics Industry Growth",
+          "source": "Plastics Today",
+          "author": "David Hutton",
+          "url": "https://www.plasticstoday.com/industry-trends/consumer-spending-surge-fuels-us-plastics-industry-growth",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Robust consumer spending during the first half of 2026 is providing significant momentum for the US plastics industry, with retail sales climbing 5.1% year-over-year and supporting demand across multiple key end markets, according to a new economic analysis from the Plastics Industry Association (PLASTICS). The analysis, released by PLASTICS Chief Economist Perc Pineda, PhD, examines how sustained consumer purchasing power is translating into growth opportunities throughout the plastics value chain. Drawing on the latest US Census Bureau retail sales data, Pineda's report highlights expansion across critical sectors including automotive, electronics, sporting goods, and e-commerce.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 198476,
+          "ave": 1835.9
+        },
+        {
+          "id": "zgh6yf",
+          "headline": "Discount Grocery Giant Makes Bold Move In Costly US Market",
+          "source": "The Street",
+          "author": "Aparajita Chatterjee",
+          "url": "https://www.thestreet.com/retail/aldi-discount-grocery-giant-new-store-costly-times-square-market-nyc",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Grocery shoppers have become increasingly selective about where they spend their money. Higher food prices over the past several years have pushed consumers to compare prices more closely. That has created an opening for discount chains. And Aldi appears to be benefiting. The discount grocer has now opened its first store in Midtown Manhattan, bringing its low-price grocery model within steps of Times Square. The move comes as demand for the brand grows and the company accelerates one of the largest expansions in its U.S. history.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer"
+          ],
+          "brands": [],
+          "reach": 899790,
+          "ave": 8323.06
+        },
+        {
+          "id": "amqogn",
+          "headline": "While Specialty Stores See Growth, The Home Depot And Lowe’s Still Lead In Home Improvement",
+          "source": "National Retail Federation",
+          "author": "Sandy Smith",
+          "url": "https://nrf.com/blog/2026-top-100-hardware-power-players",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "The National Retail Federation’s annual Top 100 Retailers list ranks retailers based on U.S. sales. Walmart remains in the top spot, followed by Amazon, Costco, Kroger and The Home Depot. This series takes a look at power players in select retail categories. Power players are retailers in this Top 100 list with 2025 U.S. sales equal to or greater than 10% of the sales of the category leader. There’s no doubt that two giants dominate the hardware and home improvement category of NRF’s Top 100 Retailers. The Home Depot ranks at No. 5 on the overall list, posting $154.74 billion in sales in 2025, followed closely by Lowe’s Companies, No. 9 on the list with $83.96 billion in sales.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart",
+            "Amazon",
+            "Costco",
+            "Home Depot",
+            "Kroger"
+          ],
+          "reach": 161106,
+          "ave": 1490.23
+        },
+        {
+          "id": "h67kox",
+          "headline": "Why Free Retailtainment at America’s Biggest Malls & Stores Rivals Paid Attractions on Any Weekend",
+          "source": "The Sacramento Bee",
+          "author": "Lauren Schuster",
+          "url": "https://www.sacbee.com/entertainment/living/article316611261.html",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Malls and flagship stores are pouring money into concerts, theme parks and public events to keep foot traffic coming through the door. Shoppers don’t need to spend big to participate — the country’s largest retail destinations already run free or low-cost programming throughout the year, and the model is expanding fast enough that “going shopping” is quietly turning into “going out.” The marketing agency Into The Minds defines “retailtainment” as a strategy that combines retail and entertainment to “transform the traditional shopping experience” by embedding events, performances and attractions inside commercial space.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [],
+          "reach": 423778,
+          "ave": 3919.95
         }
       ]
     }
