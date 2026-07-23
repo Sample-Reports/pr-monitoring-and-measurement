@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "beauty",
-  "_savedAt": "2026-07-22T12:08:58.167Z",
-  "_dayCount": 6,
+  "_savedAt": "2026-07-23T12:06:53.895Z",
+  "_dayCount": 7,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:16.350Z",
@@ -1399,6 +1399,178 @@
           "brands": [],
           "reach": 651974,
           "ave": 6030.76
+        }
+      ]
+    },
+    "2026-07-23": {
+      "uploadedAt": "2026-07-23T12:06:41.667Z",
+      "filename": "InfoVision_Beauty_Media_Briefing_2026-07-23.docx",
+      "articles": [
+        {
+          "id": "98dud0",
+          "headline": "Gucci Unveils 2025 Equilibrium Impact Report, Details Sustainability Progress",
+          "source": "Women’s Wear Daily",
+          "author": "Luisa Zargani",
+          "url": "https://wwd.com/sustainability/environment/gucci-2025-equilibrium-impact-report-1239078257/",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Releasing its 2025 Gucci Equilibrium Impact Report, outlining the progress made over the last year to advance its sustainability ambitions, the house on Thursday revealed it renewed its gender parity certification in Italy. “The renewal of Gucci’s Gender Parity Certification reflects a commitment that extends beyond compliance or targets,” said Francesca Bellettini, president and chief executive officer of Gucci. “Creating an environment where people can fully express their talent, contribute and grow is fundamental to the way we lead our business and build our future. We are proud of the progress achieved, but even more conscious of our responsibility to continue advancing a culture grounded in merit, inclusion and equal opportunity.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 599328,
+          "ave": 5543.78
+        },
+        {
+          "id": "imk5v3",
+          "headline": "Chanel Appoints Helene De Tissot As New CFO",
+          "source": "Reuters",
+          "author": "Helen ​Reid",
+          "url": "https://www.reuters.com/business/chanel-appoints-helene-de-tissot-new-cfo-2026-07-22/",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Chanel said ​on Wednesday ‌it would appoint ​Helene de ​Tissot as its ⁠new ​chief financial ​officer, starting in October. Helene de ​Tissot ​will join from Pernod ‌Ricard, ⁠where she was CFO.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Chanel"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "cnr7fr",
+          "headline": "Is The Options Market Predicting A Spike In Ulta Beauty Stock?",
+          "source": "Zacks",
+          "author": "",
+          "url": "https://www.zacks.com/stock/news/2958412/is-the-options-market-predicting-a-spike-in-ulta-beauty-stock?cid=CS-NEWSBREAK-FT-tale_of_the_tape%7Coptions-2958412",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Investors in Ulta Beauty need to pay close attention to the stock based on moves in the options market lately. That is because the Sep 18, 2026 $310 Call had some of the highest implied volatility of all equity options today. Implied volatility shows how much movement the market is expecting in the future. Given the way analysts feel about Ulta Beauty right now, this huge implied volatility could mean there’s a trade developing. Oftentimes, options traders look for options with high levels of implied volatility to sell premium. This is a strategy many seasoned traders use because it captures decay. At expiration, the hope for these traders is that the underlying stock does not move as much as originally expected.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Retail & Distribution",
+            "Prestige vs Mass",
+            "Markets & Regulation"
+          ],
+          "brands": [
+            "Ulta Beauty"
+          ],
+          "reach": 645188,
+          "ave": 5967.99
+        },
+        {
+          "id": "b7c1yd",
+          "headline": "Ulta Beauty To Exit Colonie Center, Move Nearby",
+          "source": "Albany Business Review",
+          "author": "Sam Raudins",
+          "url": "https://www.bizjournals.com/albany/news/2026/07/22/ulta-beauty-colonie-center-northway-shopping-cente.html",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Ulta Beauty will relocate from Colonie Center to the nearby Northway Shopping Center (across Central Avenue in Colonie, New York) in early 2027. This move aligns with Ulta's strategy of providing shoppers with the convenience of exterior-facing entrances. The upcoming store will join existing Northway Shopping Center tenants such as Target, Marshalls, and Lowe's.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Retail & Distribution"
+          ],
+          "brands": [
+            "Ulta Beauty"
+          ],
+          "reach": 257613,
+          "ave": 2382.92
+        },
+        {
+          "id": "gsgmzb",
+          "headline": "The Beauty Sector Is Banking On Innovation And A New Vocabulary To Regain Momentum In Department Stores",
+          "source": "Fashion Network",
+          "author": "Samuel Gut",
+          "url": "https://ww.fashionnetwork.com/news/The-beauty-sector-is-banking-on-innovation-and-a-new-vocabulary-to-regain-momentum-in-department-stores,1854301.html",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Its resilience reaffirms its status as a cornerstone of department stores. Among members of the IADS (International Association of Department Stores), beauty’s share remains stable, averaging 16% of turnover over the 2024/2025 period. Yet this surface calm conceals a reshaping of the category, driven by the surge in luxury, evolving skincare codes, and the reinvention of the physical store. According to the latest IADS study, the most striking shift concerns the luxury segment, which now captures 52% of beauty sales, up from 39% a year earlier on a like-for-like basis. This advance has come at the expense of the prestige and premium segments.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Retail & Distribution",
+            "Prestige vs Mass"
+          ],
+          "brands": [],
+          "reach": 143866,
+          "ave": 1330.76
+        },
+        {
+          "id": "svpd5z",
+          "headline": "Evonik And Celtic Renewables Join Forces For Sustainable Cosmetics",
+          "source": "ChemAnalyst News",
+          "author": "George Orwell",
+          "url": "https://www.chemanalyst.com/NewsAndDeals/NewsDetails/evonik-and-celtic-renewables-join-forces-for-sustainable-cosmetics-43462",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Evonik has partnered with Celtic Renewables to introduce a lower-carbon solution for the cosmetics and personal care industry by utilizing bio-based butanol to manufacture ECOHANCE® Soft BOL, a sustainable emollient designed for a wide range of beauty and skincare applications. The collaboration combines Celtic Renewables’ innovative renewable feedstock technology with Evonik’s expertise in cosmetic formulations, creating ingredients that deliver both high product performance and improved environmental sustainability. The partnership highlights how renewable feedstocks from sources such as whisky production, potato waste, and even olive oil by-products can be transformed into next-generation cosmetic ingredients.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "AI Beauty Tech",
+            "Markets & Regulation"
+          ],
+          "brands": [],
+          "reach": 782498,
+          "ave": 7238.11
+        },
+        {
+          "id": "1dzylb",
+          "headline": "Sephora Announces Cohort Of 2026 Accelerate Program",
+          "source": "Drug Store News",
+          "author": "Gisselle Gaitan",
+          "url": "https://drugstorenews.com/sephora-announces-cohort-2026-accelerate-program",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Twelve beauty brands have been selected for the 2026 Sephora Accelerate program. Designed to help emerging brand founders navigate growth and be equipped with the tools for long-term success in the prestige beauty sector, the incubator is now in its10th year. The curriculum for the program focuses on business building, such as establishing a new brand, scaling and building a sustainable future. Participants will receive access to mentorship and advice from industry experts, beauty founders and Sephora executives.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Retail & Distribution",
+            "Prestige vs Mass"
+          ],
+          "brands": [
+            "Sephora"
+          ],
+          "reach": 931470,
+          "ave": 8616.1
+        },
+        {
+          "id": "hy0dfz",
+          "headline": "USA TODAY's First Beauty & Wellness Awards Are Coming. Brands Can Nominate Now",
+          "source": "USA TODAY",
+          "author": "Jessica Bryant",
+          "url": "https://www.usatoday.com/story/shopping/style/2026/07/22/beauty-wellness-awards-nominations/90982369007/",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "USA TODAY is preparing to publish its first-ever Beauty & Wellness Awards this summer to spotlight products re-defining beauty, wellness, personal care, and healthy living. The goal is to recognize standout products — new and old — that rise above the rest in the competitive beauty landscape. With over 500,000 unique makeup and skincare products on the market, knowing which ones receive USA TODAY's stamp of approval can help make your purchasing decisions easier. The USA TODAY editorial team will choose the products featured on this list based on personal experience, online ratings, expert testimony, and hands-on testing.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch"
+          ],
+          "brands": [],
+          "reach": 21110300,
+          "ave": 195270.27
         }
       ]
     }
