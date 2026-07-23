@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "pharma",
-  "_savedAt": "2026-07-22T12:09:27.600Z",
-  "_dayCount": 6,
+  "_savedAt": "2026-07-23T12:07:34.045Z",
+  "_dayCount": 7,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:09.000Z",
@@ -2384,6 +2384,450 @@
           ],
           "reach": 795883,
           "ave": 7361.92
+        }
+      ]
+    },
+    "2026-07-23": {
+      "uploadedAt": "2026-07-23T12:07:17.031Z",
+      "filename": "InfoVision_Pharma_Media_Briefing_2026-07-23.docx",
+      "articles": [
+        {
+          "id": "57kxrt",
+          "headline": "Eli Lilly (LLY) Launches Kisunla As It Expands Its Neuroscience Push",
+          "source": "Simply Wall St",
+          "author": "Bailey Pemberton",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-lly/eli-lilly/news/eli-lilly-lly-launches-kisunla-as-it-expands-its-neuroscienc",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Eli Lilly is drawing attention for activity beyond its GLP 1 obesity and diabetes franchise, with Kisunla now approved for Alzheimer's disease and a growing presence in brain health research. The stock recently closed at $1,163.01, with a 1 year return of 46.6%, a 3 year return of 161.9%, and a 5 year gain of 394.6%. Those numbers frame how meaningfully the company has already been rewarded for its broader drug portfolio. For investors tracking Eli Lilly, the combination of an approved Alzheimer's therapy, a visible role at a major scientific conference, and participation in the Illumina Billion Cell Atlas points to a deepening focus on neuroscience. How these efforts translate into future data readouts, partnerships, and potential new indications will be important markers to watch over time.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 263901,
+          "ave": 2441.08
+        },
+        {
+          "id": "5dp7yh",
+          "headline": "Pharmaceutical Executive Daily: Novo Nordisk Files Lawsuit Against Eli Lilly",
+          "source": "Pharmaceutical Executive",
+          "author": "Nicholas Jacobus",
+          "url": "https://www.pharmexec.com/view/daily-novo-nordisk-lawsuit-eli-lilly",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "In today's Pharmaceutical Executive Daily, Novo Nordisk sues Eli Lilly over GLP-1 advertising it calls misleading, President Trump announces a phased tariff plan for imported generic drugs, and a new commentary argues pharma's AI investment is missing the areas of drug discovery where it matters most. Novo Nordisk has filed a federal lawsuit against Eli Lilly, alleging that Lilly's advertising for Zepbound and Mounjaro misleads consumers by comparing its drugs against lower, outdated doses of Wegovy and Ozempic. The complaint centers on ads that pit Zepbound's top dose against Wegovy's 1.7 and 2.4 milligram doses while omitting the newer 7.2 milligram dose FDA approved in March, which showed nearly 19 percent average weight loss in trial data.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "Clinical Trials"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 326251,
+          "ave": 3017.82
+        },
+        {
+          "id": "5qfth2",
+          "headline": "Hair Loss With GLP-1 Drugs Is Rare, But Real, Studies Find",
+          "source": "Reuters",
+          "author": "Nancy Lapid",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/hair-loss-with-glp-1-drugs-is-rare-real-studies-find-2026-07-22/",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "The risk ‌of hair loss in patients taking GLP-1 drugs for obesity or diabetes, while low, is higher than with other diabetes drugs, new studies suggest. At two or more years after starting treatment, the odds of a new diagnosis of alopecia in GLP-1 ​users were 37% higher than in users of so-called SGLT-2 drugs and 68% higher versus ​DPP-4 drugs, researchers at the University of Pennsylvania reported on Wednesday in The BMJ. GLP-1 drugs in the study included semaglutide, sold by Novo Nordisk ​as Wegovy and Ozempic; tirzepatide, sold by Eli Lilly as Zepbound and Mounjaro; and older drugs in the class. SGLT-2 drugs included Johnson & Johnson's Invokana, AstraZeneca's Farxiga, and Jardiance from Boehringer Ingelheim and Eli Lilly. DPP-4 inhibitors included Merck’s Januvia and AstraZeneca’s ​Onglyza.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "Boehringer Ingelheim",
+            "Eli Lilly",
+            "AstraZeneca"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "bqwg3w",
+          "headline": "US Judge Casts Doubt On 69,000 Cases Alleging J&J Talc Caused Cancer",
+          "source": "Reuters",
+          "author": "Dietrich Knauth",
+          "url": "https://www.reuters.com/legal/government/us-judge-casts-doubt-69000-cases-alleging-jj-talc-caused-cancer-2026-07-22/",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "A federal judge cast doubt on Wednesday on claims by approximately 69,000 people alleging that Johnson & Johnson's baby ​powder and other talc products caused ovarian cancer, saying plaintiffs must provide more specific ‌evidence or risk having their lawsuits dismissed. U.S. Magistrate Judge Rukhsanah Singh in Trenton, New Jersey, said that recent testimony by two of the plaintiffs' experts raised doubts about whether any plaintiffs can provide evidence admissible in court \"that talcum ​powder use specifically caused her ovarian cancer.\" J&J has denied the ​allegations that its talc products caused cancer saying that talc was safe and did not contain asbestos.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "xtwuk8",
+          "headline": "J&J Gets FDA Authorization For Ottava Robot, Teeing Up Competition With Intuitive",
+          "source": "MedTech Dive",
+          "author": "Susan Kelly",
+          "url": "https://www.medtechdive.com/news/jj-gets-fda-authorization-for-ottava-robot-teeing-up-competition-with-int/825905/",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Ottava is the first soft tissue system to integrate robotic arms into the operating table. “We are pioneering a new category of surgical robotics with OTTAVA,” Tim Schmid, J&J’s worldwide chairman for medtech, said in a statement. The FDA’s general surgery authorization covers Roux-en-Y gastric bypass, gastrectomy, cholecystectomy, splenectomy, gastric sleeve, small bowel resection, appendectomy, fundoplication, hiatal hernia repair and lysis of adhesions, a procedure to remove scar tissue. A U.S. clinical trial is also underway for Ottava in inguinal hernia repair. Ottava takes up 30% to 50% less space than traditional boom- and cart-mounted systems and is designed to help hospitals and clinical teams improve surgical care while streamlining workflows to increase operating room efficiency, according to J&J. Synchronized table and robotic arm motions facilitate patient repositioning and multi-quadrant access to the anatomy. The system includes instrument innovations for commonly used surgical tools and connects to a digital platform for surgical data integration.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 531122,
+          "ave": 4912.88
+        },
+        {
+          "id": "lcktcc",
+          "headline": "AbbVie Sues Galderma Over Patented Dermal Filler Syringe Designs",
+          "source": "Bloomberg Law",
+          "author": "Lauren Castle",
+          "url": "https://news.bloomberglaw.com/ip-law/abbvie-sues-galderma-over-patented-dermal-filler-syringe-designs",
+          "section": "Brand News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "AbbVie Inc. and its Allergan Inc. unit hit competitor Galderma Group AG and Galderma SA with patent infringement allegations over creating a similar design for dermal filler syringes. Galderma and its units “made a calculated decision” to create syringes for Restylane that look like competing Juvéderm syringes, AbbVie said in Tuesday complaint in the US District Court for the Northern District of Texas.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 391267,
+          "ave": 3619.22
+        },
+        {
+          "id": "qd1obt",
+          "headline": "Bristol Myers Squibb (BMY) Wins FDA Filing And Nvidia Tie Up, Is It Still Undervalued?",
+          "source": "Simply Wall St",
+          "author": "",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-bmy/bristol-myers-squibb/news/bristol-myers-squibb-bmy-wins-fda-filing-and-nvidia-tie-up-i",
+          "section": "AI Pulse",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Bristol-Myers Squibb (BMY) is back in focus after the FDA accepted its New Drug Application for mezigdomide in relapsed or refractory multiple myeloma, alongside a new AI collaboration with Nvidia for drug discovery. See our latest analysis for Bristol-Myers Squibb. The recent FDA filing for mezigdomide and the AI expansion with Nvidia come as Bristol-Myers Squibb’s share price has gained momentum, with a 12.83% 1 month share price return and 13.97% year to date, while the 1 year total shareholder return sits at 32.97%. If you are interested in how AI is reshaping healthcare beyond Bristol-Myers Squibb, this could be a good moment to scan the wider field through our 39 healthcare AI stocks. Bulls see Bristol-Myers Squibb’s mezigdomide data and Nvidia-backed AI push as proof the recent share price momentum has a solid footing, while bears point to falling revenue and earnings.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 263901,
+          "ave": 2441.08
+        },
+        {
+          "id": "jn49zb",
+          "headline": "Biopharma Bites: White House's AI Challenge, Another Raise For Mentari And Royalty Pharma's Deal With Neurimmune",
+          "source": "FirstWord Pharma",
+          "author": "Elizabeth S. Eaton",
+          "url": "https://firstwordpharma.com/story/7767751",
+          "section": "AI Pulse",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "As part of President Donald Trump's Genesis Mission to use AI for scientific discoveries, the US Department of Health and Human Services (HHS) teamed up with the White House Office of Science and Technology Policy (OSTP) to launch a series of National Science and Technology Challenges open for the country's scientific community to solve. The White House has committed more than $5 billion in federal funding to support scientists using next-generation AI to address pressing health challenges. The primary challenge is focused on identifying the root causes of chronic disease, while additional efforts will help advance paediatric cancer research, as well as accelerate drug discovery and development by using AI to find therapeutic targets faster.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Pipeline & R&D",
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 96323,
+          "ave": 890.99
+        },
+        {
+          "id": "jujmeq",
+          "headline": "DOE Funds AI-Driven Research Projects, Including Those Focused On Biotechnology",
+          "source": "Biomass Magazine",
+          "author": "Erin Krueger",
+          "url": "https://biomassmagazine.com/articles/doe-funds-ai-driven-research-projects-including-those-focused-on-biotechnology",
+          "section": "AI Pulse",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "The U.S. Department of Energy on July 22 announced it has selected 278 projects to move forward with award negotiations under the Genesis Mission request for applications released earlier this year. Several bioenergy-related projects are among those selected by the agency. The DOE in mid-March opened a $293 million funding opportunity focused on the use of AI to tackle a wide range of complex science and technology problems, including those in the field of biotechnology. The funding aims to advance the administration’s Genisis Mission. The mission, launched via an executive order in November 2025, is a national initiative to accelerate innovation in science, national security and energy through the use of AI. One of the 20 challenge areas included in the request for applications was focused on “scaling the biotechnology revolution.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 91560,
+          "ave": 846.93
+        },
+        {
+          "id": "bsbff0",
+          "headline": "Transcripta Bio Raises $24M For AI-Driven Neurological Disease Therapies",
+          "source": "Genetic Engineering and Biotechnology News",
+          "author": "Fay Lin",
+          "url": "https://www.genengnews.com/topics/artificial-intelligence/transcripta-bio-raises-24m-for-ai-driven-neurological-disease-therapies/",
+          "section": "AI Pulse",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Chris Moxham, PhD, has been a “drug hunter” for three decades, building data-driven platforms as vice president of quantitative biology at Eli Lilly, and CSO of Folcrum Therapeutics, in recent years. “Technology is now advancing to allow us to interrogate the transcriptome, which is a phenomenal blueprint for cell state and fate,” he told GEN Edge. Moxham currently leads Transcripta Bio as founder and CEO. The AI-driven drug discovery start-up is developing small molecule therapeutics to modulate gene expression disease signatures. Transcripta has now announced a $24 million funding raise to advance IND-enabling studies and clinical preparation of its neurological disease portfolio, including autism spectrum disorder (ASD) and facioscapulohumeral muscular dystrophy (FSHD). Mayo Clinic and Omnimed will join JAZZ Venture Partners, BlueYard Capital, and a group of life sciences family offices, as investors.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "M&A / Markets"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 581820,
+          "ave": 5381.84
+        },
+        {
+          "id": "hkbuk7",
+          "headline": "Tracking Biopharma Innovation Through AI, Licensing And Index Performance",
+          "source": "Bloomberg",
+          "author": "",
+          "url": "https://www.bloomberg.com/professional/insights/markets/tracking-biopharma-innovation-through-ai-licensing-and-index-performance/",
+          "section": "AI Pulse",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Biopharmaceutical innovation has traditionally been difficult to capture through traditional market exposures. Drug development is capital-intensive, time-consuming and uncertain by nature, with value often created years before a therapy reaches commercialization. At the same time, advances in AI are transforming how drugs are discovered, shifting the industry toward faster, more data-driven and high-throughput innovation models. That shift adds a new layer to an already difficult challenge for investors: identifying companies that can consistently generate high-quality innovation and convert it into value. Bloomberg reporting highlights early evidence that AI is already changing the pace of drug discovery, with a consulting estimate suggesting that AI-driven R&D could reduce the time and cost of bringing drug candidates to human testing by 25% to 50%. More broadly, industry analysis points to improving success rates for AI-enabled programs at early clinical stages.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "hu5xme",
+          "headline": "AI In Clinical Trials: Patient Selection, Adaptive Design, And The Translational Gap",
+          "source": "Drug Discovery News",
+          "author": "Erika Russell",
+          "url": "https://www.drugdiscoverynews.com/ai-in-clinical-trials-patient-selection-adaptive-design-and-the-translational-gap-17368",
+          "section": "AI Pulse",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "AI clinical trials drug development has moved well past pilot projects into everyday use for patient selection, adaptive design, and trial monitoring. Sponsors now apply machine learning across enrollment, biomarker analysis, and interim decision-making, but whether AI is improving trial success rates, rather than merely trial efficiency, remains a harder question worth answering honestly. Most clinical trial failures trace back to a translational gap between how a candidate performs in preclinical models and how it performs in human patients. A 2025 analysis of more than 20,000 clinical development programs found that clinical trial success rates declined for roughly 2 decades before recently plateauing and ticking upward again, yet even that recent uptick leaves overall success in the single digits to low double digits, nowhere close to the gains AI has delivered in discovery-stage speed.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 507843,
+          "ave": 4697.55
+        },
+        {
+          "id": "wvyhvu",
+          "headline": "GSK Enters Lung Cancer Drug Market With Early FDA Nod For Jideytro",
+          "source": "Reuters",
+          "author": "Padmanabhan Ananthan, Bhanvi Satija",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-gsks-lung-cancer-drug-2026-07-22/",
+          "section": "Industry News",
+          "date": "July 21, 2026",
+          "iso": "2026-07-20",
+          "summary": "GSK said on Wednesday the U.S. FDA approved its drug ​to treat a form of lung cancer, nearly two months after ‌the British drugmaker acquired the treatment as part of a historic $10.6 billion deal. The approval, which marks GSK's entry into a lucrative market for lung cancer treatment, comes earlier than the ​FDA's target action date of September 18. It accelerates GSK's rebuild of a ​cancer drug business under new CEO Luke Miels, who took over ⁠in January and is tasked with leading the company to its ambitious target ​of over £40 billion in annual sales by 2031.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [
+            "GSK"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "60orl1",
+          "headline": "New Study Supports Testing Of Merck’s Ebola Vaccine In DRC Outbreak",
+          "source": "STAT News",
+          "author": "Helen Branswell",
+          "url": "https://www.statnews.com/2026/07/22/new-study-supports-testing-of-mercks-ebola-vaccine-in-drc-outbreak/",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "New data from a study in humans provides additional support to the idea that Merck’s Ebola vaccine Ervebo, licensed to target the Zaire species of ebolaviruses, could also offer some protection against another species currently circulating in a rapidly expanding outbreak in the Democratic Republic of the Congo. The new paper, published Wednesday in the New England Journal of Medicine after previously having been posted online before peer review, is one of a growing number of studies pointing to the possibility that the vaccine could be used to target the Bundibugyo species of ebolaviruses.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Clinical Trials",
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 478047,
+          "ave": 4421.93
+        },
+        {
+          "id": "ha945l",
+          "headline": "Sanofi Reprimanded For Disparaging Pfizer’s RSV Vaccine",
+          "source": "Fierce Pharma",
+          "author": "Nick Paul Taylor",
+          "url": "https://www.fiercepharma.com/marketing/sanofi-reprimanded-disparaging-pfizers-rsv-vaccine",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "A U.K. marketing watchdog has reprimanded Sanofi for using “a highly misleading interpretation of data” to make disparaging claims about Pfizer’s respiratory syncytial virus (RSV) vaccine. The PMCPA, the self-regulatory body that oversees drug marketing in the U.K., took Sanofi to task over three cases brought by Pfizer. One case, details of which were published in February, related to quotes attributed to Paul Hudson, then Sanofi’s CEO, in a U.K. newspaper. After complaining about the article to the PMCPA, Pfizer filed subsequent complaints about two other news stories and a Sanofi press release. In all three cases, the PMCPA found Sanofi had brought discredit upon, and reduced confidence in, the pharmaceutical industry. The censure, the harshest in the PMCPA’s arsenal, led the watchdog to publicly reprimand Sanofi and run adverts publicizing the company’s wrongdoing.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals",
+            "Public Health Policy"
+          ],
+          "brands": [
+            "Sanofi",
+            "Pfizer"
+          ],
+          "reach": 432715,
+          "ave": 4002.61
+        },
+        {
+          "id": "v88kwh",
+          "headline": "Novartis Scraps Mid-Stage Radiopharma Asset As Pluvicto Soars",
+          "source": "BioSpace",
+          "author": "Tristan Manalac",
+          "url": "https://www.biospace.com/business/novartis-scraps-mid-stage-radiopharma-asset-as-pluvicto-soars",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "The discontinued asset, being trialed for breast cancer and solid tumors, had yielded disappointing data, leading to Novartis’ decision to abandon development, according to a company spokesperson. Novartis has quietly scrapped a mid-stage radioligand therapy that had been under development for breast cancer and other solid tumors. The investigational asset, called 177Lu-NeoB, was listed on the pharma’s pipeline in its first quarter presentation but no longer appears on the company’s most recent investor update posted Tuesday. A Novartis spokesperson confirmed the discontinuation of 177Lu-NeoB to BioSpace via email, noting that the decision was made because “early clinical data did not support advancing it to the next stage of development.”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials",
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 932094,
+          "ave": 8621.87
+        },
+        {
+          "id": "xlddrf",
+          "headline": "Pfizer's Prostate Cancer Drug Combination Gets US FDA Priority Review",
+          "source": "Reuters",
+          "author": "Padmanabhan Ananthan",
+          "url": "https://www.reuters.com/legal/litigation/pfizers-prostate-cancer-drug-combination-gets-us-fda-priority-review-2026-07-22/",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Pfizer said on Wednesday the U.S. Food and Drug Administration had granted priority review to its application ​seeking expanded approval for its prostate cancer treatment combination. The company had ‌sought expanded approval to use a combination of two approved drugs — branded as Talzenna and Xtandi — in men with metastatic castration-sensitive prostate cancer, whose tumors ​have gene changes, known as HRR mutations. The combination ​has already been approved in the United States to treat men with ⁠gene-mutated metastatic castration-resistant prostate cancer, an advanced form of the ​disease. Priority review shortens the FDA's review period to six months ​from the standard 10 months, and is granted to applications for drugs that could significantly improve the treatment, diagnosis or prevention of serious ​conditions.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [
+            "Pfizer"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "bft3dd",
+          "headline": "Kairos Pharma Teams Up With Bayer To Enhance Xofigo Activity In MPC",
+          "source": "The Pharma Letter",
+          "author": "",
+          "url": "https://www.thepharmaletter.com/biotech-news/kairos-pharma-teams-up-with-bayer-to-enhance-xofigo-activity-in-mpc",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "US clinical-stage biotech Kairos Pharma saw its shares close down 12.6% at $0.31 yesterday, despite announcing a strategic collaboration with German pharma major Bayer. The companies will evaluate Kairos Pharma’s lead antibody ENV-105 (carotuximab), a first-in-class CD105/BMP signaling inhibitor, in combination with Bayer’s Xofigo (radium-223 dichloride) in metastatic castration-resistant prostate cancer (mCRPC) involving bone. This article is accessible to registered users, to continue reading please register for free. A free trial will give you access to exclusive features, interviews, round-ups and commentary from the sharpest minds in the pharmaceutical and biotechnology space for a week.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Clinical Trials",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 677658,
+          "ave": 6268.34
+        },
+        {
+          "id": "skezmc",
+          "headline": "Trump Takes Another Swing At Drug Industry In Made-In-USA Push",
+          "source": "Bloomberg",
+          "author": "Naomi Kresge, Amber Tong, Fabienne Kinzelmann",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-22/trump-takes-another-swing-at-drug-industry-in-made-in-usa-push",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "President Donald Trump’s threat of 100% tariffs against generic medicines is a major expansion of a strategy he’s been using against the pharmaceutical industry since his second term began. The US president has already threatened levies against makers of expensive branded medicines as part of his push to revive domestic manufacturing and lower American drug prices, which have long been the world’s highest. However, extending the tariffs-for-manufacturing push to generics combines both elements of his drug policy in a way that may be difficult to reconcile.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "lv9u0a",
+          "headline": "Trump’s Generic Drug Tariffs Will Drive Up Pharmaceutical Prices",
+          "source": "The Washington Post",
+          "author": "",
+          "url": "https://www.washingtonpost.com/opinions/2026/07/22/trumps-generic-drug-tariffs-will-drive-up-pharmaceutical-prices/",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "The Washington Post published an opinion piece which noted that, “President Donald Trump on Tuesday set a two-year deadline for manufacturers of generic drugs to move production plants to the United States, lest they face a 100 percent tariff. That would be a great way to jack up prices for lower-cost drugs that millions of Americans rely on — just ahead of the 2028 election.”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 659937,
+          "ave": 6104.42
+        },
+        {
+          "id": "kazugu",
+          "headline": "Letter: Is AI Really That Helpful For Drug Discovery?",
+          "source": "Financial Times",
+          "author": "",
+          "url": "https://www.ft.com/content/3cc67e15-336b-4a23-91f7-be1d21ab0233",
+          "section": "Industry News",
+          "date": "July 22, 2026",
+          "iso": "2026-07-21",
+          "summary": "Financial Times published a letter in which K Felix Mjumbe noted that, “It was fascinating and odd to review your recent supplement “AI in Practice” and its mini-digest of AI usage in pharma drug discovery (“Why AI can transform pharma — but nature cannot be hurried”, Special Report, June 30). But the current state of large language models and their capacity to assist in drug discovery enhancement is questionable. The most obvious problem of usage of AI is the pharma credo of hiding the ball in plain sight to protect its targeted compound’s life of exclusivity within its patent filings. Since pharmaceutical concerns do not collect, analyse and store their data in a universal fashion, it is obviously impossible to use AI to parse data from various pharmaceutical entities and receive a consistent analytical output without some AI hallucination slop becoming the output product. This would be crucial time wasted on a grand scale. Protecting competitive internal intelligence is key, which means no pharmaceutical or research concern should allow its data gold to become part or parcel of any LLM’s functional data in the AI cloud.”",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 21414033,
+          "ave": 198079.81
         }
       ]
     }
