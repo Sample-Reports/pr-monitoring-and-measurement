@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "qsr",
-  "_savedAt": "2026-07-23T12:08:45.211Z",
-  "_dayCount": 7,
+  "_savedAt": "2026-07-24T11:41:58.027Z",
+  "_dayCount": 8,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:45.173Z",
@@ -2393,6 +2393,316 @@
           "brands": [],
           "reach": 682532,
           "ave": 6313.42
+        }
+      ]
+    },
+    "2026-07-24": {
+      "uploadedAt": "2026-07-24T11:41:48.065Z",
+      "filename": "InfoVision_QSR_Media_Briefing_2026-07-24.docx",
+      "articles": [
+        {
+          "id": "9bqy8m",
+          "headline": "KFC Once Tried To Be More Than A Fried Chicken Chain",
+          "source": "WBKR 92.5",
+          "author": "Dave Spencer",
+          "url": "https://wbkr.com/kfc-roast-beef-and-ham/",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Did you know that, for a brief moment in its history, KFC could have replaced that \"FC\" with \"RB 'n' H\"? That's because, fun fact, the iconic chicken chain once experimented with roast beef and ham. By 1967, according to retroist.com, Kentucky Fried Chicken (as it was called at the time) had become so popular that it was one of the country's ten largest restaurant chains. In fact, it was popular enough that the brand decided to try its hand at roast beef and ham. The new chain was called Kentucky Roast Beef 'n' Ham and even used Colonel Sanders' trademark 11 herbs and spices in preparing the meat, although I can't help but wonder how seasonings earmarked for chicken would work with beef and ham.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 246798,
+          "ave": 2282.88
+        },
+        {
+          "id": "tji007",
+          "headline": "This Secret KFC Meal Is One Of The Best Deals On The Menu",
+          "source": "Southern Living",
+          "author": "Molly Burford",
+          "url": "https://www.southernliving.com/kfc-secret-menu-item-deal-12025623",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Well, it looks as though Cracker Barrel may have a bit of competition for its fan-favorite country fried steak meal, as KFC is now offering its own rendition of the hearty comfort food classic for just $4.99. However, there is a tiny catch: it will only be available at select KFCs on Wednesdays. At participating KFC locations, fans can order the affordable $4.99 Country Fried Steak Meal, which features a generous helping of Southern comfort food with everything you’d expect: crispy, golden fried steak smothered in a hearty white gravy, served with a side of mashed potatoes covered in cream gravy, coleslaw, and a warm biscuit. Yum!",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 642581,
+          "ave": 5943.87
+        },
+        {
+          "id": "ft1krf",
+          "headline": "The Old-Fashioned Kentucky Diner That’s Been Dishing Up Legendary Chicken Dinners For Decades",
+          "source": "Fast Food Club",
+          "author": "Mason Whitaker",
+          "url": "https://fastfoodclub.com/p/the-old-fashioned-kentucky-diner-thats-been-dishing-up-legendary-chicken-dinners-for-decades/",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Tucked along Shelbyville Road in Shelbyville, Kentucky, Claudia Sanders Dinner House is one of those rare places where history and home cooking meet on the same plate. Founded by Claudia Sanders, wife of the legendary Colonel Harland Sanders of KFC fame, this charming restaurant has been serving up Southern comfort food for decades. With a warm, old-fashioned atmosphere and a menu packed with crowd-pleasing classics, it draws visitors from near and far. Whether you’re a first-timer or a loyal regular, this beloved Kentucky gem never disappoints. Some restaurants are known for one dish so good it practically defines them, and at Claudia Sanders Dinner House, that dish is undeniably the fried chicken. Rooted in the same Kentucky tradition that made Colonel Sanders a household name, this chicken carries serious culinary history on every crispy piece.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 917388,
+          "ave": 8485.84
+        },
+        {
+          "id": "ohlgp4",
+          "headline": "Historic Scottsdale Taco Bell Gets Second Life As Filiberto's",
+          "source": "Axios",
+          "author": "Jessica Boehm",
+          "url": "https://www.axios.com/local/phoenix/2026/07/23/historic-taco-bell-filibertos-scottsdale",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "The iconic old-school Taco Bell building in south Scottsdale, which served its final crunchwraps more than a year ago, is getting a new purpose. And dare we say it feels a little kismet? State of play: Local Mexican chain Filiberto's appears to be taking over the mission-style restaurant. It's been painted bright red and a sign announcing the new tenant hangs where Taco Bell's did for more than 50 years, 12 News reported. What they're saying: \"Like the Roman Catholic Church taking over old Rome ruins,\" one fan posted on Instagram. Why it matters: The restaurant, which first opened in the 1960s, was the nation's 31st Taco Bell location and was among the oldest still operating in the U.S when it closed last April.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 748246,
+          "ave": 6921.28
+        },
+        {
+          "id": "gkj1uu",
+          "headline": "A New Restaurant Is Moving Into Scottsdale’s Vintage Taco Bell. What To Know",
+          "source": "Phoenix New Times",
+          "author": "Sara Crocker",
+          "url": "https://www.phoenixnewtimes.com/food-drink/a-new-restaurant-is-moving-into-scottsdales-vintage-taco-bell-what-to-know-40684414/",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Fans of architecture and fast Mexican fare, rejoice! After more than a year sitting vacant, the kitchen previously home to a vintage Taco Bell, will soon be alive with cooks preparing tacos, burritos and tostadas. Filiberto’s will open in the former Scottsdale Taco Bell on McDowell Road near Hayden Road in August, Luis Espinoza, the restaurant chain’s real estate broker, confirmed to Phoenix New Times. He anticipates the restaurant will open in mid-to-late August. “We’re excited,” he said, noting the Filiberto’s would keep the same “historic” look. The restaurant has a notable history as Taco Bell’s store No. 31, the last vintage cantina in Arizona and one of fewer than 10 nationwide that served architectural nostalgia with their Crunchwrap Supremes.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 495115,
+          "ave": 4579.81
+        },
+        {
+          "id": "r535r7",
+          "headline": "$1 Frostys Return To Wendy’s — Here’s How To Get The Sweet Treat All Summer",
+          "source": "New York Post",
+          "author": "Faran Krentcil",
+          "url": "https://nypost.com/2026/07/23/lifestyle/wendys-is-bringing-back-1-frostys-all-summer/",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Wendy’s is freezing prices on a crave-worthy item — but only for a limited time. From now until August 23, the fast food hub is bringing back the $1 Frosty, helping budget-conscious snackers cool off from summer inflation with a dollop of the chain’s famous chocolate or vanilla frozen dessert. The $1 Frosty deal runs nationwide from July 20 through August 23, and it’s available in-restaurant, at the drive-thru, through the Wendy’s app and on Wendys.com. Want it delivered? Sorry — you’ll get frozen out of this deal. Likewise, if you’re trying to order in bulk, since the offer caps out at 10 sweet treats.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Wendy's"
+          ],
+          "reach": 581777,
+          "ave": 5381.44
+        },
+        {
+          "id": "vr3wod",
+          "headline": "Chipotle Mexican Grill Nearing Completion Of New Lehigh Valley Location",
+          "source": "WFMZ",
+          "author": "Ryan Kneller",
+          "url": "https://www.wfmz.com/features/eat-sip-shop/chipotle-mexican-grill-nearing-completion-of-new-lehigh-valley-location/article_214a2831-dfb3-4336-9407-72588026296e.html",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "A popular fast-casual restaurant chain known for its made-to-order tacos, burritos, quesadillas and other Mexican eats is expanding its footprint in the region. Chipotle Mexican Grill, with more than 4,100 locations worldwide, is planning to open a new location at 1900 Sullivan Trail in Forks Township. Construction on the Forks location has ramped up in recent months, and exterior signage was recently installed. An exact opening date has not yet been determined, but the Forks restaurant is scheduled to open “before the end of the year,” a Chipotle spokesperson told 69 News. In 2021, Bethlehem-based developer Posh Properties No. 46 Hanson LLC was granted conditional use approval to the construct the new Chipotle restaurant – with a drive-thru for pick-up orders – by the Forks Township Board of Supervisors.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chipotle"
+          ],
+          "reach": 901564,
+          "ave": 8339.47
+        },
+        {
+          "id": "ryffqq",
+          "headline": "What Is Burger King's 'Whopper Guarantee'? Do Other Fast-Food Chains Offer Similar Policies?",
+          "source": "WLWT",
+          "author": "Matt Cudahy",
+          "url": "https://www.wlwt.com/article/burger-king-guarantee-fast-food-policies/73249409",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Burger King is offering a new promotion that might sound too good to be true. It's called the \"Whopper Guarantee.\" According to the fast-food company's press release, if a Whopper, Burger King's flagship sandwich, does not meet a customer's expectations, they will not only receive a remade Whopper that meets their standards but also a coupon for a free future Whopper. \"When Guests choose us, they expect high-quality food, orders made the way they asked, and a team that's there when they need us,\" said Tom Curtis, president of Burger King U.S. and Canada. \"That's what these changes are about. We're raising the standard in our restaurants, so every Guest feels like they made the right choice.\"",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 907634,
+          "ave": 8395.61
+        },
+        {
+          "id": "sbv1rv",
+          "headline": "Could AI-Powered QSR Technology Help Independents Compete With Larger Chains?",
+          "source": "QSR Magazine",
+          "author": "",
+          "url": "https://www.qsrmagazine.com/story/could-ai-powered-qsr-technology-help-independents-compete-with-larger-chains/",
+          "section": "AI Pulse",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "The quick service restaurant (QSR) industry is not the same as it once was, and businesses need to keep up if they want to remain competitive. Customer expectations are forever changing as people seek convenience at a reasonable price. This is hard for QSRs to live up to as the cost of living continues to increase, but new digital systems have opened up new doors. Artificial intelligence (AI) is a phrase that is all around us at the moment, and the QSR industry is no exception. More and more business owners are coming to realize that they, too can introduce new tools without breaking the bank. As shown by the graph below, the use of restaurant management software is growing year on year in the QSR industry, and this is expected to continue at a compound annual growth rate of over 19 percent between now and 2033. This tells us that AI is not just a fad, but the start of the new normal that all businesses are going to have to get up to speed with if they want to keep up with larger chain restaurants.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Value & Pricing",
+            "Digital & Ordering",
+            "AI & Automation",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 68484,
+          "ave": 633.48
+        },
+        {
+          "id": "2eun72",
+          "headline": "Converge AI Extends Its AI-Native Workspace To The Restaurant Industry",
+          "source": "The AI Journal",
+          "author": "",
+          "url": "https://aijourn.com/converge-ai-extends-its-ai-native-workspace-to-the-restaurant-industry/",
+          "section": "AI Pulse",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Converge AI today outlined how its AI-native workspace can support restaurant marketing, operations, and guest engagement, as the company advances follow-up conversations with industry leaders and multi-unit operators at CREATE 2026, the Nation’s Restaurant News foodservice conference at Terranea Resort. The restaurant industry is among the most operationally demanding sectors of the US economy. Multi-unit brands coordinate campaign calendars, limited-time offer rollouts, franchisee communications, guest feedback, and unit-level performance across dozens or hundreds of locations, often with lean corporate teams supporting field operations. Against this backdrop, industry conversation is shifting from whether AI can be applied in restaurants to where it can deliver measurable value in everyday operations. Converge AI is built for that shift. Rather than adding another standalone tool to an already crowded technology stack, the platform brings specialized AI products into a shared context layer, allowing work and business knowledge created in one part of the business or organization to carry into the next.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Value & Pricing",
+            "Digital & Ordering",
+            "AI & Automation",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 209582,
+          "ave": 1938.63
+        },
+        {
+          "id": "s1kzdn",
+          "headline": "We Tried McDonald’s’ Sweet New Breakfast Sandwich",
+          "source": "Sporked",
+          "author": "Griffin Parker",
+          "url": "https://sporked.com/article/mcdonalds-brown-butter-honey-biscuit-review/",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "McDonald’s doesn’t update their breakfast menu every day, so it’s worth paying attention when they do turn the innovation gaze away from lunch and dinner for once (even if we are excited about that new Caesar sauce). Much like the last McDonald’s breakfast innovation I covered here on Sporked, we’re here to talk about a new sauce on a classic sandwich. Let’s find out whether this new Honey Brown Butter sauce can elevate the classic Bacon, Egg & Cheese Biscuit sandwich (plus what might be the world’s first review of a custom vegetarian variant).",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "McDonald's"
+          ],
+          "reach": 267830,
+          "ave": 2477.43
+        },
+        {
+          "id": "cutfpm",
+          "headline": "Popular Salad Chain Addresses Cyclospora Outbreak Concerns",
+          "source": "USA Today",
+          "author": "Anthony Thompson",
+          "url": "https://www.usatoday.com/story/money/food/2026/07/23/sweetgreen-cyclospora-statement/91025222007/",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Sweetgreen is reassuring customers that the salad chain has not been linked to the ongoing cyclospora outbreak that has sickened thousands of people across the United States. “We’ve seen the news, and we know you have questions. We’re on it,” Sweetgreen said in a post on X. “Sweetgreen has NOT been identified in connection with the current cyclospora outbreak, but our food safety experts continue to monitor the situation closely.” The company said food safety is central to its daily operations and highlighted its sourcing and safety practices “from farm to restaurant.”",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 20125212,
+          "ave": 186158.21
+        },
+        {
+          "id": "tmx3rg",
+          "headline": "A Classic Chicken Franchise’s Path To More Than 250 Locations",
+          "source": "QSR Magazine",
+          "author": "",
+          "url": "https://www.qsrmagazine.com/sponsored_content/a-classic-chicken-franchises-path-to-more-than-250-locations/",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "The great chicken wars have not been won. The market is as competitive as ever, with franchises and brands seeking to carve out their own niche in the market. Golden Chick, a Texas-grown concept, is about to celebrate 60 years and has more than 250 locations. With consistent growth over the past few years, it is now on the path to open 27–30 additional locations in 2026 and is aiming to have 400 locations by 2030. But what makes a chicken concept stand out for prospective operators, franchisees, and consumers? For Tony Eisermann, vice president of development at Golden Chick, it’s a commitment to food quality and support of franchisees. “We try not to chase the trends or the fads that are out there,” Eisermann says. “We want to focus on the fact that we have great options; tenders, bone-in chicken (fried and roasted), wonderful sides, and of course our Almost World-Famous Rolls that we will put up against anybody in the industry.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 68484,
+          "ave": 633.48
+        },
+        {
+          "id": "10949n",
+          "headline": "Chick-fil-A Is Testing Spicy Chick-n-Strips",
+          "source": "Nation’s Restaurant News",
+          "author": "Alicia Kelso",
+          "url": "https://www.nrn.com/quick-service/chick-fil-a-is-testing-spicy-chick-n-strips",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Chick-fil-A’s signature Chick-n-Strips are now available in a spicy version, but only at two restaurants and only for a limited time. The chain is testing the item at its Sandy Spring and Sprayberry restaurants in the Atlanta market from now through July 12, or while supplies last. They are available in restaurants and through delivery. Spicy Chick-n-Strips are made from the most tender part of the chicken breast, seasoned with a spicy blend of peppers, breaded and cooked in 100% refined peanut oil. They are available with the customers’ choice of dipping sauce as a 3-count, 4-count, or 10-count entrée, and can also be ordered as part of a meal.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Chick-fil-A"
+          ],
+          "reach": 618551,
+          "ave": 5721.6
         }
       ]
     }
