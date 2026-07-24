@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "retail",
-  "_savedAt": "2026-07-23T12:09:09.127Z",
-  "_dayCount": 7,
+  "_savedAt": "2026-07-24T11:42:20.074Z",
+  "_dayCount": 8,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:03.474Z",
@@ -1973,6 +1973,223 @@
           "brands": [],
           "reach": 423778,
           "ave": 3919.95
+        }
+      ]
+    },
+    "2026-07-24": {
+      "uploadedAt": "2026-07-24T11:42:11.506Z",
+      "filename": "InfoVision_Retail_Media_Briefing_2026-07-24.docx",
+      "articles": [
+        {
+          "id": "71mbdi",
+          "headline": "Over 16,000 Dressers Sold By Walmart Recalled. See Affected Products",
+          "source": "USA Today",
+          "author": "Fernando Cervantes Jr.",
+          "url": "https://www.usatoday.com/story/money/2026/07/23/dressers-sold-by-walmart-recalled/91029736007/",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "More than 16,000 dressers sold by Walmart across the United States are being recalled for what officials called serious entrapment, injury and death hazards. According to a recall notice posted by the Consumer Product Safety Commission (CPSC) on July 23, 16,809 EnHomee 9-Drawer Fabric Dressers violated mandatory safety standards. “The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risk of serious injuries or death to children,” the CPSC said in its notice.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 20125212,
+          "ave": 186158.21
+        },
+        {
+          "id": "tfis84",
+          "headline": "Pilot From Walmart, Hanesbrands, Teaches Cartons To Talk Via RFID, 2D",
+          "source": "Packaging World",
+          "author": "Matt Reynolds",
+          "url": "https://www.packworld.com/trends/logistics-supply-chain/article/22971183/rfid-supply-chain-pilot-walmart-hanes-achieve-100-tracking",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "A pilot between Hanesbrands and Walmart using RFID tags and updated GS1 standards tracked 30,000 cartons with 100% accuracy across the supply chain, solving claims disputes and inventory visibility problems that cost brands millions annually. The eight-week pilot tracked roughly 30,000 cartons (500,000 units) from the factory to store shelves with only one missed tag across all checkpoints.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Store Strategy",
+            "Supply Chain"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 332203,
+          "ave": 3072.88
+        },
+        {
+          "id": "9vs1mx",
+          "headline": "600 Target Stores Welcome Fancypants Cookies",
+          "source": "Commercial Baking",
+          "author": "Maddie Lambert",
+          "url": "https://commercialbaking.com/600-target-stores-welcome-fancypants-cookies/",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Target shoppers can now find Fancypants Baking Co.’s Chocolate Chip, Salted Caramel and S’mores cookie flavors in 600 locations nationwide. “Expanding into Target is an incredible milestone for Fancypants,” said Maura Duggan, founder and CEO of Fancypants. “It allows us to bring our premium, pantry-ingredient cookies to even more shoppers nationwide while building a strong, sustainable retail footprint. We’re proud to partner with a retailer that helps introduce emerging brands to new customers, and we’re excited for what’s ahead.” According to Duggan, the expansion into Target stores brings the brand’s cookies into the “everyday” shopping experience.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Target"
+          ],
+          "reach": 750804,
+          "ave": 6944.94
+        },
+        {
+          "id": "18u3jo",
+          "headline": "Wakefern Holding Job Fairs At Shoprite This Saturday",
+          "source": "NorthJersey.com",
+          "author": "Justin Mehlbrech",
+          "url": "https://www.northjersey.com/story/news/new-jersey/2026/07/23/wakefern-job-fairs-nj-shoprite-locations-grocery-stores/91008794007/",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "If you are in need of a grocery store job, hiring fairs in the region are being put on by the Wakefern Food Corporation this Saturday, July 25. Wakefern, founded in 1946, has grown into the largest retailer-owned cooperative in the United States. It is made up of members who have independently owned and operated hundreds of supermarkets under specific grocery store chains, most notably ShopRite.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [],
+          "reach": 651400,
+          "ave": 6025.45
+        },
+        {
+          "id": "r0vvng",
+          "headline": "Target Rolls Out Back-To-School Lineup",
+          "source": "Retail Customer Experience",
+          "author": "",
+          "url": "https://www.retailcustomerexperience.com/news/target-rolls-out-back-to-school-lineup/",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Target has rolled out its back-to-school and college product lineup and more than half of the assortment is brand new items. The retailer is putting thousands of exclusive items on shelves to beat competitors, such as Walmart, according to a press release. \"Back-to-school and back-to-college are big moments for families and at Target we believe shopping for them should be inspiring and joyful — an opportunity for delight as you find everything you need,\" Cara Sylvester, executive vice president and chief merchandising officer at Target, said in the release.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Walmart",
+            "Target"
+          ],
+          "reach": 265135,
+          "ave": 2452.5
+        },
+        {
+          "id": "cuign7",
+          "headline": "Most Consumers Have Used An AI Shopping Agent",
+          "source": "Chain Store Age",
+          "author": "",
+          "url": "https://chainstoreage.com/news-briefs/2026-07-23?article=most-consumers-have-used-ai-shopping-agent",
+          "section": "AI Pulse",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Artificial intelligence agents are rapidly moving into mainstream U.S. consumer shopping behavior. Nine-in-10 U.S. consumers surveyed by global AI deployment partner CI&T have either used an AI agent when shopping or are open to doing so in the future. This figure includes the three-quarters (74%) of respondents to the CI&T “Retail Tech Report: Agentic Commerce Edition” who have already used an AI agent when shopping. In addition, close to two-thirds (63%) of respondents who have yet to use an AI agent said they are open to doing so.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "AI & Personalization",
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 600481,
+          "ave": 5554.45
+        },
+        {
+          "id": "w4y9py",
+          "headline": "New Study Finds How AI Is Revolutionizing Shopping Habits. Does AI Help You Shop Smarter?",
+          "source": "Inc.com",
+          "author": "Moses Jeanfrancois",
+          "url": "https://www.inc.com/moses-jeanfrancois/new-study-finds-how-ai-is-revolutionizing-shopping-habits/91378199",
+          "section": "AI Pulse",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Artificial Intelligence is changing shopping. As the accessibility of new technology increases, consumers are turning to agents before and during purchases. According to CI&T, a global AI deployment partner for tech-integrated business solutions, an Agentic Commerce Retail Tech Report is showing that 74 percent of customers have already used an AI agent when shopping. In a survey of 1,011 respondents, 78 percent of consumers say AI makes them smarter shoppers, with 55 percent saying it makes them shop more.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI & Personalization",
+            "Pricing & Consumer"
+          ],
+          "brands": [],
+          "reach": 243759,
+          "ave": 2254.77
+        },
+        {
+          "id": "ypug8w",
+          "headline": "Report: North American Retail Satisfaction High In Q2",
+          "source": "Chain Store Age",
+          "author": "",
+          "url": "https://chainstoreage.com/news-briefs/2026-07-23?article=report-north-american-retail-satisfaction-high-q2",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "The retail sector scored high marks when it came to consumer satisfaction in the second quarter. Retail had a global satisfaction score of 92.4 between April and June 2026, according to the \"Retail CX Pulse: Q2 2026” report from HappyOrNot, derived from 18.7 million in-store retail feedback responses. North America had a satisfaction rate of 93.4%. According to the analysis, Tuesday and Wednesday are the days where consumers reported being the most satisfied with their retail experience, while Sunday was the weakest performing day of the week.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 600481,
+          "ave": 5554.45
+        },
+        {
+          "id": "ugwsyt",
+          "headline": "Despite Challenges, Independent Retailers Expand",
+          "source": "Women’s Wear Daily",
+          "author": "",
+          "url": "https://wwd.com/sourcing-journal/industry-news/despite-challenges-independent-retailers-expand-in-market-1239080383/",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "New research from Faire shows that physical stores of independent retailers are outgrowing online-only ones, while the locations of the stores are more numerous in smaller towns versus major cities. Researchers at the company also found that independent retailers are accurately keying into consumer trends and stocking their shelves with new products before they become mainstream.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 599328,
+          "ave": 5543.78
+        },
+        {
+          "id": "k5jvfd",
+          "headline": "Shoppers Keep Heading Back To The Store To Grab Their Orders",
+          "source": "EMarketer",
+          "author": "Peter Allen Clark",
+          "url": "https://www.emarketer.com/content/shoppers-keep-heading-back-store-grab-their-orders",
+          "section": "Industry News",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "Key stat: 29% of US digital buyers picked up their online order at the store in May 2026, up from 22% in 2023, making it the only delivery method to grow every single year, according to a June report from Bizrate Insights and EMARKETER.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [],
+          "reach": 150670,
+          "ave": 1393.7
         }
       ]
     }
