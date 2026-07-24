@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "beauty",
-  "_savedAt": "2026-07-23T12:06:53.895Z",
-  "_dayCount": 7,
+  "_savedAt": "2026-07-24T11:41:01.416Z",
+  "_dayCount": 8,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:16.350Z",
@@ -1571,6 +1571,187 @@
           "brands": [],
           "reach": 21110300,
           "ave": 195270.27
+        }
+      ]
+    },
+    "2026-07-24": {
+      "uploadedAt": "2026-07-24T11:40:42.633Z",
+      "filename": "InfoVision_Beauty_Media_Briefing_2026-07-24.docx",
+      "articles": [
+        {
+          "id": "1c5kb4",
+          "headline": "Glossy Pop Newsletter: Ulta Beauty To Welcome Dupe Fragrance Brand Oakcha To Hundreds Of Stores",
+          "source": "Glossy",
+          "author": "Emily Jensen",
+          "url": "https://www.glossy.co/beauty/ulta-beauty-to-welcome-dupe-fragrance-brand-oakcha-to-hundreds-of-stores/",
+          "section": "Brand News",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "Ulta Beauty has built a growing fragrance following thanks to its largely affordable mix of designer classics and indie and celebrity brands. But soon enough, a version of Maison Francis Kurkdjian Baccarat Rouge 540, the blockbuster luxury scent that retails for upwards of $300 a bottle, will hit Ulta stores. On August 2, affordable fragrance brand Oakcha will launch eight of its scents at more than 100 Ulta stores across the U.S. and nine of its scents on Ulta.com. The brand plans to grow to 700 Ulta stores in October. “We are in Ulta because we want the customer to have a firsthand experience and experience the perfume before buying it,” said Aziz Ghani, partner at Oakcha.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "Prestige vs Mass"
+          ],
+          "brands": [
+            "Ulta Beauty"
+          ],
+          "reach": 170991,
+          "ave": 1581.67
+        },
+        {
+          "id": "lm7p3q",
+          "headline": "Exclusive: Ulta Beauty Taps Ice Spice For Its First Tiktok Shop Campaign To Unveil The Rapper’s First Fragrance",
+          "source": "Glossy",
+          "author": "Lexy Lebsack",
+          "url": "https://www.glossy.co/beauty/exclusive-ulta-beauty-taps-ice-spice-for-its-first-tiktok-shop-campaign-to-unveil-the-rappers-first-fragrance/",
+          "section": "Brand News",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "In March, Ulta Beauty unveiled its plans to launch a curated selection of offerings on TikTok Shop to better serve young, digitally native consumers. Announced during its March earnings call, the move is part of a strategic strengthening of the retailer’s digital presence, Ulta Beauty CEO Kecia Steelman said during the presentation. “We are excited about the opportunities — both on social and AI-enhanced commerce platforms — to bring our undeniably Ulta Beauty experience and assortment to life,” she said. “We will initially launch with a thoughtfully curated assortment of only-at-Ulta brands, which will add another exciting tool to our brand-building playbook.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "AI Beauty Tech",
+            "Marketing & Influence",
+            "Markets & Regulation"
+          ],
+          "brands": [
+            "Ulta Beauty"
+          ],
+          "reach": 170991,
+          "ave": 1581.67
+        },
+        {
+          "id": "ael98s",
+          "headline": "Chanel Expands Les Extraits Line With Limited Distribution",
+          "source": "Women’s Wear Daily",
+          "author": "Lexy Lebsack",
+          "url": "https://wwd.com/beauty-industry-news/fragrance/chanel-1957-extrait-expansion-shanghai-event-1239079970/",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Chanel‘s 1957 fragrance, a musky composition created by its in-house perfumer-creator Olivier Polge in 2019, was meant to honor the year that its house founder Gabrielle Chanel made her triumphant return to the U.S. market. Somewhat unexpectedly, it also became a lucky charm for Chinese users, who anointed the scent as a marker of prosperity and wealth, which in turn drove sales. The addition of 1957 to Chanel’s Les Extraits line — which comes in a diamond-shaped box — can be viewed as a reaction to market interest, but more importantly, creatively speaking, it meant Polge could play up the scent’s mystique, offering a more textured and slightly darker version of the original, which made its debut under the Les Exclusifs series.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "Marketing & Influence"
+          ],
+          "brands": [
+            "Chanel"
+          ],
+          "reach": 599328,
+          "ave": 5543.78
+        },
+        {
+          "id": "fjbss1",
+          "headline": "Estee Lauder Cos. Cl A Stock Underperforms Thursday When Compared To Competitors",
+          "source": "MarketWatch",
+          "author": "Lexy Lebsack",
+          "url": "https://www.marketwatch.com/data-news/estee-lauder-cos-cl-a-stock-underperforms-thursday-when-compared-to-competitors-e59889ed-1ac1883bce3f?mod=mw_quote_news",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Shares of Estee Lauder Cos. Cl A slid 3.28% to $79.92 Thursday, on what proved to be an all-around grim trading session for the stock market, with the S&P 500 Index falling 1.21% to 7,408.30 and Dow Jones Industrial Average falling 0.97% to 51,711.65. Estee Lauder Cos. Cl A closed 34.30% short of its 52-week high of $121.64, which the company reached on February 3rd.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Markets & Regulation"
+          ],
+          "brands": [
+            "Estée Lauder"
+          ],
+          "reach": 522355,
+          "ave": 4831.78
+        },
+        {
+          "id": "6gbvso",
+          "headline": "Sephora Invests In Beauty’s Next Generation",
+          "source": "Beauty Matter",
+          "author": "Olivia Condell",
+          "url": "https://beautymatter.com/articles/sephora-invests-in-beautys-next-generation",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "As the beauty industry moves toward more accessible pathways for entry, whether through investing in entrepreneurs, incubators, or accelerator programs, Sephora is continuing its commitment to helping emerging brand founders build long-term success. This week, Sephora North America announced the 12 beauty brands selected for its 2026 Sephora Accelerate program, which aims to champion new voices in prestige beauty. The program includes mentorships, access to Sephora’s resources, and a curriculum covering every stage of building a successful brand, from launch to scaling and long-term sustainability, led by industry experts and Sephora executives",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "Prestige vs Mass"
+          ],
+          "brands": [
+            "Sephora"
+          ],
+          "reach": 873349,
+          "ave": 8078.48
+        },
+        {
+          "id": "ylklox",
+          "headline": "Semcap Beauty & Wellness Makes Minority Investment In Merit",
+          "source": "Happi",
+          "author": "Lianna Albrizio",
+          "url": "https://www.happi.com/breaking-news/semcap-beauty-wellness-makes-minority-investment-in-merit/",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Semcap Beauty & Wellness is betting on Merit Beauty. The company has made a minority investment in the US-based cosmetics brand known for its modern, minimalist approach to beauty. The investment was led by Vasiliki Petrou, managing partner at Semcap Beauty and Wellness. With more than three decades of experience in the beauty industry, Petrou founded the Unilever Prestige division in 2014 and led the acquisition and growth of a portfolio of brands including Dermalogica, Paula’s Choice, Hourglass, Tatcha and K18. Petrou will join Merit’s board and partner with the executive team on the ongoing growth and globalization of the brand.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Prestige vs Mass"
+          ],
+          "brands": [],
+          "reach": 234448,
+          "ave": 2168.64
+        },
+        {
+          "id": "bislwq",
+          "headline": "US FDA Panel Weighs Injectable Peptides As Experts Demand Gray Market Guardrails",
+          "source": "Personal Care Insights",
+          "author": "Sabine Waldeck",
+          "url": "https://www.personalcareinsights.com/news/fda-injectable-peptides-guardrails.html",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "The US FDA Pharmacy Compounding Advisory Committee (PCAC) is reviewing seven injectable peptides for compounding, against the advice of the agency’s own scientists.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Markets & Regulation"
+          ],
+          "brands": [],
+          "reach": 176438,
+          "ave": 1632.05
+        },
+        {
+          "id": "ze0vew",
+          "headline": "Beauty Leaders Remain Confident About Growth In The Second Half Of 2026",
+          "source": "Beauty Independent",
+          "author": "Jane Carlson",
+          "url": "https://www.beautyindependent.com/beauty-leaders-remain-confident-growth-second-half-2026/",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Temperatures are hot—and industry leaders believe beauty will remain hot, too. Despite economic uncertainty, rising costs and intensifying competition, founders and executives attending Cosmoprof North America at the Mandalay Bay Convention Center in Las Vegas on July 13 to 15 remain overwhelmingly optimistic about the prospects for their businesses in the second half of 2026. While they acknowledge headwinds ranging from inflation to a crowded retail landscape, many point to strong consumer demand for clinically backed products, meaningful innovation and brands solving real problems as reasons for confidence. According to management consultancy McKinsey & Co., the global beauty market is expected to grow 5% annually this year and reach $590 billion by 2030.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution"
+          ],
+          "brands": [
+            "Ulta Beauty"
+          ],
+          "reach": 151990,
+          "ave": 1405.91
         }
       ]
     }
