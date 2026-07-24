@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "pharma",
-  "_savedAt": "2026-07-23T12:07:34.045Z",
-  "_dayCount": 7,
+  "_savedAt": "2026-07-24T11:41:29.208Z",
+  "_dayCount": 8,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:09.000Z",
@@ -2828,6 +2828,364 @@
           "brands": [],
           "reach": 21414033,
           "ave": 198079.81
+        }
+      ]
+    },
+    "2026-07-24": {
+      "uploadedAt": "2026-07-24T11:41:16.518Z",
+      "filename": "InfoVision_Pharma_Media_Briefing_2026-07-24.docx",
+      "articles": [
+        {
+          "id": "bn318y",
+          "headline": "Lilly Announces More Next-Gen Obesity Drug Data, Plans Q1 2027 FDA Application",
+          "source": "Reuters",
+          "author": "Deena Beasley",
+          "url": "https://www.reuters.com/legal/litigation/lilly-announces-more-next-gen-obesity-drug-data-plans-q1-2027-fda-application-2026-07-23/",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Eli Lilly said on Thursday that two more Phase 3 trials of its experimental obesity drug retatrutide showed positive results and it plans to submit an application to the U.S. Food and Drug Administration in the first quarter of next year. Retatrutide is designed to target ​three different metabolic hormones: GLP-1, GIP and glucagon. The company's current injectable obesity drug, Zepbound, targets GLP-1 ​and GIP, while rival Novo Nordisk's Wegovy targets just GLP-1.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "ow3jns",
+          "headline": "J&J’s Bispecific Combo Slashes Myeloma Progression Risk By 89% In Phase 3 Trial",
+          "source": "Fierce Pharma",
+          "author": "Angus Liu",
+          "url": "https://www.fiercepharma.com/pharma/jj-bispecific-combo-slashes-myeloma-progression-risk-89-phase-3-trial",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Johnson & Johnson has unveiled massive phase 3 survival data for its dual bispecific combination in earlier-line multiple myeloma, delivering another catalyst that could add a new twist in the commercial trajectories of off-the-shelf T-cell engagers versus personalized CAR-T therapies. The combination of J&J’s Tecvayli and Talvey slashed the risk of disease progression or death by 89% compared to standard-of-care cocktails in second- to fifth-line multiple myeloma patients, according to results from the phase 3 MonumenTAL-6 trial. In another remarkable showing, the two T-cell engagers targeting BCMA and GPRC5D delivered a 62% reduction in the risk of death, J&J announced Thursday.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 432715,
+          "ave": 4002.61
+        },
+        {
+          "id": "zgnp0v",
+          "headline": "Johnson & Johnson (JNJ) Could Be 33% Below Fair Value Following OTTAVA FDA Clearance",
+          "source": "Simply Wall St",
+          "author": "Angus Liu",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-jnj/johnson-johnson/news/johnson-johnson-jnj-could-be-33-below-fair-value-following-o",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Johnson & Johnson (JNJ) has moved into U.S. soft tissue robotic surgery after the FDA granted De Novo authorization for its OTTAVA Robotic Surgical System, a table-integrated platform cleared for multiple general surgery procedures. Against this backdrop, Johnson & Johnson’s share price has climbed steadily, with a 30 day share price return of 8.44% and a year to date share price return of 25.04%. The 1 year total shareholder return of 56.73% points to strong momentum building around the stock. If the OTTAVA approval has you thinking more broadly about surgical technology, this is a good moment to scan other robotics and automation opportunities using the Simply Wall St screener for 33 robotics and automation stocks After such a strong run, driven in part by Johnson & Johnson’s OTTAVA approval and higher 2026 sales guidance, the real issue now is whether today’s price still offers an appealing balance between potential upside and downside risk.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 263901,
+          "ave": 2441.08
+        },
+        {
+          "id": "6csmtn",
+          "headline": "DOL Brief Sides With Bristol-Myers In PRT Appeal",
+          "source": "Planadviser",
+          "author": "Edward Rueda",
+          "url": "https://www.planadviser.com/dol-brief-sides-with-bristol-myers-in-prt-appeal/",
+          "section": "Brand News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "The U.S. Department of Labor has expanded its campaign to defend employers’ utilization of pension risk transfer transactions by filing an amicus brief in a Bristol-Myers Squibb appeal, joining a coalition of business groups, insurers and state attorneys general urging the U.S. 2nd Circuit Court of Appeals to reverse a district court decision that allowed retirees’ ERISA claims to proceed against a Bristol-Myers Squibb pension risk transfer. The filings collectively argue that the plaintiffs—company pension fund beneficiaries—lack Article III standing to bring suit because they continue to receive their full pension benefits and that allowing such lawsuits to proceed could undermine employers’ willingness to sponsor defined benefit pension plans. The appeal against Bristol-Myers Squibb stems from a September 2025 ruling by U.S. District Judge Margaret Garnett in U.S. District Court for the Southern District of New York. Garnett concluded that former Bristol-Myers Squibb employees Charles Doherty and Michael Noel had plausibly alleged that the company’s 2019 transfer of approximately $2.6 billion in pension liabilities to Athene Annuity and Life Co. exposed those employees to a “substantial risk” of future harm.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 558273,
+          "ave": 5164.03
+        },
+        {
+          "id": "r6rwmy",
+          "headline": "Biopharma Bites: CDC Vote Delayed, Clinuvel Heads To US And Insilico Touts AI Gains",
+          "source": "FirstWord Pharma",
+          "author": "",
+          "url": "https://firstwordpharma.com/story/7770894",
+          "section": "AI Pulse",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "A Senate committee on Thursday postponed a scheduled vote on President Donald Trump's nominee to lead the Centers for Disease Control and Prevention (CDC), Erica Schwartz, after attendance issues prevented the panel from moving forward. The delay pushes consideration of her nomination until next week, temporarily slowing what appears to be a likely advance to the full Senate. Insilico Medicine says it has compressed the time needed for drug development candidate to about one year by combining AI with its research operations in China, a strategy CEO Alex Zhavoronkov says gives the company a major speed advantage over traditional pharmaceutical R&D. Conventional approaches typically take around 4.5 years to reach a development candidate, but Zhavoronkov says having a research lab in China can cut two years of time. \"When you combine frontier AI that is proven to work experimentally with the power of China, you can significantly accelerate that, \" he said. \"Now our record is nine months to a developmental candidate, with a typical timeline of 13 months.\"",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 96323,
+          "ave": 890.99
+        },
+        {
+          "id": "peiz82",
+          "headline": "Midyear 2026 Check-In: AI Investment Skipped Pharma's Costliest Operational Problem",
+          "source": "PharmTech",
+          "author": "Megha Sinha, Zachary Zubulake",
+          "url": "https://www.pharmtech.com/view/midyear-2026-check-in-ai-investment-skipped-pharma-costliest-operational-problem",
+          "section": "AI Pulse",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "In part 3 of a 3-part interview, Megha Sinha, founder and CEO of Kolter AI and Kamet Consulting Group, says the industry's AI bottleneck has shifted. For 3 years, model capability was assumed to be the constraint. “The surprise of 2026 is that the technology has now arrived, and the binding constraint turns out to be the organizational readiness, the employee sentiment and the data,” Sinha says, adding that sentiment is the most telling signal of where companies stand. She points to a deeper surprise in where investment went. Capital poured into AI drug discovery and pilot programs, the frontiers that photographed well, while the harder, costlier problem, computing compliant execution of a geo expansion or lifecycle change across dozens of markets, drew almost no funding. That work remains manual, tribal, and reinvented on every program, which is the gap Kolter AI was built to close.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 652954,
+          "ave": 6039.82
+        },
+        {
+          "id": "j5752q",
+          "headline": "How Researchers Are Using AI To Speed Up Drug Discovery And Development: Q&A",
+          "source": "Phys.org",
+          "author": "Sadie Harley",
+          "url": "https://phys.org/news/2026-07-ai-drug-discovery-qa.html",
+          "section": "AI Pulse",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Drug development is among the slowest, most failure-prone processes in modern science, with about 90% of drug candidates never reaching the market. Today, artificial intelligence methods have accelerated the first step—plucking promising molecules out of endless possibilities—but countless challenges remain. A successful drug must be not only safe and effective but also able to bypass the body's defenses and reach the right target. Most drug candidates fail during optimization. That's where a new research institute at the University of Washington has focused its attention. Housed in the UW School of Pharmacy, the Institute for Innovations in Drug Delivery and Disposition (I2D3) brings together experts in artificial intelligence, drug discovery, pharmacology, data science and biotechnology to ease the bottleneck between promising molecules and successful drugs.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 118776,
+          "ave": 1098.68
+        },
+        {
+          "id": "txtgqx",
+          "headline": "AI In Drug Discovery: From Target Identification To Clinical Translation",
+          "source": "Drug Discovery News",
+          "author": "Trevor J Henderson",
+          "url": "https://www.drugdiscoverynews.com/ai-in-drug-discovery-from-target-identification-to-clinical-translation-17335",
+          "section": "AI Pulse",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "AI in drug discovery has moved from a speculative tool to a working part of the pipeline at nearly every major pharmaceutical company. Machine learning now contributes to how targets are identified, how molecules are designed, how their properties are predicted, and how clinical trials are planned, and by early 2024 each of the top 20 pharmaceutical companies had announced activity in the space. But the honest picture is more nuanced than either the enthusiasts or the sceptics suggest: AI has measurably accelerated parts of discovery and improved some early success rates, while the hardest problem, reliably translating a preclinical prediction into a drug that works in patients, remains largely unsolved. This guide maps that full arc for working scientists, from early target biology through to the clinic. It complements DDN's ongoing coverage of how AI is transforming drug discovery, and stays deliberately science-first: focused on the biology and chemistry rather than the software, and on what the evidence supports rather than what the press releases claim.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 507843,
+          "ave": 4697.55
+        },
+        {
+          "id": "te2ncr",
+          "headline": "Roche Says It Is Thoughtful On Token Use For AI, Shelves A Drug From Carmot Buy",
+          "source": "Endpoints News",
+          "author": "Elizabeth Cairns",
+          "url": "https://endpoints.news/roche-says-it-is-thoughtful-on-token-use-for-ai-shelves-a-drug-from-carmot-buy/",
+          "section": "AI Pulse",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Roche has offered some insight into how it is using AI, from drug discovery to token use. AI has already contributed to “a significant increase in new molecules” in its pipeline, CEO Thomas Schinecker said Thursday. The company is “using AI to speed up drug development, increase [probability of success], and increase the volume of drug development,” he said during a media call covering its earnings in the first half of 2026. In terms of output, Schinecker said that the growing number of molecules in the early-stage pipeline is “already strongly driven by AI.” Roche has 43 Phase 1-stage assets.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 795883,
+          "ave": 7361.92
+        },
+        {
+          "id": "lkxfiw",
+          "headline": "AstraZeneca 'Magic' Faces Rare Test After Trial Failure, Share Slide",
+          "source": "Reuters",
+          "author": "Maggie Fick",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-magic-faces-rare-test-after-trial-failure-share-slide-2026-07-24/",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "AstraZeneca's long-time CEO Pascal Soriot has rarely put ​a foot wrong. The company's shares have more that quadrupled in price during his 14-year tenure, soaring above the wider FTSE 100 index ‌and main British rival GSK. AstraZeneca's huge diversity and number of drugs on the market and success in clinical trials in different therapeutic areas set it apart from peers, giving Soriot the golden touch in the eyes of investors. Now, though, investors have some cause for concern after news this month of the unexpected failure of nerve drug Wainua in a late-stage heart disease trial, which hammered ​the shares and turned attention on the firm's drug R&D pipeline. AstraZeneca's shares are down 10% this year and trail GSK and the wider London stock ​index over two years, with attention now on two other late-stage trials that could shape confidence in AstraZeneca's research engine ⁠and long-term growth outlook.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Clinical Trials",
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "AstraZeneca",
+            "GSK"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "yz5jli",
+          "headline": "Roche’s Late Stage Pipeline ‘So Full,’ CEO Schinecker Not Feeling Pressure To Add On",
+          "source": "BioSpace",
+          "author": "Tristan Manalac",
+          "url": "https://www.biospace.com/business/roches-late-stage-pipeline-so-full-ceo-schinecker-not-feeling-pressure-to-add-on",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Roche has 19 investigational medicines that could launch by 2030—and even if not all of them make it to market, the company is “well set-up for growth into the next decade,” CEO Thomas Schinecker said on the pharma’s Q2 earnings call. Unlike its Big Pharma peers, Roche doesn’t have its “back against the wall” to make a major acquisition any time soon, according to CEO Thomas Schinecker. “I think we’re well set up for growth into the next decade,” Schinecker told reporters during a press event Thursday to present the company’s second quarter earnings. “In fact, our late-stage pipeline is so full that adding something late stage—we would then have to see how to reallocate more money” into these programs.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 932094,
+          "ave": 8621.87
+        },
+        {
+          "id": "dn0w82",
+          "headline": "Arkansas Sues Pfizer, J&J, Others Over Drug Discount Access",
+          "source": "Bloomberg Law",
+          "author": "Nyah Phengsitthy",
+          "url": "https://news.bloomberglaw.com/health-law-and-business/arkansas-sues-pfizer-j-j-others-over-drug-discount-access",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Arkansas Attorney General Tim Griffin is challenging 13 drugmakers and their data management firm, alleging they imposed a new series of unlawful restrictions against certain healthcare providers seeking drug discounts. The lawsuit targets some of the world’s largest pharmaceutical companies, including Pfizer Inc., Bristol Myers Squibb Co., Eli Lilly & Co., Novo Nordisk A/S, and Johnson & Johnson, alleging the manufacturers violated the state’s deceptive trade practices rules and a law that prohibits them from restricting discounts to healthcare entities under the federal 340B Drug Pricing Program.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Eli Lilly",
+            "Pfizer"
+          ],
+          "reach": 391267,
+          "ave": 3619.22
+        },
+        {
+          "id": "61vryj",
+          "headline": "FDA Is Urged By Advocacy Group To Ban DTC Prescription Drug Ads",
+          "source": "STAT News",
+          "author": "Ed Silverman",
+          "url": "https://www.statnews.com/pharmalot/2026/07/23/fda-urged-by-advocacy-group-to-ban-dtc-prescription-drug-ads/",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "A leading advocacy group petitioned the U.S. Food and Drug Administration to ban direct-to-consumer advertising of prescription medicines, a move that comes as the Trump administration leans on drugmakers to provide more balanced information in their ads. In arguing its case, Public Citizen maintained that director-to-consumer, or DTC, ads often “mislead consumers because they are designed to persuade rather than to inform or educate patients.” The ads sometimes “employ emotional manipulation techniques or visual distractions to highlight information about benefits” while minimizing risks.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 478047,
+          "ave": 4421.93
+        },
+        {
+          "id": "nikbk",
+          "headline": "U.S. To See Higher Generic Drug Prices Thanks To Tariffs, CEO Of Leading India Pharma Firm Warns",
+          "source": "CNBC",
+          "author": "Priyanka Salve",
+          "url": "https://www.cnbc.com/2026/07/24/us-to-see-higher-generic-drug-prices-on-tariffs-indian-pharma-ceo.html",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "U.S. President Donald Trump’s proposed tariffs on generic drugs will increase the price of these medicines for patients in the country, Erez Israeli, the chief executive of Indian drugmaker Dr. Reddy’s Laboratories, told CNBC’s ‘Inside India’ on Thursday. Generic drugs are a low-margin business and “this kind of level of tariff cannot be absorbed” by the company, Israeli said, adding it will lead to prices increasing “in the magnitude of the tariff.” Israeli also said that two years may not be enough time for companies to move operations to the U.S., as the process could take four to seven years.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 313068,
+          "ave": 2895.88
+        },
+        {
+          "id": "xggbcg",
+          "headline": "Trump’s Latest Tariff Threat Could Lead To Generic Drug Shortages",
+          "source": "Bloomberg",
+          "author": "Anna Edney",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-23/trump-s-latest-tariff-threat-could-lead-to-generic-drug-shortages-in-us",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "The Trump administration’s latest tariff threat could have deadly consequences. The cyclospora outbreak is getting worse and flawed communication is exacerbating the confusion. But Taco Bell is offering $1 deals to woo back consumers. Meanwhile, biotech is beating AI, Novo is suing Lilly and the infamous Martin Shkreli is back. President Donald Trump has used tariffs to notch some significant wins, forcing the world’s largest pharmaceutical companies to the bargaining table over drug prices and the locations of their manufacturing plants.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "oj3o9",
+          "headline": "FDA To End Pilot Aimed At Preventing Production Issues",
+          "source": "Endpoints News",
+          "author": "Anna Brown",
+          "url": "https://endpoints.news/fda-to-end-pilot-aimed-at-preventing-production-issues/",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "The FDA said it will end a pilot that was intended to help drugmakers proactively address production issues. Few companies took advantage of the program during its three-year run. In April 2027, the FDA will stop taking requests to the CMC Development and Readiness Pilot. It will not be replaced by another pilot, program or guidance. Drugmakers often run into issues with chemistry, manufacturing and controls, which can lead to complete response letters. The pilot, first announced in 2022, was created to improve communication between drugmakers and the FDA. Enrollment started in October 2023.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 795883,
+          "ave": 7361.92
+        },
+        {
+          "id": "6yaup",
+          "headline": "Merck CEO Cautions Congress On Imposing Limits On Chinese Dealmaking",
+          "source": "Endpoints News",
+          "author": "Zachary Brennan",
+          "url": "https://endpoints.news/merck-ceo-cautions-congress-on-imposing-limits-on-chinese-dealmaking/",
+          "section": "Industry News",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Merck CEO Rob Davis said he has warned Congress and the Trump administration that if they cut off or hamper US-China dealmaking, the US could lose its status as the world’s biotech leader. China-licensed molecules and partnerships with startups there have been booming in recent years. So far this year, Sanofi has reached two deals with Chinese drugmakers, and GSK and AstraZeneca have signed three each. Recent data from Stifel found that roughly half of all large pharma licensing deals in 2026 were with China, and that pharma giants have paid $4.5 billion in upfront money to Chinese companies in the first half of the year.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Sanofi",
+            "AstraZeneca",
+            "GSK"
+          ],
+          "reach": 795883,
+          "ave": 7361.92
         }
       ]
     }
