@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "qsr",
-  "_savedAt": "2026-07-24T11:41:58.027Z",
-  "_dayCount": 8,
+  "_savedAt": "2026-07-28T11:27:01.398Z",
+  "_dayCount": 9,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:45.173Z",
@@ -2703,6 +2703,347 @@
           ],
           "reach": 618551,
           "ave": 5721.6
+        }
+      ]
+    },
+    "2026-07-27": {
+      "uploadedAt": "2026-07-28T11:26:54.645Z",
+      "filename": "InfoVision_QSR_Media_Briefing_2026-07-27.docx",
+      "articles": [
+        {
+          "id": "gqys48",
+          "headline": "For Sale: The Tough-Talkin’, Finger-Lickin’ Legacy Of Colonel Sanders",
+          "source": "The New York Times",
+          "author": "Kim Severson",
+          "url": "https://www.nytimes.com/2026/07/24/dining/kentucky-fried-chicken-colonel-sander-auction.html",
+          "section": "Brand News",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "Nearly a half-century after his death, Harland Sanders has one of the most recognizable faces in the world. They dress statues of him in Santa Claus costumes in Japan, where his fried chicken is the must-have Christmas dinner. Fans in China, home to the most KFC restaurants, regard him as a respected elder. He’s a symbol of quality and cleanliness in Nigeria and Kenya. But at Blackwood Hall, the 19th-century plantation-style house in Shelbyville, Ky., where he once taught franchise owners how to pressure-cook chicken while his wife bagged his secret mix of 11 herbs and spices, people still remember the real Colonel Sanders: a generous, cantankerous perfectionist, with a talent for swearing, who regretted selling his company for $2 million in 1964.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 7160644,
+          "ave": 66235.96
+        },
+        {
+          "id": "a5hh6g",
+          "headline": "More Michigan Lawsuits Accuse Taylor Farms, Taco Bell Of Negligence In Cyclospora Outbreak",
+          "source": "News Channel 3",
+          "author": "Ivy S. Fowler",
+          "url": "https://wwmt.com/news/state/taylor-farms-taco-bell-cyclospora-outbreak-lawsuit-michigan-cyclosporiasis-central-mexico-iceberg-lettuce-recall-shredded-cdc-fda-traceback-investigation-negligence-accusation",
+          "section": "Brand News",
+          "date": "July 26, 2026",
+          "iso": "2026-07-25",
+          "summary": "Two more lawsuits against Taco Bell and Taylor Farms, the two companies linked to a cyclosporiasis outbreak in nine states, were filed last week. Nine total Michigan residents filed two separate lawsuits on Wednesday and Thursday against Taco Bell and Taylor Fresh Foods, owner of Taylor Fresh Farms, seeking financial compensation for damages caused by getting cyclosporiasis after eating Taco Bell, according to court documents. These suits come after a married couple from Durand, Mich., sued the two companies for $75, 000 on July 17 after they both ate at Taco Bell and later got cyclosporiasis, a parasitic infection caused by the parasite Cyclospora and results in watery, \"explosive\" diarrhea, fatigue, and loss of appetite.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 303831,
+          "ave": 2810.44
+        },
+        {
+          "id": "omugg5",
+          "headline": "Chipotle Opens First Restaurant In Mexico As Part Of Chain’s Global Expansion",
+          "source": "The New York Post",
+          "author": "Sophia Compton",
+          "url": "https://nypost.com/2026/07/26/business/chipotle-opens-first-restaurant-in-mexico-as-part-of-chains-global-expansion/",
+          "section": "Brand News",
+          "date": "July 26, 2026",
+          "iso": "2026-07-25",
+          "summary": "Chipotle Mexican Grill opened its first restaurant in Mexico this month as part of the fast-casual chain’s international growth strategy. The new location opened on July 16 in San Pedro Garza García, Nuevo León, part of the Monterrey metropolitan area, and is being operated in partnership with restaurant operator Alsea, according to a news release from Chipotle. “We are entering Mexico with deep respect for the country’s culinary heritage and a commitment to delivering the Chipotle experience with excellence,” Scott Boatwright, CEO of Chipotle, said in a statement.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chipotle"
+          ],
+          "reach": 303010,
+          "ave": 2802.84
+        },
+        {
+          "id": "ct20cq",
+          "headline": "Burger King Announces New Service Changes After Customer Complaints",
+          "source": "NBC Chicago",
+          "author": "Maria Chamberlain",
+          "url": "https://www.nbcchicago.com/news/national-international/burger-king-new-service-changes-after-customer-complaints/3965784/",
+          "section": "Brand News",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "Burger King is rolling out two new initiatives aimed at improving the customer experience after gathering feedback from thousands of guests across the U.S. The fast food chain announced the launch of its new \"Your Way Champion\" role and a Whopper Guarantee, saying the changes were inspired by comments received through its customer Listening Initiative. Earlier this year, Burger King invited customers to share feedback directly with U.S. and Canada President Tom Curtis by phone and text. According to the company, many guests said they wanted someone in restaurants who could quickly resolve issues when they arise. In response, Burger King created the Your Way Champion, a restaurant leadership role focused on customer service.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 339111,
+          "ave": 3136.78
+        },
+        {
+          "id": "958d7b",
+          "headline": "Burger King Offering Free Whoppers To Unsatisfied Customers",
+          "source": "WKRN",
+          "author": "Zach Kaplan",
+          "url": "https://www.wkrn.com/news/national/burger-king-offering-free-whoppers-to-unsatisfied-customers/amp/",
+          "section": "Brand News",
+          "date": "July 26, 2026",
+          "iso": "2026-07-25",
+          "summary": "If Burger King messes up your Whopper, the next one is on the house, according to the fast food chain’s new “Whopper Guarantee.” The company announced in a release this week that if the iconic burger “doesn’t meet a Guest’s expectations, the brand will not only continue to remake it on the spot, but they’ll offer the Guest’s next Whopper for free.”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 906512,
+          "ave": 8385.24
+        },
+        {
+          "id": "qqlii9",
+          "headline": "Taco Bell’s $1 Enchirito Entices Customers After Parasite Scare",
+          "source": "Bloomberg",
+          "author": "Daniela Sirtori",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-24/taco-bell-s-1-enchirito-cushions-slump-from-taylor-farms-lettuce-outbreak",
+          "section": "Brand News",
+          "date": "July 25, 2026",
+          "iso": "2026-07-24",
+          "summary": "Taco Bell’s lettuce-free burrito drenched in enchilada sauce helped the chain mitigate the impact of a parasite outbreak that has put off diners. On July 22, when the company started selling $1 Enchiritos for “the ones who’ve been riding with us,” transactions were down 1% compared with the prior week. That was an improvement from the double-digit declines registered each day between July 14 and July 21, according to data compiled by Bloomberg Second Measure.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "1bunir",
+          "headline": "How Wendy's Is Evolving Its Loyalty Program",
+          "source": "Restaurant Business",
+          "author": "Jonathan Maze",
+          "url": "https://www.restaurantbusinessonline.com/marketing/how-wendys-evolving-its-loyalty-program",
+          "section": "Brand News",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "People who love Frosties also apparently love tote bags and charm bracelets. Wendy’s in May and June released the first merchandise drops in its history, allowing members of its loyalty program to scoop up free tote bags, charm bracelets, soccer jerseys, and even a digital camera. They all went quickly. The 5,000 totes, 5,000 charm bracelets and 1,000 soccer jerseys were all gone within 90 seconds. The 20 Canon G2X cameras took just two seconds to be claimed.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Wendy's"
+          ],
+          "reach": 300003,
+          "ave": 2775.03
+        },
+        {
+          "id": "1bdblv",
+          "headline": "This AI Restaurant Trend Has Us Losing Our Appetites (Seriously, Stop)",
+          "source": "The TakeOut",
+          "author": "Jonathan Maze",
+          "url": "https://www.thetakeout.com/2219185/ai-restaurant-trend-menu-design-bad/",
+          "section": "AI Pulse",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "When techno-evangelists talk about artificial intelligence, they talk about it like a natural resource. According to them, not using AI would be like living near a mighty river without fishing in it, or using it to irrigate your crops. (That's why Mississippi grows so much rice.) But that's not what AI is. AI is a product, or a series of products, designed by some of the wealthiest and most powerful corporations in history, and sold to us with the aggression of a drug dealer in a D.A.R.E. public service announcement. We're told that it can do anything, that it can make every task easier, that it's already here, and there's no point in resisting it. And maybe, to some extent, that's true. But when we see ugly, tasteless AI art used to advertise restaurants, we can't help but push back.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Value & Pricing",
+            "Digital & Ordering",
+            "AI & Automation"
+          ],
+          "brands": [],
+          "reach": 654472,
+          "ave": 6053.87
+        },
+        {
+          "id": "mnwax0",
+          "headline": "Converge AI Brings Its AI-Native Workspace To Multi-Unit Restaurants",
+          "source": "Food & Beverage Magazine",
+          "author": "",
+          "url": "https://www.fb101.com/converge-ai-ai-native-workspace-restaurant-industry-302833289",
+          "section": "AI Pulse",
+          "date": "July 25, 2026",
+          "iso": "2026-07-24",
+          "summary": "Ask any multi-unit operator where the real bottleneck lives, and the answer usually isn't a lack of software. It's the opposite. Corporate teams are drowning in tools that don't talk to each other—campaign calendars in one system, guest feedback in another, franchisee comms in a third—while lean staffs try to keep dozens or even hundreds of locations moving in sync. That gap is exactly where Converge AI is now planting its flag. On July 23, 2026, the Rancho Palos Verdes, Calif.–based company outlined how its AI-native workspace can support restaurant marketing, operations, and guest engagement—advancing follow-up conversations with industry leaders and multi-unit operators coming out of CREATE 2026, the Nation's Restaurant News foodservice conference held at Terranea Resort.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI & Automation",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 320263,
+          "ave": 2962.43
+        },
+        {
+          "id": "pc2dgs",
+          "headline": "What AI? Chili's Spends Big On WiFi And Tablets Instead Of Tokens",
+          "source": "Business Insider",
+          "author": "Alex Bitter",
+          "url": "https://www.businessinsider.com/chilis-focuses-tech-upgrades-over-ai-improve-service-2026-7",
+          "section": "AI Pulse",
+          "date": "July 25, 2026",
+          "iso": "2026-07-24",
+          "summary": "Chris Caldwell is more focused on tablets these days than AI tokens. The chief information officer of Chili's parent company, Brinker International, has spent his 2½ years in the role figuring out how to overhaul WiFi systems at restaurants and replace thousands of handheld devices that waitstaff use to take customers' orders, he told Business Insider. Many restaurants are adding AI to their operations. At Starbucks and Burger King, for instance, AI agents are listening to drive-thru orders and fetching recipes for baristas.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "AI & Automation"
+          ],
+          "brands": [
+            "Starbucks",
+            "Burger King"
+          ],
+          "reach": 12885674,
+          "ave": 119192.48
+        },
+        {
+          "id": "744ar",
+          "headline": "How A.I. Can Strengthen Restaurants While Keeping Hospitality Human",
+          "source": "Observer",
+          "author": "Johann Moonesinghe",
+          "url": "https://observer.com/2026/07/future-ai-inkind-restaurants-hospitality/",
+          "section": "AI Pulse",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "Every major technological revolution begins with tools. Its lasting impact comes when those tools become infrastructure. Amazon did not simply make shopping more convenient. It reshaped the infrastructure of commerce. Google did not merely improve search. It became infrastructure for organizing information. Artificial intelligence is beginning a similar transition. The most important question is no longer what A.I. can generate, but what A.I. can make possible for industries that have never had access to real intelligence at scale. Restaurants are among America’s largest employers and most important small businesses. They are also unusually complex operations, balancing thin margins, rising labor costs, volatile demand and highly perishable inventory.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Sustainability & Labor"
+          ],
+          "brands": [],
+          "reach": 191318,
+          "ave": 1769.69
+        },
+        {
+          "id": "sl9quj",
+          "headline": "Domino’s Found A Growth Engine Beyond Just Pizza—And It Just Helped It Beat Expectations",
+          "source": "Inc.com",
+          "author": "Amaya Nichole",
+          "url": "https://www.inc.com/amaya-nichole/dominos-found-a-growth-engine-beyond-just-pizza-and-it-just-helped-it-beat-expectations/91377527",
+          "section": "Industry News",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "Earlier this week, Domino’s Pizza reported quarterly revenue that beat Wall Street’s expectations. Domino’s supply-chain business—the division responsible for producing and distributing ingredients, dough, and equipment to its franchise stores—was the primary driver behind the company’s latest results. That segment grew in part due to higher order volumes from stores. As a result, the Ann Arbor, Michigan-based company reported second-quarter revenue of $1.19 billion, an increase of 4.3 percent and slightly ahead of the $1.18 billion analysts had projected, with supply-chain revenue alone climbing 6.5 percent to $731.7 million.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 243759,
+          "ave": 2254.77
+        },
+        {
+          "id": "93a8bj",
+          "headline": "How 4 QSR Chains Sped Up Franchised Growth In H1",
+          "source": "Restaurant Dive",
+          "author": "Aneurin Canham-Clyne",
+          "url": "https://www.restaurantdive.com/news/fast-food-franchisors-finished-h1-strong-momentum/825943/",
+          "section": "Industry News",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "While several major brands have closed large numbers of stores in 2026, some small and medium-sized restaurant chains spent H1 speeding up their franchised growth by signing new deals, adding new partners and targeting new markets or real estate types. Many of these deals were in subsectors where major restaurant chains have also seen growth — chicken, sandwiches and snacks/desserts. Take a look at Restaurant Dive’s analysis of how a handful of smaller players, international brands and challenger chains have worked to accelerate development.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 896791,
+          "ave": 8295.32
+        },
+        {
+          "id": "n5hn5s",
+          "headline": "Jersey Mike’s Beats Chick-fil-A As America’s Most Satisfying Fast Food Chain",
+          "source": "Travelers Today",
+          "author": "James Howard",
+          "url": "https://www.travelerstoday.com/articles/60613/20260725/jersey-mikes-beats-chick-fil-americas-most-satisfying-fast-food-chain.htm",
+          "section": "Industry News",
+          "date": "July 25, 2026",
+          "iso": "2026-07-24",
+          "summary": "If you are eating fast food on a U.S. road trip this summer, a new independent study says there is one chain worth adding to your route — and it is not the one you have been defaulting to for a decade. Jersey Mike's Subs dethroned Chick-fil-A this year as the top-rated quick-service restaurant in America, earning a score of 84 out of 100 in the 2026 ACSI Restaurant and Food Delivery Study — the first time any brand has led the American Customer Satisfaction Index's fast-food category since Chick-fil-A took the crown more than 11 years ago. And the chain's momentum goes further than a single survey: Jersey Mike's this week launched a Wall Street roadshow for a planned NYSE listing under the ticker JMKE, with a previously reported target valuation of more than $12 billion and an expected listing date of approximately July 30. For road-trip travelers, both developments carry a practical message: there are now more than 3,300 Jersey Mike's locations across the U.S., expansion is accelerating, and what was once a regional East Coast favorite is fast becoming a national road-trip staple.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chick-fil-A"
+          ],
+          "reach": 528787,
+          "ave": 4891.28
+        },
+        {
+          "id": "avdvzj",
+          "headline": "Missouri Survey: More Than Half Of Restaurants Saw Fewer Customers During World Cup",
+          "source": "KMBC 9 News",
+          "author": "Beth Carlson",
+          "url": "https://www.kmbc.com/article/missouri-survey-more-than-half-of-restaurants-saw-fewer-customers-during-world-cup/73264154",
+          "section": "Industry News",
+          "date": "July 26, 2026",
+          "iso": "2026-07-25",
+          "summary": "In a survey from the Missouri Restaurant Association, over half of businesses reported lower customer turnout than expected during the World Cup. Nearly six out of ten said the World Cup had an overall negative impact on business and revenue. One of the restaurants that felt the pain is Blvd Tavern in the Crossroads. Owner Derich Carlson said summer is always a slower season but had less business than in years prior during the World Cup season. \"We were kind of led to believe that it was going to be like the entire six weeks. And it was more so like the day before and like the day after, and not on match day,\" Carlson said.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 293001,
+          "ave": 2710.26
+        },
+        {
+          "id": "p4812p",
+          "headline": "Restaurant Pros Debate: Are Diners ‘Guests’ Or ‘Customers’?",
+          "source": "Food & Wine",
+          "author": "Patricia Kelly Yeo",
+          "url": "https://www.foodandwine.com/restaurant-guests-vs-customer-debate-12025099",
+          "section": "Industry News",
+          "date": "July 25, 2026",
+          "iso": "2026-07-24",
+          "summary": "Simon Kim, the restaurateur behind Michelin-starred Cote (New York City, Miami, Las Vegas, Singapore) and the upscale fried chicken restaurant Coqodaq in New York City, believes diners should be called “customers.” Kim’s Gracious Hospitality Management, which also operates three-in-one cocktail den Bar Chimera and soon-to-debut omakase concept Sushi Yoshitake, uses “customers” exclusively while training its staff. According to Kim, who was born and raised in Seoul, the approach to hospitality there is different.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [],
+          "reach": 296421,
+          "ave": 2741.89
         }
       ]
     }
