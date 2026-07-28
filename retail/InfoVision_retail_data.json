@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "retail",
-  "_savedAt": "2026-07-28T11:27:22.581Z",
-  "_dayCount": 9,
+  "_savedAt": "2026-07-28T11:36:17.465Z",
+  "_dayCount": 10,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:03.474Z",
@@ -2392,6 +2392,262 @@
           "brands": [],
           "reach": 908585,
           "ave": 8404.41
+        }
+      ]
+    },
+    "2026-07-28": {
+      "uploadedAt": "2026-07-28T11:36:08.205Z",
+      "filename": "InfoVision_Retail_Media_Briefing_2026-07-28.docx",
+      "articles": [
+        {
+          "id": "4lrtrh",
+          "headline": "Wakefern Taps iA To Implement Central Fill Pharmacy System",
+          "source": "Mass Market Retailers",
+          "author": "",
+          "url": "https://massmarketretailers.com/wakefern-taps-ia-to-implement-central-fill-pharmacy-system/",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Wakefern Food Corp., the retailer-owned supermarket cooperative, has partnered with iA, a leading provider of pharmacy fulfillment solutions, to launch a centralized pharmacy fulfillment system. The new facility will streamline prescription dispensing and backend pharmacy operations, enabling ShopRite Pharmacies to enhance efficiency while delivering more personalized care to patients. The 12,000-square-foot centralized fulfillment center, which is expected to open early next year, will serve pharmacies at 149 ShopRite stores and two The Fresh Grocer locations in the Northeast. The fill center will operate at a Wakefern facility and help free up store pharmacists to spend more time consulting with patients, answering questions, and connecting them with nutrition resources to support their wellness goals. The technology will also work in tandem with ShopRite’s digital tools, including the ShopRite Rx app, which helps customers manage prescriptions, request refills and stay connected to their local pharmacy.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "AI & Personalization"
+          ],
+          "brands": [],
+          "reach": 502389,
+          "ave": 4647.1
+        },
+        {
+          "id": "7047m9",
+          "headline": "Schwab And Walmart Get It Right On Not Covering Gender Transitions For Minors",
+          "source": "The Washington Times",
+          "author": "Douglas H. Napier",
+          "url": "https://www.washingtontimes.com/news/2026/jul/27/schwab-walmart-get-right-not-covering-gender-transitions-minors/",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Consider the millions of working parents who show up every day at their jobs, work hard to support their families and pay into their company’s healthcare plans. They trust that their premiums will fund genuine medical care, not repeat one of medicine’s darkest mistakes. In our not-so-distant past, frontal lobotomies were performed to “treat” psychiatric conditions — despite limited evidence of effectiveness. The operations had devastating long-term effects and no proven medical benefit. It was not long before the world realized what a serious mistake was being committed and put a stop to this abusive “treatment.”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 816507,
+          "ave": 7552.69
+        },
+        {
+          "id": "lfy02w",
+          "headline": "Can Walmart Sustain Gains Among Higher-Income Customers?",
+          "source": "Zacks",
+          "author": "",
+          "url": "https://www.zacks.com/stock/news/2961232/can-walmart-sustain-gains-among-higher-income-customers",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Walmart Inc. is broadening its appeal beyond value-focused consumers as higher-income households respond to its mix of low prices, convenience and wider product selection. The sustainability of these gains will depend on whether those shoppers continue using Walmart across more categories and shopping occasions. The first quarter of fiscal 2027 showed further progress. Walmart U.S. recorded broad-based share gains across categories and income tiers, led by upper-income households. Comparable sales rose 4.1%, driven by a 3% increase in transactions and a 1.1% rise in the average ticket.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 645188,
+          "ave": 5967.99
+        },
+        {
+          "id": "1lf3or",
+          "headline": "Wakefern Debuts New Look For Wholesome Pantry line",
+          "source": "NJ Biz",
+          "author": "Kimberly Redmond",
+          "url": "https://njbiz.com/wakefern-wholesome-pantry-new-look/",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Wakefern Food Corp. is rolling out a new look for its affordable, private label line of organic and clean-ingredient foods across its 380-plus supermarkets in the Northeast. As part of the refresh, the Keasbey-based cooperative will update packaging on its Wholesome Pantry brand. The changes will introduce a modernized logo and distinct color cues for organic and free-form products. The items will also feature a “cleaner design” to help customers shop the brand, Wakefern said. According to Wakefern, it will introduce the changes now across certain products, such as froze shrimp, onions, fresh packaged herbs and salsa. By the end of 2026, the entire Wholesome Pantry portfolio will feature the updated packaging, the co-op said.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 872849,
+          "ave": 8073.85
+        },
+        {
+          "id": "cf3waw",
+          "headline": "Target Is Quietly Building A Stronger Digital Ecosystem Than Expected",
+          "source": "Zacks",
+          "author": "",
+          "url": "https://www.zacks.com/stock/news/2961214/target-is-quietly-building-a-stronger-digital-ecosystem-than-expected",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Target Corporation’s digital business is becoming much more than an online sales channel. Instead, the company is steadily building a broader digital ecosystem in which shopping, memberships, advertising and marketplace offerings reinforce one another. Digital comparable sales rose 8.9% in the first quarter of fiscal 2026, comfortably outpacing store comparable growth of 4.7%. The strongest contributor was same-day delivery, which rose more than 27%, supported by growing adoption of Target Circle 360. At the same time, non-merchandise revenues climbed nearly 25%, driven by Roundel advertising, Target Circle 360 membership revenues and the expanding Target+ marketplace.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Target"
+          ],
+          "reach": 645188,
+          "ave": 5967.99
+        },
+        {
+          "id": "v88k8g",
+          "headline": "Ahold Delhaize Marks 10th Anniversary Of Merger",
+          "source": "Progressive Grocer",
+          "author": "Bridget Goldschmidt",
+          "url": "https://progressivegrocer.com/ahold-delhaize-marks-10th-anniversary-merger",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Ahold Delhaize celebrated the 10th anniversary of its historic merger by sounding the opening gong at Euronext Amsterdam. Over the past decade, the company has grown from serving around 50 million customers each week to 77 million currently. In June 2015, Ahold and Delhaize Group revealed their intention to merge. A little more than a year later, Ahold Delhaize came into being, uniting two companies with deep roots in local communities and a shared goal of building a stronger, more innovative food retail group.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [],
+          "reach": 801215,
+          "ave": 7411.24
+        },
+        {
+          "id": "nlq626",
+          "headline": "Walmart Investment Strengthens Houston’s Regional Workforce Collaboration",
+          "source": "Houston",
+          "author": "Brina Morales",
+          "url": "https://www.houston.org/news/walmart-investment-strengthens-houstons-regional-workforce-collaboration/",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Walmart awarded a $250,000 grant to the Greater Houston Partnership to support regional efforts that help Houstonians build skills and move into higher-quality careers. Houston was selected because of the strong workforce leadership and cross-sector collaboration already underway across the region. The Houston Economic Mobility Coalition is one example of that work. Launched earlier this year, the coalition brings together leaders from business, philanthropy and community organizations to identify a more coordinated workforce strategy for the Houston region.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 722994,
+          "ave": 6687.69
+        },
+        {
+          "id": "5m1028",
+          "headline": "Consumers Are Warming Up To AI Imagery, But Only If Retailers Play By The Rules",
+          "source": "Retail Brew",
+          "author": "Jeena Sharma",
+          "url": "https://www.retailbrew.com/stories/consumers-are-warming-up-to-ai-imagery-but-only-if-retailers-play-by-the-rules",
+          "section": "AI Pulse",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Consumers may be more cautious of AI-generated wellness influencers on Instagram touting misleading health advice, but that doesn’t mean they’re universally against the presence of AI in brand marketing. A recent survey from Caimera, an AI platform for fashion visuals, revealed that 70% of consumers are actually “neutral or conditionally open” to the use of AI imagery, while 10% deemed it harmful. But before you assume these figures represent a carte blanche, there are caveats. While shoppers are OK with AI being used for settings like enhancing backgrounds, lighting, or staging in photos, using it to modify “substance”—meaning fit, color, or efficacy—breaks trust.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "AI & Personalization",
+            "Pricing & Consumer"
+          ],
+          "brands": [],
+          "reach": 565535,
+          "ave": 5231.2
+        },
+        {
+          "id": "g1k5up",
+          "headline": "CRN Urges Tougher Enforcement On AI Supplement Ads",
+          "source": "Mass Market Retailers",
+          "author": "",
+          "url": "https://massmarketretailers.com/crn-urges-tougher-enforcement-on-ai-supplement-ads/",
+          "section": "AI Pulse",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "The Council for Responsible Nutrition is calling for stronger enforcement and greater transparency across digital marketplaces following an investigation into the use of AI-generated “doctors” to promote dietary supplements. The New York Times investigation, “The Fake Influencers Selling Wellness on Your Feed,” detailed how marketers use artificial intelligence to create fictitious health experts who endorse supplements and make misleading claims. CRN said the practices highlighted by the investigation should be treated as violations of existing law rather than as representative of the dietary supplement industry.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "AI & Personalization"
+          ],
+          "brands": [],
+          "reach": 502389,
+          "ave": 4647.1
+        },
+        {
+          "id": "btiyqg",
+          "headline": "How Can Retailers Serve Both Customers And Regulators While Enabling AI? Operational Sustainability.",
+          "source": "Sustainable Brands",
+          "author": "Christoph Schroeder",
+          "url": "https://sustainablebrands.com/read/how-can-retailers-serve-both-customers-and-regulators-while-enabling-ai-operational-sustainability",
+          "section": "AI Pulse",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Time was, serving customers and satisfying environmental regulators were unrelated activities – and, sometimes, oppositional forces – in retail. Not anymore. Today, we are witnessing a convergence. Retailers face increasingly stringent sustainability reporting requirements and, as a result, rising pressure to deploy AI and other advanced tools for more efficient, high-fidelity execution on that front. At the same time, use cases for AI in retailers’ core businesses run the gamut from front-end hyperpersonalization and autonomous shopping agents to back-office dynamic pricing and inventory optimization.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "AI & Personalization",
+            "Pricing & Consumer",
+            "Supply Chain"
+          ],
+          "brands": [],
+          "reach": 881361,
+          "ave": 8152.59
+        },
+        {
+          "id": "nfr5e5",
+          "headline": "Experian Taps Fastly To Tackle AI Agent Trust Issues",
+          "source": "WWD",
+          "author": "Arthur Zaczkiewicz",
+          "url": "https://wwd.com/sourcing-journal/industry-news/experian-taps-fastly-to-tackle-ai-agent-trust-1239083159/",
+          "section": "AI Pulse",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Agentic commerce is expanding and redefining online shopping. Salesforce said in a recent report that AI agents influenced about $262 billion in spending during the 2025 holiday shopping season. And Imperva said that 53 percent of all web traffic is now automated. In another report, McKinsey said AI agents could fuel up to $1 trillion in U.S. commerce by 2030.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "AI & Personalization",
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 126372,
+          "ave": 1168.94
+        },
+        {
+          "id": "6ezdug",
+          "headline": "US Retailers Move To Defend New HFC Deadline",
+          "source": "Cooling Post",
+          "author": "",
+          "url": "https://www.coolingpost.com/world-news/us-retailers-move-to-defend-new-hfc-deadline/",
+          "section": "Industry News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "The row over the US Environmental Protection Agency’s decision to roll back parts of the AIM Act rumbles on, with retailers now seeking to intervene in recently filed judicial review petitions. The announcement by the EPA in May to roll back the maximum 150 GWP limit for refrigerant in retail refrigeration equipment to 2032 was met with condemnation by both HVAC manufacturers, environmental groups and a number of US states. At the beginning of this month, the Air Conditioning, Heating, and Refrigeration Institute (AHRI) and the Alliance for Responsible Atmospheric Policy filed a petition for judicial review of the decision in the United States Court of Appeals for the DC Circuit, claiming that the EPA had not followed required procedures. Groups representing US contractors also challenged the rule, claiming that the amended provisions violated the AIM Act and threatened to destabilise the refrigerant market.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [],
+          "reach": 290791,
+          "ave": 2689.82
         }
       ]
     }
