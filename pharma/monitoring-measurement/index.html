@@ -1532,6 +1532,24 @@ function renderAll(){ renderLanding(); }
 (function(){
   var IS_ADMIN = location.hostname.indexOf('pr-monitoring-and-measurement') !== -1;
 
+  /* ── Runs for ALL views: keep localStorage in sync with server ── */
+  async function syncFromServer() {
+    try {
+      var res = await fetch('../InfoVision_' + CFG.key + '_data.json?v=' + Date.now(), {cache: 'no-store'});
+      if (!res.ok) return;
+      var serverData = await res.json();
+      if (serverData && serverData.days) {
+        var added = 0;
+        Object.keys(serverData.days).forEach(function(d) {
+          if (!DB.days[d]) { DB.days[d] = serverData.days[d]; added++; }
+        });
+        if (added > 0 && typeof saveDB === 'function') saveDB();
+        if (added > 0 && typeof renderAll === 'function') renderAll();
+      }
+    } catch(e) {}
+  }
+  document.addEventListener('DOMContentLoaded', function(){ syncFromServer(); });
+
   if (!IS_ADMIN) {
     /* ── Client view: hide all upload / data management controls ── */
     var s = document.createElement('style');
@@ -1675,26 +1693,7 @@ function renderAll(){ renderLanding(); }
     btn.textContent = hidden ? 'Hide upload' : '+ Upload briefing';
   }
 
-  // On every page load, sync any days from the server that are missing locally.
-  // Fixes multi-admin workflows where different browsers have diverging localStorage states.
-  async function syncFromServer() {
-    try {
-      var res = await fetch('../InfoVision_' + CFG.key + '_data.json?v=' + Date.now(), {cache: 'no-store'});
-      if (!res.ok) return;
-      var serverData = await res.json();
-      if (serverData && serverData.days) {
-        var added = 0;
-        Object.keys(serverData.days).forEach(function(d) {
-          if (!DB.days[d]) { DB.days[d] = serverData.days[d]; added++; }
-        });
-        if (added > 0 && typeof saveDB === 'function') saveDB();
-        if (added > 0 && typeof renderAll === 'function') renderAll();
-      }
-    } catch(e) {}
-  }
-
   document.addEventListener('DOMContentLoaded', function(){
-    syncFromServer();
 
     /* Hide upload section and entire data-bar (save/load/reset) — not needed */
     var uw = document.querySelector('.upload-wrap');
