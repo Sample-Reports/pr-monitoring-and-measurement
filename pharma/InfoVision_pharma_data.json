@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "pharma",
-  "_savedAt": "2026-07-24T11:41:29.208Z",
-  "_dayCount": 8,
+  "_savedAt": "2026-07-28T11:26:37.030Z",
+  "_dayCount": 9,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:09.000Z",
@@ -3186,6 +3186,336 @@
           ],
           "reach": 795883,
           "ave": 7361.92
+        }
+      ]
+    },
+    "2026-07-27": {
+      "uploadedAt": "2026-07-28T11:26:27.542Z",
+      "filename": "InfoVision_Pharma_Media_Briefing_2026-07-27.docx",
+      "articles": [
+        {
+          "id": "7bjiof",
+          "headline": "Lilly, AbbVie Climb Aboard In Vivo CAR T Train—But Safety Remains A Hurdle",
+          "source": "BioSpace",
+          "author": "Tristan Manalac",
+          "url": "https://www.biospace.com/drug-development/lilly-abbvie-climb-aboard-in-vivo-car-t-train-but-safety-remains-a-hurdle",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Safety will be the key determinant of in vivo CAR T therapies, according to H.C. Wainwright’s Mitchel Kapoor, who noted that convenience and efficacy won’t be enough to impress investors in this space. Eli Lilly, AbbVie, AstraZeneca and more are up for the challenge. Cell therapies have already proven their worth in the clinic, effectively turning the body’s immune system against cancer—and soon, potentially autoreactive immune cells, too. But manufacturing and cost challenges continue to plague the modality, keeping it out of reach of many patients who need it. Enter in vivo CAR T therapy.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials",
+            "M&A / Markets"
+          ],
+          "brands": [
+            "Eli Lilly",
+            "AstraZeneca"
+          ],
+          "reach": 932094,
+          "ave": 8621.87
+        },
+        {
+          "id": "81hunk",
+          "headline": "Novo Nordisk Pursues Preliminary Injunction To Block Eli Lilly Weight-Loss Drug Ads",
+          "source": "Reuters",
+          "author": "Maggie Fick and Stine Jacobsen",
+          "url": "https://www.reuters.com/world/novo-nordisk-seeks-preliminary-injunction-against-lilly-weight-loss-ads-2026-07-24/",
+          "section": "Brand News",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "Novo Nordisk said on Friday it is seeking a ‌preliminary U.S. court injunction to immediately block obesity and diabetes drug advertisements by Eli Lilly. Denmark's Novo said on Tuesday it had sued Lilly, arguing consumers were being misled about how the companies' products compare, and that it would seek a preliminary injunction if the ​U.S. group did not voluntarily remove the disputed ads. Lilly on Friday denied any wrongdoing, saying it stood ​by its advertising and would vigorously defend itself. Novo and Lilly are battling for dominance ⁠in the obesity drug market, which analysts expect to be worth more than $100 billion by the end of the ​decade in the United States alone.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "cl1p7l",
+          "headline": "Eli Lilly-Backed Scribe Therapeutics Soars 44% After IPO",
+          "source": "Bloomberg",
+          "author": "Angel Adegbesan",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-24/eli-lilly-backed-scribe-therapeutics-jumps-67-after-upsized-ipo",
+          "section": "Brand News",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "Eli Lilly backed Scribe Therapeutics Inc., a clinical-stage developer of gene therapies for heart diseases, surged 44% on Friday after raising $128.7 million in an upsized initial public offering. Shares of the Alameda, California-based biotech firm closed at $21.65 each in New York, versus an IPO price of $15. The company sold 8.58 million shares on Thursday, after marketing 7.15 million shares for $13 to $15 apiece.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "M&A / Markets"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "ppe13t",
+          "headline": "J&J's Icotyde, Roche's Susvimo Among Key CHMP Nods In July Decisions",
+          "source": "FirstWord Pharma",
+          "author": "Anna Bratulic",
+          "url": "https://firstwordpharma.com/story/7773581",
+          "section": "Brand News",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "The EMA's drug advisory panel backed a dozen medicines for approval at its July meeting, including Johnson & Johnson's IL-23 antagonist Icotyde (icotrokinra) for plaque psoriasis, Roche's ocular implant Susvimo (rabinizumab) for wet age-related macular degeneration (wAMD), and several cholesterol-lowering therapies. Among the more closely watched decisions, the Committee for Medicinal Products for Human Use (CHMP) recommended Icotyde for adults and adolescents aged 12 years and older with moderate-to-severe plaque psoriasis. If approved by the European Commission, Icotyde would be the first oral medicine targeting the Il-23 receptor available in the region, and expand a class that is dominated by injectables at the moment.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 96323,
+          "ave": 890.99
+        },
+        {
+          "id": "2x0hzt",
+          "headline": "J&J, Gilead Among Recipients Of EU Drug Recommendations This Week",
+          "source": "SeekingAlpha",
+          "author": "Dulan Lokuwithana",
+          "url": "https://seekingalpha.com/news/4618209-jj-gilead-among-recipients-eu-drug-nods-this-week",
+          "section": "Brand News",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "An expert panel of the EU drug regulator, the European Medicines Agency, endorsed 12 new medicines and eight label expansions for approval this week, including products from U.S. drugmakers such as Johnson & Johnson (JNJ) and Gilead (GILD). The New Jersey-based healthcare giant received a positive opinion from the EMA's Committee for Medicinal Products for Human Use for its new plaque psoriasis pill, Icotyde, developed with Protagonist Therapeutics (PTGX). Subject to a final decision on authorization from the European Commission, the once-daily oral therapy will therefore be available in Europe for people aged 12 years and older with the inflammatory skin condition.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 355436,
+          "ave": 3287.78
+        },
+        {
+          "id": "u9lv8b",
+          "headline": "Is Bristol Myers Squibb's Dividend Too Good To Be True? Here's My Honest Answer",
+          "source": "The Motley Fool",
+          "author": "Justin Pope",
+          "url": "https://www.fool.com/investing/2026/07/24/is-bristol-myers-squibbs-dividend-too-good-be-true/",
+          "section": "Brand News",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "When dividend yields start to creep up, it's worth taking a closer look for any potential warning signs. Bristol Myers Squibb is a leading pharmaceutical company and has been a high-yield dividend stock for some time. Shares have averaged a dividend yield of 3.4% over the past decade. However, that yield has been abnormally high for most of the past two years. The stock yields 4.1% today, and it's been as high as 6% over the past 24 months. Is the dividend simply too good to be true at this point? My take is that the dividend is fine right now, but that you'll also need to watch out for potential hurdles as key drugs lose patent exclusivity over the next few years.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 743991,
+          "ave": 6881.92
+        },
+        {
+          "id": "mgm9hz",
+          "headline": "AbbVie: A Dividend Fortress At An Appealing Price Tag",
+          "source": "SeekingAlpha",
+          "author": "Dulan Lokuwithana",
+          "url": "https://seekingalpha.com/article/4925307-abbvie-a-dividend-fortress-at-an-appealing-price-tag",
+          "section": "Brand News",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "AbbVie earns a buy rating, supported by accelerating top and bottom-line growth and a compelling valuation at 18x forward P/E. ABBV offers a 2.7% forward dividend yield, outperforming peers by 68%, and maintains a 12-year streak of dividend growth. Dividend growth remains central to ABBV's shareholder-friendly capital allocation, with a payout ratio of 59% and consensus expectations for continued increases. Despite recent double-digit price gains, ABBV's defensive profile and steady fundamentals make it a strong diversification candidate amid market volatility.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 355436,
+          "ave": 3287.78
+        },
+        {
+          "id": "glm9vb",
+          "headline": "AI Shortens Drug Discovery To Around 1 Year In China, Insilico CEO says",
+          "source": "Reuters",
+          "author": "Laurie Chen",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ai-shortens-drug-discovery-around-1-year-china-insilico-ceo-says-2026-07-23/",
+          "section": "AI Pulse",
+          "date": "July 23, 2026",
+          "iso": "2026-07-22",
+          "summary": "Hong Kong-listed Insilico Medicine has cut drug development timelines to about one year by ​combining AI with its China research ecosystem, its CEO said, giving it an edge over traditional Western pharmaceutical giant. Its strategy ‌highlights how China's growing role in global drug research, coupled with advances in AI, could further challenge established drugmakers, as the industry races to cut development costs and bring medicines to market faster.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "b8dhch",
+          "headline": "Argenx To Buy Forte Biosciences For $2.2 Billion",
+          "source": "The Wall Street Journal",
+          "author": "Adrià Calatayud",
+          "url": "https://www.wsj.com/tech/biotech/argenx-to-buy-forte-biosciences-for-2-2-billion-41653c87",
+          "section": "Industry News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Argenx said it reached an agreement to buy Forte Biosciences for $2.2 billion, moving to strengthen its immunology pipeline. European pharmaceutical company Argenx is acquiring Nasdaq-listed Forte for $77 a share in cash, the companies said Monday. The price represents a 41% premium to Forte’s closing price on Friday.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 11615615,
+          "ave": 107444.44
+        },
+        {
+          "id": "bxnp0t",
+          "headline": "AstraZeneca Profit Beat, Bullish Tone Ease Investor Angst Over Drug Pipeline",
+          "source": "Reuters",
+          "author": "Pushkala Aripaka and Maggie Fick",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-beats-second-quarter-profit-expectations-holds-outlook-2026-07-27/",
+          "section": "Industry News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "AstraZeneca stood by its annual and long-term forecasts on Monday as ‌the drugmaker sought to reassure investors after recent trial setbacks kept attention on its pipeline despite better than expected second-quarter profit. Although strong demand for cancer and rare disease drugs continues to drive growth against a background of broader pricing pressures, investors are keen on signs ​that the pharmaceutical giant's 2030 revenue target is not under threat after an unexpected trial failure this month.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials",
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "AstraZeneca"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "5rvnyn",
+          "headline": "AstraZeneca’s Cancer Medicines Spur Profit Growth",
+          "source": "Bloomberg",
+          "author": "Ashleigh Furlong",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-27/astrazeneca-s-cancer-medicines-spur-profit-growth",
+          "section": "Industry News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "AstraZeneca Plc reported higher-than-expected profit, buoyed by blockbuster cancer medicines, as focus turns to the company’s next generation of oncology drugs. Earnings per share, excluding some items, rose 21% to $2.63 last quarter, higher than the $2.48 analysts surveyed by Bloomberg anticipated. Demand surged for Enhertu for breast tumors and Imfinzi, used in lung cancer. The shares gained as much as 2% in London trading, trimming their decline for the year.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "M&A / Markets"
+          ],
+          "brands": [
+            "AstraZeneca"
+          ],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "isyk2c",
+          "headline": "From TV Doctor To Power Broker: Dr. Oz Thrives On Trump’s Team",
+          "source": "Bloomberg",
+          "author": "Rachel Cohrs Zhang",
+          "url": "https://www.bloomberg.com/news/features/2026-07-26/at-trump-s-hhs-mehmet-oz-seen-as-heir-apparent-to-rfk-jr-as-health-secretary",
+          "section": "Industry News",
+          "date": "July 26, 2026",
+          "iso": "2026-07-25",
+          "summary": "Mehmet Oz has happily spent recent months touting negotiations with drug manufacturers and seeking to root out fraud driving up federal spending on healthcare. All the while, he’s been scrupulously loyal to Robert F. Kennedy Jr., the Health and Human Services Secretary. Behind the scenes, Oz declined to make a play for the top US health job as the White House overhauled the agency’s leadership earlier this year, according to people familiar with the discussions.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "7gjua0",
+          "headline": "The US Pharmaceutical Supply Chain Problem Is Not About China",
+          "source": "STATNews",
+          "author": "Pooja Yerramilli",
+          "url": "https://www.statnews.com/2026/07/24/pharmaceutical-supply-chain-resilience-china/",
+          "section": "Industry News",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "In 2025, there were 216 active drug shortages in the U.S., impacting Americans’ access to lifesaving medications. The resilience of our pharmaceuticals supply chains has been increasingly framed as a national security issue, including by the White House — and rightly so, as Covid-19 magnified the massive costs of a health system ill-equipped to care for its population. But this national security framing has heavily skewed toward a U.S.-China competition lens, distracting from the real root causes of our pharmaceuticals supply chain vulnerabilities: inadequate regulation of an industry that tends to prioritize profit over America’s health.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 570055,
+          "ave": 5273.01
+        },
+        {
+          "id": "d47gko",
+          "headline": "Merck Licenses Experimental HIV Pill To Generic Makers In 129 Countries",
+          "source": "Reuters",
+          "author": "Christy Santhosh",
+          "url": "https://www.reuters.com/legal/litigation/merck-licenses-experimental-hiv-pill-generic-makers-129-countries-2026-07-24/",
+          "section": "Industry News",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "Merck said on Friday it signed seven voluntary licensing agreements ​with generic drug manufacturers to make and sell lower-cost versions of its ‌experimental once-monthly oral HIV pill in 129 low- and lower-middle-income countries. The drug, alimatravir, is currently in late-stage development. Merck said it is investing early in its product manufacturing capacity as ​trials continue.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "cg3o6t",
+          "headline": "Big Pharma’s Patent Cliff Meets A New Biotech Cold War: We Need To Outrun China, Not Outlaw It",
+          "source": "Fortune",
+          "author": "Craig Garthwaite",
+          "url": "https://fortune.com/2026/07/24/big-pharma-patent-cliff-cold-war-china-biotech/",
+          "section": "Industry News",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "Patrick Swayze, Alex Trebek, and Ruth Bader Ginsburg all died of pancreatic cancer. They were wealthy enough to afford any treatment that existed. But there simply wasn’t a drug available — at any price — that could save their lives. This is the cruelest access problem in healthcare. The most expensive illness is not the one with the costliest drug, but the one with no drug at all. The price of a cure not yet invented is effectively infinite. That was true for pancreatic cancer, until now. This spring, Revolution Medicines reported that its experimental treatment daraxonrasib nearly doubled survival in pancreatic cancer patients who were out of other options. The new drug seems almost miraculous. A year ago, former Senator Ben Sasse was told he had a month to live. Thanks to the medicine, he’s not merely still alive — he’s enjoying time with his family and touring the country for media interviews.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 177089,
+          "ave": 1638.07
+        },
+        {
+          "id": "ybymk2",
+          "headline": "Amgen Hands In Data Package In Hopes Of FDA Hearing For Tavneos Defense",
+          "source": "FiercePharma",
+          "author": "Fraiser Kansteiner",
+          "url": "https://www.fiercepharma.com/pharma/amgen-hands-data-package-hopes-fda-hearing-tavneos-defense",
+          "section": "Industry News",
+          "date": "July 24, 2026",
+          "iso": "2026-07-23",
+          "summary": "With all eyes on Tavneos’ seemingly precarious approval status in the U.S., Amgen is advancing plans to defend the ANCA-associated vasculitis (AAV) drug it inherited in its $3.7 billion buyout of ChemoCentryx. The California pharma on Thursday submitted data and analyses to the FDA to help secure a hearing in hopes of keeping Tavneos on the U.S. market. The package includes a third-party re-evaluation of the med’s controversial pivotal trial, real-world evidence and patient and HCP testimonials.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 761583,
+          "ave": 7044.64
         }
       ]
     }
