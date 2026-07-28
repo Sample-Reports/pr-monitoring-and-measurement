@@ -1679,7 +1679,7 @@ function renderAll(){ renderLanding(); }
   // Fixes multi-admin workflows where different browsers have diverging localStorage states.
   async function syncFromServer() {
     try {
-      var res = await fetch('../InfoVision_' + CFG.key + '_data.json', {cache: 'no-store'});
+      var res = await fetch('../InfoVision_' + CFG.key + '_data.json?v=' + Date.now(), {cache: 'no-store'});
       if (!res.ok) return;
       var serverData = await res.json();
       if (serverData && serverData.days) {
