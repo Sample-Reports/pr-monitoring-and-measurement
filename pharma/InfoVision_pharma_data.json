@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "pharma",
-  "_savedAt": "2026-07-28T11:26:37.030Z",
-  "_dayCount": 9,
+  "_savedAt": "2026-07-28T11:36:52.565Z",
+  "_dayCount": 10,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:09.000Z",
@@ -3516,6 +3516,317 @@
           "brands": [],
           "reach": 761583,
           "ave": 7044.64
+        }
+      ]
+    },
+    "2026-07-28": {
+      "uploadedAt": "2026-07-28T11:36:43.758Z",
+      "filename": "InfoVision_Pharma_Media_Briefing_2026-07-28.docx",
+      "articles": [
+        {
+          "id": "wef0dr",
+          "headline": "Construction Begins On Eli Lilly's $6.5B Manufacturing Campus In Generation Park",
+          "source": "ABC13 Houston",
+          "author": "Wesley Gardner",
+          "url": "https://abc13.com/post/construction-begins-eli-lillys-65b-manufacturing-campus-generation-park/19585198/",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Construction on several projects associated with pharmaceutical giant Eli Lilly and Company's planned $6.5 billion, 236-acre manufacturing site in Generation Park is either underway or set to begin in August, according to a series of July 16 filings with the Texas Department of Licensing and Regulation. While construction on the work included in the filings is projected to be completed by the end of 2027, Lilly representatives said the overall project remains on track to be completed by 2030. \"Lilly Houston remains on track and is progressing as planned against its previously announced timeline,\" a Lilly spokesperson confirmed in a July 23 emailed statement. \"We will continue to provide updates as they become available.\"",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 897746,
+          "ave": 8304.15
+        },
+        {
+          "id": "uqwfz5",
+          "headline": "Around The Nation: Eli Lilly Buys Mental Health Company For $2.8B",
+          "source": "Advisory Board",
+          "author": "",
+          "url": "https://www.advisory.com/daily-briefing/2026/07/27/around-the-nation",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Eli Lilly has agreed to buy AtaiBeckley, a drug manufacturer focused on treatments for mental health conditions, for $2.8 billion, in today's bite-sized hospital and health industry news from the District of Columbia, Indiana, and New Jersey. Eli Lilly has agreed to buy AtaiBeckley, a drug manufacturer focused on treatments for mental health conditions, for $2.8 billion. AtaiBeckley's pipeline of therapeutics includes psychedelic treatments, such as its lead program BPL-003 for treatment-resistant depression. Contingent value rights could increase the total value of the deal to $3.8 billion. According to Lilly, the deal is expected to bolster its neuroscience pipeline and will likely be completed in the third quarter of the year.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 613825,
+          "ave": 5677.88
+        },
+        {
+          "id": "iznqpn",
+          "headline": "Lilly Backs Oura To Advance Connected Care Through Wearable Health Insights",
+          "source": "Digital Health News",
+          "author": "",
+          "url": "https://www.digitalhealthnews.com/lilly-backs-oura-to-advance-connected-care-through-wearable-health-insights",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Eli Lilly has invested in wearable health technology company Oura to accelerate the development of digital health tools designed to support more connected, personalized, and continuous care. The investment is expected to help Oura expand its health insights platform by combining biometric data with everyday behaviors and medical treatment, particularly for people managing chronic conditions. Oura said the new investment aligns with its vision of building health experiences that are more responsive to how people live every day. The company recently introduced GLP-1 Insights, a feature that combines wearable biometric information with medication-specific context, with more than 100,000 members having already logged GLP-1 use within the Oura App.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 753327,
+          "ave": 6968.27
+        },
+        {
+          "id": "lxiyjp",
+          "headline": "J&J To Pay $5.5 Billion To Settle Talc-Related Cancer Claims",
+          "source": "Bloomberg",
+          "author": "Jonathan Roeder, Madison Muller, Robert Langreth",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-27/j-j-to-pay-5-5-billion-to-resolve-talc-related-cancer-claims?srnd=homepage-americas",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Johnson & Johnson on Monday said it agreed to a $5.5 billion commitment to resolve years of litigation related to claims that its talc products caused ovarian cancer. The drugmaker said the proposed resolution represents “an efficient conclusion” to the lawsuits. The agreement requires the participation of lead plaintiff firms in ovarian talc litigation pending in state and federal courts that represent at least 95% of claims, according to J&J.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "rbbnlf",
+          "headline": "Sarepta Names Former AbbVie Executive Michael Severino New CEO",
+          "source": "Bloomberg",
+          "author": "Robert Langreth",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-27/sarepta-names-former-abbvie-executive-michael-severino-new-ceo",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Sarepta Therapeutics Inc. appointed former AbbVie Inc. executive Michael Severino its new chief executive officer, tapping the long-time pharmaceutical executive to lead the company as it seeks to recover from a period of clashes with US regulators. Severino, 60, will take the helm and join the board on July 28, the rare-disease company said in a statement. He will replace outgoing CEO Douglas Ingram, who announced in February that he would retire by the end of the year to spend time with sick family members.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "154t5j",
+          "headline": "AbbVie Researcher Dr. Jan Stoehr Outlines Use Of Biomarkers To Target Parkinson’s Disease Progression",
+          "source": "Gene Online",
+          "author": "",
+          "url": "https://www.geneonline.com/abbvie-researcher-dr-jan-stoehr-outlines-use-of-biomarkers-to-target-parkinsons-disease-progression/",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Neuroscience researcher Dr. Jan Stoehr of AbbVie recently outlined the role of biomarkers in shifting Parkinson’s disease research from traditional symptom management toward potential disease-modifying treatments. The research highlights how these biological indicators provide new insights into the progression of the condition, offering a framework for developing therapies that target the underlying causes of the disease rather than just addressing its clinical manifestations. Dr. Stoehr explains that biomarkers act as measurable indicators that allow scientists to track the biological changes associated with Parkinson’s more precisely. By identifying these specific markers, researchers gain a clearer understanding of how the disease develops and progresses within the brain. This shift in methodology aims to move the medical community beyond current standards of care, which primarily focus on alleviating motor and non-motor symptoms, toward interventions that could potentially slow or alter the course of the disease.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 514242,
+          "ave": 4756.74
+        },
+        {
+          "id": "5e7gua",
+          "headline": "Closing The Data Loop In AI-Driven Drug Discovery",
+          "source": "MIT Technology Review",
+          "author": "",
+          "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+          "section": "AI Pulse",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs anywhere from $1 billion to $2.5 billion, with failure rates upward of 90%. AI has become the pharmaceutical industry’s biggest bet on bringing success rates up and timelines down. The faster drug companies can identify, test, and optimize new chemical compounds, the lower the risk of costly failures later in development.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 236996,
+          "ave": 2192.21
+        },
+        {
+          "id": "xo2buc",
+          "headline": "The Confidentiality Barrier To AI-Enabled Drug Development",
+          "source": "The Medicine Maker",
+          "author": "Timothy Pas, Laure Descamps",
+          "url": "https://themedicinemaker.com/issues/2026/articles/july/the-confidentiality-barrier-to-aienabled-drug-development/",
+          "section": "AI Pulse",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "AI is redefining how the pharmaceutical industry predicts and optimizes critical properties such as solubility and bioavailability, two persistent challenges in drug development that are exacerbated by increasing molecular complexity. However, within the CDMO landscape, this technological momentum is constrained by strict intellectual property safeguards and the continued requirement for experimentation and validation (1,2,3). AI is increasingly effective at predicting solubility and bioavailability by identifying patterns in chemical data that conventional methods often miss. It can estimate parameters such as pKa and logP and identify structures that might dissolve poorly. Additionally, it could predict formulation dependent effects on absorption. These capabilities can support a more informed excipient selection during the early formulation development, thereby reducing the need for experiments and therefore, API, time, budget, and labor. These benefits are particularly attractive at sponsor level during these tight-budget early development phases.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "AI in Drug Discovery",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 632019,
+          "ave": 5846.18
+        },
+        {
+          "id": "jnndkt",
+          "headline": "AstraZeneca Looks To AI To Ease Risk In Late-Stage Trials, Speed Up Filings",
+          "source": "Endpoints News",
+          "author": "Elizabeth Cairns",
+          "url": "https://endpoints.news/astrazeneca-looks-to-ai-to-ease-risk-in-late-stage-trials-speed-up-filings/",
+          "section": "AI Pulse",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "AstraZeneca’s use of AI in drug design and development has not yet yielded any clinical-stage candidates, CEO Pascal Soriot said Monday, but he added it could be useful in boosting the success of later-stage drugs. In a call with journalists on its second-quarter earnings, Soriot also spelled out the balancing act between collaborating and competing with Chinese pharma companies. On AI, Soriot said AstraZeneca already has products that have “benefited from AI tools,” but those are “in preclinical stage — very early.” He added that a more immediate use for AI could be in improving the likelihood of success of late-stage trials, something that is very much on the company’s mind following the unexpected failure of its cardiac drug Wainua. AstraZeneca unveiled additional Phase 3 disappointments on Monday.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI in Drug Discovery",
+            "Clinical Trials"
+          ],
+          "brands": [
+            "AstraZeneca"
+          ],
+          "reach": 795883,
+          "ave": 7361.92
+        },
+        {
+          "id": "msskjw",
+          "headline": "AstraZeneca Drug Prices Evolving In Response To Trump Policy, Executive Says",
+          "source": "Reuters",
+          "author": "Pushkala ​Aripaka, Raechel Thankam, Maggie Fick",
+          "url": "https://www.reuters.com/legal/litigation/astrazeneca-drug-prices-evolving-response-trump-policy-executive-says-2026-07-27/",
+          "section": "Industry News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "AstraZeneca has been adjusting its pricing strategy for ​new drug launches in response to U.S. ‌President Donald Trump's \"most-favoured-nation\" policy seeking lower drug prices for Americans, a senior company executive said on ​Monday. \"Our pricing approach across all of launches ​now has really evolved in response to ⁠MFN,\" David Fredrickson, AstraZeneca's executive vice ​president for the oncology business, told investors after the ​company reported second-quarter results. \"With the U.S. now referencing a basket of countries and setting its price, we are ​seeing productive engagement with payers in the ​wealthy nations,\" he said. The U.S. policy seeks to tie some ‌U.S. ⁠medicine prices to those paid in other wealthy countries, including in Europe. AstraZeneca is one of at least 17 major drugmakers ​to have signed pricing ​agreements with ⁠the White House.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "M&A / Markets",
+            "Public Health Policy"
+          ],
+          "brands": [
+            "AstraZeneca"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "16p9lf",
+          "headline": "AstraZeneca's Rare Disease Drug Misses Main Goal In Late-Stage Trial",
+          "source": "Reuters",
+          "author": "Raechel ​Thankam",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/astrazenecas-rare-disease-drug-misses-main-goal-late-stage-trial-2026-07-27/",
+          "section": "Industry News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "AstraZeneca said on Monday its rare disease drug Ultomiris failed a late-stage trial in patients with ​a blood vessel complication following a stem cell transplant, ‌the latest in a series of setbacks this year that have fuelled concerns about the drugmaker's pipeline. Ultomiris did not achieve statistical significance ​for event-free survival at 26 weeks in patients with ​haematopoietic stem cell transplant-associated thrombotic microangiopathy, though it showed ⁠a trend toward benefit. AstraZeneca said it is in ongoing discussions with ​global health authorities over potential next steps for the adult indication. In ​a separate trial involving children, Ultomiris showed an overall survival rate of 87.2% at 26 weeks and 73.4% at 52 weeks, and the drugmaker said ​it will advance regulatory filings for use in children.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "AstraZeneca"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "cvje42",
+          "headline": "Pharmalittle: We’re Reading About A U.S. Peptide Panel’s Votes, Amgen Scuffling With The FDA, And More",
+          "source": "STAT News",
+          "author": "Ed Silverman",
+          "url": "https://www.statnews.com/pharmalot/2026/07/27/fda-panel-peptide-votes-amgen-fights-tavneos-withdrawal/",
+          "section": "Industry News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "A U.S. Food and Drug Administration advisory panel on Friday recommended that compounding pharmacies be allowed to manufacture the peptides epitalon and semax, but narrowly voted to recommend against manufacturing emideltide, STAT writes. The votes, which followed the panel’s decision on Thursday to recommend allowing pharmacies to make four other peptides, bring U.S. Health and Human Services secretary Robert F. Kennedy Jr. one step closer to his mission of making these unapproved compounds more available for Americans. Peptides have become increasingly popular in the U.S., driven by endorsements from social media influencers.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 478047,
+          "ave": 4421.93
+        },
+        {
+          "id": "huglog",
+          "headline": "AstraZeneca Has No Plans To Ramp Up Dealmaking In Wake Of Wainua Failure",
+          "source": "BioSpace",
+          "author": "Tristan Manalac",
+          "url": "https://www.biospace.com/business/astrazeneca-has-no-plans-to-ramp-up-dealmaking-in-wake-of-wainua-failure",
+          "section": "Industry News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "AstraZeneca remains “very much on track” to hit its 2030 goal of reaching $80 billion in revenue despite the recent late-stage failure of Wainua in ATTR-cardiomyopathy, CEO Pascal Soriot said during the company’s Q2 earnings presentation on Monday.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [
+            "AstraZeneca"
+          ],
+          "reach": 932094,
+          "ave": 8621.87
+        },
+        {
+          "id": "k7hsry",
+          "headline": "Kelun-Biotech Receives A Clinical Trial Notice For Its First Dual-Payload ADC SKB565",
+          "source": "PR Newswire",
+          "author": "",
+          "url": "https://www.prnewswire.com/news-releases/kelun-biotech-receives-a-clinical-trial-notice-for-its-first-dual-payload-adc-skb565-302835167.html",
+          "section": "Industry News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "ichuan Kelun-Biotech Biopharmaceutical Co., Ltd. today announced that it has received a clinical trial notice from the Center for Drug Evaluation (CDE) of the National Medical Products Administration (NMPA) approving the Investigational New Drug (IND) application for its novel dual-payload ADC drug, SKB565, for the treatment of advanced solid tumors. This marks the Company's first dual-payload ADC to enter the clinical stage. SKB565 is developed using the Company's proprietary OptiDC™ platform. Featuring an innovative dual-payload design, SKB565 enables the direct delivery of toxins and immunomodulators, two kinds of payload with complementary mechanisms of action, to tumor tissue. Compared with conventional ADCs carrying only toxins, SKB565 has a dual antitumor mechanism: it precisely targets and kills tumors while activating the immune system within the tumor microenvironment to elicit an antitumor immune response, bringing enhanced and more durable antitumor efficacy. In preclinical studies, SKB565 demonstrated excellent antitumor activity and safety, with its outstanding therapeutic potential to support further clinical development.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 499370,
+          "ave": 4619.17
+        },
+        {
+          "id": "tf29id",
+          "headline": "MapLight Shares Sink On Mixed Phase 2 Schizophrenia Readout",
+          "source": "Fierce Biotech",
+          "author": "Darren Incorvaia",
+          "url": "https://www.fiercebiotech.com/biotech/maplight-shares-sink-mixed-ph-2-schizophrenia-readout",
+          "section": "Industry News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "MapLight Therapeutics’ stock plummeted more than 60% this morning after the neuro outfit dropped mixed results for a phase 2 trial of its experimental schizophrenia treatment. The Zephyr trial enrolled 307 patients who were experiencing acute episodes of worsened psychosis and treated them with different doses of an M1/M4 muscarinic agonist called ML-007C-MA. Those given a twice-daily dose of 210/3 mg saw significant reductions in disease severity, hitting the primary endpoint, but those given a once-daily dose of 330/6 mg did not, MapLight announced today. As a result, the biotech’s share price tumbled from $36.56 at Friday’s close to $13.76 at 10:30 am E.T.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Clinical Trials",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 467472,
+          "ave": 4324.12
         }
       ]
     }
