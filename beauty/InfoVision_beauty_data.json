@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "beauty",
-  "_savedAt": "2026-07-28T11:26:15.380Z",
-  "_dayCount": 9,
+  "_savedAt": "2026-07-28T11:37:08.947Z",
+  "_dayCount": 10,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:16.350Z",
@@ -1886,6 +1886,189 @@
           "brands": [],
           "reach": 281517,
           "ave": 2604.03
+        }
+      ]
+    },
+    "2026-07-28": {
+      "uploadedAt": "2026-07-28T11:37:02.068Z",
+      "filename": "InfoVision_Beauty_Media_Briefing_2026-07-28.docx",
+      "articles": [
+        {
+          "id": "ls6sxn",
+          "headline": "Pacsun, Ulta Beauty Debut Curated Beauty Collaboration",
+          "source": "Retail Dive",
+          "author": "Dani James",
+          "url": "https://www.retaildive.com/news/pacsun-ulta-beauty-curated-beauty-fashion-collaboration/826239/",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Pacsun debuted a limited-edition fashion and beauty collaboration centered around self-expression with Ulta Beauty, according to a Monday press release. The collaboration includes two curated beauty essentials kits featuring brands such as Drunk Elephant, NYX Professional Makeup, Fenty Beauty and more. The partnership also features an exclusive hoodie with the expression “Who’s Gonna Stop Us?” on the product. The collection launches Tuesday at Pacsun’s SoHo store before expanding to over 100 Pacsun locations and online on Aug. 6. The beauty kits will also be available at select Ulta Beauty stores, on Ulta’s website and on TikTok Shop beginning Sunday, while the hoodie will be available through Ulta starting Aug. 6.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "Marketing & Influence"
+          ],
+          "brands": [
+            "Ulta Beauty"
+          ],
+          "reach": 616977,
+          "ave": 5707.04
+        },
+        {
+          "id": "20vhnn",
+          "headline": "YSL Beauty Names Alisha Boe Black Opium Ambassador To Mark ‘Thrilling New Chapter’",
+          "source": "Cosmetic Business",
+          "author": "Amanda May",
+          "url": "https://cosmeticsbusiness.com/ysl-beauty-names-alisha-boe-black-opium-ambassador",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "The L’Oréal-licensed company has signed 29-year-old Boe, who stars in Apple TV+'s critically acclaimed show The Buccaneers, to front Black Opium Pink Glaze – the newest addition to its Black Opium flagship fragrance. YSL Beauty has named 29-year-old actor Alisha Boe Global Ambassador for its flagship fragrance Black Opium. The star of Netflix television series 13 Reasons Why and Apple TV+'s The Buccaneers will front the L'Oréal-licensed company’s newest addition to its hero scent, Black Opium Pink Glaze. A YSL Beauty statement said the appointment marks “a thrilling new chapter for its flagship fragrance”.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 364751,
+          "ave": 3373.95
+        },
+        {
+          "id": "tik0rn",
+          "headline": "Estée Lauder Taps Into Gourmand Fragrance Trend With Glimmer Eau de Parfum Launch",
+          "source": "WWD",
+          "author": "Kathryn Hopkins",
+          "url": "https://wwd.com/beauty-industry-news/fragrance/estee-lauder-gourmand-fragrance-tglimmer-eau-de-parfum-1239081431/",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "With notes of macaron rose, raspberry mousse and vanilla bean, and a campaign fronted by Hailee Steinfeld, the brand’s first gourmand fragrance aims to captivate younger audiences. Estée Lauder is coming full circle with its new launch. The beauty brand, which over the decades has had big fragrance hits with the likes of White Linen, Pleasures, Beautiful and more, is hoping to return to its blockbuster days with the launch of Glimmer Eau de Parfum on Aug. 6, priced at $160 for a 100ml bottle and $130 for 50ml.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Marketing & Influence"
+          ],
+          "brands": [
+            "Estée Lauder"
+          ],
+          "reach": 126372,
+          "ave": 1168.94
+        },
+        {
+          "id": "kp9rri",
+          "headline": "\"AI Will Help Us Enormously In Accelerating The Transition To Sustainability,\" Says L'Oréal's Élodie Bernadi",
+          "source": "Fashion Network",
+          "author": "Olivier Guyot",
+          "url": "https://ww.fashionnetwork.com/news/-ai-will-help-us-enormously-in-accelerating-the-transition-to-sustainability-says-l-oreal-s-elodie-bernadi,1855867.html",
+          "section": "AI Pulse",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Far more than just a bottle. In the perfume and cosmetics sector, while excitement around the products themselves endures, packaging and containers are an integral part of brands’ overall strategy. Multiple departments are involved in their development, as this segment undergoes a major transformation. As the global leader in the sector, the L’Oréal Group is fully embracing this transition and, in mid-June, launched its largest-ever global campaign dedicated to refillable beauty, #JoinTheRefillMovement. This unprecedented initiative brings together 18 of the group’s iconic brands across its four divisions- from Lancôme to L’Oréal Paris, including Garnier, Kérastase, Yves Saint Laurent, and La Roche-Posay- and spans 28 flagship products. This industrial-scale environmental shift was outlined to FashionNetwork.com by Élodie Bernadi, sustainability director at L’Oréal Consumer Products France.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "AI Beauty Tech",
+            "Marketing & Influence"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 143866,
+          "ave": 1330.76
+        },
+        {
+          "id": "8j6m98",
+          "headline": "China’s Beauty Industry Gets AI Makeover to Close Innovation Gap",
+          "source": "Bloomberg",
+          "author": "",
+          "url": "https://www.bloomberg.com/news/features/2026-07-27/china-s-beauty-industry-undergoes-ai-makeover",
+          "section": "AI Pulse",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Shortly before China’s Singles’ Day shopping festival last fall, beauty company Yatsen Holding Ltd. launched a new serum featuring PDRN, one of skincare’s hottest regenerative ingredients. What shoppers didn’t see was how quickly it reached shelves. Yatsen used artificial intelligence to compress a development cycle that typically takes more than two years into just six months, including helping researchers narrow more than 50 ingredient candidates to three in a single week.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch",
+            "AI Beauty Tech",
+            "Markets & Regulation"
+          ],
+          "brands": [],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "27030x",
+          "headline": "How AI Beauty Advisors Are Impacting Organic Discovery And In-Store Experts",
+          "source": "Cosmetics Business",
+          "author": "Alessandro Carrara",
+          "url": "https://cosmeticsbusiness.com/how-ai-beauty-advisors-are-impacting-organic-discovery",
+          "section": "AI Pulse",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "From L'Oréal to Jo Malone London, artificial intelligence (AI) beauty advisors have become the latest craze for beauty companies. But does their implementation create more harm than good in an age of increasingly less organic product discovery? With each passing day, the jokes about the ‘robot takeover’ become less humorous and far more concerning as the use of artificial intelligence (AI) runs rampant across the globe. The beauty industry has certainly shown its eagerness to embrace the new mechanical overlords, and its latest craze is with creating AI companion apps that recommend and dictate exactly what shoppers should be buying and why – it is capitalism, truly perfected.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "AI Beauty Tech"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 625348,
+          "ave": 5784.47
+        },
+        {
+          "id": "3yuyoc",
+          "headline": "Natural Beauty Ingredients Get Biotech Rebuild As Crop Scarcity Rises",
+          "source": "Personal Care Insights",
+          "author": "Ela Jade Ünal",
+          "url": "https://www.personalcareinsights.com/special-reports/biotech-natural-beauty-ingredients.html",
+          "section": "Industry News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "The personal care industry is changing the way it defines “natural” ingredients from an umbrella term for clean label claims to finetuned demands. Consumers want traceable and trustworthy supply chains, pushing beauty players to distinguish “natural sourcing” from “ethical sourcing.” Innova Market Insights data indicates growth in natural claims, with 32% CAGR from April 2021 to March 2026 in product launches. This is underpinned by consumers increasingly seeking more natural ingredients when shopping for their beauty products. Skin care and hair care had the largest share of natural launches, while body care grew the fastest.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "AI Beauty Tech",
+            "Markets & Regulation"
+          ],
+          "brands": [],
+          "reach": 176438,
+          "ave": 1632.05
+        },
+        {
+          "id": "a3xf5p",
+          "headline": "The Beauty Brands That Won Social Media During The Second Quarter",
+          "source": "WWD",
+          "author": "Noor Lobad",
+          "url": "https://wwd.com/beauty-industry-news/beauty-features/hailey-bieber-ysl-beauty-top-brands-social-1239080639/",
+          "section": "Industry News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Blockbuster moments abounded across culture during the second quarter, and the savviest beauty brands took advantage. There was Coachella, coined this year as “Bieberchella” given how the couple dominated the weekend — Justin on stage, and Hailey, everywhere else via Rhode World; the Met Gala, where Traackr reports Kendall Jenner drove L’Oréal Paris’ single highest-performing post by brand vitality score (VIT) during the period, and the Cannes Film Festival, which also helped fuel L’Oréal Paris’ continued rank as the number-one beauty brand in the U.S. by VIT.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Marketing & Influence"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 126372,
+          "ave": 1168.94
         }
       ]
     }
