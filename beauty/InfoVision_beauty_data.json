@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "beauty",
-  "_savedAt": "2026-07-24T11:41:01.416Z",
-  "_dayCount": 8,
+  "_savedAt": "2026-07-28T11:26:15.380Z",
+  "_dayCount": 9,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:16.350Z",
@@ -1752,6 +1752,140 @@
           ],
           "reach": 151990,
           "ave": 1405.91
+        }
+      ]
+    },
+    "2026-07-27": {
+      "uploadedAt": "2026-07-28T11:26:00.244Z",
+      "filename": "InfoVision_Beauty_Media_Briefing_2026-07-27.docx",
+      "articles": [
+        {
+          "id": "yn7y5y",
+          "headline": "Why Ulta Beauty Is Betting A Skincare Launch Belongs In The Wellness Aisle",
+          "source": "Beauty Matter",
+          "author": "Tatiana Pile",
+          "url": "https://beautymatter.com/articles/ulta-beauty-good-day",
+          "section": "Brand News",
+          "date": "July 26, 2026",
+          "iso": "2026-07-25",
+          "summary": "When Good Day by Patchology, a new collection of clinical-grade skincare products, officially launches at Ulta Beauty on July 27, shoppers won’t find it in the skincare aisle. Instead, the new sub-brand from Patchology—the skincare brand known for its face masks and under-eye patches—designed to bridge the gap between skin health and emotional well-being, will sit in the wellness aisle, alongside supplements, sleep aids, and intimate care. Good Day features a collection of serums, mists, and creams, built around a proprietary mood-boosting ingredient the brand calls molecular sunshine. The placement decision, made by the largest specialty beauty retailer in the US, Ulta Beauty, may say more about where the industry is headed than the launch itself.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "Markets & Regulation"
+          ],
+          "brands": [
+            "Ulta Beauty"
+          ],
+          "reach": 873349,
+          "ave": 8078.48
+        },
+        {
+          "id": "j02yb2",
+          "headline": "To Build Better Brands, Estée Lauder Turns To Deciem",
+          "source": "The Business of Fashion",
+          "author": "Daniela Morosini",
+          "url": "https://www.businessoffashion.com/articles/beauty/to-build-better-brands-estee-lauder-turns-to-incubator-deciem/",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "This August, the ELC-owned incubator behind The Ordinary will launch its premium skincare line, NIOD, into Sephora — and take over management of Lauder-owned Origins. With more resources, distribution, and responsibility, Deciem is becoming the company’s most valuable asset.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "Prestige vs Mass"
+          ],
+          "brands": [
+            "Estée Lauder",
+            "Sephora"
+          ],
+          "reach": 257408,
+          "ave": 2381.02
+        },
+        {
+          "id": "nidg5r",
+          "headline": "Inside The Influencer Nightmare Of Being Cloned For Deepfake Ads: ‘It’s You, But You Know It’s Not You’",
+          "source": "New York Post",
+          "author": "Michael Kaplan",
+          "url": "https://nypost.com/2026/07/26/tech/influencers-and-celebs-are-being-targetted-by-ai-deepfakes/?utm_campaign=nypost&utm_medium=referral",
+          "section": "AI Pulse",
+          "date": "July 26 2026",
+          "iso": "2026-07-25",
+          "summary": "Karen Flowers, a 49-year-old beauty influencer based in Virginia, was recently sent a YouTube ad by her cousin. The clip featured an entity who looked just like Flowers promoting a life insurance company, but it wasn’t actually her. It was a deepfake made using her likeness. “[My cousin] said, ‘I’m looking at it. It’s you. But I know it’s not you,'” Flowers, the founder of Curl House, a line of holistic hair-care products, told The Post. “Clearly, it was my image. I looked at it and knew exactly what YouTube video it came from. My lips were synchronized with the words, but it didn’t sound like me.”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch",
+            "Marketing & Influence"
+          ],
+          "brands": [],
+          "reach": 581777,
+          "ave": 5381.44
+        },
+        {
+          "id": "qbr09a",
+          "headline": "How AI Is Reshaping The Battle For Fashion And Beauty Talent",
+          "source": "The Business of Fashion",
+          "author": "Dan Hastings and Eoghan O’Donnell",
+          "url": "https://www.businessoffashion.com/reports/workplace-talent/ai-impact-fashion-beauty-workforce-survey-2026/",
+          "section": "AI Pulse",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "A decelerating global fashion and beauty market is colliding with the rise of artificial intelligence (AI). Amid a slowing recruitment landscape and high levels of youth unemployment and underemployment — from the US and Western Europe to China — companies are grappling with how large language models (LLMs) like ChatGPT and Claude, as well as other AI productivity tools, could transform the way they operate. Interestingly, many current fashion and beauty workers are AI optimists — 53 percent of current fashion workers and 61 percent of current beauty workers view the increasing use of AI in their industry “positively” or “very positively” — but they have not yet seen a transformative impact on workflows.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "AI Beauty Tech"
+          ],
+          "brands": [],
+          "reach": 257408,
+          "ave": 2381.02
+        },
+        {
+          "id": "g4685w",
+          "headline": "The Most Desirable Beauty Companies To Work For In 2026",
+          "source": "The Business of Fashion",
+          "author": "Dan Hastings and Annabel Bolton",
+          "url": "https://www.businessoffashion.com/articles/workplace-talent/most-desirable-beauty-employer-2026/",
+          "section": "Industry News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "L’Oréal Paris tops the inaugural BoF Careers beauty employer ranking. Respondents praised the company’s international scale and innovation, as well as the career progression and job security they hope to find within the larger L’Oréal Groupe. Survey respondents are drawn to a wide range of beauty employers, spanning luxury, founder-led brands and newcomer fragrance specialists. The gap between external reputation, perceived prestige and internal reality is a defining tension across the beauty industry, according to BoF Careers’ analysis of Glassdoor and Indeed reviews.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Prestige vs Mass"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 257408,
+          "ave": 2381.02
+        },
+        {
+          "id": "2r29tn",
+          "headline": "Meet The Korean Skin Care Ingredient That Fills Wrinkles Like Magic",
+          "source": "Huff Post",
+          "author": "Tessa Flores",
+          "url": "https://www.huffpost.com/entry/best-pdrn-beauty-products-2026-ud_l_6a60e374e4b0c2f78d012fd1/amp",
+          "section": "Industry News",
+          "date": "July 26, 2026",
+          "iso": "2026-07-25",
+          "summary": "I’ve always insisted that if you want effective skin care with innovative ingredients at reasonable prices, then you should explore the world of Korean-founded beauty. I felt validated in my belief when I reported on a unique serum that was rapidly growing in popularity due to the inclusion of one anti-aging ingredient: polydeoxyribonucleotide, or PDRN for short. PDRN, we learned from board-certified dermatopathologist and skin care brand founder Dr. Gretchen Frieling, is a portion of DNA that’s typically derived from salmon sperm (you may have heard a similarly-named facial invoked by members of the Kardashian family and their ilk) and is widely used in regenerative and functional medicine, especially in Korea.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Markets & Regulation"
+          ],
+          "brands": [],
+          "reach": 281517,
+          "ave": 2604.03
         }
       ]
     }
