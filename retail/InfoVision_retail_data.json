@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "retail",
-  "_savedAt": "2026-07-24T11:42:20.074Z",
-  "_dayCount": 8,
+  "_savedAt": "2026-07-28T11:27:22.581Z",
+  "_dayCount": 9,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:03.474Z",
@@ -2190,6 +2190,208 @@
           "brands": [],
           "reach": 150670,
           "ave": 1393.7
+        }
+      ]
+    },
+    "2026-07-27": {
+      "uploadedAt": "2026-07-28T11:27:14.495Z",
+      "filename": "InfoVision_Retail_Media_Briefing_2026-07-27.docx",
+      "articles": [
+        {
+          "id": "8hsdop",
+          "headline": "US: Walmart Recalls 16,800 Dressers Over Tip-Over Risk",
+          "source": "Retail Insight Network",
+          "author": "Mohamed Dabo",
+          "url": "https://www.retail-insight-network.com/news/us-walmart-recalls-16800-dressers-over-tip-over-risk/",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Walmart has recalled more than 16,800 fabric dressers sold through its online marketplace after US safety regulators found they do not meet mandatory federal stability standards designed to prevent furniture from tipping over. The recall covers EnHomee 9-Drawer Fabric Dressers sold on Walmart.com by third-party seller Raybee-Direct between September 2023 and March 2026. The US Consumer Product Safety Commission (CPSC) said the dressers can tip over if they are not secured to a wall, creating a risk of serious injury or death, especially for young children. No injuries or incidents have been reported.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 658135,
+          "ave": 6087.75
+        },
+        {
+          "id": "9zjbnl",
+          "headline": "How Walmart Is Using Omnichannel Marketing To Change How Products Get Found",
+          "source": "Arkansas Business",
+          "author": "Kyle Massey",
+          "url": "https://www.arkansasbusiness.com/article/how-walmart-using-omnichannel-marketing-change-how-products-get-found/",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "For companies supplying Walmart or selling goods through it, the keyword in Bentonville is shifting from store aisles to algorithms. In the integrated new world of omnichannel marketing, vendors are finding they need to pay to ensure their goods are instantly seen by Walmart’s huge audience as the world’s largest retailer. But it’s a price well worth paying, according to professionals who help suppliers navigate the new artificial intelligence-driven version of “Vendorville,” the nickname Bentonville accrued over the decades as a magnet for companies seeking a foot in the door of Walmart’s global headquarters.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "AI & Personalization",
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 834658,
+          "ave": 7720.59
+        },
+        {
+          "id": "276zeu",
+          "headline": "Walmart And Target Changes Makes In-Store Shopping Easier",
+          "source": "The Street",
+          "author": "Daniel Kline",
+          "url": "https://www.thestreet.com/retail/walmart-and-targets-simple-change-makes-in-store-shopping-easier",
+          "section": "Brand News",
+          "date": "July 26, 2026",
+          "iso": "2026-07-25",
+          "summary": "Most retailers design their stores to make sure customers see as much merchandise as possible. That’s why grocery chains usually have their dairy cases in the back corner. A lot of shoppers buy milk, and even if that’s all you need, you will be exposed to lots of other items you might buy along the way. In many cases, stores are not set up for ease of shopping. They’re designed to maximize how much you spend. Kohl’s, for example, puts its Amazon returns desk in the back of its stores so customers, who may have no intention of actually buying anything, get exposed to as much merchandise as possible.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Walmart",
+            "Target",
+            "Amazon"
+          ],
+          "reach": 899790,
+          "ave": 8323.06
+        },
+        {
+          "id": "jrbiu7",
+          "headline": "Impulse Buying Is Real — And You’re Probably Falling For This Retail Checkout Trick At Kohl’s And Beyond",
+          "source": "NJ.com",
+          "author": "",
+          "url": "https://www.nj.com/business/2026/07/impulse-buying-is-real-and-youre-probably-falling-for-this-retail-checkout-trick-at-kohls-and-beyond.html",
+          "section": "Brand News",
+          "date": "July 26, 2026",
+          "iso": "2026-07-25",
+          "summary": "Have you ever been to Kohl’s, ready to check out, only to find yourself funneled through two aisles of random merchandise before reaching the register? Now, something you like catches your eye and goes into your cart, then another. Before you know it, you’re spending more. Congratulations, you’ve just bought multiple random items on impulse. Some might appreciate those two aisles filled with junk, but others think of it as an annoyance. Shoppers weren’t afraid to sound off about it in a Reddit thread.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer"
+          ],
+          "brands": [],
+          "reach": 423889,
+          "ave": 3920.97
+        },
+        {
+          "id": "kgdshd",
+          "headline": "Kohl’s Charity Fashion Show Celebrates 10 Years Supporting Arc Of The Bay",
+          "source": "WJHG",
+          "author": "Valentina Gaspari",
+          "url": "https://www.wjhg.com/2026/07/26/kohls-charity-fashion-show-celebrates-10-years-supporting-arc-bay/",
+          "section": "Brand News",
+          "date": "July 26, 2026",
+          "iso": "2026-07-25",
+          "summary": "A runway filled with style and purpose marked a big milestone for Arc of the Bay at the 10th annual Kohl’s Charity Fashion Show, celebrating community support and empowering adults with disabilities. Arc of the Bay says this year also honored the 36th anniversary of the Americans with Disabilities Act (ADA) signed into law, with 36 models taking the runway in outfits they picked out at Kohl’s. The night included an auction, with proceeds helping the non-profit continue its mission to support adults with disabilities across the community. Organizers say the event’s decade-long run reflects strong local backing and the impact it has on participants.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 905234,
+          "ave": 8373.41
+        },
+        {
+          "id": "nn46st",
+          "headline": "Kroger Stock And Grocery Rivals Facing Margin Pressure From Stubborn Food Inflation",
+          "source": "Simply Wall Street",
+          "author": "",
+          "url": "https://simplywall.st/stocks/us/consumer-retailing/nyse-kr/kroger/news/kroger-stock-and-grocery-rivals-facing-margin-pressure-from/amp",
+          "section": "Brand News",
+          "date": "July 26, 2026",
+          "iso": "2026-07-25",
+          "summary": "Grocery bills are staying stubbornly high, even as overall inflation cools, and that is reshaping where and how people shop. Traditional supermarkets face pressure as shoppers hunt for deals, trade down to store brands, and shift more spending toward discounters like Costco and Walmart. At the same time, price rollbacks and elevated input costs are squeezing margins across the sector. This article walks through three stocks that appear particularly exposed to these grocery inflation pressures, all negatively affected by the same set of forces, so you can decide whether they still deserve a place on your watchlist.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart",
+            "Costco",
+            "Kroger"
+          ],
+          "reach": 570497,
+          "ave": 5277.1
+        },
+        {
+          "id": "udpwtj",
+          "headline": "Giant Eagle Becomes Latest Retailer To Lower Prices Amid US Grocery Sales Slowdown",
+          "source": "SeaFoodSource",
+          "author": "Christine Blank",
+          "url": "https://www.seafoodsource.com/news/giant-eagle-becomes-latest-retailer-to-lower-prices-amid-us-grocery-sales-slowdown",
+          "section": "Industry News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "As economic pressures have mounted, sales at U.S. grocery chains have slowed into stagnation, resulting in some retailers lowering prices to attract value-focused consumers. The number of grocery units, or individual items, sold declined 1.8 percent in June compared to the same month a year prior, according to a new Bain & Company analysis conducted in conjunction with NielsenIQ. Bain & Co. partly attributed the sluggishness in units sold to overall grocery prices rising 2 percent to 3 percent over the last year and a hefty 33 percent since 2019",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 733384,
+          "ave": 6783.8
+        },
+        {
+          "id": "k21p39",
+          "headline": "US Economic Anxieties On Display In Battle Over Digital Store Labels",
+          "source": "Financial Times",
+          "author": "Gregory Meyer",
+          "url": "https://www.ft.com/content/1215a488-9ef6-4538-a190-5c5bfbf10c0d?syn-25a6b1a6=1",
+          "section": "Industry News",
+          "date": "July 26, 2026",
+          "iso": "2026-07-25",
+          "summary": "The spread of electronic price displays on grocery store shelves is encountering resistance in the US, fuelled by public anger over rising food prices and the fear of lost retail jobs. Electronic shelf labels are displays that show products, quantities and prices inside stores. Retailers say they are an innocuous tool to save countless hours spent replacing paper labels when prices change. Their opponents charge they are insidious, threatening to bring the kind of dynamic pricing common at airlines or ride-hailing services to grocery stores, or even spy on customers.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer"
+          ],
+          "brands": [],
+          "reach": 21414033,
+          "ave": 198079.81
+        },
+        {
+          "id": "feim5m",
+          "headline": "Major Retailer Announces Its Closing 75 Stores, Slowing Growth Plans",
+          "source": "Cleveland.com",
+          "author": "Leada Gore",
+          "url": "https://www.cleveland.com/news/2026/07/major-retailer-announces-its-closing-75-stores-slowing-growth-plans.html",
+          "section": "Industry News",
+          "date": "July 26, 2026",
+          "iso": "2026-07-25",
+          "summary": "An 88-year-old retailer announced it is shuttering some of its stores as part of an effort to slow its expansion. Tractor Supply, the largest rural lifestyle retail chain in the U.S., announced it will close 75 underperforming Petsense stores. The Tennessee-based company acquired Petsense in 2016 for $116 million. At the time, Petsense operated 136 stores in 25 states. As of July 2026, there are 209 Petsense stores in 23 states. “We believe these actions will improve returns, simplify the business, and allow us to direct resources towards higher growth, higher return opportunities,” Tractor Supply CEO Hal Lawton during the company’s second quarter financial call.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 908585,
+          "ave": 8404.41
         }
       ]
     }
