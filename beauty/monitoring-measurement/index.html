@@ -1688,6 +1688,7 @@ function renderAll(){ renderLanding(); }
           if (!DB.days[d]) { DB.days[d] = serverData.days[d]; added++; }
         });
         if (added > 0 && typeof saveDB === 'function') saveDB();
+        if (added > 0 && typeof renderAll === 'function') renderAll();
       }
     } catch(e) {}
   }
