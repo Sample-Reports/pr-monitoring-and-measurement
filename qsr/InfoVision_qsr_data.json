@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "qsr",
-  "_savedAt": "2026-07-28T11:27:01.398Z",
-  "_dayCount": 9,
+  "_savedAt": "2026-07-28T11:36:34.749Z",
+  "_dayCount": 10,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:45.173Z",
@@ -3044,6 +3044,341 @@
           "brands": [],
           "reach": 296421,
           "ave": 2741.89
+        }
+      ]
+    },
+    "2026-07-28": {
+      "uploadedAt": "2026-07-28T11:36:25.737Z",
+      "filename": "InfoVision_QSR_Media_Briefing_2026-07-28.docx",
+      "articles": [
+        {
+          "id": "mtis3n",
+          "headline": "Apollo Group To Acquire Norway’s Fly Chicken Chain To Roll Out KFC Brand",
+          "source": "Verdict Food Service",
+          "author": "Umesh Ellichipuram",
+          "url": "https://www.verdictfoodservice.com/news/apollo-group-to-acquire-norways-fly-chicken-chain-to-roll-out-kfc-brand/",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "KFC franchisor Apollo Group, in collaboration with MM Group, is in the process of acquiring Norwegian fast casual restaurant chain Fly Chicken to launch the KFC brand in the country. Apollo Group plans to convert most of Fly Chicken’s 19 locations across Norway into KFC restaurants. In addition to the conversions, the franchisor intends to open further KFC sites in the country over the next five years. With this move, Norway will become the fifth market where the Apollo Group runs KFC restaurants under a franchise agreement. Alongside the acquisition, Apollo Group plans to invest €20m ($22m) in the Norwegian market over the coming five years. Following completion of the deal, Fly Chicken’s co-founder and CEO Ronny Gjøse will remain in his role.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Expansion & Store",
+            "Sustainability & Labor"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 509862,
+          "ave": 4716.22
+        },
+        {
+          "id": "45l2ea",
+          "headline": "Taco Bell Offering Another $1 Lettuce-Free Item. See New Promotion",
+          "source": "USA Today",
+          "author": "Drew Pittock",
+          "url": "https://www.usatoday.com/story/money/food/2026/07/27/taco-bell-offering-another-lettuce-free-promotion-july-2026/91068305007/",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Taco Bell is offering another $1 lettuce-free option on July 28, following the success of last week’s $1 Enchirito promotion and the ongoing cyclosporiasis outbreak. In a social media post, Taco Bell announced it will be selling its Mexican Pizza for $1 at participating locations. The fast-food chain's Mexican Pizza features beef and beans between two flour tortillas topped with Mexican pizza sauce, cheese and diced tomatoes. It usually costs $5.39 to $6.99 depending on location. Here’s what you should know about Taco Bell's $1 Mexican Pizza promotion. Taco Bell announced that participating locations will sell its Mexican Pizza menu item for $1 through 11:59 p.m. PT on July 28. The promotion follows a similar $1 Enchirito offer that was available July 22.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 20125212,
+          "ave": 186158.21
+        },
+        {
+          "id": "g9neaf",
+          "headline": "Clinton Twp. Couple Sues Taco Bell Over Cyclosporiasis",
+          "source": "The Detroit News",
+          "author": "Kara Berg",
+          "url": "https://www.detroitnews.com/story/news/local/macomb-county/2026/07/27/clinton-twp-couple-sues-taco-bell-over-cyclosporiasis/91062492007/",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "A Clinton Township couple is suing Taco Bell and Taylor Farms after the couple says they contracted cyclosporiasis from eating infected lettuce from the restaurant, which was sourced from Taylor Farms. Karl and Gina Hercula, of Clinton Township, became ill in July after eating Taco Bell meals containing shredded lettuce in June, according to the lawsuit, filed July 22 in the U.S. District Court for the Eastern District of Michigan. The lawsuit alleges Taylor Farms and Taco Bell owed it to the Herculas to prepare, distribute and sell food that was fit for human consumption and did not have parasites or other substances on it that would affect their health.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 336775,
+          "ave": 3115.17
+        },
+        {
+          "id": "vr8d65",
+          "headline": "7 Beloved Menu Items From The ’90s That Vanished From Chain Restaurants",
+          "source": "Eat This Not That",
+          "author": "Leah Groth",
+          "url": "https://www.eatthis.com/beloved-nineties-chain-restaurant-menu-items-discontinued/",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "One of my favorite 1990s meals was a big bucket of fried chicken with the corn on the cob soaked in butter that came inside that yellow plastic bag. KFC corn on the cob disappeared in the early 2000s, and people are still talking about it. “That tasted soo good slathered in butter..nom nom,” one Redditor. Taco Bell registered the name Enchirito with the United States Patent and Trademark Office way back in May 1970, describing it as a “Combination Enchilada And Burrito” and it was a mainstay on the menu until discontinued in 1993. The Wendy’s salad bar, aka The SuperBar, was another popular feature in the fast food chain during the 1990s. “The SuperBar arguably was discontinued because it was too popular, and thus became harder to keep clean and to maintain,” a person says. “I miss the salad bar too. I would make a special trip to Wendy’s for lunch just for that salad bar,” another said.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Taco Bell",
+            "KFC"
+          ],
+          "reach": 453838,
+          "ave": 4198
+        },
+        {
+          "id": "b4dx52",
+          "headline": "Even Taco Bell Knows Bacon Makes Everything Better: Crispy Chicken Chipotle Bacon Melt Burrito Review",
+          "source": "The Takeout",
+          "author": "Michael Palan",
+          "url": "https://www.thetakeout.com/2224519/taco-bell-chicken-chipotle-bacon-burrito-review/",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Most everyone loves the taste of bacon, including those who don't eat meat. In the 1960s, Betty Crocker did vegetarians a solid by introducing the bacon-free Bac*Os, allowing the familiar divine swine flavors be texture profiles to decorate the likes of salads, soups, and everything in between. Their popularity even gave rise to bacon bits ... made with actual bacon! In the middle of summer 2026, Taco Bell is changing the leafy lettuce subject by introducing Chipotle Bacon bits wrapped up in a cheesy burrito, headlined by its always seemingly disappearing, forever returning yummy Crispy Chicken Strips. Along for the ride is a dash of Avocado Ranch Sauce, and (gasp!) lettuce.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Chipotle",
+            "Taco Bell"
+          ],
+          "reach": 623720,
+          "ave": 5769.41
+        },
+        {
+          "id": "eux5q7",
+          "headline": "Chipotle Is Giving Away Free Chips And Guacamole—Here’s How To Claim Yours",
+          "source": "Parade Magazine",
+          "author": "Grace Galante",
+          "url": "https://parade.com/news/chipotle-giving-away-free-chips-guacamole-heres-how-claim-yours",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Chipotle is giving away free chips and guacamole on Friday, July 31, and Saturday, Aug. 1! For the first time ever, the chain is giving customers the chance to score the free side in celebration of National Avocado Day on July 31. All customers have to do is order an entrée in the Chipotle app or on Chipotle.com on July 31 or Aug. 1 and use the code AVO2026 at checkout to get their free chips and guac! The Chipotle app is available on the App Store and Google Play. The chain is also giving away 80,000 free entrées until Wednesday, July 29! Earlier this month, Chipotle partnered with the PGA TOUR 2K25 video game for the Chipotle Hot Streak Quest, giving customers a chance to score codes for free entrées and double protein. First, you’ll have to buy the PGA TOUR 2K25 video game, if you don’t own it already, and complete the three themed chapters in MyCAREER mode. The chapters include in-game rewards like a taco-head putter and foil-themed golf attire.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chipotle"
+          ],
+          "reach": 337005,
+          "ave": 3117.3
+        },
+        {
+          "id": "j7cil1",
+          "headline": "Burger King’s New Paw Patrol Toys Include First Look At Dino Movie Characters",
+          "source": "Attractions Magazine",
+          "author": "Dani Meyering",
+          "url": "https://attractionsmagazine.com/burger-kings-paw-patrol-toys-dino-movie-characters/",
+          "section": "Brand News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "As excitement builds for Paw Patrol: The Dino Movie, Burger King is giving young fans an early chance to meet the rescue pups — and two prehistoric newcomers — before they hit the big screen. The restaurant chain has launched a new limited-time Paw Patrol King Jr. Kids Meal at participating locations nationwide, with each meal including one of six collectible toys inspired by the upcoming film, which arrives in theaters on Aug. 14. The Burger King promotion arrives just weeks before “Paw Patrol: The Dino Movie” debuts in theaters, offering one of the first opportunities for fans to collect merchandise based on the film. Each King Jr. Kids Meal includes a hamburger, cheeseburger, or Chicken Nuggets, plus a side, drink, and one randomly selected collectible toy. The promotion is available for a limited time while supplies last.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 212184,
+          "ave": 1962.7
+        },
+        {
+          "id": "pzk8op",
+          "headline": "How AI Is Helping QSRs Improve Promotional Execution During Peak Traffic Seasons",
+          "source": "QSR Magazine",
+          "author": "Scott Lasher",
+          "url": "https://www.qsrmagazine.com/story/how-ai-is-helping-qsrs-improve-promotional-execution-during-peak-traffic-seasons/",
+          "section": "AI Pulse",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "The most difficult stretches of each year for QSRs are peak traffic seasons—summer break, back-to-school, the holidays at the end of the year. Guests show up en masse while corporate pushes new, limited-time offers. The stress put on individual outposts is real, and the gap between what HQ has planned and what guests actually see has typically been viewed as an unavoidable cost of doing business. With AI, that’s starting to change. One photo and an AI model can do what the email chain never could. A team member can take a single image in the front of house, and then AI can identify whether the respective parts of the promotion have been executed: window cling, menu strip, register-area material. QSRs can be sure corporate knows the individual locations are matching the expected execution of the promotional plan.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "AI & Automation",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 68484,
+          "ave": 633.48
+        },
+        {
+          "id": "obp3sd",
+          "headline": "AI Is Rewriting The Rules Of Restaurant Strategy — Here's How To Keep Up",
+          "source": "Fast Casual",
+          "author": "",
+          "url": "https://www.fastcasual.com/news/ai-is-rewriting-the-rules-of-restaurant-strategy-heres-how-to-keep-up/",
+          "section": "AI Pulse",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Consumer behavior is shifting. Privacy expectations are tightening. Data regulations are evolving by the month. For restaurant leaders trying to make smart calls on site selection, marketing and operations, the ground is moving faster than the old playbook can keep pace with. That's exactly the challenge FastCasual.com's next webinar, \"AI and the Future of Restaurants: From Foot Traffic to Predictive Insight,\" is designed to help solve. Joining FastCasual.com Publisher Cherryh Cansler for the conversation are two experts who approach the problem from different angles: AziraCEO Gladys Kong, a 20-plus-year veteran of data science and geolocation intelligence, and Goodway Group's Isabelle Soriano, a Senior Client Director who has spent nearly eight years building integrated marketing strategies for QSR and other major industries.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Digital & Ordering",
+            "AI & Automation",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 348751,
+          "ave": 3225.95
+        },
+        {
+          "id": "1u32ka",
+          "headline": "New Report Shows AI Is Creating A ‘Restaurant Profitability Gap’",
+          "source": "The Food Institute",
+          "author": "Kelly Beaton",
+          "url": "https://foodinstitute.com/focus/new-report-shows-ai-is-creating-a-restaurant-profitability-gap/",
+          "section": "AI Pulse",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "A new survey illustrates that AI is becoming a game-changer for the foodservice industry. In its 2026 State of the Restaurant Industry: Mid-Year Report, the Restaurant365 management platform uncovered a notable difference in performance between restaurants using AI and those that are averse to the technology. Drawing upon survey responses from more than 420 restaurant operators, Restaurant365 found that 62% of those using AI for back-office functions reported reduced labor costs. “The real eye-opener is what we’re calling the ‘restaurant profitability gap,’” Restaurant365 executive Steve Demchuk told The Food Institute. “Back-office AI adoption has more than doubled since January, and the operators using it are reporting meaningfully better outcomes.” Operators using AI experienced stronger results across key profitability drivers such as food costs and operational efficiency.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI & Automation",
+            "Expansion & Store",
+            "Sustainability & Labor"
+          ],
+          "brands": [],
+          "reach": 497026,
+          "ave": 4597.49
+        },
+        {
+          "id": "j43g45",
+          "headline": "McDonald’s Latest Breakfast Sandwich Adds A Sweet Twist",
+          "source": "Scripps News",
+          "author": "Justin Boggs",
+          "url": "https://www.scrippsnews.com/business/company-news/mcdonalds-latest-breakfast-sandwich-adds-a-sweet-twist",
+          "section": "Industry News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "For the second consecutive week, McDonald’s has announced a new menu item. This week, McDonald’s unveiled its Honey Brown Butter Bacon, Egg & Cheese Biscuit. The sandwich is similar to the chain’s bacon, egg and cheese biscuit, but includes honey brown butter on the biscuit for added flavor. McDonald’s said the new item will be available for a limited time at U.S. restaurants. “This savory-meets-sweet breakfast sandwich brings together salty, thick-cut applewood-smoked bacon, melty American cheese and a perfectly folded egg — all stacked on a warm buttermilk biscuit brushed with real butter and topped with Honey Brown Butter sauce,” McDonald’s said. The item has 490 calories, just 30 more than the standard bacon, egg and cheese biscuit. The new breakfast item comes as McDonald’s also rolls out a Caesar dipping sauce at participating restaurants for a limited time.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "McDonald's"
+          ],
+          "reach": 440967,
+          "ave": 4078.94
+        },
+        {
+          "id": "p3uiyx",
+          "headline": "Report: Ohio Mcdonald’s Rank Among The Lowest In The Nation",
+          "source": "NBC4 WCMH-TV",
+          "author": "Stephanie Thompson",
+          "url": "https://www.nbc4i.com/news/data-desk-ohio/report-ohio-mcdonalds-rank-among-the-lowest-in-the-nation/",
+          "section": "Industry News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "A report analyzing millions of McDonald’s customer reviews revealed that the chain’s Ohio locations received some of the lowest ratings in the nation. A study by Restaurant Furniture found customers in the Buckeye State gave the chain some of the lowest average ratings nationwide, according to a news release. Researchers analyzed 346,236 Google reviews across 193 Ohio locations, finding the chain earned an overall rating of 3.25 out of 5. The study examined Google reviews from the 10 most populated cities in each state. Researchers calculated a weighted average using each city’s number of locations and average rating to determine the highest- and lowest-rated McDonald’s in every state. Overall, Toledo had the state’s lowest-rated McDonald’s locations, with an average score of 3.06. The highest-rated restaurants were in northeast Ohio, with Parma averaging 3.38 and Lorain 3.37. “What stood out in Ohio was the range between cities,” said Nick Warren, head of ecommerce at Restaurant Furniture. “Parma scores 3.38 while Toledo sits at just 3.06, which suggests individual location management plays a huge role even within the same state.”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [
+            "McDonald's"
+          ],
+          "reach": 550189,
+          "ave": 5089.25
+        },
+        {
+          "id": "m7jbe0",
+          "headline": "McDonald’s Decided You Are Not Worth Helping Anymore",
+          "source": "TheStreet",
+          "author": "Daniel Kline",
+          "url": "https://www.thestreet.com/restaurants/mcdonalds-decided-you-are-not-worth-helping-anymore",
+          "section": "Industry News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Starbucks has found the perfect mix of digital and human ordering. You can use the company’s app to place your complicated order and know it will be made exactly the way you want. And people who don’t want to use the app can stand in line or go through the drive-through to order from an actual human. It’s a simple formula that makes technology an option but doesn’t force it down people’s throats. McDonald’s has embraced technology, but at the expense of people. In many stores, it has replaced the human ordering option with kiosks. To make matters worse, those kiosks aren’t in any way intuitive, and they’re frustrating to use at best.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "McDonald's",
+            "Starbucks"
+          ],
+          "reach": 271892,
+          "ave": 2515
+        },
+        {
+          "id": "pulvpn",
+          "headline": "Chick-fil-A Temporarily Closes In Valley Ranch Town Center For Drive-Thru Remodel",
+          "source": "Community Impact",
+          "author": "Emily Lincke",
+          "url": "https://communityimpact.com/new-caney-porter/dining/chick-fil-a-temporarily-closes-in-valley-ranch-town-center-for-drive-thru-remodel/",
+          "section": "Industry News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "The Chick-fil-A location in Valley Ranch Town Center will be closed July 27-28 for renovations to the store's drive-thru, according to a July 25 social media post from the business. The restaurant is expected to reopen July 29. Chick-fil-A serves fried and grilled chicken sandwiches, nuggets and salads, according to the company's website. The restaurant also offers wraps, milkshakes, lemonade and waffle fries. The Chick-fil-A in VRTC also underwent a remodel in April 2025, as previously reported by Community Impact.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chick-fil-A"
+          ],
+          "reach": 159331,
+          "ave": 1473.81
+        },
+        {
+          "id": "t3y854",
+          "headline": "Culver’s, Raising Cane’s Chicken Fingers Construction Underway In Trussville",
+          "source": "CBS 42",
+          "author": "Isaac Goffin",
+          "url": "https://www.cbs42.com/trussville-tribune/culvers-raising-canes-chicken-fingers-construction-underway-in-trussville/",
+          "section": "Industry News",
+          "date": "July 27, 2026",
+          "iso": "2026-07-26",
+          "summary": "Two highly anticipated new to the market Trussville eateries are under construction and progressing. It was announced in February that Culver’s had closed on the property, but no timeline for construction had been had been set at the time. The, however, building is now well underway. The Wisconsin based burger restaurant will be located at 5905 Trussville Crossings Boulevard in the former BancorpSouth building across from the former Whataburger building just off of Chalkville Mountain Road. The restaurant opened in Sauk City, Wisconsin in 1984. They opened the first Alabama location in 2018. Culver’s is known for their ButterBurger, cheese curds and frozen custard. Representatives from Raising Cane’s appeared before the Trussville Design Review Committee in February to present plans for a new fast-casual restaurant at the former Pet Supplies Plus location on U.S. Highway 11.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 750570,
+          "ave": 6942.77
         }
       ]
     }
