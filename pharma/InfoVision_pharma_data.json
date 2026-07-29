@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "pharma",
-  "_savedAt": "2026-07-28T11:36:52.565Z",
-  "_dayCount": 10,
+  "_savedAt": "2026-07-29T11:42:56.679Z",
+  "_dayCount": 11,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:09.000Z",
@@ -3827,6 +3827,402 @@
           "brands": [],
           "reach": 467472,
           "ave": 4324.12
+        }
+      ]
+    },
+    "2026-07-29": {
+      "uploadedAt": "2026-07-29T11:42:47.833Z",
+      "filename": "InfoVision_Pharma_Media_Briefing_2026-07-29.docx",
+      "articles": [
+        {
+          "id": "1lyuf8",
+          "headline": "Eli Lilly Tops New Biopharma Ranking On Launch Success, Development Speed",
+          "source": "Fierce Biotech",
+          "author": "Will Maddox",
+          "url": "https://www.fiercebiotech.com/biotech/eli-lilly-rides-launch-success-and-development-timelines-top-new-ranking-worlds-most",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Flush with GLP-1 cash and pipeline success, Eli Lilly rose from 16th to first over five years in Norstella’s inaugural Pipeline-to-Patient Productivity Index (P3i), which evaluated 25 large, global biopharma companies on R&D productivity, market access and commercial performance. Norstella designed the index to give biopharma funders more information about how companies are performing and help guide their portfolio decisions. Norstella CEO Mike Gallup said an industry requiring the time and capital investment of biopharma needs a clearer scoreboard to track success. “It is the first benchmark to follow a molecule across the entire journey: from disclosure through clinical risk, into market access and on to commercial return,” he said.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 467472,
+          "ave": 4324.12
+        },
+        {
+          "id": "whijht",
+          "headline": "Eli Lilly Sued Over Drug Data Policy By New England Hospital",
+          "source": "Bloomberg Law",
+          "author": "Nyah Phengsitthy",
+          "url": "https://news.bloomberglaw.com/health-law-and-business/new-hampshire-hospital-sues-lilly-over-demands-under-drug-plan",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "A New Hampshire-based hospital is challenging Eli Lilly & Co.’s latest policy that requires certain healthcare providers to submit data every time it dispenses the company’s discounted drug to a patient. The lawsuit filed Monday by Mary Hitchcock Memorial Hospital alleges Lilly’s data requirement to healthcare entities under the federal 340B Drug Pricing Program imposes an illegal policy with “non-negotiable terms” and “retaliatory pricing penalties in order to extract commercially valuable data.”",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Public Health Policy"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 391267,
+          "ave": 3619.22
+        },
+        {
+          "id": "irt01u",
+          "headline": "Johnson & Johnson Reaches $5.5 Billion Baby Powder Settlement",
+          "source": "Reuters",
+          "author": "",
+          "url": "https://www.reuters.com/video/watch/idRCV00GT50/",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Johnson & Johnson said on Monday (July 27) it would pay an estimated $5.5 billion to resolve tens of thousands of lawsuits alleging its baby powder and other talc products cause ovarian cancer, in a landmark deal that could end a contentious legal battle that has dogged the company for a decade. Dietrich Knauth reports.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "ie7z0y",
+          "headline": "Bristol Myers Squibb Hopes To Boost Drug Trials With NVIDIA Supercomputer",
+          "source": "National Association of Manufacturers - NAM",
+          "author": "Nyah Phengsitthy",
+          "url": "https://nam.org/bristol-myers-squibb-hopes-to-boost-drug-trials-with-nvidia-supercomputer/",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Biopharmaceutical manufacturer Bristol Myers Squibb will soon become the first life sciences firm to buy semiconductor maker NVIDIA’s latest generation supercomputer. What’s going on: BMS will “expand its infrastructure to deploy … the NVIDIA DGX SuperPOD that is enabled with AIDGX Vera Rubin NVL72 systems. The result will be the ‘most powerful and energy-efficient single-owned NVIDIA infrastructure in life sciences,’ BMS claimed in a July 20 release.” The move builds on a three-year partnership between the companies, which started when BMS first began using NVIDIA DGX SuperPOD infrastructure for its research and development.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 818931,
+          "ave": 7575.11
+        },
+        {
+          "id": "qptbnd",
+          "headline": "Replimune Is Locked In A Standoff With Regulators. Here Is What It Means For The Stock.",
+          "source": "Barron's",
+          "author": "Mackenzie Tatananni",
+          "url": "https://www.barrons.com/articles/replimune-stock-price-fda-skin-cancer-drug-fc3dc49e",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Replimune Group and the Food and Drug Administration have engaged in a heated back-and-forth for months over approval of the biotech’s investigational skin cancer drug. The standoff has taken a turn for the stock. In the briefing documents for a coming advisory committee meeting, regulators took issue with Replimune’s resubmitted application for the drug, saying flaws in the study design made it impossible to trust the results. Moreover, the FDA said, further data analyses weren’t sufficient to clear up “previously identified deficiencies” regarding the drug’s efficacy. Shares cratered 34% on Tuesday, putting Replimune on track for its worst single-day drop since a 64% plunge in April, according to Dow Jones Market Data. Replimune is seeking Food and Drug Administration approval for its investigational skin cancer drug, RP1, in combination with Bristol Myers Squibb’s Opdivo.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 512598,
+          "ave": 4741.53
+        },
+        {
+          "id": "sb4vb5",
+          "headline": "Novo Nordisk Must Face US Shareholder Lawsuit Over Cagrisema Weight Loss Trial",
+          "source": "Reuters",
+          "author": "Jonathan Stempel",
+          "url": "https://www.reuters.com/world/novo-nordisk-fails-end-us-shareholder-lawsuit-over-cagrisema-clinical-trial-2026-07-28/",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "A U.S. judge said on Tuesday that Novo Nordisk must face ‌part of a lawsuit accusing it of defrauding shareholders about a clinical trial for its weight loss and diabetes treatment CagriSema. Novo Nordisk's American depositary receipts fell 17.8% on December 20, 2024, after the Danish drugmaker said CagriSema helped reduce weight by 20.4%, ​below its 25% target and what investors called the \"proven\" 22.5% benchmark for Eli Lilly's obesity drug ​Zepbound. Investors also blamed the decline on Novo Nordisk's revelation that it changed its usual ⁠protocols by letting participants control their own CagriSema dosages, with just 57% receiving the highest dose. They said ​this raised concern that some people might have difficulty tolerating the treatment.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials",
+            "M&A / Markets"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "nlo2gs",
+          "headline": "Bristol Myers Squibb (BMY) Stock Still Looks Cheap After Fresh AI Drug Discovery News",
+          "source": "Simply Wall St",
+          "author": "Bailey Pemberton",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-bmy/bristol-myers-squibb/news/bristol-myers-squibb-bmy-stock-still-looks-cheap-after-fresh",
+          "section": "AI Pulse",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Bristol-Myers Squibb stock has delivered a strong 42.2% return over the past year, while the current valuation checks show a mixed picture and the Discounted Cash Flow (DCF) intrinsic value estimate points to the shares trading at a sizeable discount to that model. The expanded use of Nvidia powered AI systems for drug discovery may support expectations for future cash flows, while execution risk around large R&D investments and complex clinical outcomes can still affect how much of that value actually materialises.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 263901,
+          "ave": 2441.08
+        },
+        {
+          "id": "f12hfy",
+          "headline": "Biointron Launches Rushdata To Accelerate AI-Driven Antibody Discovery With High-Throughput Experimental Validation",
+          "source": "BioPharma APAC",
+          "author": "",
+          "url": "https://biopharmaapac.com/news/18/8238/biointron-launches-rushdata-to-accelerate-ai-driven-antibody-discovery-with-high-throughput-experimental-validation.html",
+          "section": "AI Pulse",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Biointron Biological USA Inc., a leading contract research organization for antibody discovery, expression, and optimization, has launched RushData. RushData is an integrated service platform designed to support the growing demands of AI- and machine learning-driven antibody discovery for global pharma and biotech organizations. As computational antibody design continues to accelerate, AI and ML models are now able to generate hundreds to thousands of candidate antibody sequences in a single design cycle. But while sequence generation has scaled rapidly, experimental validation workflows are often fragmented, with expression, binding characterization, and developability testing performed separately across multiple steps or providers. This traditional approach can take 3-4 weeks or longer, slowing iteration and creating a major bottleneck in design-build-test-learn cycles.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 50996,
+          "ave": 471.71
+        },
+        {
+          "id": "tj6ycq",
+          "headline": "Steriline Launches AI Tools For Sterile Fill-Finish Lines",
+          "source": "Contract Pharma",
+          "author": "Charlie Sternberg",
+          "url": "https://www.contractpharma.com/breaking-news/steriline-launches-ai-tools-for-sterile-fill-finish-lines/",
+          "section": "AI Pulse",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Steriline, a manufacturer of complete lines for the sterile filling of injectable and ophthalmic products for pharmaceutical companies worldwide, is enhancing the use of Artificial Intelligence (AI) in its solutions by introducing two intelligent technologies that work in synergy: OmniAI Vision and OptiLAIN. OmniAI Vision is dedicated to image analysis, while OptiLAIN focuses on continuous process monitoring and predictive maintenance. “Steriline has always been committed to creating and implementing smarter production solutions which, in the long term, will become increasingly autonomous,” says Ilaria Fumagalli, CEO of Steriline. “It is within this context that our investment in artificial intelligence over recent years fits, enabling us, amongst other things, to further reduce operator involvement in accordance with the guidelines of Annex 1 and Annex 22.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 449845,
+          "ave": 4161.07
+        },
+        {
+          "id": "6rmx0p",
+          "headline": "The Promise – And Limitations – Of AI In JCA PICO Planning For Pharmas And Medtechs",
+          "source": "Clarivate",
+          "author": "Jade Seidman",
+          "url": "https://clarivate.com/life-sciences-healthcare/blog/the-promise-and-limitations-of-ai-in-jca-pico-planning-for-pharmas-and-medtechs/",
+          "section": "AI Pulse",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "The central challenge of Joint Clinical Assessment (JCA) is building a dossier before knowing precisely what evidence will be requested by the HTA Coordination Group – effectively, preparing an answer to a question that has not yet been asked. If outcomes aligned with JCA-defined PICO components (Problem or Population, Intervention, Comparison, Outcome) are not anticipated early, health technology developers (HTDs) can face a last-minute rush to generate evidence within a short submission window. To reduce this risk, HTDs are increasingly turning to artificial intelligence (AI) tools to improve both the speed and quality of PICO planning. AI can be useful for rapidly synthesizing information, and is effective at surfacing precedent, but it cannot determine what will be considered decision-relevant in a future JCA. Translating these insights into robust and defensible PICO assumptions requires expert interpretation, informed by a deep understanding of how the reimbursement landscape is evolving. Here, we look at some of the ways it can support PICO planning, as well as its limitations.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 846731,
+          "ave": 7832.26
+        },
+        {
+          "id": "yji29i",
+          "headline": "Acrosian Debuts As AI-Focused Biometrics CRO",
+          "source": "Fierce Biotech",
+          "author": "Will Maddox",
+          "url": "https://www.fiercebiotech.com/cro/acrosian-debuts-ai-focused-biometrics-cro",
+          "section": "AI Pulse",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "The founders of contract research organization (CRO) Quartesian have reunited to form Acrosian, a CRO designed to be purpose-built for the AI era. Rather than a traditional CRO that runs full-scale trial site operations, Acrosian plans to provide data management, biostatistics, statistical programming and medical writing services for biopharma and medical device companies, according to a release. Acrosian looks to target emerging biotechs and global pharmaceutical companies. It will feature AI-augmented workflows validated by a GxP framework, with human accountability and security. The company says it aims to deliver its services with transparency regarding what the AI can and can’t do. “The industry doesn’t need more AI claims,” said Yurii Kartashov, Ph.D., Chief Research & Development Officer at Acrosian, via release. “It needs confidence in how AI is implemented.”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI in Drug Discovery",
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 467472,
+          "ave": 4324.12
+        },
+        {
+          "id": "13kzls",
+          "headline": "AstraZeneca Loses Court Bid To Block Maine Contract Pharmacy Law",
+          "source": "Bloomberg Law",
+          "author": "Ganny Belloni",
+          "url": "https://news.bloomberglaw.com/health-law-and-business/judge-dismisses-astrazenecas-bid-to-stop-maine-pharmacy-law",
+          "section": "Industry News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "A federal court dismissed an effort from AstraZeneca to block a Maine law regulating drug companies’ contracts with pharmacies in the state. The US District Court for the District of Maine on Monday granted Maine’s motion to dismiss a request from AstraZeneca PLC asking the court to halt the enforcement of Chapter 103 of the state’s insurance code, which prohibits manufacturers from imposing limitations on a pharmacy’s participation in the federal 340B drug discount program.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "M&A / Markets"
+          ],
+          "brands": [
+            "AstraZeneca"
+          ],
+          "reach": 391267,
+          "ave": 3619.22
+        },
+        {
+          "id": "53cg0r",
+          "headline": "Merck Signs License Agreements For Monthly PrEP Drug Alimatravir In Developing Countries",
+          "source": "Generics Bulletin",
+          "author": "Alaric DeArment",
+          "url": "https://insights.citeline.com/generics-bulletin/business/deals/merck-signs-license-agreements-for-monthly-prep-drug-alimatravir-in-developing-countries-RV64POIWPFEJJIHVMVHYEE53EA/",
+          "section": "Industry News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Merck & Co. is laying the groundwork to enable supply of alimatravir, its once-monthly oral drug for pre-exposure prophylaxis (PrEP) against HIV, in developing countries with initial access plans that cover nearly 130 countries as the drug goes through Phase III development.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 626731,
+          "ave": 5797.26
+        },
+        {
+          "id": "ul9byc",
+          "headline": "Amgen Makes Its Case For Hearing To Keep Tavneos On The US Market",
+          "source": "BioWorld",
+          "author": "Nuala Moran",
+          "url": "https://www.bioworld.com/articles/732928-amgen-makes-its-case-for-hearing-to-keep-tavneos-on-the-us-market?v=preview",
+          "section": "Industry News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "The fight to keep Tavneos (avacopan) on the market is continuing, with Amgen Inc. submitting its defense of the vasculitis drug to the U.S. FDA just as the July 29 deadline approached. The submission is in support of a request for a hearing on Tavneos after the FDA proposed on April 30 that the marketing approval be annulled.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 113002,
+          "ave": 1045.27
+        },
+        {
+          "id": "jhop8y",
+          "headline": "Preliminary Trial Results Suggest A Path To A Safer Alzheimer’s Treatment",
+          "source": "STAT News",
+          "author": "Adam Feuerstein",
+          "url": "https://www.statnews.com/2026/07/28/promis-neurosciences-amyloid-alzheimers-aria/",
+          "section": "Industry News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "An interim look at an Alzheimer’s disease clinical trial evaluating an amyloid-targeting treatment from ProMIS Neurosciences showed low rates of brain bleeding and no incidences of brain swelling — results reported Tuesday that suggest the drug could be safer than approved treatments. In a blinded analysis that pooled safety data from patients receiving the ProMIS drug and a placebo, the total rate of ARIA was 4.4%, with all cases mild and asymptomatic, the company said.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 478047,
+          "ave": 4421.93
+        },
+        {
+          "id": "cdsn77",
+          "headline": "ViiV's Dovato Matches Gilead's Biktarvy In First Head-To-Head HIV Trial",
+          "source": "The Pharma Letter",
+          "author": "",
+          "url": "https://www.thepharmaletter.com/pharma-news/viivs-dovato-matches-gileads-biktarvy-in-first-head-to-head-hiv-trial",
+          "section": "Industry News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "ViiV Healthcare's two-drug HIV pill Dovato (dolutegravir/lamivudine) has matched the efficacy of Gilead's market-leading three-drug regimen Biktarvy in the first trial pitting the two directly against each other in patients starting treatment for the first time. The data, from the phase IIIb VOGUE study, were unveiled this week at the AIDS 2026 conference in Rio de Janeiro, Brazil. ViiV, the specialist HIV business majority owned by UK drug major GSK (LSE: GSK), with Japanese firm Shionogi (TYO: 4507) as a shareholder, said Dovato proved non-inferior to Biktarvy (bictegravir/emtricitabine/tenofovir alafenamide) after 48 weeks. The result held across harder-to-treat groups, including people with high viral loads or weakened immune systems.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [
+            "GSK"
+          ],
+          "reach": 677658,
+          "ave": 6268.34
+        },
+        {
+          "id": "e18piy",
+          "headline": "GSK Raises Margin Outlook, Plots $2.5 Billion Restructuring To Fast-Track New Drugs",
+          "source": "Reuters",
+          "author": "Bhanvi Satija, Raechel Thankam Job",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/gsk-beats-second-quarter-profit-estimates-launches-252-billion-cost-savings-2026-07-28/",
+          "section": "Industry News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "GSK launched a £1.9 billion ($2.52 billion) cost-savings effort on Tuesday to help fund the ‌British drugmaker's expanded late-stage study roster, as CEO Luke Miels works to deliver on his promise of faster drug development. The restructuring is a major step by Miels to reassure investors that GSK can navigate a looming patent cliff for its blockbuster HIV drug, dolutegravir, between 2028 and 2030. GSK said it now expects to start 25 late-stage studies by ​the end of 2026, more than double its previous target of 10, after a portfolio review identified seven experimental medicines that it ​will test across 18 indications.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Clinical Trials",
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "GSK"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "ecmjek",
+          "headline": "GSK, Hansoh's Bone Cancer Drug Meets Main Goal In Late-Stage Trial",
+          "source": "Reuters",
+          "author": "Pushkala Aripaka, Prerna Bedi",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/gsk-hansohs-cancer-drug-meets-main-goal-bone-cancer-trial-2026-07-28/",
+          "section": "Industry News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "GSK on Tuesday said partner Hansoh Pharmaceutical's experimental drug met ​the main goal of keeping an aggressive bone ‌cancer from worsening in a late-stage trial, boosting the British drugmaker's efforts to rebuild its cancer portfolio. The treatment, ris-rez, met ​its primary endpoint of progression-free survival in ​relapsed osteosarcoma in the trial. The results come ⁠just weeks after the drug succeeded in another advanced study. Osteosarcoma, ​the most common childhood bone tumor, is diagnosed in about ​400 children and teens in the U.S. every year, according to St. Jude Children's Research Hospital. It is usually treated ​by chemotherapy and surgery. GSK, which holds rights to the ​drug outside China, is accelerating development of the treatment for multiple ‌types ⁠of cancers, along with mo-rez, another experimental therapy licensed from the Chinese drugmaker that it believes has blockbuster potential.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "GSK"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "sx8ypd",
+          "headline": "Big Pharma Gets A Lesson In Trusting The Science",
+          "source": "Reuters",
+          "author": "Robert Cyran",
+          "url": "https://www.reuters.com/commentary/breakingviews/big-pharma-gets-lesson-trusting-science-2026-07-28/",
+          "section": "Industry News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Investors crave certainty, and litigation offers anything but. Yet courtroom risks offer lucrative opportunities for the brave, as healthcare giant Johnson & Johnson’s legal quagmires show. The $640 billion company said Monday that it would pay an estimated $5.5 billion ‌to settle tens of thousands of lawsuits alleging its talc-containing products caused ovarian cancer, which would resolve nearly all remaining claims. If 95% of claimants participate, the entire saga – which has dragged through courts for over a decade – should finally come to an end. J&J has tried to find dubious shortcuts out of its troubles before, including three attempts to shuffle legal liabilities into a subsidiary that filed for bankruptcy. Recent developments have begun to favor the company, though: earlier this month, a judge said that plaintiffs must provide more evidence or risk having their lawsuits tossed.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
         }
       ]
     }
