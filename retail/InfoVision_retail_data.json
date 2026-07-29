@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "retail",
-  "_savedAt": "2026-07-28T11:36:17.465Z",
-  "_dayCount": 10,
+  "_savedAt": "2026-07-29T11:43:37.595Z",
+  "_dayCount": 11,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:03.474Z",
@@ -2648,6 +2648,248 @@
           "brands": [],
           "reach": 290791,
           "ave": 2689.82
+        }
+      ]
+    },
+    "2026-07-29": {
+      "uploadedAt": "2026-07-29T11:43:30.833Z",
+      "filename": "InfoVision_Retail_Media_Briefing_2026-07-29.docx",
+      "articles": [
+        {
+          "id": "276zeu",
+          "headline": "Walmart And Target Changes Makes In-Store Shopping Easier",
+          "source": "The Street",
+          "author": "Daniel Kline",
+          "url": "https://www.thestreet.com/retail/walmart-and-targets-simple-change-makes-in-store-shopping-easier",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Most retailers design their stores to make sure customers see as much merchandise as possible. That’s why grocery chains usually have their dairy cases in the back corner. A lot of shoppers buy milk, and even if that’s all you need, you will be exposed to lots of other items you might buy along the way. In many cases, stores are not set up for ease of shopping. They’re designed to maximize how much you spend. Kohl’s, for example, puts its Amazon returns desk in the back of its stores so customers, who may have no intention of actually buying anything, get exposed to as much merchandise as possible.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Walmart",
+            "Target",
+            "Amazon"
+          ],
+          "reach": 899790,
+          "ave": 8323.06
+        },
+        {
+          "id": "gvwrnq",
+          "headline": "Kroger And Albertsons Continue To See Their Market Share Contract",
+          "source": "Grocery Dive",
+          "author": "Catherine Douglas Moran",
+          "url": "https://www.grocerydive.com/news/kroger-albertsons-grocery-market-share-contract-numerator/826197/",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Amazon and Whole Foods Market combined grew their grocery market share by just over half of a percentage point for the 12 months ending June 30 compared with the same period last year — the largest increase among 15 food retailers tracked by Numerator, according to research the firm shared with Grocery Dive. Costco saw the second-largest year-over-year bump, followed by Walmart. Meanwhile, H-E-B, Publix and Target recorded flat growth. Kroger, Albertsons and Ahold Delhaize USA all saw their grocery market share contract by a fraction of a percentage point, underscoring the difficulty that major traditional supermarket operators face in keeping shoppers spending with them.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart",
+            "Target",
+            "Amazon",
+            "Costco",
+            "Kroger"
+          ],
+          "reach": 158087,
+          "ave": 1462.3
+        },
+        {
+          "id": "wpb8rk",
+          "headline": "Walmart Shoppers’ Bank Accounts ‘Compromised’ After Silent Device Installed At Checkout",
+          "source": "The Sun",
+          "author": "Juliana Cruz Lima",
+          "url": "https://www.the-sun.com/news/16757842/walmart-shoppers-bank-accounts-compromised/",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "WALMART shoppers had their bank accounts allegedly compromised after crooks secretly targeted customers at the checkout. A total of 149 credit and debit cards were reportedly affected before investigators uncovered the alleged scam, leading to multiple felony charges. Police in Lubbock, Texas, say two men are accused of planting a credit card skimmer on a checkout terminal inside a Walmart Neighborhood Market, allowing sensitive banking information to allegedly be stolen from unsuspecting shoppers.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Walmart",
+            "Target"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "ct7s8z",
+          "headline": "Wakefern Food To Implement Central Fill Pharmacy System With iA",
+          "source": "Drug Store News",
+          "author": "Sandra Levy",
+          "url": "https://drugstorenews.com/wakefern-food-implement-central-fill-pharmacy-system-ia",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Wakefern Food, the retailer-owned supermarket cooperative, today announced plans to implement a centralized pharmacy fulfillment system in partnership with iA. The facility will streamline prescription dispensing and backend pharmacy operations to allow more personalized patient care across ShopRite Pharmacies. The 12,000-square-foot centralized fulfillment center, which is expected to open early next year, will serve pharmacies at 149 ShopRite stores and two The Fresh Grocer locations in the Northeast.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "AI & Personalization"
+          ],
+          "brands": [],
+          "reach": 931470,
+          "ave": 8616.1
+        },
+        {
+          "id": "ek8p70",
+          "headline": "Walmart Has A Shoplifting Problem It Helped Create",
+          "source": "The Street",
+          "author": "Daniel Kline",
+          "url": "https://www.thestreet.com/retail/walmart-faces-surprising-shoplifting-problem",
+          "section": "Brand News",
+          "date": "July 28,2026",
+          "iso": null,
+          "summary": "Shoplifting numbers, who’s stealing, and why they’re stealing have become hot-button talk-show topics, so it’s no surprise that retailers have reported an increase in theft. “Retailers report increases across various methods of external theft (cargo/supply chaintheft, shoplifting, and walkout/pushout theft) as well as digital and online fraud (phone scams, ecommerce fraud, and repeat offender theft). The survey showed a combined 19% increase in external shoplifting and merchandise theft incidents from 2023 to 2024,” according to the National Retail Federation’s (NRF) 2025 Impact of Retail Theft & Violence Report.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "Supply Chain"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 899790,
+          "ave": 8323.06
+        },
+        {
+          "id": "wjebvx",
+          "headline": "Glen Carbon Committee To Discuss Walmart Drone Delivery Proposal",
+          "source": "The Edwardsville Intelligencer",
+          "author": "Don Munsch",
+          "url": "https://www.theintelligencer.com/news/article/glen-carbon-il-walmart-drone-delivery-22361793.php",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "The Glen Carbon Building and Development Committee will discuss a proposal July 28 to add a drone delivery service at the Walmart Supercenter at 400 Junction Drive. The committee will meet at 6 p.m. at Village Hall, 151 N. Main St. The agenda calls for the committee to review the proposal and make a recommendation. Village Community Development Department staff members have met twice with Walmart representatives about the proposal. A primary issue is whether the equipment used for the service would comply with village parking and zoning requirements.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "AI & Personalization"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 420996,
+          "ave": 3894.21
+        },
+        {
+          "id": "accwdl",
+          "headline": "No, Robotics And AI Are Not Taking Over Retail, And Humans Will Still Have Jobs In Five Years From Now",
+          "source": "Retail Technology Innovation Hub",
+          "author": "Scott Thompson",
+          "url": "https://retailtechinnovationhub.com/home/2026/7/28/no-robotics-and-ai-are-not-taking-over-retail-and-humans-will-still-have-jobs-in-five-years-from-now",
+          "section": "AI Pulse",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Automation isn't there to replace human interaction in retail. Rather, the point is to clear the noise so those interactions can actually be valuable. So says Mark Schneider, Director of Business Development at Cleveron. In a LinkedIn post, he said: \"Robotics and AI are taking over, and humans won't have jobs in five years…If I had a pound for every time I heard that in retail tech, I’d be retired by now. There’s this persistent myth that bringing in automation like Click & Collect hubs or parcel lockers destroys the human element of shopping.” He added: “In practice, I've usually seen the exact opposite happen. When store teams aren't stuck behind a counter scanning labels or hunting for missing parcels in the back room, they actually have time to engage with people. The tech handles the repetitive admin while the team handles the experience.”",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "AI & Personalization"
+          ],
+          "brands": [],
+          "reach": 153553,
+          "ave": 1420.37
+        },
+        {
+          "id": "2oslls",
+          "headline": "Unpacked: How agentic AI Is Reshaping The Consumer Journey",
+          "source": "Modern Retail",
+          "author": "",
+          "url": "https://www.modernretail.co/sponsored/unpacked-how-agentic-ai-is-reshaping-the-consumer-journey/",
+          "section": "AI Pulse",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Agentic commerce has quickly become a hot industry topic, as the technology evolves from a theoretical concept into real-world applications that commerce teams are actively testing and deploying. Major technology companies such as Google and OpenAI are racing to embed AI agents into their search, browsing and checkout experiences, and those agents are expected to soon handle the end-to-end shopping journey for consumers. This marks a fundamental shift in how shoppers discover, evaluate and purchase products. By 2030, agentic AI is projected to account for 15%–25% of total U.S. e-commerce, according to Bain & Company — an indication that businesses won’t truly be omnichannel unless they have incorporated agentic shopping experiences.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "AI & Personalization",
+            "Pricing & Consumer"
+          ],
+          "brands": [],
+          "reach": 482884,
+          "ave": 4466.68
+        },
+        {
+          "id": "o41kf9",
+          "headline": "New Research Reveals Structural Failure In High-Volume Retail Marketing",
+          "source": "Perishable News",
+          "author": "",
+          "url": "https://perishablenews.com/retailfoodservice/new-research-reveals-structural-failure-in-high-volume-retail-marketing/",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Grocery retail marketing has hit a structural tipping point according to latest industry research released by CHILI publish. Campaign production now operates at manufacturing scale, but without the systems, controls, or reliability that underpin industrial production. The result is a growing gap between output and execution and this is increasingly putting revenue at risk. This is not simply a question of volume. It is a systems problem. Retailers are attempting to run industrial-scale content production on fragmented workflows, manual approvals and disconnected tools. At this level of complexity, failure is becoming systemic.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 156936,
+          "ave": 1451.66
+        },
+        {
+          "id": "b7ebsa",
+          "headline": "These Are The 2026 Best Running Stores In America",
+          "source": "Slowtwitch News",
+          "author": "Ryan Heisler",
+          "url": "https://www.slowtwitch.com/industry/these-are-the-2026-best-running-stores-in-america/",
+          "section": "Industry News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "The Running Event (TRE), North America’s specialty run retail conference and trade show, has announced that 65 running stores have earned the 2026 Best Running Store honor, recognizing specialty retailers whose commitment to customer service, community leadership, and employee development elevate the running industry. The honor, once awarded by Competitor Group, has been handed out by the team behind the sizable December trade show for the past decade. It was once limited exclusively to 50 stores, but the list size has ebbed and flowed over the past few iterations, expanding to 65 last year.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [],
+          "reach": 218623,
+          "ave": 2022.26
+        },
+        {
+          "id": "pzdup2",
+          "headline": "Tech Tuesday: Retail Technology And Strategies For Success",
+          "source": "WWD",
+          "author": "Arthur Zackiewicz",
+          "url": "https://wwd.com/sourcing-journal/industry-news/retail-technology-and-strategies-for-success-1239083268/",
+          "section": "Industry News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "This week, Browzwear shares a strategy for a successful digital transformation that requires key steps. The company illustrates the strategic plan with a case study from a global apparel maker. Meanwhile, Zebra Technologies shares insights from a survey that shows it pays off to update a company’s workflow processes with AI.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 126372,
+          "ave": 1168.94
         }
       ]
     }
