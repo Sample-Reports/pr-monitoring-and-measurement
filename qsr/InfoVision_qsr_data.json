@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "qsr",
-  "_savedAt": "2026-07-28T11:36:34.749Z",
-  "_dayCount": 10,
+  "_savedAt": "2026-07-29T11:43:18.348Z",
+  "_dayCount": 11,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:45.173Z",
@@ -3379,6 +3379,406 @@
           "brands": [],
           "reach": 750570,
           "ave": 6942.77
+        }
+      ]
+    },
+    "2026-07-29": {
+      "uploadedAt": "2026-07-29T11:43:12.197Z",
+      "filename": "InfoVision_QSR_Media_Briefing_2026-07-29.docx",
+      "articles": [
+        {
+          "id": "vlbpg3",
+          "headline": "KFC Founder Colonel Sanders’ Signature Bow Tie And Personal Planner Sell At Auction",
+          "source": "Associated Press",
+          "author": "Dylan Lovan",
+          "url": "https://apnews.com/article/colonel-harland-sanders-chicken-kfc-auction-kentucky-cf9a4ea9c284de8b330490353b87c65d",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "KFC founder Colonel Sanders ' signature black bow tie, original cash register and dozens of other personal items sold Tuesday night in a public auction, while his former home and another restaurant he owned were up for auction later in the week. With his distinctive wardrobe and goatee, Harland Sanders built global brand recognition for the chain originally known as Kentucky Fried Chicken. He has remained the widely recognized face of the worldwide chain after his death in 1980. “Colonel Sanders was the original celebrity chef,” said Bill Menish, whose firm, The Menish Group, is conducting the auction. “The feedback has been worldwide, so we needed to have an auction that would cater to that worldwide audience.”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 706249,
+          "ave": 6532.8
+        },
+        {
+          "id": "9nbvpz",
+          "headline": "KFC Puts Its Country Fried Steak In The Value Spotlight",
+          "source": "Nation’s Restaurant News",
+          "author": "Alicia Kelso",
+          "url": "https://www.nrn.com/quick-service/kfc-puts-its-country-fried-steak-in-the-value-spotlight",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "KFC is leveraging consumer trends toward comfort food by shining a spotlight on its Country Fried Steak, which rolled out to the broader system earlier this month. For a limited time, the chicken chain is offering a Country Fried Steak Meal for $4.99, including crispy fried steak covered in white gravy, gravy-covered mashed potatoes, coleslaw, and a warm biscuit. The deal is available on Wednesdays only at participating restaurants nationwide for a limited time. At KFC restaurants where the item was already on the menu, average daily Country Fried Steak orders jumped nearly 20% following its broader rollout, the company said. The lack of national promotion and its Wednesday-only availability at select locations has given it somewhat of a cult following among KFC regulars, and the company calls it one of its \"best-kept secrets.\"",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 618551,
+          "ave": 5721.6
+        },
+        {
+          "id": "rg7cbh",
+          "headline": "Taco Bell Is Offering A $1 Deal For Lettuce-Free Menu Item Amid Cyclosporiasis Outbreak",
+          "source": "People.com",
+          "author": "Chiara Kim",
+          "url": "https://people.com/taco-bell-is-offering-one-dollar-mexican-pizza-amid-cyclosporiasis-outbreak-12028276",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Taco Bell is offering a $1 deal for one day only. The fast food chain, which recently stopped using lettuce from Taylor Farms amid links to a cyclosporiasis outbreak, is offering a $1 Mexican pizza deal on Tuesday, July 28, according to a post on its Instagram. The chain shared an image of the Mexican pizza, which features beef, beans, Mexican pizza sauce, tomatoes and cheese layered between and on top of crispy flour tortilla shells, with text overlaying that reads, “$1 mexican pizza. one day.” In the comments section, Taco Bell said the item is available for $1 plus tax at participating locations. Fans can score the deal in person or on the chain’s app or website — it’s limited to one deal per transaction, from 8 a.m. to 11:59 p.m. PT on July 28.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 24176510,
+          "ave": 223632.72
+        },
+        {
+          "id": "7ww7nx",
+          "headline": "Wendy’s U.S. Closures And China Push Could Be A Game Changer For Wendy’s (WEN)",
+          "source": "Simply Wall St",
+          "author": "Sasha Jovanovic",
+          "url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-wen/wendys/news/wendys-us-closures-and-china-push-could-be-a-game-changer-fo",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "In recent months, Wendy’s has permanently closed multiple restaurants in Ohio amid ongoing U.S. sales challenges, while outlining plans to build as many as 1,000 locations in China over the next decade to reshape its footprint. This combination of domestic retrenchment and ambitious overseas expansion highlights management’s attempt to rebalance Wendy’s reliance on its core U.S. market. Next, we’ll examine how U.S. store closures and the China expansion push affect Wendy’s investment narrative and longer-term risk profile.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 263901,
+          "ave": 2441.08
+        },
+        {
+          "id": "pa3y7u",
+          "headline": "4 Ordering Tips To Get The Best Wendy's Frosty",
+          "source": "Mashed",
+          "author": "Stacie Adams",
+          "url": "https://www.mashed.com/2221706/ordering-tips-best-wendys-frosty/",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Wendy's Classic Chocolate Frosty is just about perfect on its own, but certain ordering hacks take this legendary dessert to the next level. A Frosty is surprisingly adaptable, so most of our tips involve pairing it with other items. Lots of people get their kicks by dipping fries into their Frosty, but the dessert also mixes well with fountain drinks and coffee (hot or cold brew). We also stumbled upon a method for creating a fun combo Frosty, as well as a hack for getting more out of Wendy's bakery section. In the realm of fast-food desserts, Wendy's Frosty is iconic. A staple of the restaurant since the very first location opened, the creamy confection was modeled after a type of ice cream sold at an Ohio racetrack in the '60s. The Frosty was developed at the behest of restaurant founder Dave Thomas, who wanted a signature dessert that struck a balance between standard milkshakes and soft serve ice cream. Along with chocolate and vanilla, Wendy's also features a rotating selection of limited-time Frosty flavors with add-ins like flavored syrups, candy, and cookies.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Wendy's"
+          ],
+          "reach": 351992,
+          "ave": 3255.93
+        },
+        {
+          "id": "xrafg3",
+          "headline": "The Founder Of Chipotle Says Customers Have ‘Slop Bowl’ Fatigue — Here’s What He Says Is The Next Big Thing",
+          "source": "Entrepreneur",
+          "author": "Jonathan Small",
+          "url": "https://www.entrepreneur.com/business-news/the-man-who-invented-the-chipotle-bowl-doesnt-think-bowls-are-the-future",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Steve Ells invented the burrito bowl, and now he thinks people might be suffering from “slop bowl” fatigue. In an interview with the Wall Street Journal, the founder and former CEO of Chipotle talks about his new concept, Counter Service, a sandwich shop that launched last year in New York City and plans to expand to Charlotte and Dallas next year. Counter Service specializes in slow-roasted meats, homemade bread and made-in-house sauces and relishes. The concept pivots away from an earlier post-Chipotle venture, a vegan restaurant built around robotics. It uses technology that flags incorrectly assembled orders, part of a broader system predicting sales using traffic, transit and weather data. Ells says the appeal is in the details that most chains skip. “The pieces of meat are not perfectly shaped like the things you see in these chain sandwich places,” he said. “We’re making all of our sauces and relishes and garnishes. It’s difficult to do these things.” After 27 years eating Chipotle nearly every day, he says he now eats at Counter Service just as often.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "AI & Automation",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chipotle"
+          ],
+          "reach": 71015,
+          "ave": 656.89
+        },
+        {
+          "id": "xa6a8l",
+          "headline": "Chipotle Is Handing Out Free Chips And Guac For 2 Days",
+          "source": "MassLive",
+          "author": "Khadrice Rollins",
+          "url": "https://www.masslive.com/food/2026/07/chipotle-is-handing-out-free-chips-and-guac-for-2-days.html",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "If you think you might be in the mood for a burrito or a bowl or some tacos on Friday, July 31 or Saturday, Aug. 1, make sure to leave some room for a side of chips and guacamole because Chipotle is handing out that combo for free. The company announced Monday that in honor of National Avocado Day on Friday, it would hold a two-day promotion. Customers can access the free chips and guac by purchasing an entrée on the Chipotle app and using code AVO2026 when checking out. The statement announcing the deal notes that customers should make sure to add a side of chips and guac to their meal in order for the promo code to work.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Value & Pricing",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Chipotle"
+          ],
+          "reach": 419520,
+          "ave": 3880.56
+        },
+        {
+          "id": "ithoq8",
+          "headline": "Burger King To Host Feed The Homeless Night",
+          "source": "OzarksFirst.com",
+          "author": "Tony Nguyen",
+          "url": "https://www.ozarksfirst.com/news/burger-king-feeding-homeless/",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Burger King and New Growth Ministries will host a feeding-the-homeless event tonight. According to New Growth Ministries, the Feed the Homeless Night event will be on July 28 from 6-8 p.m. at the 425 N. West Bypass Burger King location. The ministry will also be accepting any donated hygiene and cooling items.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 732673,
+          "ave": 6777.23
+        },
+        {
+          "id": "k0acih",
+          "headline": "Burger King Welcomes Boomers. After A Fashion",
+          "source": "More About Advertising",
+          "author": "Emma Hall",
+          "url": "https://www.moreaboutadvertising.com/2026/07/burger-king-welcomes-boomers-after-a-fashion/",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Boomers are getting a rare moment in the spotlight in Buzzman Paris’ new campaign for Burger King. But it must surely have been Gen Z creatives who chose to dismiss the Boomer stage of life as bedevilled by aching backs, stiff knees, flying toupees and bald spots. To add insult to injury, the new Boomer King menu comes with collectible gifts inspired by naff 80s or 90s TV shows. The choice is between Saved by the Bell socks, a Knight Rider T-shirt, a Charmed mug or a Beverly Hills, 90210-branded glass. The soundtrack is a grating, generic-sounding 90s style TV theme tune.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 655226,
+          "ave": 6060.84
+        },
+        {
+          "id": "41osgt",
+          "headline": "Burger King Introduces “Your Way Champion” Role And Whopper Guarantee To Improve Customer Experience",
+          "source": "Food & Beverage Outlook",
+          "author": "Neil Perry",
+          "url": "https://www.foodbeverage-outlook.com/restaurants-outlets/burger-king-introduces-new-restaurant-role-and-whopper-guarantee-to-improve-customer-experience",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Burger King has launched two new customer experience initiatives across its US business after gathering feedback from thousands of guests through its Listening Initiative. The company is introducing a new in-restaurant management role, the “Your Way Champion”, alongside a Whopper Guarantee aimed at improving order accuracy, food quality and customer satisfaction. The new initiatives are the latest phase of its brand transformation programme, which has focused on acting on customer feedback. The company introduced the changes after receiving thousands of calls and text messages from guests following its Listening Initiative, which invited customers to share feedback directly with President Tom Curtis. According to Burger King, customers consistently highlighted the importance of receiving accurate orders, high-quality food and a welcoming in-restaurant experience.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 185000,
+          "ave": 1711.25
+        },
+        {
+          "id": "lqhn56",
+          "headline": "Why Chili’s Isn’t Going ‘All In’ On AI",
+          "source": "The Wall Street Journal",
+          "author": "Isabelle Bousquette",
+          "url": "https://www.wsj.com/cio-journal/why-chilis-isnt-going-all-in-on-ai-bddef245",
+          "section": "AI Pulse",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "In a world where artificial intelligence threatens to upend every facet of work and life, some things still remain sacred. And ordering Chili’s famous “Triple Dipper” is one of them. Chris Caldwell, chief information officer of Chili’s-owner Brinker International, said his senior leadership team agrees the restaurant chain is “not all in,” on AI. Instead, he’s spent his budget over the last two years revamping foundational in-restaurant tech, including newer Wi-Fi access points, payment systems, and devices for staff to fix what he said had become a broken experience for customers and workers. At the same time, he said he pulled back on sexy but ultimately useless initiatives, like robot servers, and has been selective about which generative AI applications are worth pursuing.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Digital & Ordering",
+            "AI & Automation",
+            "Sustainability & Labor"
+          ],
+          "brands": [],
+          "reach": 11615615,
+          "ave": 107444.44
+        },
+        {
+          "id": "4ov462",
+          "headline": "AI-Powered QSR Loyalty Programs",
+          "source": "Trend Hunter",
+          "author": "Kalin Ned",
+          "url": "https://www.trendhunter.com/amp/trends/island-fin-pok",
+          "section": "AI Pulse",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Island Fin Poké Co. — the Florida-based fast-casual franchise inspired by Hawaiian culinary traditions and lifestyle — has launched a new loyalty program powered by the AI-native platform Hang. This development alows the company to move beyond the conventional earn-and-redeem points model to introduce gamified features. Through its partnership with Hang, Island Fin Poké Co. is able to introduce interactive mini-games, rotating monthly challenges known as Quests, and limited-time Mystery Boxes that reward guests for visits, referrals, and qualifying purchases. Prizes range from small perks like free toppings to substantial rewards such as complimentary poké bowls. This initiative, available through the brand's mobile app on both iOS and Android platforms, is designed to extend guest engagement beyond the physical restaurant walls. It makes for a more dynamic and entertaining relationship between the brand and its customers through elements of surprise.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 77405,
+          "ave": 716
+        },
+        {
+          "id": "b29of3",
+          "headline": "Yelp Host Aims To Solve The Restaurant Industry’s Missed-Call Problem",
+          "source": "CX Today",
+          "author": "",
+          "url": "https://www.cxtoday.com/contact-center/yelp-host-voice-ai-opentable-pickup-ordering/",
+          "section": "AI Pulse",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Yelp has today expanded the capabilities of Yelp Host, enhancing its phone-based pickup ordering with more personalized and multilingual capabilities. By helping restaurants manage high call volumes without pulling employees away from in-person hospitality experiences, the company is now targeting the missed calls and fragmented experiences that can undermine restaurant service. CX leaders should now think about moving away from deploying AI without first considering whether it resolves customer needs accurately, contextually, and with an appropriate path to human support.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Digital & Ordering",
+            "AI & Automation",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 904618,
+          "ave": 8367.72
+        },
+        {
+          "id": "fteqrr",
+          "headline": "7 Chick-Fil-A Breakfast Menu Items To Order And 4 To Skip",
+          "source": "Daily Meal",
+          "author": "Chelsea Falin",
+          "url": "https://www.thedailymeal.com/2225182/chick-fil-a-breakfast-menu-items-order-skip/",
+          "section": "Industry News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Chick-fil-A is a fast-food chicken chain giant that I personally adore for its lunch menu. In fact, my nearest restaurant is located central to everywhere I do my grocery shopping, making it one of my top-visited fast-food chains. But I've only visited during Chick-fil-A lunch hours, so its breakfast menu was entirely foreign to me, and I started wondering whether it would be as delicious as the lunch menu. Thankfully, I was given the opportunity to answer this question by trying 11 Chick-fil-A breakfast menu items and reporting my findings back here. My main question was, \"Would I order this again?\" When I was on the fence about something because of personal preferences, I considered whether other people would enjoy this. If the answer to one or both of those questions was \"yes,\" I recommended them here. If the answer to both was \"no,\" I recommended skipping them.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Chick-fil-A"
+          ],
+          "reach": 365014,
+          "ave": 3376.38
+        },
+        {
+          "id": "es6qj2",
+          "headline": "Is McDonald's Really Getting A 'Spongebob' X 'One Piece' Happy Meal Collab?",
+          "source": "Complex",
+          "author": "Trey Alston",
+          "url": "https://www.complex.com/pop-culture/a/treyalston/mcdonalds-spongebob-one-piece-happy-meal-toys",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "McDonald’s is rumored to be getting ready to launch Happy Meal toys that combine the worlds of SpongeBob SquarePants and One Piece. According to popular food leaker Snackolator, the company's New Zealand locations will be releasing Happy Meals that feature seven different toys combining the worlds of one of Nickelodeon’s most popular TV shows and one of the biggest manga properties in the world. Snackolator, who has a track record of accurately revealing food before it's officially announced, posted about the collab on July 28, unveiling seven different combo toys that should be released: SpongeBob and Luffy, Squidward and Sanji, Plankton and Usopp, Mrs. Puff and Linlin, Gary and Chopper, Mr. Krabs and Jinbe, and Larry and Franky.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "McDonald's"
+          ],
+          "reach": 459632,
+          "ave": 4251.6
+        },
+        {
+          "id": "igc65r",
+          "headline": "Popeyes Names Anomaly Its US Creative Agency As Part Of A Broader Roster Overhaul",
+          "source": "Ad Age",
+          "author": "Brian Bonilla",
+          "url": "https://adage.com/agencies/accounts-in-review/aa-popeyes-creative-review-anomaly-angry-butterfly/",
+          "section": "Industry News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Popeyes has appointed Anomaly as its new U.S. creative agency of record as the chicken chain looks to sharpen its marketing around its core menu and value positioning following a prolonged stretch of sales declines.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering"
+          ],
+          "brands": [],
+          "reach": 405986,
+          "ave": 3755.37
+        },
+        {
+          "id": "ofu5vb",
+          "headline": "Azle Is Finally Getting Its First Chick-Fil-A. Here’s When And Where",
+          "source": "Fort Worth Star-Telegram",
+          "author": "Ella Gonzales",
+          "url": "https://www.star-telegram.com/entertainment/restaurants/article316689157.html",
+          "section": "Industry News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "The Fort Worth suburb of Azle will finally get its fix of chicken nuggets, strips and sandwiches with its first ever Chick-fil-A opening at the end of July. The Chick-fil-A at 417 N.W. Parkway St. will be open for customers starting at 6 a.m. on Thursday, July 30. Any guests who visit dressed in cow spots can score a free entrée or kids’ meal in-store or through the drive-thru. “Azle is a close-knit community where people genuinely show up for one another, and it’s an honor to open the first Chick-fil-A restaurant here,” said local Owner-Operator Mike Tipton. “Our goal is for this restaurant to reflect exactly what makes this community special: a place where everyone feels welcomed and cared for, and where we can invest in our Team Members and the community we serve.” Tipton has owned and operated the Lake Worth Chick-fil-A since 2006, which was the closest Chick-fil-A location to Azle prior to the new restaurant opening.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chick-fil-A"
+          ],
+          "reach": 872053,
+          "ave": 8066.49
+        },
+        {
+          "id": "7gt4mo",
+          "headline": "National Chicken Finger Day With Raising Cane's",
+          "source": "KMOV",
+          "author": "",
+          "url": "https://www.firstalert4.com/video/2026/07/28/national-chicken-finger-day-with-raising-canes/",
+          "section": "Industry News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "If you and your family are trying to come up with dinner plans, here’s an idea: chicken fingers. It’s National Chicken Finger Day, and Raising Cane’s is celebrating with free food, fun merch, and donations to support local kids. Joining us in the kitchen, sponsored by More for Less Remodeling, is Bryan Brzycki, Raising Cane’s Area Leader of Restaurants, with all the details. For more information, head to RaisingCanes.com.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [],
+          "reach": 550857,
+          "ave": 5095.43
         }
       ]
     }
