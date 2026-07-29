@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "beauty",
-  "_savedAt": "2026-07-28T11:37:08.947Z",
-  "_dayCount": 10,
+  "_savedAt": "2026-07-29T11:42:28.916Z",
+  "_dayCount": 11,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:16.350Z",
@@ -2069,6 +2069,142 @@
           ],
           "reach": 126372,
           "ave": 1168.94
+        }
+      ]
+    },
+    "2026-07-29": {
+      "uploadedAt": "2026-07-29T11:42:20.929Z",
+      "filename": "InfoVision_Beauty_Media_Briefing_2026-07-29.docx",
+      "articles": [
+        {
+          "id": "rdcm65",
+          "headline": "Gucci Sales Decline Slows In Boost For Kering's Turnaround Efforts",
+          "source": "Reuters",
+          "author": "Dominique Patton",
+          "url": "https://www.reuters.com/business/retail-consumer/gucci-sales-decline-slows-boost-kerings-turnaround-efforts-2026-07-28/",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Sales at Kering's flagship brand Gucci fell less than expected ​in the second quarter, as strong U.S. demand for its new handbags partly offset weaker spending elsewhere, suggesting the luxury ‌group's turnaround efforts are gaining traction.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "Prestige vs Mass"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "7ppvuh",
+          "headline": "Chanel Unites 5 Iconic NYC Dance Companies For The BAAND Together Festival 2026",
+          "source": "W Magazine",
+          "author": "Carolyn Twersky Winkler",
+          "url": "https://www.wmagazine.com/culture/baand-together-dance-festival-2026-lincoln-center-chanel",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "This week, five of New York City’s most notable dance companies reunite under the banner of the BAAND Together Dance Festival. The sixth iteration of the annual event runs from July 28 to August 1 at the David H. Koch Theater as part of Lincoln Center’s Summer for the City season-long dance celebration. Made possible by Chanel, the five-day festival will feature appearances from Ballet Hispánico New York, Alvin Ailey American Dance Theater, American Ballet Theatre, New York City Ballet, and Dance Theatre of Harlem.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Chanel"
+          ],
+          "reach": 437251,
+          "ave": 4044.57
+        },
+        {
+          "id": "ub2692",
+          "headline": "Curiosity Lies Behind L’Oréal’s Sustainability Strategy",
+          "source": "Sustainability Magazine",
+          "author": "Charlie King",
+          "url": "https://sustainabilitymag.com/articles/curiosity-lies-behind-loreals-sustainability-strategy",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "How L’Oréal is embedding sustainability across its value chain, led by Chief Corporate Responsibility Officer Ezgi Barcenas, one curiosity at a time. Born and raised in Cyprus, Ezgi Barcenas grew up acutely aware of environmental constraints, particularly water scarcity, which informed her early understanding of resource limits. After four years studying electrical biomedical engineering in the US, she embarked on a journey: to see her engineering roots have an impact on a greater scale. After several years in the public sector and international development, she moved into the private sector, completing an MBA and spending over a decade in the beverage industry.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 58925,
+          "ave": 545.06
+        },
+        {
+          "id": "hh3r80",
+          "headline": "PlusOne’s Intimate Wellness Products Launch At Ulta Beauty",
+          "source": "Forbes",
+          "author": "Sharon Edelson",
+          "url": "https://www.forbes.com/sites/sharonedelson/2026/07/28/plusones-intimate-wellness-products-launch-at-ulta-beauty/",
+          "section": "Brand News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Maria Warrington is the perfect evangelist for sexual wellness. The CEO of Beacon Wellness Brands, which produces the plusOne collection – it includes vibrators, other sex toys and pheromone-inspired perfume oils – is adamant about a woman’s right to sexual pleasure. Now, plusOne is entering Ulta Beauty, which marks the beauty giant’s continued foray into the sexual wellness category, and represents a tipping point for plusOne’s retail distribution. “We’re a portfolio of three brands,” Warrington said of Beacon. “Our dominant and most strategic focus brand is plusOne. It’s sexual wellness devices, which is essentially vibrators. The premise of the brand was developed years ago in conjunction with mass distribution for an acceptable price point, to deliver a product that was really established in places like adult store channels.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "Prestige vs Mass"
+          ],
+          "brands": [
+            "Ulta Beauty"
+          ],
+          "reach": 15044999,
+          "ave": 139166.24
+        },
+        {
+          "id": "dnzjs5",
+          "headline": "We’re All On A Mediterranean Beauty Diet This Summer. Here’s Why",
+          "source": "Vogue",
+          "author": "Kati Chitrakorn",
+          "url": "https://www.vogue.com/article/were-all-on-a-mediterranean-beauty-diet-this-summer-heres-why",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "When Lena Korres worked as a chemical engineer in the ’90s, she recalls a beauty landscape dominated by conglomerates. Giants like L’Oréal, Estée Lauder, Unilever, Procter & Gamble, Johnson & Johnson, and Coty controlled nearly all household personal care brands and often sold products that relied on harsh, synthetic ingredients (to ensure affordability, longer shelf lives, and consistency). Few independent skincare brands existed, and when it came to products made with natural ingredients, the options were just as scarce, she says.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "Markets & Regulation"
+          ],
+          "brands": [
+            "L'Oréal",
+            "Estée Lauder",
+            "Coty"
+          ],
+          "reach": 72318,
+          "ave": 668.94
+        },
+        {
+          "id": "lpaalg",
+          "headline": "K-Beauty Sales Top $2 Billion As U.S. Household Adoption Triples",
+          "source": "Store Brands",
+          "author": "Greg Sleter",
+          "url": "https://storebrands.com/k-beauty-sales-top-2-billion-us-household-adoption-triples",
+          "section": "Industry News",
+          "date": "July 28, 2026",
+          "iso": "2026-07-27",
+          "summary": "Korean beauty continues to be a growth segment within the overall beauty category, growing five times faster than the skin care industry as a whole, according to new data from Numerator. K-Beauty has surpassed $2 billion in sales, with 25% of U.S. households purchasing a product in the category. By 2030, Numerator forecasts that one in three households could buy a K-Beauty product. For the 12 months ending in the first quarter of 2026, K-Beauty skin care brands had sales growth of 51%. More than half of K-Beauty’s sales growth comes from incremental spending among skin care shoppers.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch"
+          ],
+          "brands": [],
+          "reach": 642069,
+          "ave": 5939.14
         }
       ]
     }
