@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "retail",
-  "_savedAt": "2026-07-29T11:43:37.595Z",
-  "_dayCount": 11,
+  "_savedAt": "2026-07-30T11:45:16.339Z",
+  "_dayCount": 12,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:03.474Z",
@@ -2890,6 +2890,311 @@
           "brands": [],
           "reach": 126372,
           "ave": 1168.94
+        }
+      ]
+    },
+    "2026-07-30": {
+      "uploadedAt": "2026-07-30T11:45:06.443Z",
+      "filename": "InfoVision_Retail_Media_Briefing_2026-07-30.docx",
+      "articles": [
+        {
+          "id": "ausm7d",
+          "headline": "Walmart Bringing Drone Delivery To Central Florida",
+          "source": "Progressive Grocer",
+          "author": "Bridget Goldschmidt",
+          "url": "https://progressivegrocer.com/walmart-bringing-drone-delivery-central-florida",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "In the midst of the summer travel season, Walmart and Wing have introduced drone delivery in the greater Orlando area, Wing’s first market in Florida. Central Florida residents can now shop for thousands of daily essentials at Walmart and have them delivered directly to their homes by Wing drones in as fast as 30 minutes. “We measure success in minutes saved and life made a little easier in Central Florida,” noted Heather Rivera, chief business officer of Wing, a subsidiary of Palo Alto, Calif.-based Alphabet Inc. “Whether it’s helping a family grab a quick lunch without loading everyone into the car or delivering sunscreen to a visitor at their vacation rental, we want drone delivery to be a simple, seamless part of daily routines.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 801215,
+          "ave": 7411.24
+        },
+        {
+          "id": "agn0eh",
+          "headline": "Walmart Supercenter Shoppers Among Customers Facing Automatic New Fee Added At Self Checkout",
+          "source": "The Sun",
+          "author": "James Evenden",
+          "url": "https://www.the-sun.com/money/16763337/mankato-minnesota-plastic-bag-fee-proposal-walmart/",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "WALMART shoppers are among those facing an added fee at checkout, as part of a wider push across the country. Multiple states and cities in the US have proposed fees on plastic bags to support the environment. Now, the Mankato City Council in Minnesota has proposed its own plastic bag ordinance. The proposal would add a 10 cent fee to carryout bags at all retail stores in the city.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "kiowz0",
+          "headline": "Wakefern Plans Centralized Pharmacy Fulfillment System",
+          "source": "Supermarket News",
+          "author": "",
+          "url": "https://www.supermarketnews.com/nonfood-pharmacy/wakefern-plans-centralized-pharmacy-fulfillment-system",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Wakefern Food Corp., the retailer-owned supermarket cooperative, announced on Wednesday plans to implement a centralized pharmacy fulfillment system in partnership with pharmacy automation and fulfillment tech company iA. The facility will streamline prescription dispensing and backend pharmacy operations to allow for more personalized patient care across ShopRite Pharmacies. The 12,000-square-foot centralized fulfillment center, which is expected to open early next year, will serve pharmacies at 149 ShopRite stores and two The Fresh Grocer locations in the Northeast. The fill center will operate at a Wakefern facility and help free up store pharmacists to spend more time consulting with patients, answering questions and connecting them with nutrition resources to support their wellness goals.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "AI & Personalization"
+          ],
+          "brands": [],
+          "reach": 223972,
+          "ave": 2071.74
+        },
+        {
+          "id": "vvqb5o",
+          "headline": "Walmart Leapfrogs EV Charging Competitors With Rapid Buildout",
+          "source": "Bloomberg",
+          "author": "Kyle Stock",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-29/why-walmart-is-quickly-adding-charging-stations-to-its-stores",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Since the start of the year, four high-speed charging stations have opened in Bentonville, Arkansas, even though the state has been a laggard in transitioning to electric vehicles. Bentonville, however, is Walmart Inc. country and these are Walmart chargers — three at stores near the company’s headquarters and one at the airport.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "2s3jep",
+          "headline": "Ahold Delhaize USA Expands Digital Commerce Capabilities",
+          "source": "Supermarket News",
+          "author": "",
+          "url": "https://www.supermarketnews.com/grocery-technology/ahold-delhaize-usa-expands-digital-commerce-capabilities",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Ahold Delhaize USA announced Wednesday a new collaboration with Pear Commerce to further expand its digital commerce capabilities across its five omnichannel grocery brands: Food Lion, The GIANT Company, Giant Food, Hannaford and Stop & Shop. Beginning this month, shoppers will be able to move directly from meal inspiration and product discovery to their online grocery carts. Through Pear Commerce’s technology, shoppers can add items to their carts from recipes on consumer packaged goods (CPG) partner websites, brand product pages and store locator tools, creating a more seamless connection between content and commerce.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer"
+          ],
+          "brands": [],
+          "reach": 223972,
+          "ave": 2071.74
+        },
+        {
+          "id": "d78bws",
+          "headline": "Walmart Uses Predictive Tech to Weather Supply Chain Disruptions",
+          "source": "Indexbox",
+          "author": "",
+          "url": "https://www.indexbox.io/blog/walmart-uses-predictive-tech-to-weather-supply-chain-disruptions/",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Walmart is employing technology to reduce the impact of weather-related disruptions on its supply chain, according to a company blog post and an interview with Supply Chain Dive. Severe weather can create challenges such as sudden increases in demand for household essentials and reduced capacity at fulfillment centers. The retailer works to position inventory in optimal locations to keep stores stocked and deliveries on schedule despite these disruptions, said Indira Uppuluri, senior vice president of supply chain technology.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "Supply Chain",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 796057,
+          "ave": 7363.53
+        },
+        {
+          "id": "txqeku",
+          "headline": "Walmart ‘Steamrolls’ Rivals Like Costco With Massive Parking Lot Change At Stores Across The US",
+          "source": "The Sun",
+          "author": "Joseph Brogan",
+          "url": "https://www.the-sun.com/motors/16766537/walmart-ev-chargers-parking-lots-stores-nationwide/",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "WALMART’S rivals are quickly being outpaced by the big-box retailer in a major parking lot change proving to be a lucrative market. Costco and other competitors are falling behind in a major way as more and more Walmart parking lots receive the high-tech upgrade. Through June, the Arkansas-based retailer had added 46 EV fast chargers at stores across the country this year. This pace was good for making it the second biggest expander of EV charging networks for Q2 of FY2026, second only to EV maker Tesla.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Walmart",
+            "Costco"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "gg0m4d",
+          "headline": "Walmart Cuts Emissions Almost 25%, According To New ESG Report",
+          "source": "Progressive Grocer",
+          "author": "Samantha Schober",
+          "url": "https://progressivegrocer.com/walmart-cuts-emissions-almost-25-according-new-esg-report",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Walmart says it has crossed a long-standing sustainability threshold, according to its recently released FY2026 ESG Report. The retail juggernaut reached its target of sourcing half its electricity from renewable sources during FY2026 and reported a 24.6% cut to its absolute Scope 1 and 2 emissions compared with its 2015 baseline, along with another 53.7% drop in emissions intensity over the same period.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Supply Chain"
+          ],
+          "brands": [
+            "Walmart",
+            "Target"
+          ],
+          "reach": 801215,
+          "ave": 7411.24
+        },
+        {
+          "id": "jv6jmf",
+          "headline": "Walmart And Amazon Are Battling For Streaming TV Budgets. Here’s How Their Offerings Break Down",
+          "source": "Adweek",
+          "author": "",
+          "url": "https://www.adweek.com/commerce/walmart-and-amazon-are-battling-for-streaming-tv-budgets-heres-how-their-offerings-break-down/",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Amazon and Walmart already dominate retail media spending, and both have gotten into streaming TV to grab ad budgets bigger than retail and shopper marketing spend. However, the two differ in what they offer advertisers. Amazon has spent years building premium content through Prime Video, and the company also has rights to major sporting events like the NFL’s Thursday Night Football. Walmart is earlier in this journey, using its late 2024 Vizio acquisition to leverage streaming TV infrastructure. Amazon’s $70 billion ad business is significantly bigger than Walmart’s $6.4 billion business. However, the two are the largest retail media sellers and will make up 89% of incremental spending this year, according to Emarketer.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart",
+            "Amazon"
+          ],
+          "reach": 332343,
+          "ave": 3074.17
+        },
+        {
+          "id": "c1kyf8",
+          "headline": "Ulta Joins Forces With New Partner After Target Breakup",
+          "source": "The Street",
+          "author": "Fernanda Tronco",
+          "url": "https://www.thestreet.com/retail/ulta-pacsun-partnership-after-target-split",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Less than a year after announcing plans to end one of retail’s highest-profile beauty partnerships, Ulta Beauty isn’t stepping away from collaborations after all. Instead, the beauty retailer has joined forces with another major fashion brand as it looks to strengthen customer engagement and accelerate growth following a period of market share losses. The announcement marks a notable shift after Ulta previously said it would prioritize stand-alone growth, signaling that carefully chosen collaborations remain an important part of its long-term expansion strategy.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Target"
+          ],
+          "reach": 899790,
+          "ave": 8323.06
+        },
+        {
+          "id": "6o7x5q",
+          "headline": "Kohl’s Corp. Installs A New Chairman",
+          "source": "WWD",
+          "author": "David Moin",
+          "url": "https://wwd.com/business-news/retail/kohls-corp-wendy-arlin-new-chairman-1239087436/",
+          "section": "Brand News",
+          "date": "July 29 ,2026",
+          "iso": null,
+          "summary": "Kohl’s Corp. named Wendy C. Arlin as its chairman, succeeding John Schlifske. Arlin, who was executive vice president and chief financial officer of Bath & Body Works from August 2021 to July 2023, has been a member of the Kohl’s board of directors since 2023. She’s been chairing the finance and audit committees since May 2025. Before Bath & Body Works, Arlin was senior vice president, finance and corporate controller of L Brands from 2005 to 2021. Earlier, she spent 12 years at KPMG in the audit practice. She also serves on the board of Wendy’s.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 126372,
+          "ave": 1168.94
+        },
+        {
+          "id": "8kpyoc",
+          "headline": "Target SVP Says Its Real AI Moat Isn't The Models — It's Everything Built Around Them",
+          "source": "VentureBeat",
+          "author": "Taryn Plumb",
+          "url": "https://venturebeat.com/orchestration/target-svp-says-its-real-ai-moat-isnt-the-models-its-everything-built-around-them",
+          "section": "AI Pulse",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Target SVP Siobhán Mc Feeney says the AI models her company runs aren't what gives Target its edge — everything built around them is. \"There's a lot in it. That to us is the moat,\" Mc Feeney said at VB Transform 2026. \"The models are great, and they're important. They're just not sufficient to be the competitive advantage.\" That discipline shows up early in how Target decides whether to build an agent at all. Mc Feeney was blunt, even \"controversial\" by her own admission, about the current AI moment: every enterprise wants AI agents, but not everything needs one, she said.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI & Personalization"
+          ],
+          "brands": [
+            "Target"
+          ],
+          "reach": 472393,
+          "ave": 4369.64
+        },
+        {
+          "id": "sqxfxo",
+          "headline": "When AI Runs A Store And Reality Rewrites The Rules",
+          "source": "Resident",
+          "author": "Mark Derho",
+          "url": "https://resident.com/tech-and-gear/2026/07/29/when-ai-runs-a-store-and-reality-rewrites-the-rules-2",
+          "section": "AI Pulse",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Artificial intelligence has spent years proving its value inside computers, analyzing data, generating content, writing software, and assisting professionals across nearly every industry. Andon Market pushes that evolution much further by placing an AI agent in charge of an actual retail business operating in the real world. This is not a laboratory simulation or a carefully controlled demonstration. The AI manages inventory, coordinates employees, communicates with vendors, develops branding, and makes operational decisions involving real money and real customers. The experiment offers one of the clearest glimpses yet into what autonomous business could look like. More importantly, it reveals the difference between intelligence that performs exceptionally well in digital environments and intelligence that must navigate the unpredictable complexity of everyday commerce.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "AI & Personalization",
+            "Supply Chain"
+          ],
+          "brands": [],
+          "reach": 820272,
+          "ave": 7587.52
+        },
+        {
+          "id": "s1n0ty",
+          "headline": "In Oregon, Big Grocery, Retail Companies Have Highest Number Of Employees On Medicaid",
+          "source": "OPB",
+          "author": "Alex Baumhardt",
+          "url": "https://www.opb.org/article/2026/07/29/oregon-grocery-retail-medicaid-employees-highest-number/",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Multi-billion-dollar grocers and retailers such as Walmart and Amazon were among the most listed employers on Oregonians’ applications for publicly-funded health insurance last year, according to a Capital Chronicle analysis of Oregon Health Authority data. The data, taken from Medicaid income verification forms, shows that dozens of major national and multinational corporations that often pay relatively low hourly or median wages rely on the government’s health insurance program for low-income and disabled people to cover the costs of thousands of their Oregon employees’ healthcare.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [
+            "Walmart",
+            "Amazon"
+          ],
+          "reach": 118465,
+          "ave": 1095.8
         }
       ]
     }
