@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "pharma",
-  "_savedAt": "2026-07-29T11:42:56.679Z",
-  "_dayCount": 11,
+  "_savedAt": "2026-07-30T11:44:20.338Z",
+  "_dayCount": 12,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:09.000Z",
@@ -4223,6 +4223,500 @@
           "brands": [],
           "reach": 15956812,
           "ave": 147600.51
+        }
+      ]
+    },
+    "2026-07-30": {
+      "uploadedAt": "2026-07-30T11:44:10.813Z",
+      "filename": "InfoVision_Pharma_Media_Briefing_2026-07-30.docx",
+      "articles": [
+        {
+          "id": "y4fq3c",
+          "headline": "Teva’s Innovation Engine Offsets Generics Slump, Leaving One Analyst ‘Shocked’ By Ajovy’s Surge",
+          "source": "Fierce Pharma",
+          "author": "Fraiser Kansteiner",
+          "url": "https://www.fiercepharma.com/pharma/tevas-budding-innovation-engine-offsets-generics-slump-one-analyst-shocked-ajovy-success",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "As Teva proceeds down the more muted growth path that it telegraphed early this year, the generics and innovative medicines hybrid isn’t letting a little sales slump affect its confidence in a budding portfolio of branded drugs. For the second quarter of 2026, Teva’s revenue decreased by 1% year over year in U.S. currencies—mainly attributed to pressures in the generics business—landing at $4.1 billion for the three-month period. The performance still came out ahead of consensus estimates, Evercore ISI analysts pointed out in a note to clients Wednesday. Teva’s stock price was up nearly 8% as of 10:00 am ET on July 29.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 432715,
+          "ave": 4002.61
+        },
+        {
+          "id": "3b1t38",
+          "headline": "Johnson & Johnson Comes To Strategic Agreement With Sail Biomedicines",
+          "source": "The Wall Street Journal",
+          "author": "Grace Yoon",
+          "url": "https://www.wsj.com/tech/biotech/johnson-johnson-comes-to-strategic-agreement-with-sail-biomedicines-2c18bd50",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Johnson & Johnson said it came to a strategic agreement with Sail Biomedicines to advance its immune-mediated disease program and broader technology platform. The collaboration comes with the incentive of expanding the application of Sail’s in vivo CAR-T platform across additional therapeutic targets over time.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 11615615,
+          "ave": 107444.44
+        },
+        {
+          "id": "wftpbj",
+          "headline": "Can J&J Finally Put The Talc Litigation Behind It?",
+          "source": "Reuters",
+          "author": "Dietrich Knauth",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/can-jj-finally-put-talc-litigation-behind-it-2026-07-29/",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "After years of failed attempts to resolve thousands of lawsuits alleging that its talc products caused cancer, Johnson & Johnson says it has reached a settlement, worth at least $5.5 billion, that could finally help ​bring an end to litigation that has dogged the company for over a decade. Tens of thousands ‌of people have sued J&J in federal and state courts, alleging that its talc-based baby powder and other products caused ovarian cancer. J&J has long denied the allegations, arguing that decades of scientific testing show its talc products are safe and do not cause cancer. Results at trial have been mixed: J&J won several cases, but the litigation has ​also produced billions of dollars in verdicts, settlements and legal costs over more than a decade.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "o0igk1",
+          "headline": "J&J Reports Major Survival Gains With Dual‑Target Myeloma Regimen",
+          "source": "PharmaTimes",
+          "author": "John Pinching",
+          "url": "https://pharmatimes.com/news/jj-reports-major-survival-gains-with-dual-target-myeloma-regimen/",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Johnson & Johnson has announced positive topline results from the phase 3 MonumenTAL‑6 study, which evaluated TECVAYLI and TALVEY as a dual antigen regimen targeting BCMA and GPRC5D in adults with relapsed or refractory multiple myeloma. The trial also assessed TALVEY with pomalidomide. Both investigational arms were compared with investigator’s choice standard of care. Yusri Elsayed, Global Therapeutic Area Head, Oncology, Johnson & Johnson, explained: “At Johnson & Johnson, we have intentionally built a multiple myeloma portfolio that spans biological targets, mechanisms, modalities and lines of therapy, giving physicians the flexibility to use our therapies across a diverse patient population and throughout the patient journey.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 135689,
+          "ave": 1255.12
+        },
+        {
+          "id": "h3qaxn",
+          "headline": "Regulatory Tracker: AbbVie Scores 1st Rinvoq Alopecia Nod In EU",
+          "source": "Fierce Pharma",
+          "author": "Angus Liu, Kevin Dunleavy, Fraiser Kansteiner",
+          "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "In its quest to scoop up yet another immunology indication for its JAK inhibitor Rinvoq, AbbVie has broken through to treatment of severe alopecia areata. The med’s world-first approval in the hair follicle-attacking autoimmune disease has come by way of Europe, where AbbVie announced Wednesday that the European Commission signed off on Rinvoq to treat both adults and adolescents ages 12 years and up. Rinvoq is still being assessed in alopecia by the FDA after AbbVie submitted its U.S. approval filing in late April. The European Commission made its call after reviewing phase 3 data from AbbVie’s ongoing UP-AA clinical program. Last August, AbbVie unveiled a series of eye-popping results in alopecia from parallel studies that met their primary endpoint when more than half of patients on the highest Rinvoq dose achieved 80% or more scalp hair coverage at 24 weeks.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 432715,
+          "ave": 4002.61
+        },
+        {
+          "id": "nhndb4",
+          "headline": "Branded Drug Tariff Arrives Friday: Generics Now Face Their Own 2028 Deadline",
+          "source": "Tech Times",
+          "author": "Earl Bensen",
+          "url": "https://www.techtimes.com/articles/321936/20260729/branded-drug-tariff-arrives-friday-generics-now-face-their-own-2028-deadline.htm",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "If you take a patented, brand-name medication — a cancer biologic, an autoimmune drug, a specialty injection — the supply chain behind that drug is about to be permanently restructured, starting at 12:01 a.m. ET this Friday. That is when the most sweeping tariff on pharmaceutical imports in modern American history takes effect for the 17 largest global drug companies, including AbbVie, Eli Lilly, Novartis, Pfizer, and Novo Nordisk, under Presidential Proclamation 11020. The rate: 100% on every patented drug or active pharmaceutical ingredient (API) these companies import without a qualifying deal already in place.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "Eli Lilly",
+            "Pfizer"
+          ],
+          "reach": 901284,
+          "ave": 8336.88
+        },
+        {
+          "id": "yejpnh",
+          "headline": "Did Opdivo Combo Filing and AI-Driven R&D Expansion Just Shift Bristol-Myers Squibb's (BMY) Investment Narrative?",
+          "source": "Simply Wall St",
+          "author": "Sasha Jovanovic",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-bmy/bristol-myers-squibb/news/did-opdivo-combo-filing-and-ai-driven-rd-expansion-just-shif",
+          "section": "AI Pulse",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "In recent days, Bristol-Myers Squibb has drawn attention as analysts revised earnings expectations, a partner sought approval for an Opdivo combination therapy, and the company expanded its use of advanced AI and R&D capabilities. This combination of pipeline progress, technology investment, and updated forecasts adds fresh context to how investors may view Bristol-Myers Squibb’s longer-term profile. We’ll now examine how the Opdivo combination filing and AI-enabled R&D expansion could influence Bristol-Myers Squibb’s existing investment narrative.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 263901,
+          "ave": 2441.08
+        },
+        {
+          "id": "uztjow",
+          "headline": "White House’s New High-Risk Life Sciences Policy Calls For Monitoring AI Dangers",
+          "source": "Nextgov/FCW",
+          "author": "Edward Graham",
+          "url": "https://www.nextgov.com/artificial-intelligence/2026/07/white-houses-new-high-risk-life-sciences-policy-calls-monitoring-ai-dangers/415108/",
+          "section": "AI Pulse",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "The Trump administration’s new policy prohibiting federal funding for certain high-risk life sciences research and expanding independent review of potentially dangerous studies alludes to the risks of artificial intelligence but does not outright call for banning the use of the emerging capabilities in hazardous biological projects. The 12-page guidance, which was publicly released on Tuesday, stops federal assistance for domestic dangerous gain-of-function research — or DGOF — and certain international research of concern. The policy defines DGOF as research that “enhances a property or properties of a biological agent in ways that make it more dangerous” and says the framework defines and extends oversight of “areas of life sciences research posing the greatest risk to our Nation's security.”",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "AI in Drug Discovery",
+            "Pipeline & R&D",
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 71910,
+          "ave": 665.17
+        },
+        {
+          "id": "se3kmi",
+          "headline": "When AI Changes A Deal: Rethinking Risk, Milestones, And Timing In Life Sciences M&A",
+          "source": "Life Science Leader",
+          "author": "Sally Wagner Partin, Sharon R. Flanagan, Torrey Cope",
+          "url": "https://www.lifescienceleader.com/doc/when-ai-changes-a-deal-rethinking-risk-milestones-and-timing-in-life-sciences-m-a-0001",
+          "section": "AI Pulse",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Artificial intelligence is increasingly embedded in drug discovery and clinical development, and early data suggests it is beginning to change how quickly companies reach early clinical milestones and how likely they are to clear them. For life sciences M&A practitioners and corporate development teams, the critical question is what these early signals mean for valuation, diligence, milestone design, and timing of transactions. This article examines how AI is beginning to reshape drug development — particularly at the stages of target and compound identification — and explores the implications of those changes.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 232727,
+          "ave": 2152.72
+        },
+        {
+          "id": "fqdfsm",
+          "headline": "Merck KGaA Signs Up For Evinova’s Full AI Clinical Trial Suite",
+          "source": "FirstWord Pharma",
+          "author": "Marta Rybczynski",
+          "url": "https://firstwordpharma.com/story/7784316",
+          "section": "AI Pulse",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Evinova announced Wednesday that Merck KGaA will adopt its full Study Designer with AI suite to plan trials, write protocols and move study information into other clinical systems, giving the AstraZeneca healthtech business another pharma giant as a customer. Clinical development teams can use the software to compare trial designs and see how changes to endpoints, assessment schedules and timelines affect costs and the demands placed on patients and trial sites. Merck will also contribute operational data to Evinova's benchmarking programme, joining Astellas, AstraZeneca and Bristol Myers Squibb, which signed similar agreements in February. The data will help Evinova compare planned studies with how previous trials were designed and run.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "Clinical Trials"
+          ],
+          "brands": [
+            "AstraZeneca"
+          ],
+          "reach": 96323,
+          "ave": 890.99
+        },
+        {
+          "id": "91ja82",
+          "headline": "CG Life Embraces Next-Gen Era In Merger With AI-Native Agency The Considered+AI",
+          "source": "Fierce Pharma",
+          "author": "Zoey Becker",
+          "url": "https://www.fiercepharma.com/marketing/cg-life-embraces-ai-era-merger-ai-native-agency-consideredai",
+          "section": "AI Pulse",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Consider it a new supercharged player in the AI marketing game. Rare disease-focused pharma marketing agency CG Life is diving headfirst into the AI realm with the acquisition of AI-native agency The Considered+AI, CG Life announced in a July 28 press release. Together, the joint company aims to build “a new model of commercialization partner,” enabling faster, more efficient work with greater impact, CG Life explained in the release. CG Life and The Considered now brand themselves as “one AI-native, integrated team” capable of handling the specific needs of rare-disease and specialty-drug launches.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 432715,
+          "ave": 4002.61
+        },
+        {
+          "id": "qd1gpk",
+          "headline": "DMD Cell Therapy Delays Disease Progression In Phase III Trial",
+          "source": "Inside Precision Medicine",
+          "author": "",
+          "url": "https://www.insideprecisionmedicine.com/topics/precision-medicine/dmd-cell-therapy-delays-disease-progression-in-phase-iii-trial/",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Cell therapies are growing in variety and effectiveness across many diseases. In the fight against Duchenne muscular dystrophy (DMD), deramiocel has emerged as an effective treatment for DMD in patients in early clinical trials. New data from the HOPE-3 Phase III clinical trial, published in The Lancet, expand the efficacy to include patients with advanced DMD. “Deramiocel, a heart-derived cellular therapy consisting of human allogeneic cardiosphere-derived cells, improved cardiac and skeletal muscle function in Phase I–II studies of DMD,” wrote the authors. “Our aim was to assess the efficacy and safety of deramiocel in advanced DMD and support the findings of HOPE-2.”",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 154176,
+          "ave": 1426.13
+        },
+        {
+          "id": "auob3f",
+          "headline": "FDA Finalizes Three Guidances To Broaden Cancer Clinical Trial Eligibility",
+          "source": "Applied Clinical Trials Online",
+          "author": "Andy Studna",
+          "url": "https://www.appliedclinicaltrialsonline.com/view/fda-finalizes-three-guidances-broaden-cancer-clinical-trial-eligibility",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "The FDA's Oncology Center of Excellence (OCE) has issued three final guidance documents intended to expand eligibility criteria for participation in oncology clinical trials, targeting a persistent and well-documented gap in cancer research participation. According to the FDA, despite more than 70% of cancer patients reporting willingness to participate in clinical trials, fewer than 5% of those currently receiving treatment are actually enrolled. The guidances identify stringent and complex eligibility criteria as a key contributor to that gap.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 693836,
+          "ave": 6417.98
+        },
+        {
+          "id": "1ptcp9",
+          "headline": "Nemours Children’s Delaware Brings Life-Changing Gene Therapy To Children With Sickle Cell Disease",
+          "source": "American Hospital Association",
+          "author": "",
+          "url": "https://www.aha.org/tellingthehospitalstory/stories/nemours-childrens-delaware-brings-life-changing-gene-therapy-children-sickle-cell-disease",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "A gene therapy called LYFGENIA is transforming the way sickle cell disease is treated in children — but it isn’t easy to administer, and it’s not yet widely available. The treatment involves stem cell collection, gene modification and reinfusion, meaning the procedure requires extensive infrastructure and expertise. But now more children and adolescents with the disease can access the life-changing treatment, as LYFGENIA has come to Nemours Children’s Hospital in Wilmington, Del. Sickle cell disease affects around 100,000 people in the United States; more than 90% of those with the inherited blood disorder are Black, and 3%-9% are Latino. Sickle cell disease can cause extreme pain, anemia, mobility and vision issues, and the estimated life expectancy of sickle cell patients is more than 20 years shorter than the average.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 488475,
+          "ave": 4518.39
+        },
+        {
+          "id": "m4qgz3",
+          "headline": "Genetic Complexity Behind EB Simplex Slows Gene Therapy Progress",
+          "source": "Dermatology Times",
+          "author": "Karen M. McGuire, Kaitlyn Bader",
+          "url": "https://www.dermatologytimes.com/view/genetic-complexity-behind-eb-simplex-slows-gene-therapy-progress",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Karen McGuire, PhD, chief executive officer and co-founder of BioMendics, spoke with Dermatology Times from the debra Care Conference in Los Angeles, California, about the genetic factors limiting gene therapy development for epidermolysis bullosa simplex (EBS). McGuire outlined how EBS differs biologically from dystrophic and junctional EB, and described renewed patient engagement at this year's conference. Early gene therapies targeted conditions with clearer biological mechanisms, McGuire said. Recessive dystrophic EB involves a biallelic mutation in the COL7A1 gene, leaving patients with little to no functional collagen in the dermis. Replacing the missing protein became a defined goal for early gene therapy programs.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 782523,
+          "ave": 7238.34
+        },
+        {
+          "id": "p5d1gw",
+          "headline": "Merck, Wellcome Partner With Global Health Group To Make Ebola Vaccine For Clinical Trials",
+          "source": "Reuters",
+          "author": "Julie Steenhuysen",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/merck-wellcome-partner-with-global-health-group-make-ebola-vaccine-clinical-2026-07-30/",
+          "section": "Industry News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Hilleman Laboratories, ​a Singapore-based joint venture between Merck and the global charity Wellcome, is gearing up to manufacture doses of a ‌promising experimental vaccine against the rare Bundibugyo strain of Ebola responsible for a fast-spreading outbreak in the Democratic Republic of Congo. The effort is backed by up to $8.5 million in funding from the global partnership Coalition for Epidemic Preparedness Innovations, or CEPI, those involved in the effort said on Thursday. \"With Bundibugyo ​virus cases rising at worrying speed, the epidemic is fast becoming a humanitarian crisis,” CEPI Chief Executive Richard Hatchett said ​in a statement. “No vaccine is currently approved against the virus, so we are urgently advancing vaccine candidates ⁠into testing,\" he said.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials",
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "7zcfrn",
+          "headline": "Merck Posts—Then Pulls—Trial Plan For PD-1xVEGF And TROP2 ADC Combination",
+          "source": "Fierce Biotech",
+          "author": "Angus Liu",
+          "url": "https://www.fiercebiotech.com/biotech/merck-posts-then-pulls-trial-plan-pd-1xvegf-and-trop2-adc-combination",
+          "section": "Industry News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "After keeping tight-lipped for nearly two years, Merck & Co. briefly dropped the first concrete hint as to where it intends to take its PD-1xVEGF bispecific antibody—before quietly scrubbing the evidence. A brief, now-deleted clinical trial listing on Merck’s website revealed that the New Jersey pharma plans to test the bispecific, coded MK-2010, alongside its TROP2-directed antibody-drug conjugate, sac-TMT. The phase 2 trial, coded MK-2010-003, was marked as “Study in start-up” on Merck’s website, with St. Gallen and Bellinzona in Switzerland listed as study centers. The open-label study would test the combo in patients with advanced solid tumors.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 467472,
+          "ave": 4324.12
+        },
+        {
+          "id": "fpiqt5",
+          "headline": "Processa Acquisition Lands Immunology Drug That Could Rival A New Novartis Product",
+          "source": "MedCity News",
+          "author": "Frank Vinluan",
+          "url": "https://medcitynews.com/2026/07/processa-vidya-acquisition-btk-inhibitor-immunology-inflammation-allergy-pcsa/",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Processa Pharmaceuticals is reshaping its pipeline with the acquisition of Vidya Therapeutics, a clinical-stage biotech whose main asset is a molecule that offers broad potential in immune-mediated disorders ranging from rare inflammatory skin diseases to common food allergies. The deal announced Wednesday is an all-stock transaction. Concurrent with the acquisition, Vero Beach, Florida-based Processa announced a $200 million private placement to support a clinical development plan for the Vidya drug that will unfold in the months to come. The drug, VT-7208, is an oral small molecule designed to inhibit an enzyme called Bruton’s tyrosine kinase (BTK). BTK inhibitors first reached patients with certain cancers, as the enzyme plays a role in activating B cells. BTK inhibitors were first approved for treating B cell-driven blood cancers. But B cells are immune cells, so drug research has expanded to bring BTK inhibition to immunology.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 204260,
+          "ave": 1889.4
+        },
+        {
+          "id": "rouxg3",
+          "headline": "GSK Strikes AI Deal With UK Biotech To Boost Early Pipeline",
+          "source": "Bloomberg",
+          "author": "Ashleigh Furlong",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-30/gsk-strikes-ai-deal-with-uk-biotech-to-boost-early-pipeline",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "GSK Plc agreed another deal with British biotech Relation Therapeutics Ltd. to use artificial intelligence to speed up drug development. The agreement, which could see Relation paid up to $110 million, will deploy a new foundation model that aims to predict how human cells will respond to genetic and drug interventions. It builds on an earlier deal between the two companies focused on drugs for fibrotic diseases and osteoarthritis.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "GSK"
+          ],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "78dqie",
+          "headline": "Trump Administration Unfreezes $600 Million For Gavi For Global Vaccine Effort",
+          "source": "Reuters",
+          "author": "Ismail Shakil",
+          "url": "https://www.reuters.com/world/trump-administration-unfreezes-600-million-gavi-global-vaccine-effort-2026-07-29/",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "The Trump administration said on Wednesday it will immediately release $600 million in congressionally appropriated funds ​for vaccines for the world's poorest countries after Washington withheld the money ‌over unsubstantiated safety concerns raised by U.S. Health Secretary Robert F. Kennedy Jr. U.S. Secretary of State Marco Rubio had said in June that it was time to re-engage with the Geneva-based global ​alliance Gavi, which helps the world's poorest countries buy vaccines to protect ​children from diseases such as measles and diphtheria, citing both congressional ⁠concerns and \"our goals on global health.\"",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "qgot1n",
+          "headline": "Sanofi Lifts Sales Growth Forecast On Dupixent Strength In Boost For New CEO",
+          "source": "Reuters",
+          "author": "Bhanvi Satija",
+          "url": "https://www.reuters.com/legal/litigation/sanofi-raises-sales-outlook-dupixent-strength-boost-new-ceo-2026-07-30/",
+          "section": "Industry News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Sanofi raised its full-year sales forecast on Thursday, on the back of ‌strong demand for blockbuster asthma drug Dupixent and newer products in the French drugmaker's first results under new CEO Belen Garijo. Garijo has taken the helm at a time when the company faces pressure to revive drug development and secure growth beyond Dupixent. Its shares, down 3.4% so far this year, after falling about 12% ​in 2025, are trading at a discount to European rivals, such as AstraZeneca, Novartis and Roche. Sanofi is looking for opportunities to ​grow through acquisitions, but its focus areas of immunology, rare diseases, and vaccines will not change and it ⁠will remain \"very disciplined\" about new deals, Garijo told reporters.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals",
+            "M&A / Markets",
+            "Public Health Policy"
+          ],
+          "brands": [
+            "Sanofi",
+            "AstraZeneca"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "xlarkh",
+          "headline": "J&J Lowers 2026 Profit Forecast On Deal Costs, Sees Further Hit In 2027",
+          "source": "Reuters",
+          "author": "Padmanabhan Ananthan",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/johnson-johnson-lowers-2026-profit-forecast-2026-07-29/",
+          "section": "Industry News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Johnson & Johnson cut 2026 profit forecast on Wednesday, citing the combined financial impact of ​its newly completed acquisition of Firefly Bio and a ‌strategic partnership with Sail Biomedicines. The healthcare giant expects full-year adjusted earnings per share of $10.96 to $11.11, compared with its previous forecast of $11.60 to $11.75. Its shares were down ​1.6% in extended trading. The two transactions are expected to reduce ​the company's 2026 adjusted earnings by about $0.64 per share, with ⁠the Firefly acquisition contributing $0.46 and the Sail Biomedicines agreement $0.18. The Sail ​Biomedicines partnership includes an option to acquire the biotech for $2.58 billion and ​focuses on developing next-generation autoimmune disease therapies.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "dht3ex",
+          "headline": "Teva CEO On Drug Pipeline, Direct Listing On NYSE",
+          "source": "Bloomberg",
+          "author": "Padmanabhan Ananthan",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-29/teva-ceo-on-drug-pipeline-direct-listing-on-nyse-video",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Teva Pharmaceuticals CEO Richard Francis speaks to Bloomberg's Romaine Bostick about the company's positive Q2 earnings, the impending impact of changing Medicare rules on patients, and the new listing on the NYSE.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "eeye9i",
+          "headline": "Why Shareholders Are Suing Novo Nordisk Over Next-Generation Weight-Loss Drug",
+          "source": "CNBC",
+          "author": "Elsa Ohlen",
+          "url": "https://www.cnbc.com/2026/07/29/novo-nordisk-lawsuit-cagrisema-weight-loss-drug.html",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Novo Nordisk shareholders are suing the drugmaker over its experimental obesity treatment CagriSema, alleging the company misled investors about a key clinical trial before releasing disappointing results that wiped billions of dollars off its market value. A federal judge on Tuesday allowed parts of that lawsuit to move forward, finding that investors had plausibly alleged that some statements about CagriSema’s tolerability and the design of the late-stage trial may have been misleading. The ruling does not determine that Novo committed securities fraud. Instead, it means the case can proceed into the next stage, where investors can seek evidence supporting their claims.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials",
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 313068,
+          "ave": 2895.88
         }
       ]
     }
