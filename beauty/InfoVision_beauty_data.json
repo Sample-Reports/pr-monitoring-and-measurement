@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "beauty",
-  "_savedAt": "2026-07-29T11:42:28.916Z",
-  "_dayCount": 11,
+  "_savedAt": "2026-07-30T11:42:50.324Z",
+  "_dayCount": 12,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:16.350Z",
@@ -2205,6 +2205,239 @@
           "brands": [],
           "reach": 642069,
           "ave": 5939.14
+        }
+      ]
+    },
+    "2026-07-30": {
+      "uploadedAt": "2026-07-30T11:42:30.452Z",
+      "filename": "InfoVision_Beauty_Media_Briefing_2026-07-30.docx",
+      "articles": [
+        {
+          "id": "myois6",
+          "headline": "How Ulta Beauty Is Reaching Gen Zalpha Teen Boys Through First Men’s Masstige Fragrance Launch",
+          "source": "Glossy",
+          "author": "Lexy Lesback",
+          "url": "https://www.glossy.co/beauty/how-ulta-beauty-is-reaching-gen-zalpha-teen-boys-through-first-mens-masstige-fragrance-launch/",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Teen boys have become an increasingly important consumer demographic over the past few years thanks, primarily, to their insatiable appetite for fragrance. This includes the accumulation of “fragrance wardrobes,” where users rotate their fragrances daily based on mood and occasion, often selecting from a robust collection of both designer and dupe scents. Teen boys also care about their fragrance atomizers and save for niche fragrances that signal access and knowledge about the category.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "Prestige vs Mass"
+          ],
+          "brands": [
+            "Ulta Beauty"
+          ],
+          "reach": 170991,
+          "ave": 1581.67
+        },
+        {
+          "id": "riwrkn",
+          "headline": "1 Stage, 1 City, 1 Week: Chanel Brings Together 5 NYC Dance Companies For The BAAND Together Festival",
+          "source": "Who What Wear",
+          "author": "Nikki Chwatt",
+          "url": "https://www.whowhatwear.com/fashion/luxury/chanel-baand-together-dance-festival-2026",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Being in Europe for the summer is undeniably chic, but nothing compares to New York City during the warm-weather season. The energy is unmatched—there's always something to do, somewhere to explore, and a new reason to fall in love with it. Whether you live in or are visiting NYC, one happening that deserves a spot on your calendar is the BAAND Together Dance Festival. This event brings together five of the city's premier dance companies: Ballet Hispánico, Alvin Ailey American Dance Theater, American Ballet Theatre, New York City Ballet, and Dance Theatre of Harlem. Together, this group will showcase a series of performances through a variety of dance forms from July 28 to August 1 at the David H. Koch Theater as part of Lincoln Center's Summer for the City series. And it's all made possible by the one and only Chanel.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Chanel"
+          ],
+          "reach": 896935,
+          "ave": 8296.65
+        },
+        {
+          "id": "et2q9h",
+          "headline": "L'Oréal CEO Sees Strong Demand For Haircare Products",
+          "source": "Bloomberg",
+          "author": "",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-29/l-oreal-ceo-sees-strong-demand-for-haircare-products-video",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "The CEO of L'Oréal, the world’s largest cosmetics company, says the performance in the Middle East was below expectations but somewhat compensated by a rebound of growth in China. Nicolas Hieronimus spoke exclusively with Bloomberg’s Francine Lacqua from Paris.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "of3bh9",
+          "headline": "L'Oreal Sales Rise On Haircare Boom And 'Lipstick Effect'",
+          "source": "Reuters",
+          "author": "Dominique Patton",
+          "url": "https://www.reuters.com/business/retail-consumer/loreal-sales-rise-haircare-boom-lipstick-effect-2026-07-29/",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "The world's largest cosmetics company L'Oreal reported better-than-expected quarterly sales on Wednesday, boosted by strong demand for new hair products and mascaras. The Paris-based maker of CeraVe skincare, Maybelline make-up and Valentino perfume said sales for the three months to end-June came to €11.6 billion ($13.21 billion), up 6.3% on a like-for-like basis ⁠after adjustment for the phasing in of its new IT system.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "8xc6yk",
+          "headline": "L’Oréal Chief Plans To More Than Triple Sales Of Gucci Beauty Products",
+          "source": "Financial Times",
+          "author": "Adrienne Klasa",
+          "url": "https://www.ft.com/content/6440161f-83ad-40e9-a024-b78153e78c9b?syn-25a6b1a6=1",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "L’Oréal is aiming to more than triple sales of Gucci-branded beauty products after it takes over the licence next year, as the world’s largest beauty company shrugged off the impact of US tariffs to report record profit margins in the first half. The French group acquired Gucci owner Kering’s beauty business, which also includes the Balenciaga and Bottega Veneta brands, for €4bn this year. “Gucci has to become a multibillion-euro beauty brand,” L’Oréal chief executive Nicolas Hieronimus told the FT. “Gucci fashion is significantly bigger than the Saint Laurent fashion brand, and Saint Laurent beauty [generates revenues of] €3bn.” L’Oréal has operated the beauty licence for Saint Laurent since 2008.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 21414033,
+          "ave": 198079.81
+        },
+        {
+          "id": "1p9don",
+          "headline": "Gucci Owner Links Return To Growth With ‘Reinforced’ Brand Distinctiveness",
+          "source": "Marketing Week",
+          "author": "Emily Manock",
+          "url": "https://www.marketingweek.com/gucci-kering-distinctiveness-growth/",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Luxury business Kering drove its first organic sales increase in three years, as it focuses on brand desirability and driving full-price sales.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Prestige vs Mass"
+          ],
+          "brands": [],
+          "reach": 694514,
+          "ave": 6424.25
+        },
+        {
+          "id": "sdfkwl",
+          "headline": "L'Oreal Posts 6% Rise In Quarterly Sales",
+          "source": "Reuters",
+          "author": "Dominique Patton",
+          "url": "https://www.reuters.com/business/retail-consumer/loreal-posts-6-rise-quarterly-sales-2026-07-29/",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "L'Oreal reported a 6.3% rise in second-quarter sales ‌on Wednesday, slightly higher than expected, driven by strong demand for its premium haircare as ⁠well as mass market brands. The Paris-based maker of CeraVe skincare, Maybelline make-up and Valentino perfume said sales for the three months to end-June came ‌to €11.6 ⁠billion ($13.21 billion), up 6.3% on a like-for-like basis after adjustment for the ⁠phasing in of its new IT system.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Prestige vs Mass"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "ldmz5o",
+          "headline": "Ulta Beauty Could Turn Target Partnership Exit Into A Revenue Growth Opportunity, Analyst Says",
+          "source": "Benzinga",
+          "author": "Kaustubh Bagalkote",
+          "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/07/60769822/ulta-beauty-could-turn-target-partnership-exit-into-a-revenue-growth-opportunity-analyst-says",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Ulta Beauty Inc faces a major structural transition as its shop-in-shop agreement with Target Corp winds down in August. BofA Securities Global Research analyst Lorraine Hutchinson views the end of the partnership as a growth opportunity rather than a loss for the specialty retailer. BofA reiterated its Buy rating and $685 price forecast on Ulta stock on Wednesday, pointing to a substantial revenue recapture potential.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Retail & Distribution",
+            "Markets & Regulation"
+          ],
+          "brands": [
+            "Ulta Beauty"
+          ],
+          "reach": 676910,
+          "ave": 6261.42
+        },
+        {
+          "id": "1ouiug",
+          "headline": "Kering Shares Soar As Analysts Cheer Q2 Results",
+          "source": "WWD",
+          "author": "Joelle Diderich",
+          "url": "https://wwd.com/business-news/financial/kering-share-reaction-second-quarter-results-1239086670/",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Kering shares soared on Wednesday after the French luxury group’s second-quarter results indicated its turnaround plan is gaining traction. The better-than-expected performance of its star brand Gucci cheered investors, prompting a flurry of upgrades from analysts. Kering shares rose 16.9 percent to close at 292.85 euros, leading a mixed performance by luxury stocks.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Prestige vs Mass",
+            "Markets & Regulation"
+          ],
+          "brands": [],
+          "reach": 126372,
+          "ave": 1168.94
+        },
+        {
+          "id": "yspt36",
+          "headline": "The Black Beauty Roster Beauty Show Brings Out The Biggest Names In Beauty",
+          "source": "Hello Beautiful",
+          "author": "Keyaira Boone",
+          "url": "https://hellobeautiful.com/4598797/black-beauty-roster-beauty-show-2026/",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "The Black Beauty Roster Beauty Show brought out the biggest names in beauty Monday. Danessa Myricks, Derek J, Jesseca Dupart, Sabrina Dhowre Elba and more hit the event ready to celebrate the power of inclusive beauty. The trade event brought founders, stylists, makeup artists, and creators to New York’s Chelsea Industrial venue. It included demonstrations from expert beauty professionals, master classes, product testing opportunities, and panels. There was even a traditional beauty hair battle where stylists competed for a cash prize. Susy Oludele, who created the breathtaking finale look for Sammy B’s 2023 runway show, served as one of the judges.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Marketing & Influence"
+          ],
+          "brands": [],
+          "reach": 536739,
+          "ave": 4964.84
+        },
+        {
+          "id": "pfe9uq",
+          "headline": "People Are Willing To Go Into Debt For Beauty Products, Report Shows",
+          "source": "LiveNOW from FOX",
+          "author": "Daniel Miller",
+          "url": "https://www.livenowfox.com/news/people-debt-beauty-products-report.amp",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Personal care is essential for many nationwide and some are willing to sacrifice a little more financially at retail stores to ensure they secure their critical beauty supplies. Whether it's hair products or skin care items, a recent survey sheds light on what people are spending cash on for self-care maintenance. Zenoti, a software platform designed for the beauty, wellness, and fitness industries, conducted a survey of 1,000 adults in the United States to inquire about their beauty and wellness spending and what they sacrifice to purchase these goods.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "AI Beauty Tech"
+          ],
+          "brands": [],
+          "reach": 127921,
+          "ave": 1183.27
         }
       ]
     }
