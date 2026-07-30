@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "qsr",
-  "_savedAt": "2026-07-29T11:43:18.348Z",
-  "_dayCount": 11,
+  "_savedAt": "2026-07-30T11:44:49.422Z",
+  "_dayCount": 12,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:45.173Z",
@@ -3779,6 +3779,353 @@
           "brands": [],
           "reach": 550857,
           "ave": 5095.43
+        }
+      ]
+    },
+    "2026-07-30": {
+      "uploadedAt": "2026-07-30T11:44:37.371Z",
+      "filename": "InfoVision_QSR_Media_Briefing_2026-07-30.docx",
+      "articles": [
+        {
+          "id": "ljnj9u",
+          "headline": "The Best KFC Menu Item Isn’t The Fried Chicken, According To Customers",
+          "source": "Allrecipes",
+          "author": "Bailey Fink",
+          "url": "https://www.allrecipes.com/kfc-country-fried-steak-12027281",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Colonel Sanders’ signature blend of 11 herbs and spices may have been what put Kentucky Fried Chicken on the map, but today, the chain offers much more than its famous bucket of fried chicken. Fans frequent KFC for everything from its crispy chicken sandwiches and returning popcorn chicken to its Famous Bowls and tasty Southern sides. KFC might not have the biggest fast food menu on the market—you may recall the chain removed quite a few items in 2023—but there’s still a chance that you could be missing out on a menu item and meal deal that fans call “unbeatable.” Kentucky Fried Chicken has a menu item so elusive that you can only order it one day of the week, but it’s racked up quite the cult following. KFC customers love its Country Fried Steak.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 498172,
+          "ave": 4608.09
+        },
+        {
+          "id": "6obhsa",
+          "headline": "Colonel Sanders’ ‘Secret’ KFC Recipe Planner Fetches $30K",
+          "source": "Complex",
+          "author": "Bernadette Giacomazzo",
+          "url": "https://www.complex.com/life/a/bernadette-giacomazzo/colonel-sanders-kfc-auction",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "A handwritten recipe once feared to be KFC’s most closely guarded secret just sold for $30,000. The list was tucked inside Colonel Sanders’ personal 1964 planner—and contained exactly 11 ingredients, immediately raising one very expensive question: Had the Kentucky Fried Chicken founder written down the chain’s supposedly untouchable formula? According to The Associated Press, the leather-bound planner topped a recent auction of Sanders’ belongings in Shelbyville, Kentucky. Along with the mystery recipe, its pages detail his relentless travel schedule as he crisscrossed the country building KFC into a national franchise.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 459632,
+          "ave": 4251.6
+        },
+        {
+          "id": "bz6kfb",
+          "headline": "12 Discontinued Taco Bell Items That Deserve A Revival",
+          "source": "Tasting Table",
+          "author": "Amy Bell",
+          "url": "https://www.tastingtable.com/2224348/discontinued-taco-bell-items-deserve-revival/",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Although there are constantly old items coming and going off the menu, there are still some great discontinued Taco Bell items that deserve a comeback that haven't yet had their day. In fact, there are quite a few tacos, burritos, gorditas, wraps, breakfast items, sauces, sides, and desserts that people still wish would make a return. While some items haven't been seen since as long ago as the 1980s, others are more recent limited-time menu offerings that were too good to not become permanent or have a limited return. Many of these items have online petitions for their return. Sometimes, it's possible to hack the menu to get something sort of similar, but if a sauce or the seasoning isn't right, it just doesn't hit the same.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 760318,
+          "ave": 7032.94
+        },
+        {
+          "id": "xl32cc",
+          "headline": "US Diners Avoid Restaurants As Cyclosporiasis Fears Cut Lettuce Sales",
+          "source": "Reuters",
+          "author": "Tom Polansek, Anuja Bharat Mistry",
+          "url": "https://www.reuters.com/legal/litigation/us-diners-avoid-restaurants-cyclosporiasis-fears-cut-lettuce-sales-2026-07-29/",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "U.S. consumers are steering clear of some restaurant chains and buying less lettuce in grocery stores as a ​multistate outbreak of a parasitic disease fuels confusion over what is safe to eat, according to foot traffic data and industry sources. The U.S. Food and ‌Drug Administration has linked the outbreak of cyclosporiasis to iceberg lettuce that was served at Taco Bell restaurants and sourced from privately held Taylor Farms' operations in central Mexico. But cases have continued to rise even after Taylor Farms said it removed all potentially affected products from the marketplace. The increase has stoked uncertainty and fears about other products that may be infecting people with the disease that causes explosive, watery diarrhea.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "iu56hi",
+          "headline": "Major Burger Dining Chain Closes More Locations",
+          "source": "TheStreet",
+          "author": "Kirk O’Neil",
+          "url": "https://www.thestreet.com/restaurants/wendys-closes-more-locations-toward-350-goal",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "The nation’s No. 2 burger chain, Wendy’s, is continuing its Project Fresh turnaround strategy, that it launched in 2025, which calls for the company to shutter underperforming locations. Wendy’s in late July 2026 abruptly closed a restaurant at 4003 Wilmington Pike in Kettering, Ohio, with a sign posted on its front door which read: “This location is permanently closed.” The sign invited customers to visit its nearby store at 1880 E. Dorothy Lane, about 1.5 miles away, according to WDNT-TV. The Kettering closing was the second Wendy’s closure in the Dayton area in the last four months, as the chain closed a location in Moraine, Ohio, in March 2026, according to the Dayton Business Journal. Wendy’s has not listed any other locations that are currently scheduled for closing.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 271892,
+          "ave": 2515
+        },
+        {
+          "id": "rev3j0",
+          "headline": "Chipotle Mexican Grill Posts Higher Sales, Driven By New Restaurant Openings",
+          "source": "The Wall Street Journal",
+          "author": "Grace Yoon",
+          "url": "https://www.wsj.com/business/earnings/chipotle-mexican-grill-posts-higher-sales-driven-by-new-restaurant-openings-f614dceb",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Chipotle Mexican Grill raised its comparable sales guidance as it posted higher sales in its second quarter, fueled by new restaurant openings. The Mexican-inspired fast-casual chain reported a profit of $403.5 million, or 32 cents a share, compared with $436.1 million, or 32 cents a share, a year earlier.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chipotle"
+          ],
+          "reach": 11615615,
+          "ave": 107444.44
+        },
+        {
+          "id": "q14ahh",
+          "headline": "Two Broome Burger King Locations Closing For Makeovers",
+          "source": "WNBF",
+          "author": "Bob Joseph",
+          "url": "https://wnbf.com/broome-burger-king-closings/",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "The grills at a couple of Burger King restaurants in the Binghamton area will be shut down for weeks for renovation work. Employees say the Burger King locations on Ash Road in Vestal and East Main Street in Endwell are expected to be closed for at least a month and perhaps as long as two months for the modernization projects. Representatives of the franchise operator recently discussed details of the renovations at meetings of the town of Vestal and town of Union planning boards. Both restaurants are scheduled to close at 5 p.m. Friday. Similar remodeling work at other New York state Burger King locations has taken four to six weeks to complete.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store",
+            "Sustainability & Labor"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 908891,
+          "ave": 8407.24
+        },
+        {
+          "id": "t5tpru",
+          "headline": "Is The Whopper Actually 100% Beef?",
+          "source": "Tasting Table",
+          "author": "Bridget Sharkey",
+          "url": "https://www.tastingtable.com/2224904/is-whopper-one-hundred-percent-beef/",
+          "section": "Brand News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Since its debut in 1957, the Burger King Whopper has been a fast-food favorite. In fact, it is estimated that 2.1 billion Whoppers are sold globally every year. But is the iconic flame-grilled burger actually made with 100% beef? It certainly is. Although you can customize your Whopper in over 200,000 ways, there is one thing that won't change: The burger patty will always be made with 100% beef. However, curious customers may have a hard time sourcing the origin of that beef.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 760318,
+          "ave": 7032.94
+        },
+        {
+          "id": "gukc5g",
+          "headline": "Taco Bell Expands Voice AI To Nearly 900 Restaurants",
+          "source": "Food On Demand",
+          "author": "Bernadette Heier",
+          "url": "https://foodondemand.com/07292026/taco-bell-expands-voice-ai-to-nearly-900-restaurants/",
+          "section": "AI Pulse",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Taco Bell has expanded its voice AI technology to more than 890 U.S. restaurants across 38 states as it deepens its partnership with voice AI provider Omilia. The companies first partnered in 2023. The voice AI takes customer orders at the drive-thru and adjusts to each restaurant’s menu, inventory levels and limited-time offers. “Omilia’s Voice AI gives us the ability to ease team members’ workloads and provides them the flexibility to engage with customers in a more meaningful way,” Dane Mathews, global chief digital and technology officer at Taco Bell, said in a statement. “Omilia’s platform has proven itself at scale in select U.S. restaurants, and continuing this strategic partnership supports our long-term digital and tech strategy.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "AI & Automation",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 919926,
+          "ave": 8509.32
+        },
+        {
+          "id": "m9c4h0",
+          "headline": "AI Is Fueling A Boom In Bogus Restaurant Websites",
+          "source": "Restaurant Business",
+          "author": "Joe Guszkowski",
+          "url": "https://www.restaurantbusinessonline.com/technology/ai-fueling-boom-bogus-restaurant-websites",
+          "section": "AI Pulse",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "When you Google “Golden Corral menu prices,” the first source cited in Google’s AI overview is the website golden-corral.us. The site is loaded with information about Golden Corral, including prices, a nutrition calculator, and even a nifty “AI buffet plate builder” tool. But it has no official connection to the buffet chain. “Golden-corral.us is an independent resource and is not affiliated with Golden Corral,” reads the fine print at the bottom of the site. “This website is for informational purposes only.”",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "AI & Automation"
+          ],
+          "brands": [],
+          "reach": 300003,
+          "ave": 2775.03
+        },
+        {
+          "id": "ptvyxd",
+          "headline": "Heytruffle Lands Funding To Scale Its Human-Monitored Restaurant AI Concierge Nationwide",
+          "source": "Food & Beverage Magazine",
+          "author": "",
+          "url": "https://www.fb101.com/heytruffle-funding-managed-restaurant-ai-concierge-nationwide-302838011",
+          "section": "AI Pulse",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "When the dining room is slammed and the host stand is buried, the phone is usually the first casualty. That ringing line at the front desk represents reservations, catering leads, private-event inquiries, and pickup orders — real revenue slipping through the cracks every peak-hour rush. A Fort Lauderdale-based startup thinks the answer isn't another dashboard for operators to babysit, but a fully managed service that simply handles the call. Heytruffle, a managed AI phone concierge built for multi-location restaurant groups, has raised new funding from New York-based Preface Ventures. The company also unveiled a rebrand — it was formerly known as RestoHost — and says the capital will fuel a nationwide expansion across the United States. The timing tracks with where the money is going. In a 2025 Deloitte study, 82 percent of restaurant executives said they planned to increase their AI investment — though the report noted that industry adoption still lags the appetite. A separate 2025 Toast survey of more than 700 operators found that 86 percent were comfortable using AI.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Digital & Ordering",
+            "AI & Automation",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 320263,
+          "ave": 2962.43
+        },
+        {
+          "id": "m7jbe0",
+          "headline": "McDonald’s Decided You Are Not Worth Helping Anymore",
+          "source": "TheStreet",
+          "author": "Daniel Kline",
+          "url": "https://www.thestreet.com/restaurants/mcdonalds-decided-you-are-not-worth-helping-anymore",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Starbucks has found the perfect mix of digital and human ordering. You can use the company’s app to place your complicated order and know it will be made exactly the way you want. And people who don’t want to use the app can stand in line or go through the drive-through to order from an actual human. It’s a simple formula that makes technology an option, but doesn’t force it down people’s throats. McDonald’s has embraced technology, but at the expense of people. In many stores, it has replaced the human ordering option with kiosks. To make matters worse, those kiosks aren’t in any way intuitive, and they’re frustrating to use at best.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "McDonald's",
+            "Starbucks"
+          ],
+          "reach": 271892,
+          "ave": 2515
+        },
+        {
+          "id": "j43g45",
+          "headline": "McDonald’s Latest Breakfast Sandwich Adds A Sweet Twist",
+          "source": "Scripps News",
+          "author": "Justin Boggs",
+          "url": "https://www.scrippsnews.com/business/company-news/mcdonalds-latest-breakfast-sandwich-adds-a-sweet-twist",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "For the second consecutive week, McDonald’s has announced a new menu item. This week, McDonald’s unveiled its Honey Brown Butter Bacon, Egg & Cheese Biscuit. The sandwich is similar to the chain’s bacon, egg and cheese biscuit, but includes honey brown butter on the biscuit for added flavor. McDonald’s said the new item will be available for a limited time at U.S. restaurants. The new breakfast item comes as McDonald’s also rolls out a Caesar dipping sauce at participating restaurants for a limited time. McDonald’s described the sauce as “a creamy, garlicky parmesan blend infused with notes of lemon that’s giving fan-favorite chicken items a glow-up this summer.”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "McDonald's"
+          ],
+          "reach": 440967,
+          "ave": 4078.94
+        },
+        {
+          "id": "xeo0pv",
+          "headline": "Church’s Texas Chicken Secures Funding For ‘Next Stage Of Growth'",
+          "source": "Nation's Restaurant News",
+          "author": "Alicia Kelso",
+          "url": "https://www.nrn.com/quick-service/church-s-texas-chicken-secures-funding-for-next-stage-of-growth-",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Church’s Texas Chicken just received a growth equity investment from Golub Capital that will ensure the 74-year-old brand keeps pace with the fast-growing chicken category. The undisclosed investment is aimed at accelerating the company’s “next phase of growth,” including the expansion of its remodel program, which it says has generated sales increases. The funding will also be used to accelerate new company-operated restaurant openings and other initiatives supporting brand and franchisee growth. Church’s currently has more than 1,500 restaurants across the U.S. and more than 25 international markets. Domestically, it finished 2025 with over $861 million in sales and 770 locations. In November, Church’s named Bobby Morena to the chief development officer role to continue its U.S. expansion.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 253719,
+          "ave": 2346.9
+        },
+        {
+          "id": "op2u15",
+          "headline": "Wingstop Believes Better Value Messaging Can Reignite Traffic",
+          "source": "QSR Magazine",
+          "author": "",
+          "url": "https://www.qsrmagazine.com/story/wingstop-believes-better-value-messaging-can-reignite-traffic/",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "Wingstop has spent recent years proving it can outgrow the industry through unit expansion, surging brand awareness, and a product that consistently commanded premium pricing. The second quarter showed the limits of that formula in today’s consumer environment. Same-store sales declined 7.5 percent as the chain’s core guests pulled back on spending. AUV was $1.89 million, down from $2.11 million in Q2 2025. The result missed the company’s expectations and prompted executives to rethink how Wingstop communicates value, even as leadership argued the brand’s long-term trajectory hasn’t changed. The brand pointed to pressure on lower-income households—not weakening demand for the concept itself—as the primary obstacle.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Value & Pricing",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 68484,
+          "ave": 633.48
+        },
+        {
+          "id": "utkvew",
+          "headline": "Your Restaurant Pricing Strategy Isn’t Working Anymore. Here’s What Is.",
+          "source": "QSR Magazine",
+          "author": "",
+          "url": "https://www.qsrmagazine.com/story/your-restaurant-pricing-strategy-isnt-working-anymore-heres-what-is/",
+          "section": "Industry News",
+          "date": "July 29, 2026",
+          "iso": "2026-07-28",
+          "summary": "For the past few years, the simple restaurant playbook has leaned into raising prices to boost revenue. That’s not working anymore. In many cases, price increases are actually suppressing growth by weighing on traffic and comparable sales (comps). The National Restaurant Association forecasts just 1.3 percent real sales growth this year, and Black Box data reported negative traffic in late 2025 and early 2026. The industry is still experiencing minimal growth, but yesterday’s drivers of growth are mostly gone. U.S. consumer sentiment over the last few months has been hovering near historic lows. Financially stressed consumers are looking sharply at discretionary spending and questioning purchases when the price doesn’t meet or exceed their expectations of value. In restaurants, this doesn’t mean consumers won’t spend on premium concepts; rather, it makes them less willing to pay for middle-of-the-road experiences.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Value & Pricing"
+          ],
+          "brands": [],
+          "reach": 68484,
+          "ave": 633.48
         }
       ]
     }
