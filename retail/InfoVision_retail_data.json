@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "retail",
-  "_savedAt": "2026-07-30T11:45:16.339Z",
-  "_dayCount": 12,
+  "_savedAt": "2026-07-31T11:52:56.643Z",
+  "_dayCount": 13,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:03.474Z",
@@ -3195,6 +3195,204 @@
           ],
           "reach": 118465,
           "ave": 1095.8
+        }
+      ]
+    },
+    "2026-07-31": {
+      "uploadedAt": "2026-07-31T11:52:43.641Z",
+      "filename": "InfoVision_Retail_Media_Briefing_2026-07-31.docx",
+      "articles": [
+        {
+          "id": "qo7n3l",
+          "headline": "Kohl’s Debuts AI Shopping Assistant",
+          "source": "Retail Dive",
+          "author": "Tatiana Walk-Morris",
+          "url": "https://www.retaildive.com/news/kohls-ai-shopping-assistant/826585/",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Kohl’s new AI shopping assistant builds on its Gift Finder for Mother’s Day, which launched in April. The tool used Google Cloud’s Gemini Enterprise for Customer Experience to offer customized gift ideas based on the recipient’s hobbies, interests and style. The retailer is once again leveraging Google’s infrastructure to underpin its new AI shopping tool. Kohl’s is now expanding the tool’s capabilities to help shoppers find their desired items, inspire new looks or search for the right gift no matter the occasion, using conversational queries.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI & Personalization"
+          ],
+          "brands": [],
+          "reach": 616977,
+          "ave": 5707.04
+        },
+        {
+          "id": "24erey",
+          "headline": "Why Retail Acquisitions Fail: Lessons From Walmart, Target And Tesco",
+          "source": "Retail Insight Network",
+          "author": "Mohamed Dabo",
+          "url": "https://www.retail-insight-network.com/features/why-retail-acquisitions-fail-lessons-from-walmart-target-and-tesco/",
+          "section": "Brand News",
+          "date": "July 31, 2026",
+          "iso": "2026-07-30",
+          "summary": "The failures of Walmart, Target and Tesco show that acquisitions rarely fail because of the numbers—they fail when assumptions about customers, operations and integration prove wrong. Retail acquisitions promise something few other strategies can deliver: rapid growth. By acquiring an established retailer, companies can gain immediate market access, loyal customers, experienced employees, store networks and operational capabilities that would take years to build organically.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Walmart",
+            "Target"
+          ],
+          "reach": 658135,
+          "ave": 6087.75
+        },
+        {
+          "id": "foqi66",
+          "headline": "Walmart’s Stock Buybacks: How Its Massive New Repurchase Program Could Affect Shareholder Returns",
+          "source": "The Street",
+          "author": "Laura Rodini",
+          "url": "https://www.thestreet.com/investing/stocks/walmart-stock-buybacks",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "In his autobiography, Sam Walton: Made In America, Walmart (WMT) founder Sam Walton said that “the more you share profits with your associates — whether it’s in salaries or incentives or bonuses or stock discounts — the more profit will accrue to the company.” Decades later, Walmart is still sharing its profits — but today’s debate centers on who benefits most. After Walmart approved the largest share repurchase authorization in its history, it rekindled a long-running feud with one of its fiercest critics, Senator Bernie Sanders (I-VT).",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 899790,
+          "ave": 8323.06
+        },
+        {
+          "id": "sbhtls",
+          "headline": "Walmart Shrinking Parking Lots To Build Runways For Drones At Stores Across The US",
+          "source": "The Sun",
+          "author": "",
+          "url": "https://www.the-sun.com/news/16771547/walmart-drone-delivery-parking-lot-florida/",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "WALMART is planning to make their parking lots smaller to build runways for autonomous drones. The brand is expanding their delivery service offerings to include products delivered to your front door by a drone. Walmart and Wing, a drone operating company, rolled out their first Florida locations on Wednesday. The new delivery service will give customers within a five mile radius of participating locations the ability to have items dropped off right in their front lawn.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "iv43zo",
+          "headline": "Big-Box Briefing: Walmart Takes Over Parts Of Sam’s Club’s Operations",
+          "source": "Modern Retail",
+          "author": "Mitchell Parton",
+          "url": "https://www.modernretail.co/operations/big-box-briefing-walmart-takes-over-parts-of-sams-clubs-operations/",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Over the past couple of years, Walmart has been taking more control of Sam’s Club from the corporate level, in some cases merging teams or using shared platforms in areas like supply chain and e-commerce. One of the first signs of this was in 2024, when Sam’s Club’s corporate supply chain team began merging with that of Walmart, its parent company. In September 2025, Sam’s Club rolled out a new front-end experience for its website and mobile app that mirrors the design and functionality of its Walmart counterparts.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "Supply Chain"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 482884,
+          "ave": 4466.68
+        },
+        {
+          "id": "tobdgk",
+          "headline": "Kohl’s Turns Up Promotional Heat While Electing New Board Leadership",
+          "source": "Homepage News",
+          "author": "",
+          "url": "https://www.homepagenews.com/retail-articles/kohls-turns-up-promotional-heat-while-electing-new-board-leadership/",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "As it makes a late-season back-to-school push, Kohl’s is promoting dorm must-haves, backpacks, first-day outfits and other essentials priced under $10 and under $25 to go with an annual event designed to entice consumers who are still shopping for the classroom return. In addition, the company has announced significant changes to its board of directors, including appointment of a new chair, former Bath & Body Works executive Wendy Arlin. Through August 2, Kohl’s “Friends & Family Sale” will provide shoppers with a coupon offering an extra 20% off purchases plus $10 in the company’s Kohl’s Cash credits for every $50 spent. Consumers also will find hundreds of private-label Big One Home items priced under $25.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer"
+          ],
+          "brands": [],
+          "reach": 803685,
+          "ave": 7434.09
+        },
+        {
+          "id": "8krn11",
+          "headline": "Amazon, Walmart AI Detect 'Made In USA' Fraud But Do Not Flag It, Study Says",
+          "source": "Reuters",
+          "author": "Jody Godoy",
+          "url": "https://www.reuters.com/business/retail-consumer/amazon-walmart-ai-detect-made-usa-fraud-do-not-flag-it-study-says-2026-07-30/",
+          "section": "AI Pulse",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Amazon and Walmart AI shopping assistants can often detect ‌when \"Made in USA\" product labels are false, but the big retailers are not using that technology to crack down on the listings, according to a new study, opens new tab from a think tank led by former Chair of the U.S. Federal Trade Commission Lina Khan. The study resurfaces questions about AI shopping assistants' mixed incentives, as retailers see the technology as a way to boost spending. Amazon's Alexa for Shopping and Walmart's Sparky shopping assistants are capable of detecting mismatches between explicit \"made ⁠in USA\" claims and contradictory information in product listings, the study's authors wrote.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "AI & Personalization",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart",
+            "Amazon"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "ro8mjc",
+          "headline": "The AI Fraud Wave Retailers Must Prepare For",
+          "source": "Retail Insight Network",
+          "author": "Mohamed Dabo",
+          "url": "https://www.retail-insight-network.com/features/the-ai-fraud-wave-retailers-must-prepare-for/",
+          "section": "AI Pulse",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Artificial intelligence is transforming retail fraud, enabling criminals to launch more targeted, convincing and automated scams that threaten customers, employees, suppliers and brand trust. Retailers are entering a new era of fraud risk as artificial intelligence (AI) gives criminals powerful new tools to deceive customers, employees and business partners. Unlike traditional scams that relied on mass emails, fake websites or predictable tactics, AI-powered fraud can be highly personalised, increasingly convincing and far harder to identify.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "AI & Personalization"
+          ],
+          "brands": [
+            "Target"
+          ],
+          "reach": 658135,
+          "ave": 6087.75
+        },
+        {
+          "id": "rfxmug",
+          "headline": "Retailers See Declines In Shoplifting, Product Thefts",
+          "source": "WWD",
+          "author": "Arthur Zaczkiewicz",
+          "url": "https://wwd.com/sourcing-journal/industry-news/retailers-see-decrease-in-shoplifting-product-thefts-1239088254/",
+          "section": "Industry News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Shoring up security measures is paying off for retailers. The latest “Impact of Theft & Violence 2026” report showed that retailers had a 12.4 percent decrease in shoplifting incidents as well as an 8.1 percent decline in retail merchandise theft in 2025 as compared with 2024. But there is some bad news.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 126372,
+          "ave": 1168.94
         }
       ]
     }
