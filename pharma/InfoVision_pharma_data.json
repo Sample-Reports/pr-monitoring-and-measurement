@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "pharma",
-  "_savedAt": "2026-07-30T11:44:20.338Z",
-  "_dayCount": 12,
+  "_savedAt": "2026-07-31T11:51:40.559Z",
+  "_dayCount": 13,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:09.000Z",
@@ -4717,6 +4717,464 @@
           "brands": [],
           "reach": 313068,
           "ave": 2895.88
+        }
+      ]
+    },
+    "2026-07-31": {
+      "uploadedAt": "2026-07-31T11:51:26.510Z",
+      "filename": "InfoVision_Pharma_Media_Briefing_2026-07-31.docx",
+      "articles": [
+        {
+          "id": "3vueyj",
+          "headline": "Lilly, Resilience To Invest $750 Million In US Drug Manufacturing Expansion",
+          "source": "Reuters",
+          "author": "​Christy Santhosh",
+          "url": "https://www.reuters.com/legal/litigation/lilly-resilience-invest-750-million-us-drug-manufacturing-expansion-2026-07-30/",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Drugmaker Eli Lilly and privately held contract manufacturer Resilience will invest $750 million to expand pharmaceutical manufacturing ​capacity in the U.S. and strengthen the domestic ‌medicine supply chain, Resilience said on Thursday. Global drugmakers have been ramping up U.S. manufacturing since last year ​and stockpiling inventory as President Donald Trump's administration moves ​to impose 100% tariffs on branded drugs ⁠unless companies cut prices or make medicines ​domestically.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "M&A / Markets"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "l6ztpe",
+          "headline": "J&J Pays Sail $785M, Charting Course To Possible In Vivo CAR-T Buyout",
+          "source": "Fierce Biotech",
+          "author": "Nick Paul Taylor",
+          "url": "https://www.fiercebiotech.com/biotech/jj-pays-sail-785m-charting-course-possible-vivo-car-t-buyout",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Johnson & Johnson is cruising deeper into in vivo CAR-T waters, paying $785 million upfront to strike a deal that gives it the option to acquire Sail Biomedicines. Big Pharma interest in in vivo CAR-T cell therapies has exploded over the past 18 months. In that time, AbbVie, AstraZeneca, Bristol Myers Squibb and Gilead Sciences’ Kite have bet billions on the modality. Eli Lilly raised the stakes in April, agreeing to pay $3.25 billion upfront to buy Kelonia Therapeutics. J&J has been active too, partnering with Kelonia before the Lilly buyout and advancing internal programs. The Sail agreement represents a bigger bet on the modality. J&J is paying $785 million upfront, including a $465 million equity investment, and committing up to $140 million in milestones. The drugmaker has an exclusive option to acquire Sail for an additional $2.58 billion.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Eli Lilly",
+            "AstraZeneca"
+          ],
+          "reach": 467472,
+          "ave": 4324.12
+        },
+        {
+          "id": "2zmxgg",
+          "headline": "J&J Granted FDA Priority Review For Rybrevant Faspro In Head And Neck Cancer",
+          "source": "Seeking Alpha",
+          "author": "Dulan Lokuwithana",
+          "url": "https://seekingalpha.com/news/4621666-jj-wins-fda-priority-review-rybrevant-faspro",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "The FDA has granted priority review for Johnson & Johnson’s (JNJ) bid to expand the U.S. label for its Halozyme (HALO)-partnered cancer therapy Rybrevant Faspro for use against a type of head and neck cancer, the company announced on Thursday. The company’s supplemental Biologics License Application seeks U.S. approval of the injectable for adults with recurrent or metastatic head and neck squamous cell carcinoma, the most common type of head and neck cancer. The sBLA is supported by data from J&J’s (JNJ) pivotal Phase 1b/2 OrigAMI-4 study, in which 42% of patients with HNSCC responded to the treatment, with more than a third of them indicating complete remission.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials",
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 384488,
+          "ave": 3556.51
+        },
+        {
+          "id": "2aqp8n",
+          "headline": "AbbVie’s Maviret Ends The Wait-And-See Reality For Acute HCV",
+          "source": "Drug Discovery & Development",
+          "author": "Julia Rock-Torcivia",
+          "url": "https://www.drugdiscoverytrends.com/abbvies-maviret-ends-the-wait-and-see-reality-for-acute-hcv/",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "AbbVie’s Maviret, known as Mavyret (glecaprevir/pibrentasvir) in the U.S., just became the only therapy approved in the EU for both acute and chronic hepatic C virus (HCV) , removing the need to confirm chronicity before treatment. While 2020 clinical guidance already recommended prompt treatment for acute HCV, the drug’s previous chronic-only indication could still lead to additional documentation, reimbursement hurdles or delays.The expanded indication brings the drug’s approved use in line with existing clinical recommendations. “We no longer have to go through additional steps to check for chronicity or worry about how far back they got the infection,” Mudra Kapoor, vice president of Global Medical Affairs, Specialty & Global Medical Operations, Medical Affairs and Health Impact at AbbVie, said in an interview with R&D World.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 707375,
+          "ave": 6543.22
+        },
+        {
+          "id": "l38bc4",
+          "headline": "AbbVie Wins Two EC Approvals For Rinvoq",
+          "source": "The Pharma Letter",
+          "author": "",
+          "url": "https://www.thepharmaletter.com/pharma-news/abbvie-wins-two-ec-approvals-for-rinvoq",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "US pharma major AbbVie (NYSE: ABBV) announced that the European Commission (EC) has authorized two new indications for its already blockbuster immunosuppressant Rinvoq (upadacitinib). First, The EC has approved Rinvoq 15mg, once daily) for the treatment of adult and adolescent patients 12 years and older with non-segmental vitiligo (NSV) who are candidates for systemic therapy.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 677658,
+          "ave": 6268.34
+        },
+        {
+          "id": "9h2fxi",
+          "headline": "Bristol Myers Raises 2026 Forecast As Eliquis, Newer Medicines Power Results",
+          "source": "Reuters",
+          "author": "Michael Erman, Mariam E Sunny",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/bristol-myers-raises-2026-forecast-eliquis-newer-medicines-power-results-2026-07-30/",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Bristol ​Myers Squibb lifted its full-year revenue and profit forecast on Thursday as strong sales of blood thinner ‌Eliquis and newer medicines pushed second-quarter results well past analysts' estimates. The drugmaker has been working to offset declining sales of older medicines facing generic competition, particularly blood cancer treatment Revlimid, once its top-selling medicine. \"Our growth portfolio grew 15% in Q2,\" Chief Commercialization Officer Adam Lenkowsky said in an ​interview. \"We now have nine products that were growing double digits, and these are all medicines that are early ​in their life cycle.\"",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "c6a7bz",
+          "headline": "Medidata Launches AI Layer To Scale Clinical Intelligence Across Global Trial Portfolios",
+          "source": "BioPharma APAC",
+          "author": "Julia Rock-Torcivia",
+          "url": "https://biopharmaapac.com/news/31/8261/medidata-launches-ai-layer-to-scale-clinical-intelligence-across-global-trial-portfolios.html",
+          "section": "AI Pulse",
+          "date": "July 31, 2026",
+          "iso": "2026-07-30",
+          "summary": "Medidata, a Dassault Systèmes brand and leading provider of clinical trial solutions, announced the launch of Medidata Plus. This clinical artificial intelligence layer unlocks the full breadth of AI capabilities across the Medidata Platform, giving sponsors access to scalable, outcome-driven AI throughout their global portfolios. Medidata Plus shifts the life sciences industry away from a legacy of disjointed, inefficient point solutions to a unified, end-to-end AI strategy, accelerating the delivery of life-saving therapies to patients. While 92% of industry decision-makers plan to increase AI investment, only 29% say AI currently meets or exceeds their expectations.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 50996,
+          "ave": 471.71
+        },
+        {
+          "id": "iicttc",
+          "headline": "GSK Pens $110M Biological Datasets Pact With AI Biotech Relation",
+          "source": "Fierce Biotech",
+          "author": "Ben Adams",
+          "url": "https://www.fiercebiotech.com/medtech/gsk-pens-110m-biological-datasets-pact-ai-biotech-relation",
+          "section": "AI Pulse",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "GSK is boosting its AI chops with a new deal worth up to $110 million with Relation. The British Big Pharma and AI-focused biotech will work together in a new research collaboration focused on “generating large-scale human cellular perturbation data and deploying them into models,” according to a July 30 release. Perturbation data are collections of biological measurements that track how systems respond to changes and are typically used in the early stages of drug development. Under the pact, London-based Relation will generate large-scale datasets showing how human cells respond to genetic and drug interventions. The companies will use the data to train foundation models aimed at uncovering “new therapeutic opportunities.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "GSK"
+          ],
+          "reach": 467472,
+          "ave": 4324.12
+        },
+        {
+          "id": "uqod2z",
+          "headline": "Pharma Pulse: Infinitus' AI Hub Play, EVERSANA's Cell Therapy Partnership, Cold Chain Deals",
+          "source": "Pharmaceutical Commerce",
+          "author": "Stephen Appezzato",
+          "url": "https://www.pharmaceuticalcommerce.com/view/pharma-pulse-infinitus-ai-hub-play-eversana-s-cell-therapy-partnership-cold-chain-deals",
+          "section": "AI Pulse",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Infinitus launched an AI-first, human-backed hub solution built to replace the industry's legacy call-center infrastructure for specialty pharmacy patient support.1 The model splits the work by type. AI agents absorb routine volume like enrollment, benefit verification and status updates around the clock, while human case managers engage where judgment or empathy is needed, like exceptions, escalations and clinical conversations. Infinitus says the approach can cut administrative costs by up to 30%, and during a recent annual re-verification cycle, the company says it absorbed a 144% patient volume surge without hiring a single additional full-time employee.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 419032,
+          "ave": 3876.05
+        },
+        {
+          "id": "wvuxxq",
+          "headline": "AI's Impact On Biopharma Valuation Remains Murky",
+          "source": "BioXconomy",
+          "author": "Stephen Appezzato",
+          "url": "https://www.bioxconomy.com/investment/ais-impact-on-biopharma-valuation-remains-murky",
+          "section": "AI Pulse",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Artificial intelligence (AI) has had its fits and starts over the years, with the last two featuring a more palpable surge. Shifting from fence-sitting to either FOMO, outside pressure, or internal optimism in the biopharma industry, AI has moved to the question of its actual impact on a company’s valuation. Geoff Serednesky, founder of Fishbone Advisors, an independent advisory firm, told BioXconomy, “AI and healthcare has been a conversation piece for so long, but there’s a catch-22: management struggles to show ROI on AI investments, yet not investing means falling behind.” This paradox led his company to conduct a survey and interviews among healthcare investors, with the results found in its recently released report, “Hallucinating Value: Healthcare's AI Narrative.”",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 238903,
+          "ave": 2209.85
+        },
+        {
+          "id": "mjwi98",
+          "headline": "Pharma Is Deploying AI Faster Than It Can Understand Its Risk",
+          "source": "HIT Consultant",
+          "author": "Alex Neff",
+          "url": "https://hitconsultant.net/2026/07/30/pharma-is-deploying-ai-faster-than-it-can-understand-its-risk/",
+          "section": "AI Pulse",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "A year ago, integrating AI-powered clinical workflow tools could take months of review and planning across disparate teams within a pharmaceutical company’s IT, security, and risk teams. Today, with the proliferation of tools that have less than a month of onboarding and can provide immediate value to clinical teams, the way risk is approached has changed. For better or worse, AI capabilities are outpacing the security programs meant to govern them, and many companies are simply assuming risk that they have not quantified or do not fully understand.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 354248,
+          "ave": 3276.79
+        },
+        {
+          "id": "onia9l",
+          "headline": "Researchers Develop AI System To Accelerate Tuberculosis Drug Discovery",
+          "source": "Drug Target Review",
+          "author": "",
+          "url": "https://www.drugtargetreview.com/researchers-develop-ai-system-to-accelerate-tuberculosis-drug-discovery/2136121.article",
+          "section": "AI Pulse",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "With tuberculosis remaining the world’s deadliest infectious disease and its notoriously slow experimental timelines hampering drug development, James Sacchettini’s laboratory at Texas A&M has built AI tools designed to help researchers make better-informed decisions about which compounds are worth pursuing. When scientists screen potential tuberculosis drugs, they often find too many possible candidates and too little time to investigate them all. Many compounds may initially appear promising but don’t lead anywhere. To combat this, Dr James Sacchettini’s lab at Texas A&M University has developed artificial intelligence tools to help researchers prioritise the most promising options after initial screening. The team is also using AI to organise years of collaborative research data into a searchable system that can help scientists make faster decisions.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 250151,
+          "ave": 2313.9
+        },
+        {
+          "id": "ue63eh",
+          "headline": "Mapping AI Drug Discovery: The Companies Behind Biotech’s Most-Searched Technology",
+          "source": "GeneOnline",
+          "author": "Bernice Lottering",
+          "url": "https://www.geneonline.com/mapping-ai-drug-discovery-the-companies-behind-biotechs-most-searched-technology/",
+          "section": "AI Pulse",
+          "date": "July 31, 2026",
+          "iso": "2026-07-30",
+          "summary": "From target identification to the clinical-trial bottleneck, four distinct layers now make up the AI drug discovery stack. Here is who sits at each one, what they actually sell, and who is paying for it. Search interest in AI drug discovery has outpaced almost every other biotechnology term over the past two years, and for good reason. It is one of the few life-science stories that sits squarely at the intersection of artificial intelligence and pharmaceutical innovation while continuing to produce tangible clinical milestones. Yet the term has also become increasingly diluted, used to describe everything from a single machine-learning algorithm to fully integrated biotechnology companies.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 355176,
+          "ave": 3285.38
+        },
+        {
+          "id": "xbfqf1",
+          "headline": "Relation Promises 'Transformationally Different Success Rates' In Expanded AI Pact With GSK",
+          "source": "Endpoints News",
+          "author": "Elizabeth Cairns",
+          "url": "https://endpoints.news/relation-promises-transformationally-different-success-rates-in-expanded-gsk-pact/",
+          "section": "AI Pulse",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "GSK is set to pay Relation Therapeutics up to $110 million to expand their existing partnership to use AI modeling for drug discovery. Under the Thursday deal, Relation will build a new, automated wet lab near its headquarters in London, to conduct experiments where cells are exposed to drugs and genetic factors to observe how they react. The results of these experiments will be used to train Relation’s AI-based model. Relation’s CEO David Roblin called the initial part of the process causal biology. “You make a perturbation and you measure an impact, and if you’re measuring something that is meaningful … you’re more likely to be learning something of relevance to the disease you’re trying to treat. That’s done at massive scale here,” Roblin told Endpoints News.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Clinical Trials"
+          ],
+          "brands": [
+            "GSK"
+          ],
+          "reach": 795883,
+          "ave": 7361.92
+        },
+        {
+          "id": "ehxv4o",
+          "headline": "Trump's Pharma Tariffs Won't Kick In Friday Because There's No One Left To Kick",
+          "source": "Endpoints News",
+          "author": "Anna Brown",
+          "url": "https://endpoints.news/first-round-of-trumps-100-pharma-tariffs-wont-start-friday-as-planned/",
+          "section": "Industry News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Over the past 16 months, the Trump administration’s pharma tariffs have loomed large over the industry. While the first wave of these levies was scheduled to arrive on Friday, July 31, a White House official has confirmed it is “on track to not impose them.” That’s because even if the 100% tariffs were to go live, no drugmakers are left to pay them. When setting up its initial tariff targets, the White House had specified this first round would only hit 17 specific large drugmakers, including AbbVie, AstraZeneca and Johnson & Johnson. But all 17 have since reached “most favored nation” and US onshoring deals with the administration — meaning they’re exempt from any levies for the next three years. No targets? No tariffs to impose. “This buys us more time,” Dave Maraldo, executive vice president of Merck’s manufacturing division, told Endpoints News in an interview. Merck signed an MFN deal in December 2025, following its wide-ranging commitment to spend $70 billion in the US.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [
+            "AstraZeneca"
+          ],
+          "reach": 795883,
+          "ave": 7361.92
+        },
+        {
+          "id": "zc1zpo",
+          "headline": "Takeda, Regeneron, Sanofi And Bristol Myers Trim Pipelines",
+          "source": "Endpoints News",
+          "author": "Elizabeth Cairns, Kyle LaHucik",
+          "url": "https://endpoints.news/takeda-regeneron-sanofi-and-bristol-myers-squibb-trim-pipelines/",
+          "section": "Industry News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Biopharma earnings season is also pipeline update season. On Wednesday, Takeda, Regeneron, Sanofi and Bristol Myers Squibb all announced program cuts as part of their quarterly updates. Some of the terminations were for early-stage programs: Drugmakers aspire to spot failures early to save on costs. But at least one drug — a Bristol Myers cancer therapy — made it to a Phase 3 test before being trimmed. Takeda made a change to its inflammation pipeline, dropping its mid-stage celiac disease program, TAK-101, which was notable for having been in the company’s hands for nearly seven years.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "Sanofi",
+            "Takeda"
+          ],
+          "reach": 795883,
+          "ave": 7361.92
+        },
+        {
+          "id": "tqgwtm",
+          "headline": "Mehmet Oz’s Quiet Path To Power In The Trump Administration",
+          "source": "Bloomberg",
+          "author": "Michelle Fay Cortez, Rachel Cohrs Zhang",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-30/mehmet-oz-s-quiet-path-to-power-in-trump-administration-as-medicare-head",
+          "section": "Industry News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Mehmet Oz’s policy-wonk focus leads to unexpected influence. The deadly fallout from President Donald Trump’s dismantling of the US Agency for International Development. Chinese biotechs are gaining as the AI rally sputters and Indian drugmakers are rattled by Trump’s plan to impose a 100% tariff on generic drug imports. The measles, cyclosporiasis and Ebola outbreaks all continue to grow. And Fauci pleads the Fifth during a Senate Covid hearing.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "g8iy4i",
+          "headline": "Drugmakers, Retailers Must Face 'Maximum Strength' Claim In Decongestant False Ad Litigation In US",
+          "source": "Reuters",
+          "author": "Jonathan Stempel",
+          "url": "https://www.reuters.com/legal/litigation/drugmakers-retailers-must-face-maximum-strength-claim-decongestant-false-ad-2026-07-30/",
+          "section": "Industry News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "A federal appeals court on Thursday revived portions of nationwide litigation in which consumers ‌accused drugmakers such as Procter & Gamble and retailers such as CVS of selling billions of dollars of over-the-counter decongestants that didn't work. The litigation comprised about 100 lawsuits filed after a U.S. Food and Drug Administration advisory panel found in September 2023 ​that oral phenylephrine, an ingredient in such products as Vicks NyQuil Severe Cold & Flu and Advil ​Sinus Congestion & Pain, was no better than a placebo. A three-judge panel of the ⁠2nd U.S. Circuit Court of Appeals in Manhattan said the Federal Food, Drug and Cosmetic Act preempted most ​of the consumers' state law-based claims, saying the defendants followed FDA labeling requirements.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "wmwuge",
+          "headline": "Once-Daily Zasocitinib Rivals Injectable Biologics For Skin Clearance, Phase 3 Data Show",
+          "source": "Dermatology Times",
+          "author": "Maddi Hebebrand",
+          "url": "https://www.dermatologytimes.com/view/once-daily-zasocitinib-rivals-injectable-biologics-for-skin-clearance-phase-3-data-show",
+          "section": "Industry News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Complete skin clearance from a once-daily pill—achieved in more than one-third of patients. That was the headline finding from LATITUDE Atlas, a phase 3, randomized, double-blind trial in which zasocitinib (TAK-279; Takeda) demonstrated statistical superiority over deucravacitinib (Sotyktu; Bristol Myers Squibb) across all primary and key secondary end points in adults with moderate to severe plaque psoriasis, reinforcing the case that next-generation tyrosine kinase 2 (TYK2) inhibitors are rewriting expectations for oral therapy.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "Takeda"
+          ],
+          "reach": 782523,
+          "ave": 7238.34
+        },
+        {
+          "id": "hhxg47",
+          "headline": "CAR T-Cell Therapy, Biomarkers, Clinical Trials, And Bladder Cancer Advances",
+          "source": "The American Journal of Managed Care",
+          "author": "Maggie L. Shaw, Kirsty Mackay",
+          "url": "https://www.ajmc.com/view/car-t-cell-therapy-biomarkers-clinical-trials-and-bladder-cancer-advances",
+          "section": "Industry News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "The pace of innovation in oncology has created both extraordinary opportunity and significant complexity for clinicians practicing across the full spectrum of care settings. From novel immunotherapy combinations in myeloma and bladder cancer to the challenge of ensuring that patients in community settings can access biomarker testing and clinical trials, the gap between what is possible and what is routinely delivered remains a defining issue. The American Journal of Managed Care® brought together academic and community oncologists, pharmacists, and urologists in Cincinnati, Ohio, on April 14, 2026, for the Institute for Value-Based Medicine® event “Pioneering the Next Era of Oncology Care,” to examine how evidence, innovation, and collaboration can be translated into better patient outcomes.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 376927,
+          "ave": 3486.57
+        },
+        {
+          "id": "lrweyn",
+          "headline": "Pfizer Takes Litfulo To Regulators In Vitiligo Challenge To Incyte, AbbVie",
+          "source": "Fierce Pharma",
+          "author": "Fraiser Kansteiner",
+          "url": "https://www.fiercepharma.com/pharma/pfizer-taking-litfulo-regulators-vitiligo-challenge-incyte-abbvie",
+          "section": "Industry News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "In hopes of challenging Incyte’s topical JAK inhibitor Opzelura, Pfizer is headed to regulators with results from a pair of late-stage studies testing its would-be oral rival Litfulo in nonsegmental vitiligo (NSV). Pfizer assessed Litfulo—also known as ritlecitinib and first cleared by the FDA to treat severe alopecia areata in mid-2023—in a pair of phase 3 trials dubbed Tranquillo and Tranquillo 2, focusing on patients ages 12 and older and adults only, respectively. The company said Thursday that it enlisted participants with both active and stable NSV across a broad spectrum of disease severity. NSV is a chronic autoimmune disease that causes the immune system to attack cells that make melanin, in turn causing loss of pigment that leads to white macules and patches forming on the skin and hair over time. Pfizer noted that although vitiligo is frequently thought of as a cosmetic condition, it is nevertheless “a serious autoimmune disease that can have considerable impact on patients’ lives well beyond the physical symptoms.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [
+            "Pfizer"
+          ],
+          "reach": 432715,
+          "ave": 4002.61
+        },
+        {
+          "id": "r6vzru",
+          "headline": "US Senate Panel Advances Trump CDC Pick Schwartz",
+          "source": "Reuters",
+          "author": "Ahmed Aboulenein",
+          "url": "https://www.reuters.com/world/us-senate-panel-votes-advance-nomination-trump-cdc-pick-schwartz-2026-07-30/",
+          "section": "Industry News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "The U.S. Senate health committee voted on Thursday to advance the nomination ​of President Donald Trump's pick for CDC director Dr. Erica Schwartz, handing his administration ‌a rare win after repeated failed attempts to fill top health posts. The Senate Health, Education, Labor and Pensions Committee sent Schwartz, Trump's third pick to run the Centers for Disease Control and Prevention, to the ​full Senate on a 13-10 vote, with Democratic Senator Tim Kaine the lone member ​to cross party lines. Trump withdrew his first CDC pick, Dave Weldon, ⁠and his first surgeon general nominee, Janette Nesheiwat, in 2025 before either reached a hearing. ​He withdrew a second surgeon general pick, Casey Means, in April when it became apparent she ​lacked enough votes.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
         }
       ]
     }
