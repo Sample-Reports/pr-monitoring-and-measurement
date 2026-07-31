@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "qsr",
-  "_savedAt": "2026-07-30T11:44:49.422Z",
-  "_dayCount": 12,
+  "_savedAt": "2026-07-31T11:52:34.542Z",
+  "_dayCount": 13,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:45.173Z",
@@ -4126,6 +4126,375 @@
           "brands": [],
           "reach": 68484,
           "ave": 633.48
+        }
+      ]
+    },
+    "2026-07-31": {
+      "uploadedAt": "2026-07-31T11:52:02.329Z",
+      "filename": "InfoVision_QSR_Media_Briefing_2026-07-31.docx",
+      "articles": [
+        {
+          "id": "5aghri",
+          "headline": "KFC Customers Are Calling This Returning Item '1000x Better Than The Nuggets'",
+          "source": "Mashed",
+          "author": "Alia Ali",
+          "url": "https://www.mashed.com/2227040/customers-are-calling-kfc-nuggets-bucket-best-item-2026/",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Sometimes the best part of fried chicken is not the chicken itself, but the crispy batter that surrounds it. Chicken tenders and nuggets increase the ratio of batter to chicken due to their smaller size. However, the highest ratio of batter to chicken is in the form of popcorn chicken. Popcorn chicken is essentially bite-sized pieces of chicken battered and deep-fried, resulting in a crispy, chicken-y bite. And customers are calling them the best returning fast food item of July 2026. Folks on social media have been celebrating the occasion by posting photos and thoughts on the return of this coveted snack. Over on Reddit, a self-proclaimed KFC employee noted, \"They're so good, 1000x better than the nuggets.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 351992,
+          "ave": 3255.93
+        },
+        {
+          "id": "n4z8p2",
+          "headline": "Taco Bell’s Plan To Win Back Customers After Cyclospora Illness Outbreak",
+          "source": "The Wall Street Journal",
+          "author": "Heather Haddon",
+          "url": "https://www.wsj.com/business/hospitality/taco-bells-plan-to-win-back-customers-after-cyclospora-illness-outbreak-a7ab5ae6",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Taco Bell has a battle plan to bring back customers after a parasitic outbreak was linked to lettuce served at its restaurants. The plan includes $1 Mexican Pizzas and limited-time offers such as butter chicken tacos. While health authorities linked an outbreak of cyclospora-related illnesses to product giant Taylor Farms, the fast-food standout has been hurt by people reporting explosive diarrhea and stomach cramping after dining at the chain’s locations.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 11615615,
+          "ave": 107444.44
+        },
+        {
+          "id": "juw1ku",
+          "headline": "Taco Bell Adding Another Location To St. Johns County Expansion Plans",
+          "source": "Jacksonville Daily Record",
+          "author": "J. Brooks Terry",
+          "url": "https://www.jaxdailyrecord.com/news/2026/jul/30/taco-bell-adding-another-location-to-st-johns-county-expansion-plans/",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Taco Bell is adding another St. Johns County location to its regional expansion plans, marking a fourth proposed location, in addition to three already open in the county. The St. Johns River Water Management District began reviewing an environmental resource permit preapplication July 29 for a Taco Bell at U.S. 1 and Ponce Island Drive, just north of downtown St. Augustine. With the site being undeveloped, an ERP regulates construction and development to prevent flooding, protect water quality and preserve wetlands. The restaurant is planned on a portion of a 12.3-acre parcel owned by Ponte Vedra-based Sea Pine Equity Partners through Ponce Commercial LLC.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 883097,
+          "ave": 8168.65
+        },
+        {
+          "id": "mtp09u",
+          "headline": "Wendy's Hands North America Comms Remit To Ruder Finn",
+          "source": "ContentGrip",
+          "author": "Nathan Cole",
+          "url": "https://www.contentgrip.com/wendys-ruder-finn/",
+          "section": "Brand News",
+          "date": "July 31, 2026",
+          "iso": "2026-07-30",
+          "summary": "Ruder Finn has been selected as Wendy's North American communications agency of record following a competitive review, adding a large restaurant brand to the independent agency's consumer and reputation portfolio. Agnostic, Ruder Finn's strategic partner in Canada, will support Wendy's communications in that market. The brief is not a narrow media relations assignment. Wendy's said the model will connect brand marketing, corporate reputation, executive visibility, creator and influencer engagement, cultural relevance, strategic storytelling, issues management, and stakeholder communications across the United States and Canada.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Wendy's"
+          ],
+          "reach": 382987,
+          "ave": 3542.63
+        },
+        {
+          "id": "1yact6",
+          "headline": "5 Chain Restaurants Famous For Their Ranch, According To Diners",
+          "source": "Eat This Not That",
+          "author": "Jess Kelly",
+          "url": "https://www.eatthis.com/chain-restaurants-famous-ranch/",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Wendy’s has a variety of sauces that people love dipping those nuggets and fries into. “Wendy’s Ghost Pepper Ranch,” a Reddit commenter said, discussing the best ranch available at chain restaurants. “This is by far the best. All other answers are wrong,” another said. The website backs up their dip quality, saying “Wendy’s sauces are premium. No shortcuts. No fillers. No sad dips. Just straight-up flavor mic drops.”",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [],
+          "reach": 453838,
+          "ave": 4198
+        },
+        {
+          "id": "setyjk",
+          "headline": "Chipotle’s Efforts To Engage Customers With Rewards In-Restaurant Pay Off",
+          "source": "Customer Experience Dive",
+          "author": "Kristen Doerer",
+          "url": "https://www.customerexperiencedive.com/news/chipotles-efforts-to-engage-customers-with-rewards-in-restaurant-pay-off/826626/",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Chipotle has grown its Chipotle Rewards membership to 23 million active members since relaunching the loyalty program in April, CEO Scott Boatwright said on a Q2 2026 earnings call Wednesday. That accounts for 9.5% growth, according to loyalty membership data shared at launch. A main goal of the revamped Chipotle Rewards is to increase in-restaurant participation, as only about 20% of in-restaurant transactions utilize rewards, according to Boatwright. The company introduced menu panels, QR codes and team member engagement, which drove a nearly 20% step-up in daily enrollments since launch. “Encouragingly, in-store loyalty comps have outpaced order-ahead loyalty comps since the relaunch, reinforcing our belief that simplifying the in-restaurant rewards experience can meaningfully increase engagement over time,” Boatwright said on the call.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chipotle"
+          ],
+          "reach": 682040,
+          "ave": 6308.87
+        },
+        {
+          "id": "5xx3x7",
+          "headline": "New Drinks, Burritos And Perks Help Chipotle And Starbucks Beat Cautious Consumers",
+          "source": "Los Angeles Times",
+          "author": "Daniela Sirtori, Redd Brown",
+          "url": "https://www.latimes.com/business/story/2026-07-30/new-drinks-burritos-perks-help-chipotle-starbucks-beat-cautious-consumers",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Consumers’ reluctance to spend is no match for fruity refreshers and chipotle honey chicken burritos. Two of the largest US restaurant companies, Starbucks Corp. and Chipotle Mexican Grill Inc., both raised their guidance on Wednesday after stronger-than-expected quarters. Sales at both chains were bolstered by trendy new menu items and revamped loyalty programs. The results show that diners are still willing to open their wallets to eat out if the prices and flavors are right. They also offer hope to consumer companies as rising gas prices squeeze budgets and stoke fears that diners will cut back even more on restaurant outings. Companies including Procter & Gamble Co. and PepsiCo Inc. have said that consumers are retrenching.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Starbucks",
+            "Chipotle"
+          ],
+          "reach": 233477,
+          "ave": 2159.66
+        },
+        {
+          "id": "k5d0q",
+          "headline": "The Burger King Baby Burgers Introduce Slider-Sized Versions Of Sandwiches",
+          "source": "Trent Hunter",
+          "author": "Amy Duong",
+          "url": "https://www.trendhunter.com/amp/trends/baby-burgers",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "The Burger King Baby Burgers expand the chain's menu with miniature takes on three signature sandwiches following a social media campaign built around a pregnancy announcement theme. The lineup includes the Baby Whopper, Baby Cheese Bacon, and Baby Rodeo, each served on a brioche-style bun and available in packs of three or six. The launch reimagines familiar Burger King menu items in a smaller, shareable format without changing their core flavor profiles. The Baby Whopper features a flame-grilled beef patty with mayonnaise, lettuce, tomato, and pickles, while the Baby Cheese Bacon adds cheese and bacon. The Baby Rodeo rounds out the range with barbecue-inspired flavors. Introduced by Burger King Dominican Republic through a teaser campaign on social media, the Burger King Baby Burgers bring the brand's signature burgers to a slider-sized format while retaining the ingredients and preparation associated with the original sandwiches.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 164179,
+          "ave": 1518.66
+        },
+        {
+          "id": "4ieb5b",
+          "headline": "Chipotle’s Operational Reset Is Driving Clear Results",
+          "source": "QSR Magazine",
+          "author": "",
+          "url": "https://www.qsrmagazine.com/story/chipotles-operational-reset-is-driving-clear-results/",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Chipotle first revealed its Recipe for Growth turnaround plan in February, and the impact has been swift. After exceeding expectations in Q1 with positive same-store sales and transactions, the fast casual did the same in the second quarter, with comps rising 2.2 percent and transactions increasing 1 percent. It was Chipotle’s best same-store sales performance since Q4 2024. AUV was at $3.102 million, up from $3.094 million in Q1. The company saw outsized improvement from younger consumers and lower-income guests, two cohorts the brand has struggled with as of late. Momentum carried into early July, but sales have softened in recent weeks by roughly 200 basis points because of a multistate cyclospora outbreak that has sickened thousands. Chipotle’s products have not been linked to the outbreak, which has been traced to iceberg lettuce—an ingredient the chain does not serve.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chipotle"
+          ],
+          "reach": 68484,
+          "ave": 633.48
+        },
+        {
+          "id": "hsx3lp",
+          "headline": "Fast-Food Execs Keep Pushing For More AI Systems, But Fail To See The Big Picture: Customers Still Want Humans",
+          "source": "Fortune",
+          "author": "Joshua Hong",
+          "url": "https://fortune.com/2026/07/30/fast-food-ai-agent-customers-prefer-humans/",
+          "section": "AI Pulse",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Fast-food chains have spent the past several years racing to automate everything from drive-through ordering to burger flipping using AI. McDonald’s and Wendy’s have continued to experiment with AI ordering systems, forcing restaurants to answer more fundamental questions than whether robots can make fries or take orders. With the introduction of ArchIQ by McDonald’s earlier this year as part of its new initiative “McDonald’s > NEXT,” the fast-food giant is introducing AI-powered chatbots at its drive-through locations. Wendy’s has also implemented AI-powered drive-through systems since 2023, under its FreshAI program. In its 2026 first quarter earnings report, Wendy’s CFO Ken Cook said he wants to continue developing the digital experience. “We are continuing to invest in the end-to-end digital experience, leveraging consumer insights to drive frequency and engagement in the app,” he said in the conference call, “while expanding payment options at checkout to create a more seamless experience and improve conversion.”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "AI & Automation",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "McDonald's"
+          ],
+          "reach": 177089,
+          "ave": 1638.07
+        },
+        {
+          "id": "t0vat2",
+          "headline": "Would You Like Fries With Those Prompts? Operators Using AI Are Cutting Food, Labor, Other Costs",
+          "source": "MediaPost",
+          "author": "Teresa Buyikian",
+          "url": "https://www.mediapost.com/publications/article/416911/would-you-like-fries-with-those-prompts-operators.html",
+          "section": "AI Pulse",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Restaurant operators utilizing AI are finally seeing the benefits across multiple key profitability drivers, per a new report from tech platform Restaurant365. The \"2026 State of the Restaurant Industry Mid-Year Report\" found operators that have embraced AI are actually seeing measurable differences across food and labor costs, as well as operational efficiency. Of the of operators currently using AI in at least one back-office function (62%), 61% said they have seen reduced food costs since implementation. Sixty-two percent of them also saw reduced labor costs, while 88% reported AI was “saving time every week.”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI & Automation",
+            "Sustainability & Labor"
+          ],
+          "brands": [],
+          "reach": 404572,
+          "ave": 3742.29
+        },
+        {
+          "id": "iez7o8",
+          "headline": "Chick-Fil-A Set To Open First Stanislaus County Location In Turlock",
+          "source": "KCRA",
+          "author": "Elizabeth Perez",
+          "url": "https://www.kcra.com/article/chick-fil-a-turlock-stanislaus-county/73312506",
+          "section": "Industry News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Stanislaus County will soon get to “Eat Mor Chikin” in Turlock. Chick-fil-A is set to have its grand opening in Turlock on Aug. 6. It will be the Chick-fil-A's first location in Stanislaus County. The fast-food chicken sandwich chain will be located in the new Turlock Marketplace development at the southwest corner of Tuolumne Road and Countryside Drive, according to city officials. Chick-Fil-A will be the first business to open in the almost 30-acre commercial center. The new location will adhere to the standard Monday to Saturday hours, being open from 6:30 a.m. to 11 p.m. every day except Sundays, when it is are closed. Residents are encouraged and invited to attend the grand opening on Thursday, August 6. Guests wearing cow-print clothing, cow costumes and cow themed attire can receive one complimentary entrée or Kid’s Meal.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chick-fil-A"
+          ],
+          "reach": 541319,
+          "ave": 5007.2
+        },
+        {
+          "id": "jqaxh4",
+          "headline": "'Best Year Yet' | Gray Dairy Queen Raises Record-Breaking $250,000 On Miracle Treat Day",
+          "source": "13WMAZ",
+          "author": "Olivia Dunne",
+          "url": "https://www.13wmaz.com/article/news/local/gray-jones/gray-dairy-queen-raises-record-breaking-250000-on-miracle-treat-day/93-c9a2a121-8b35-4a52-ac19-032ef7c7e161",
+          "section": "Industry News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Gray's Dairy Queen took part in another sweet and successful Miracle Treat Day on Thursday. The busiest Dairy Queen in the world raised a record-breaking $250,000 for the Beverly Knight Olson Children's Hospital in Macon. The store took part in the national fundraising campaign for their sixth year Thursday, and donated every dollar made to the children's hospital. Store owner Justin Kelly announced the record-breaking campaign on social media. 13WMAZ originally reported the total as $245,000. However, Kelly confirmed another donor came forward after he announced the total. \"The town is really bought in on this, and I believe this is gonna be the best year yet,\" Kelly said. Central Georgians hit the road by the hundreds to take part in the tradition, and drive-thru traffic often spilled onto West Clinton Street. Sharonda Williams says she had to come back when the crowds quieted down after she was met with heavy traffic Thursday morning.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 935889,
+          "ave": 8656.97
+        },
+        {
+          "id": "f818aq",
+          "headline": "Raising Cane's Is Launching Limited-Edition Megan Moroney Cups For Her Cloud 9 Tour",
+          "source": "Quartz",
+          "author": "Cris Tolomia",
+          "url": "https://qz.com/raising-canes-megan-moroney-limited-edition-cups-073026",
+          "section": "Industry News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Raising Cane's is releasing two limited-edition collector's cups tied to country singer Megan Moroney's Cloud 9 Tour, with both items available starting Thursday. The first is the Rhinestone Tumbler, a purple rhinestone-covered cup that holds 24 ounces and retails for $19.99. The design traces back to a custom cup created exclusively for Moroney when she first partnered with Raising Cane's at an event in Athens, Georgia. After fans expressed interest in purchasing one, Raising Cane's owner and founder Todd Graves made it available to the public. It can be purchased in-store or through RaisingCanesGear.com while supplies last. A portion of each tumbler sale — $2 per unit — benefits the Megan Moroney Foundation, an organization dedicated to kindness, anti-bullying efforts, and mental health advocacy.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 191109,
+          "ave": 1767.76
+        },
+        {
+          "id": "nhf692",
+          "headline": "Fast Food Restaurants Are Eating Up The High Cost Of Beef",
+          "source": "NBC News",
+          "author": "",
+          "url": "https://www.nbcnews.com/now/video/fast-food-restaurants-are-eating-up-the-high-cost-of-beef-267539013548",
+          "section": "Industry News",
+          "date": "July 31, 2026",
+          "iso": "2026-07-30",
+          "summary": "With ground beef prices topping $7 a pound for the first time, major fast-food chains are absorbing the cost instead of raising prices. More than half of Americans cite value menus as their top reason for choosing a restaurant. NBC News' Allie Canal reports.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing"
+          ],
+          "brands": [],
+          "reach": 8916188,
+          "ave": 82474.74
+        },
+        {
+          "id": "ze8x36",
+          "headline": "8 Fast-Food Toys Every Millennial Begged Their Parents To Buy",
+          "source": "Mental Floss",
+          "author": "Chelsea Thatcher",
+          "url": "https://www.mentalfloss.com/nostalgia/fast-food-toys-every-millennial-begged-parents-buy",
+          "section": "Industry News",
+          "date": "July 31, 2026",
+          "iso": "2026-07-30",
+          "summary": "There are a lot of toys today that have us adults thinking, \"I wish they had thought of that when I was a kid!\" But one category of toys has younger generations envious of millennials: the fast-food toy. Today's kids' meal toys are pretty lame compared to what we had as kids. Their low quality is laughable next to the '90s figurines that could have been confused for toy store purchases. The fast food toys of today will never be as cool as the ones we got in the '90s because, sadly, companies don't make them like they used to. But we can reminisce about some of the best kids' meal toys that every millennial just had to have.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 779442,
+          "ave": 7209.84
+        },
+        {
+          "id": "jse7fa",
+          "headline": "Fast-Food Chain Off The Hook Expands To Hattiesburg, First MS Location",
+          "source": "Hattiesburg American",
+          "author": "Davis Wilson",
+          "url": "https://www.hattiesburgamerican.com/story/news/local/hattiesburg/2026/07/30/cajun-chain-restaurant-off-the-hook-hattiesburg/91104386007/",
+          "section": "Industry News",
+          "date": "July 31, 2026",
+          "iso": "2026-07-30",
+          "summary": "A Louisiana-based fast-food restaurant is crossing state lines for the first time and opening a Mississippi location in Hattiesburg. Off the Hook, a Cajun fast-food chain, opened its first restaurant in Thibodaux, Louisiana, in 2012 and has since opened eight more locations, all of which are in Louisiana. It's 10th location, in Hattiesburg, is slated to open in fall 2026 at 6218 U.S. Highway 98, which is currently home to a Golden Chick restaurant that neighbors a Starbucks. \"As we have grown throughout South Louisiana, we have remained committed to the recipes, ingredients and relationships that shaped our brand,\" Off the Hook said in a press release. \"The Hattiesburg restaurant marks an exciting milestone as our first location outside of Louisiana, but the food and experience will stay true to where we started.\"",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Starbucks"
+          ],
+          "reach": 752198,
+          "ave": 6957.83
         }
       ]
     }
