@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "beauty",
-  "_savedAt": "2026-07-30T11:42:50.324Z",
-  "_dayCount": 12,
+  "_savedAt": "2026-07-31T11:51:07.736Z",
+  "_dayCount": 13,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:16.350Z",
@@ -2438,6 +2438,225 @@
           "brands": [],
           "reach": 127921,
           "ave": 1183.27
+        }
+      ]
+    },
+    "2026-07-31": {
+      "uploadedAt": "2026-07-31T11:50:55.202Z",
+      "filename": "InfoVision_Beauty_Media_Briefing_2026-07-31.docx",
+      "articles": [
+        {
+          "id": "dhog2p",
+          "headline": "Chanel And Lincoln Center Celebrate The BAAND Together Dance Festival",
+          "source": "Vogue",
+          "author": "Jenna Adrian-Diaz",
+          "url": "https://www.vogue.com/slideshow/baand-together-dance-festival-lincoln-center",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "A night spent watching any of the five renowned New York City-based dance companies—Alvin Ailey American Dance Theater, American Ballet Theater, Ballet Hispánico, Dance Theater of Harlem, and New York City Ballet—is a treat. But the chance to see all five in a single night is almost unheard of. Alas, Lincoln Center’s BAAND Together Dance Festival transforms that rêve into reality. Now in its sixth year thanks to the longstanding support of Chanel, the festival was ushered in by an opening night celebration filled with cocktails and small bites at Lincoln Center’s own culinary hot ticket, chef Kwame Onwuachi’s Afro-Caribbean restaurant Tatiana.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Chanel"
+          ],
+          "reach": 72318,
+          "ave": 668.94
+        },
+        {
+          "id": "kmrvak",
+          "headline": "Puig Reports First-Half Revenue Growth After Estee Lauder Talks End",
+          "source": "Reuters",
+          "author": "Mireia Merino and Marta Serafinko",
+          "url": "https://www.reuters.com/business/retail-consumer/puig-reports-first-half-revenue-growth-after-estee-lauder-talks-end-2026-07-30/",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Spanish beauty company Puig's (PUIGb.MC), opens new tab first-half revenue grew 4.4% like-for-like basis, it said on ‌Thursday as it posted its first results since talks ended in May on a possible merger with U.S. cosmetics company Estée Lauder. The collapse of the talks has shifted investor focus back to Puig's standalone growth prospects as fragrance demand normalises following a post-pandemic ⁠boom in feel-good products, and as conflict in the Middle East weighs on travel retail, an important channel for premium beauty brands.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "Prestige vs Mass"
+          ],
+          "brands": [
+            "Estée Lauder"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "t4vw7a",
+          "headline": "Derma Beauty And Hair Care Power L’Oréal To Record Half-Year Operating Margin",
+          "source": "Personal Care Insights",
+          "author": "",
+          "url": "https://www.personalcareinsights.com/news/loreal-derma-hair-care-results.html",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "L’Oréal has published its 2026 half-year results, where hair care was revealed as a front-runner and its two most clinically oriented divisions Professional Products and DermatoloBetween 2022 and 2025, Gucci lost over €4.5 billion in revenue, falling below the €6 billion mark last year. The Florentine house is nevertheless still the Kering group’s flagship label. And is still in the spotlight, now that Kering’s CEO Luca De Meo, appointed in September 2025, is implementing the ‘ReconKering’ action plan, whose primary aim is to revitalise the house led by Francesca Bellettini. At the end of H1 2026, Gucci’s turnaround still seems a tough proposition, but the group owned by the Pinault family appears to have set the house on the right track, despite results that are still weak.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 176438,
+          "ave": 1632.05
+        },
+        {
+          "id": "6ouqpb",
+          "headline": "Estée Lauder Taps Hailee Steinfeld For Glimmer Fragrance Launch",
+          "source": "Drug Store News",
+          "author": "Gisselle Gaitan",
+          "url": "https://drugstorenews.com/estee-lauder-taps-hailee-steinfeld-glimmer-fragrance-launch",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "To launch its new Glimmer fragrance, Estée Lauder is unveiling a campaign that taps into the fragrance's ethos and stars actress and singer Hailee Steinfeld. An amber floral scent, Glimmer will be rolling out with an initiative that showcases how its fragrance can inspire optimism and leave a lasting impression, the brand shared. “Fragrance has an incredible ability to tell a story without words, evoke emotion, and create memories that stay with you,” said Steinfeld. “What drew me to Glimmer is that it's more than a fragrance; it's a feeling and I’m honored to be a part of it.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Marketing & Influence"
+          ],
+          "brands": [
+            "Estée Lauder"
+          ],
+          "reach": 931470,
+          "ave": 8616.1
+        },
+        {
+          "id": "q8awib",
+          "headline": "Gucci Seemingly On Cusp Of Turnaround",
+          "source": "Fashion Network",
+          "author": "Olivier Guyot",
+          "url": "https://us.fashionnetwork.com/news/Gucci-seemingly-on-cusp-of-turnaround,1857283.html",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "Between 2022 and 2025, Gucci lost over €4.5 billion in revenue, falling below the €6 billion mark last year. The Florentine house is nevertheless still the Kering group’s flagship label. And is still in the spotlight, now that Kering’s CEO Luca De Meo, appointed in September 2025, is implementing the ‘ReconKering’ action plan, whose primary aim is to revitalise the house led by Francesca Bellettini. At the end of H1 2026, Gucci’s turnaround still seems a tough proposition, but the group owned by the Pinault family appears to have set the house on the right track, despite results that are still weak.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Retail & Distribution"
+          ],
+          "brands": [],
+          "reach": 143866,
+          "ave": 1330.76
+        },
+        {
+          "id": "s57urr",
+          "headline": "L'Oreal To Launch First Gucci Beauty Products As Early As 2028, CEO Says",
+          "source": "Reuters",
+          "author": "Inti Landauro",
+          "url": "https://www.reuters.com/business/retail-consumer/loreal-launch-first-gucci-beauty-products-early-2028-ceo-says-2026-07-30/",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "L'Oreal plans to launch its first Gucci ‌beauty products as early as 2028, the company's Chief Executive Nicolas Hieronimus said on ⁠Thursday, adding he was \"super ambitious\" for the brand that is also showing signs of improvement in its core fashion and leather goods ‌lines. L'Oreal ⁠is set to take over the licence to produce beauty products ⁠for the Gucci brand from Coty in mid 2027 as ⁠part of a €4 billion deal signed ⁠with Kering late last year.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch"
+          ],
+          "brands": [
+            "Coty"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "5f578d",
+          "headline": "L’Oréal Introduces Beauty's Biggest Stage Yet",
+          "source": "Beauty Matter",
+          "author": "Billie Rose Scholz",
+          "url": "https://beautymatter.com/articles/loreal-introduces-beautys-biggest-stage-yet",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "L’Oréal is moving beauty from backstage to center stage with its exclusive two-year contract with Plenitude Arena, Europe’s largest indoor venue in Nanterre, France. The arena sees over 2 million visitors annually through its significant cultural and sporting events, including Celine Dion’s residency, and concerts by Olivia Rodrigo, Muse, and more, as well as the Rolex Paris Masters. The partnership provides L’Oréal with visibility through digital screens, immersive beauty activations, and pop-up spaces, and serves as a hospitality platform, allowing L’Oréal to invite its employees and business partners to enjoy major musical and sporting events. This announcement also highlights the local connection between the organizations, as L’Oréal’s global headquarters is located in Clichy, near Nanterre.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "AI Beauty Tech"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 873349,
+          "ave": 8078.48
+        },
+        {
+          "id": "7ort4t",
+          "headline": "L’Oréal’s Secret Sauce For Growth",
+          "source": "WWD",
+          "author": "Jennifer Weil",
+          "url": "https://wwd.com/beauty-industry-news/beauty-features/loreal-secret-sauce-growth-beauty-strategy-1239088130/",
+          "section": "Brand News",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "L’Oréal’s business — and that of the beauty market — keep picking up speed. The company’s second-quarter revenues broadly beat market expectations, registering 6.3 percent adjusted like-for-like growth to 11.62 billion euros. That compares to consensus of 5.6 percent. The market smiled on L’Oréal’s results a day after their release. Its stock closed Thursday up 2.7 percent to 394 euros.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Markets & Regulation"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 126372,
+          "ave": 1168.94
+        },
+        {
+          "id": "j8xbbr",
+          "headline": "L’Oréal CEO Nicolas Hieronimus Bets On A.I. to Extend A Nearly $100B Family Fortune",
+          "source": "Observer",
+          "author": "Beth Duckett",
+          "url": "https://observer.com/2026/07/how-loreal-is-using-a-i-to-extend-a-nearly-100b-family-fortune/",
+          "section": "AI Pulse",
+          "date": "July 30, 2026",
+          "iso": "2026-07-29",
+          "summary": "More than a century after chemist Eugène Schueller turned a hair-dye formula into the business that became L’Oréal, the beauty giant is still finding new ways to grow, with A.I. as its latest bet. L’Oréal’s Revenue rose 6.3 percent on a like-for-like basis, a key retail metric, to €11.6 billion ($13.2 billion) in the April-June quarter. For the first half of 2026, revenue increased 5.8 percent to €23.78 billion ($27.1 billion), while net profit climbed 4.7 percent to €3.96 billion ($4.5 billion) and the operating margin reached 21.3 percent. Growth extended across every region and division, from Maybelline’s mass-market makeup to La Roche-Posay’s dermatological skincare and Kérastase’s salon-grade haircare.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "Prestige vs Mass"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 191318,
+          "ave": 1769.69
+        },
+        {
+          "id": "sejld4",
+          "headline": "From A Growth Market To A Global Capability Hub: China’s Evolving Role In Beauty",
+          "source": "WWD",
+          "author": "",
+          "url": "https://wwd.com/business-news/business-features/china-beauty-market-growth-strategy-syoung-international-1238532779/",
+          "section": "Industry News",
+          "date": "July 31, 2026",
+          "iso": "2026-07-30",
+          "summary": "China’s beauty market is going through another period of change — beyond being the world’s largest beauty market, it’s one of the most demanding. According to McKinsey, while the Chinese beauty market grew by 3 percent in 2023, the category is projected to maintain 6 percent compound annual growth rate from 2024 until 2028. A 2025 McKinsey survey expects a lower volume growth due to inflation and cautious consumer spending, but 75 percent of beauty executives said they’re doubling down on sales growth.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 126372,
+          "ave": 1168.94
         }
       ]
     }
