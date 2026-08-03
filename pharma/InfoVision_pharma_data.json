@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "pharma",
-  "_savedAt": "2026-07-31T11:51:40.559Z",
-  "_dayCount": 13,
+  "_savedAt": "2026-08-03T12:03:09.577Z",
+  "_dayCount": 14,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:09.000Z",
@@ -5175,6 +5175,305 @@
           "brands": [],
           "reach": 15956812,
           "ave": 147600.51
+        }
+      ]
+    },
+    "2026-08-03": {
+      "uploadedAt": "2026-08-03T12:03:00.171Z",
+      "filename": "InfoVision_Pharma_Media_Briefing_2026-08-3.docx",
+      "articles": [
+        {
+          "id": "3fd8cb",
+          "headline": "AstraZeneca Slides After Report Of Bristol Myers Merger Talks Leaves Analysts ‘Perplexed’",
+          "source": "CNBC",
+          "author": "Elsa Ohlen",
+          "url": "https://www.cnbc.com/2026/08/03/astrazeneca-bristol-myers-squibb-merger-talks.html",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "AstraZeneca shares dropped as much as 7% after a report that the U.K.’s largest drugmaker was in talks with U.S. peer Bristol Myers Squibb over a megadeal that, if completed, could value the companies at roughly $400 billion. AstraZeneca declined to comment. Bristol Myers Squibb didn’t immediately respond to a request to comment outside of normal working hours. The companies have discussed a potential merger over several months, the Financial Times reported on Sunday. It would be one of the biggest pharmaceutical deals ever.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "M&A / Markets"
+          ],
+          "brands": [
+            "AstraZeneca"
+          ],
+          "reach": 313068,
+          "ave": 2895.88
+        },
+        {
+          "id": "l5l4e6",
+          "headline": "Obesity Battle Heats Up Again As Novo Claws Way Back Into Race With Lilly",
+          "source": "Reuters",
+          "author": "Maggie Fick and Bhanvi Satija",
+          "url": "https://www.reuters.com/legal/litigation/obesity-battle-heats-up-again-novo-claws-way-back-into-race-with-lilly-2026-08-03/",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Novo Nordisk investors have found little cause for optimism during a bruising two-year period of profit ​warnings, leadership upheaval and a sliding share price as rival Eli Lilly streaked ahead. Now they may have reason for hope. Despite Novo having lost ground in ‌injectable GLP-1s in recent years, the Danish obesity drugmaker is getting a boost from its new Wegovy weight-loss pill that is holding onto its lead against Lilly's more recently launched Foundayo.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "M&A / Markets"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "b6xjad",
+          "headline": "Michigan Supreme Court Ruling Allows Probe Into Lilly Insulin Pricing",
+          "source": "STAT News",
+          "author": "Ed Silverman",
+          "url": "https://www.statnews.com/pharmalot/2026/08/02/michigan-supreme-court-ruling-allows-probe-into-lilly-insulin-pricing/",
+          "section": "Brand News",
+          "date": "August 2, 2026",
+          "iso": "2026-08-01",
+          "summary": "A divided Michigan Supreme Court ruled on Friday that the state’s attorney general may investigate Eli Lilly over its pricing practices for insulin. In its 4-3 decision, the court rejected a lower court decision that prevented Michigan Attorney General Dana Nessel from proceeding with a probe that began four years ago. At the time, Nessel cited state consumer protection laws, alleging the drug maker had artificially increased the price of its insulin medication. Lilly was accused of charging “grossly” excessive prices for three different insulin products — Lispro, Humalog, and Basaglar — that forced some patients to ration or forgo insulin, restrict their diets or buy less effective alternatives.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 478047,
+          "ave": 4421.93
+        },
+        {
+          "id": "qdp01r",
+          "headline": "Fed’s Credibility Test And J&J’s New Bet",
+          "source": "Bloomberg",
+          "author": "David Westin",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-08-01/fed-s-credibility-test-and-j-j-s-new-bet",
+          "section": "Brand News",
+          "date": "August 1, 2026",
+          "iso": "2026-07-31",
+          "summary": "Using robots for surgery is not all that new. Intuitive got FDA approval for its da Vinci system in 2000. But Johnson & Johnson got its start in producing surgical materials 140 years ago when it was founded, and it has made a big commitment not only to get into the game, but to become a leader. J&J has just received the green light for its Ottava system for soft tissue surgery. It may not have been first, but it hopes its novel approach will position its product to take up less space and provide more flexibility, as project leader Rocco De Bernardis explained.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "xjb8dz",
+          "headline": "AbbVie Trims 2026 Profit View On Apogee Deal, Tops Second-Quarter Estimates",
+          "source": "Reuters",
+          "author": "Siddhi Mahatole and Puyaan Singh",
+          "url": "https://www.reuters.com/legal/transactional/abbvie-trims-2026-profit-forecast-apogee-buy-beats-second-quarter-estimates-2026-07-31/",
+          "section": "Brand News",
+          "date": "July 31, 2026",
+          "iso": "2026-07-30",
+          "summary": "AbbVie slightly trimmed its 2026 profit forecast on Friday to account for its planned Apogee Therapeutics acquisition, while topping second-quarter estimates on strong ​immunology drug sales. The company agreed in June to buy Apogee for $10.9 billion, its ​largest buyout in more than five years, to bolster its treatment pipeline ⁠for inflammatory diseases like eczema and asthma. The drugmaker, whose shares fell 2% in morning ​trading, said the buyout would reduce full-year earnings by 14 cents per share but performance of its ​existing businesses would make up for 10 cents of that, bringing the net impact to 4 cents per share.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "5xpp1l",
+          "headline": "AbbVie's Skyrizi Shrugs Off New Competition As It Thrives In Growing Psoriasis Market",
+          "source": "FiercePharma",
+          "author": "Kevin Dunleavy",
+          "url": "https://www.fiercepharma.com/pharma/abbvies-skyrizi-reaches-new-heights-it-continues-thrive-growing-psoriasis-market",
+          "section": "Brand News",
+          "date": "July 31, 2026",
+          "iso": "2026-07-30",
+          "summary": "Since they were approved four months apart in 2019, AbbVie’s Skyrizi and Rinvoq have been joined at the hip, central to the Illinois drugmaker's hopes that the duo could replace aging immunology superstar Humira, then the world’s best-selling prescription drug. Seven years later, Skyrizi has proven to be an adequate replacement all by itself. In the second quarter, the IL-23 inhibitor generated sales of $5.55 billion, which were a virtual match for the most ever achieved by Humira in a single quarter. The result was a 24% increase for Skyrizi both sequentially and year over year.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 761583,
+          "ave": 7044.64
+        },
+        {
+          "id": "2ompxx",
+          "headline": "Johnson & Johnson Embarks On Supply Chain Restructuring",
+          "source": "Supply Chain Dive",
+          "author": "Phil Neuffer",
+          "url": "https://www.supplychaindive.com/news/johnson-johnson-embarks-on-supply-chain-restructuring/826594/",
+          "section": "Brand News",
+          "date": "July 31, 2026",
+          "iso": "2026-07-30",
+          "summary": "Johnson & Johnson is undergoing a restructuring of its supply chain, primarily in its innovative medicine segment, according to a July 15 earnings release. Begun in fiscal Q2 2026, the initiative involves the exit of certain manufacturing locations as the company attempts to streamline operations, per the release. Johnson & Johnson did not immediately respond to a request for additional information about which facilities it planned to exit.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 910596,
+          "ave": 8423.01
+        },
+        {
+          "id": "avta4f",
+          "headline": "Insilico Medicine Launches AI Drug Discovery Benchmarking Platform",
+          "source": "Drug Target Review",
+          "author": "",
+          "url": "https://www.drugtargetreview.com/insilico-medicine-launches-ai-drug-discovery-benchmarking-platform/2136128.article",
+          "section": "AI Pulse",
+          "date": "July 31, 2026",
+          "iso": "2026-07-30",
+          "summary": "Insilico Medicine has launched a new benchmarking platform designed to measure whether artificial intelligence models can genuinely support drug discovery rather than simply perform well on existing tests. The clinical-stage biotechnology company said its new Drug Discovery and Development (DDD) Benchmarks as a Service (BaaS) provides a standardised framework for evaluating AI models using carefully decontaminated real-world datasets and proprietary validated programmes.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 250151,
+          "ave": 2313.9
+        },
+        {
+          "id": "613atu",
+          "headline": "Moving Faster Than Planned, AI Drug Developer Accipiter Bio Quietly Tops Up Seed Round With $10.5M",
+          "source": "GeekWire",
+          "author": "Lisa Stiffler",
+          "url": "https://www.geekwire.com/2026/moving-faster-than-planned-ai-drug-developer-accipiter-bio-quietly-tops-up-seed-round-with-10-5m/",
+          "section": "AI Pulse",
+          "date": "July 31, 2026",
+          "iso": "2026-07-30",
+          "summary": "Less than a year after emerging from stealth operations with $12.7 million and partnerships with pharmaceutical giants, Seattle-based biotech startup Accipiter Biosciences has added $10.5 million to its funding total. The new cash will let the company move faster on promising drug candidates. “We could have stuck with the original plan and been just fine,” said Matthew Bick, Accipiter Bio’s co-founder and CEO. “But we thought we’d rather capitalize on the progress we’ve made now and diversify our clinical portfolio.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 338121,
+          "ave": 3127.62
+        },
+        {
+          "id": "586mb7",
+          "headline": "Pharma Doesn’t Need Another Walled Garden. Daily Command Was Built To Be The Opposite",
+          "source": "FiercePharma",
+          "author": "",
+          "url": "https://www.fiercepharma.com/sponsored/pharma-doesnt-need-another-walled-garden-daily-command-was-built-be-opposite",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "In any stack, the operating system is the most tempting place to build a wall. Daily Command is the first commercial operating system for pharma, and we built it open on purpose. Here is why, and what open actually means when the outcome at stake is a prescription. I have watched the same pattern repeat for most of my career. A platform opens to grow. It wins the market. Then it walls the market off. You can rent the audiences but never know them. Your data goes in and does not come out. Your results are graded by the same platform that sold you the media. It works beautifully, for the platform. Everyone else ends up renting access to their own customers. Pharma has paid those prices for years, and I did not want to build one more toll booth and call it infrastructure.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 761583,
+          "ave": 7044.64
+        },
+        {
+          "id": "opx47i",
+          "headline": "Trump Slashes Medicare Drug Subsidies, Cutting Against Affordability Message",
+          "source": "The Hill",
+          "author": "Mallory Wilson",
+          "url": "https://thehill.com/homenews/administration/6003940-trump-slashes-medicare-drug-subsidies-cutting-against-affordability-message/",
+          "section": "Industry News",
+          "date": "August 2, 2026",
+          "iso": "2026-08-01",
+          "summary": "The end of a subsidy program that helped keep prices down for Medicare drug coverage could leave millions of seniors with higher monthly costs, a move that undermines the Trump administration’s message of cutting drug prices. President Trump often touts his push for access to cheaper drugs through the TrumpRx platform and making “most-favored-nation” deals with drug companies. But healthcare advocacy and policy organizations have said the end of the subsidy program will raise premium costs and put a burden on seniors at a time when expenses are already high.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 68624,
+          "ave": 634.77
+        },
+        {
+          "id": "s3it90",
+          "headline": "The HIV Shot That Could Change Medicine Is Facing Its Biggest Test: Getting To Patients",
+          "source": "Business Insider",
+          "author": "Lilia Sebouai",
+          "url": "https://www.businessinsider.com/gilead-faces-price-debate-over-miracle-hiv-drug-lenacapavir-2026-7",
+          "section": "Industry News",
+          "date": "August 1, 2026",
+          "iso": "2026-07-31",
+          "summary": "For the first time in the four-decade fight against HIV, there is a \"miracle\" drug that can all but eliminate the risk of infection, but in the Latin American countries where it was tested, most people can't afford it. Trials show that lenacapavir, made by Gilead Sciences, is almost 100% effective in preventing HIV infection. With just two shots a year, those taking it will avoid contracting the virus even when frequently exposed. The drug, which many believe could bring an end to the global HIV pandemic, costs $14,000 a dose in the United States. Gilead has agreed to license generic versions of the pre-exposure prophylaxis (PrEP) medication at around $40 a dose in 120 low- and middle-income countries, but many Latin American countries are being quoted a higher price.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 12885674,
+          "ave": 119192.48
+        },
+        {
+          "id": "2yc0mr",
+          "headline": "The Trump Administration Is Ending A Medicare Drug Subsidy Program. Here’s How It Could Affect Costs",
+          "source": "Associated Press",
+          "author": "Ali Swenson",
+          "url": "https://apnews.com/article/medicare-drug-subsidy-trump-biden-insurance-3d3fdb43b1bf374a1a168506fded86c0",
+          "section": "Industry News",
+          "date": "August 1, 2026",
+          "iso": "2026-07-31",
+          "summary": "Millions of older adults on Medicare prescription drug coverage could face steeper monthly costs in 2027, after the Trump administration concludes a temporary subsidy program that has helped offset premiums for the past two years. The Centers for Medicare & Medicaid Services this week announced it would wrap up the program, which was initially implemented by the Biden administration in 2024 to lower patients’ Medicare Part D prescription drug costs in response to effects of the 2022 Inflation Reduction Act.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 706249,
+          "ave": 6532.8
+        },
+        {
+          "id": "ruz0zn",
+          "headline": "How To Prevent Continuous Data Review From Just Shifting The Manual Burden",
+          "source": "Applied Clinical Trials",
+          "author": "Ali Swenson",
+          "url": "https://www.appliedclinicaltrialsonline.com/view/prevent-continuous-data-review-manual-burden",
+          "section": "Industry News",
+          "date": "July 31, 2026",
+          "iso": "2026-07-30",
+          "summary": "In a recent video interview with Applied Clinical Trials, Raviv Pryluk, CEO and co-founder of PhaseV, discussed the \"dead time\" problem in clinical data—the gap between when data is measured and when it is clean enough to analyze—and what it will actually take to make real-time trial monitoring a practical reality at scale. He opened by framing the core challenge: the data collection, cleaning, validation, and standardization processes that stand between raw trial data and analysis-ready data create delays that undermine the promise of continuous oversight, unless the right technologies are in place to compress or eliminate that gap.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 188775,
+          "ave": 1746.17
+        },
+        {
+          "id": "aornkr",
+          "headline": "Trump Administration Revises Rebate Pilot For 340b Drug Discount Program, Angering Hospitals",
+          "source": "STAT News",
+          "author": "Ed Silverman",
+          "url": "https://www.statnews.com/pharmalot/2026/07/31/trump-administration-revises-rebate-pilot-drug-discount-program-hospitals/",
+          "section": "Industry News",
+          "date": "July 31, 2026",
+          "iso": "2026-07-30",
+          "summary": "The Trump administration has revised the terms of a pilot effort that will allow some drugmakers to offer rebates to certain hospitals and clinics for purchased medicines, a controversial move that may transform a key tenet of a federal drug discount program. The anticipated pilot for the 340B Drug Pricing Program, which is slated to go into effect on Jan. 1, 2027, will allow pharmaceutical companies to provide “timely” rebates, rather than offering upfront discounts. The program targets specific drugs and pharmaceutical companies that are involved in the first two rounds of the Medicare Drug Price Negotiation Program.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 478047,
+          "ave": 4421.93
         }
       ]
     }
