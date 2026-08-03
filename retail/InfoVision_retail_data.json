@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "retail",
-  "_savedAt": "2026-07-31T11:52:56.643Z",
-  "_dayCount": 13,
+  "_savedAt": "2026-08-03T12:04:01.375Z",
+  "_dayCount": 14,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:03.474Z",
@@ -3393,6 +3393,222 @@
           "brands": [],
           "reach": 126372,
           "ave": 1168.94
+        }
+      ]
+    },
+    "2026-08-03": {
+      "uploadedAt": "2026-08-03T12:03:53.789Z",
+      "filename": "InfoVision_Retail_Media_Briefing_2026-08-03.docx",
+      "articles": [
+        {
+          "id": "jvenw",
+          "headline": "Walmart ‘steamrolls’ Costco With Rapid Expansion Of Parking Lot Network That Is Also A Sneaky Plan To Get You In Store",
+          "source": "The Sun",
+          "author": "Michael Lee Simpson",
+          "url": "https://www.the-sun.com/money/16783178/walmart-steamrolls-costco-parking-lot-expansion-sneaky-in-store-plan/",
+          "section": "Brand News",
+          "date": "August 2, 2026",
+          "iso": "2026-08-01",
+          "summary": "WALMART is rapidly expanding a parking lot network that’s leaving rivals like Costco in the dust, and it’s about more than just convenience. The retail giant has become a major player in the electric vehicle charging business. Since the start of the year, four high-speed charging stations have opened in Bentonville, Arkansas. Three of those stations sit near Walmart‘s headquarters, while the fourth is at the local airport.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart",
+            "Costco"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "gf7vu2",
+          "headline": "How Walmart Leverages Procurement To Advance Its ESG Targets",
+          "source": "Procurement Magazine",
+          "author": "Georgia Collins",
+          "url": "https://procurementmag.com/news/how-walmart-leverages-procurement-to-advance-its-esg-targets",
+          "section": "Brand News",
+          "date": "August 2, 2026",
+          "iso": "2026-08-01",
+          "summary": "Walmart’s FY2026 ESG Report reveals how supplier engagement, responsible sourcing, and buying power are driving sustainability across global supply chains",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Supply Chain"
+          ],
+          "brands": [
+            "Walmart",
+            "Target"
+          ],
+          "reach": 52036,
+          "ave": 481.33
+        },
+        {
+          "id": "hb443d",
+          "headline": "Walmart Among Stores Accepting New Payment Method As State Rolls Out Card With Up To $78 A Month Free Cash",
+          "source": "The Sun",
+          "author": "Michael Lee Simpson",
+          "url": "https://www.the-sun.com/money/16780064/louisiana-wic-ebt-card-walmart-78/",
+          "section": "Brand News",
+          "date": "August 1, 2026",
+          "iso": "2026-07-31",
+          "summary": "Walmart is one of many retailers accepting a new payment card as one state overhauls how it delivers benefits to families. Louisiana’s WIC program is switching to a new Electronic Benefits Transfer card system starting August 1, according to the Louisiana Department of Health. The Women, Infants and Children program is rolling out the new WIC EBT cards as part of an updated online system. The upgrade lets WIC clinics prescribe quarterly benefits remotely, so participants no longer have to visit a clinic in person for benefit reloading.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "gqcwj1",
+          "headline": "Walmart Is Building Its Own Charging Network That's Growing Faster Than All The Non-Tesla Competition",
+          "source": "Jalopnik",
+          "author": "Justin Hughes",
+          "url": "https://www.jalopnik.com/2227492/walmart-fastest-growing-ev-network/",
+          "section": "Brand News",
+          "date": "August 2, 2026",
+          "iso": "2026-08-01",
+          "summary": "It's likely unsurprising to most EV owners that Tesla has the largest — and still fastest growing – EV charging network in the U.S. Tesla chargers are everywhere you turn and often paired at the same sites as other charging networks. But what may be surprising is that the number two spot isn't one of the usual suspects like Electrify America or EVgo. It's Walmart, according to Bloomberg. Walmart is no stranger to EV charging, having hosted third-party chargers on its property as early as 2018. And while EV purchases are down in the U.S., the company has decided that now is the right time to build its own charging network under the Walmart brand. Exact numbers are hard to determine and depend on who you ask. Bloomberg reports that between January and June, Walmart added 46 public charging stations with 380 cords. That brings the number of Walmart charging stations to 326 at about 4,600 stores across the US.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 345446,
+          "ave": 3195.38
+        },
+        {
+          "id": "sqn3mx",
+          "headline": "Walmart Rival Confirms August 6 Store Closure As 100-Year-Old Chain Makes Promise To Shoppers",
+          "source": "The Sun",
+          "author": "Leah Renz",
+          "url": "https://www.the-sun.com/money/16779743/walmart-rival-confirms-store-closure-chain-makes-promise/",
+          "section": "Brand News",
+          "date": "August 1, 2026",
+          "iso": "2026-07-31",
+          "summary": "A WALMART rival is closing its doors after 50 years – but makes one final promise to shoppers. Signage inside Giant Food warns customers that they have just days left to visit the store – which will close forever on August 6 at 6pm. The closure is in Baltimore – an area which has already seen multiple downed sites. The exact site of the Giant Food shutdown is 7920-30 Belair Road in Nottingham.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "htycp2",
+          "headline": "The AI Performance Question Retail Isn’t Asking",
+          "source": "Retail Dive",
+          "author": "",
+          "url": "https://www.retaildive.com/spons/the-ai-performance-question-retail-isnt-asking/826050/",
+          "section": "AI Pulse",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Most retail organizations can answer a version of this question with reasonable confidence: how is our AI performing? They have dashboards, interaction reports, and conversion comparisons that tell them how shoppers engage with AI tools once they arrive. What most cannot answer is a different question entirely, and it is the one that increasingly determines whether shoppers arrive at all.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI & Personalization"
+          ],
+          "brands": [],
+          "reach": 616977,
+          "ave": 5707.04
+        },
+        {
+          "id": "k3wofp",
+          "headline": "Alibaba Unveils Its Largest AI Model Yet, DeepSeek's Latest Model Is Ultra-Low Cost",
+          "source": "Reuters",
+          "author": "Eduardo Baptista",
+          "url": "https://www.reuters.com/business/retail-consumer/alibaba-unveils-its-most-capable-ai-model-date-not-far-behind-moonshots-size-2026-08-03/",
+          "section": "AI Pulse",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "China's Alibaba on Monday unveiled its largest ​and most capable AI model to date, sending its shares surging, while a research firm said DeepSeek's latest product offers cut-throat pricing that ‌is more than 100 times cheaper than Anthropic's Claude Fable 5. The two developments highlight the rapid pace of advancement in artificial intelligence by Chinese tech firms, which are locked in a fierce and fast-moving battle to build more powerful systems without making them prohibitively expensive to run.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "AI & Personalization",
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "7695i1",
+          "headline": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust",
+          "source": "Hacker Noon",
+          "author": "Jon Stojan",
+          "url": "https://hackernoon.com/ai-shopping-agents-are-flooding-retail-most-security-systems-still-cannot-tell-which-ones-to-trust",
+          "section": "AI Pulse",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Akamai’s latest State of the Internet report puts a number behind a problem retailers have been watching build for months. Nearly half of all AI bot traffic observed across Akamai’s global network between July and December 2025 was directed at the commerce sector. The more revealing figure, however, is what happened after that traffic arrived. Commerce organizations placed more than 90% of AI bot activity into a monitoring category, yet allowed three-quarters of the remaining activity to pass through without restriction. That gap is quickly becoming one of the defining security challenges of agentic commerce. Retailers know automated traffic is pouring into their websites and applications, but many still lack a reliable way to determine what that traffic is trying to accomplish.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "AI & Personalization",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 511982,
+          "ave": 4735.83
+        },
+        {
+          "id": "h6sewk",
+          "headline": "Baby Boomers Hate 10 Things About Today's Grocery Stores",
+          "source": "Fox News",
+          "author": "Teresa Mull",
+          "url": "https://www.foxnews.com/food-drink/baby-boomers-hate-10-things-todays-grocery-stores",
+          "section": "Industry News",
+          "date": "August 1, 2026",
+          "iso": "2026-07-31",
+          "summary": "Grocery shopping has changed dramatically over the past 50 years, and not everyone is happy about it. Baby boomers — generally defined as those born between 1946 and 1964 — are particularly frustrated by many of today's grocery store features, according to The Takeout. Technology-driven shopping is among their biggest complaints, along with several other modern grocery store changes.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [],
+          "reach": 23808004,
+          "ave": 220224.04
+        },
+        {
+          "id": "87kn1u",
+          "headline": "Retail’s New Operating Model Centers On Leaner Teams, Smarter Data And Physical Community",
+          "source": "Glossy Daily",
+          "author": "Zofia Zwieglinska",
+          "url": "https://www.glossy.co/beauty/glossy-modern-retail-leaders-dinner-ai-retail-strategy/",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "At a recent Brand Leaders Dinner hosted by Glossy and Modern Retail, in partnership with Global Payments, founders and C-suite executives from across fashion, beauty and retail gathered to discuss the pressures shaping their businesses, from artificial intelligence and changing hiring plans to the rising cost of building awareness at retail. The discussion was held under Chatham House Rules, allowing attendees to speak candidly without their comments being attributed to them or their companies.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 846664,
+          "ave": 7831.64
         }
       ]
     }
