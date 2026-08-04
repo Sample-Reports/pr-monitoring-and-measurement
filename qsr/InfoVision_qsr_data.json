@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "qsr",
-  "_savedAt": "2026-08-03T12:03:42.375Z",
-  "_dayCount": 14,
+  "_savedAt": "2026-08-04T12:38:36.742Z",
+  "_dayCount": 15,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:45.173Z",
@@ -4815,6 +4815,401 @@
           "brands": [],
           "reach": 68484,
           "ave": 633.48
+        }
+      ]
+    },
+    "2026-08-04": {
+      "uploadedAt": "2026-08-04T12:38:27.787Z",
+      "filename": "InfoVision_QSR_Media_Briefing_2026-08-04.docx",
+      "articles": [
+        {
+          "id": "aam40",
+          "headline": "The Real Reasons Kentucky Fried Chicken Became KFC",
+          "source": "WBKR",
+          "author": "Dave Spencer",
+          "url": "https://wbkr.com/why-kentucky-fried-chicken-became-kfc/",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Before it became official, I wasn't the only one referring to Kentucky Fried Chicken as KFC. Long before the company adopted the acronym in 1991, most of us were already using it. While the 1980s gave us the fitness craze, complete with million-selling home workout videos by Richard Simmons and Jane Fonda, Jazzercise, aerobics, and more, the 1990s were when corporate health consciousness really began influencing our diets. Part of that shift was the Kentucky Fried Chicken name change in 1991, as the company was anxious to downplay the \"fried\" component of their star attraction in the wake of this shift toward healthier eating. But KFC's trademark cooking method wasn't the only reason for the update; removing the word itself from the brand name allowed the chain to expand its menu into grilled items or, perhaps, even non-chicken items. KFC did, after all, offer ribs on its menu in the late 70s into the early 80s, but that was before the name was changed.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 897650,
+          "ave": 8303.26
+        },
+        {
+          "id": "e85iaq",
+          "headline": "Internet Reacts To Bizarre KFC And Oreo Collab",
+          "source": "Wide Open Country",
+          "author": "Jalyn Smoot",
+          "url": "https://www.wideopencountry.com/internet-reacts-to-bizarre-kfc-and-oreo-collab/",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Courtesy of KFC and Oreo, a new dessert concoction has hit supermarket shelves. Over the years, Oreo has introduced several wild flavors that stray away from its beloved original cookie sandwich, including Fruit Punch, Pumpkin Spice, Waffles and Syrup, Limeade, Candy Cane, and Mint. Oreo has practically sandwiched every known flavor between its two cookies, but its newest innovation may be the craziest one yet. The unexpected cookie crossover debuted in China on July 31 as part of Oreo's limited-edition \"Playful Time Travel\" collection, according to China Insider. Oddly enough, this isn't KFC's first international endeavor with Oreo. In April 2025, popular food blogger Snackolator shared an image of a \"Kentucky Fried Oreo,\" a menu item that is only available in South Africa.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 96941,
+          "ave": 896.7
+        },
+        {
+          "id": "pe9onv",
+          "headline": "Taco Bell Met With Michigan On Parasite Weeks Before Recall",
+          "source": "Bloomberg",
+          "author": "Daniela Sirtori",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-03/taco-bell-met-with-michigan-about-parasite-weeks-before-recall",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Michigan health authorities were in touch with Taco Bell’s parent company, Yum! Brands Inc., about a parasitic outbreak in early July, weeks before the company officially alerted consumers. The Michigan Department of Health and Human Services held a call with Yum on July 2 to discuss cyclospora, according to documents obtained by Bloomberg News through a public records request. In a follow-up email, officials asked to connect with the company’s supply chain quality assurance and communications teams “for a discussion about any intervention or notification that could be taken this week to aid in reducing the number of cases in the future.”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "35calo",
+          "headline": "Taco Bell Quietly Brought Back 5 Fan-Favorite Menu Items For A Limited Time",
+          "source": "Allrecipes",
+          "author": "Bailey Fink",
+          "url": "https://www.allrecipes.com/new-taco-bell-fan-favorites-menu-test-12032513",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Most of us know just how serious fast-food fans can be about their favorite restaurants and menu items. The hype surrounding a beloved menu item—especially one that’s been discontinued—can be so strong that if you check the comments on any social media post, you’ll almost always find a few fans asking the chain to bring back x, y, or z. Taco Bell is no stranger to the highs and lows of a devoted fandom. Because the chain is practically always testing and releasing new items, it’s rather typical to see a fan-favorite food or drink axed to make room for something new. However, always the crowd pleaser, Taco Bell continues to reward its fans’ dedication by bringing back discontinued items every so often.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 498172,
+          "ave": 4608.09
+        },
+        {
+          "id": "11932t",
+          "headline": "John Oliver Says Trump Administration Has Lost ‘Moral High Ground’ To Taco Bell Amid Explosive Diarrhea Crisis",
+          "source": "Entertainment Weekly",
+          "author": "Shania Russell",
+          "url": "https://ew.com/john-oliver-slams-trump-administration-over-explosive-diarrhea-crisis-12032873",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "If you ask John Oliver, the Trump administration should start taking cues from Taco Bell. At least where one issue is concerned. During his Aug. 2 episode, the Last Week Tonight host addressed the horrifying case of “debilitating explosive diarrhea” that’s been sweeping the nation — and hilariously compared the government’s response to that of a certain fast food chain. News of the outbreak first broke last month, when federal health officials identified lettuce served at various Taco Bell locations across five U.S. states as a source of cyclosporiasis, a foodborne illness that can cause weeks of severe diarrhea. In response, the company put out a statement to reassure customers. “We want you to hear it from us. We take your health and safety seriously and have removed all affected Taylor Farms lettuce from Taco Bell stores,” the statement read. “So go ahead and enjoy your Taco Bell today. You always got us. We always got you. See you in the drive-through.”",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 84025,
+          "ave": 777.23
+        },
+        {
+          "id": "w17dyk",
+          "headline": "Wendy’s Brings Back The Pretzel Bacon Pub Cheeseburger On Pub-Themed Fall Menu (Plus A New Frosty!)",
+          "source": "People.com",
+          "author": "Chiara Kim",
+          "url": "https://people.com/wendy-s-is-bringing-back-the-pretzel-bacon-pub-cheeseburger-and-releasing-other-pub-items-and-a-new-frosty-12032791",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Wendy’s is launching pub-themed menu items and a new Frosty in time for fall! The fast food chain announced on Monday, Aug. 3, that it is bringing back the Pretzel Bacon Pub Cheeseburger, along with releasing several other pub menu items and an Apple Crumble Frosty Fusion for its fall menu, per a release shared with PEOPLE. Along with the Pretzel Bacon Pub Cheeseburger returning to U.S. locations this fall, the new Pretzel Bacon Pub Chicken Sandwich, Bacon Pub Fries and Apple Crumble Frosty Fusion join the chain’s fall lineup, starting on Aug. 3. The Pretzel Bacon Pub Cheeseburger features a quarter-pound beef patty, beer cheese sauce, Applewood-smoked bacon, smoky honey mustard, crispy onions, pickles and Muenster cheese on a pretzel bun.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 24176510,
+          "ave": 223632.72
+        },
+        {
+          "id": "oxln75",
+          "headline": "Crisp Days Meet Cozy Bites: Wendy's Brings Pub-Worthy Fall Flavor With New And Returning Seasonal Favorites",
+          "source": "PR Newswire",
+          "author": "",
+          "url": "https://www.prnewswire.com/news-releases/crisp-days-meet-cozy-bites-wendys-brings-pub-worthy-fall-flavor-with-new-and-returning-seasonal-favorites-302840384.html",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Wendy's is bringing back the fan-favorite Pretzel Bacon Pub Cheeseburger after consumers voted for its return in the 'Bring it Back' bracket earlier this year. Beginning today, the beloved sandwich returns to restaurants nationwide alongside two Pretzel Bacon Pub menu items and the all-new Apple Crumble Frosty Fusion®, giving Wendy's customers even more reasons to savor the flavors of fall. \"The 'Bring It Back' bracket made one thing clear: Wendy's fans wanted the Pretzel Bacon Pub Cheeseburger back, and we're excited to deliver,\" said Lindsay Radkoski, Chief Marketing Officer at Wendy's. \"From the Pretzel Bacon Pub lineup to the Apple Crumble Frosty Fusion, this season's menu is packed with the bold, elevated flavors fans are craving. It's the kind of menu inspiration you'd expect to find at your favorite neighborhood pub, now at Wendy's.\"",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Wendy's"
+          ],
+          "reach": 499370,
+          "ave": 4619.17
+        },
+        {
+          "id": "844yk1",
+          "headline": "The Major Difference Between Burger King And Wendy's Beef",
+          "source": "Tasting Table",
+          "author": "Deepak Narayanan",
+          "url": "https://www.tastingtable.com/2222817/burger-king-vs-wendys-beef-differences-fresh-vs-frozen/",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "A lot of time, effort, and advertising dollars have gone into fueling America's burger wars since the 1980s. While McDonald's pulled clear early on, Burger King and Wendy's have spent decades jostling for second place. By the mid-'80s, BK doubled down on its size-does-matter approach and the evergreen \"Make It a Whopper\" campaign, while Wendy's made waves with the iconic \"Where's The Beef?\" advert. They've since traded blows over several things — revenues, locations, sly jibes, witty comebacks — but at the heart of the difference between these burger giants is what's at the literal center of their businesses: the beef patty. We're not talking about seasoning or cooking times. The major difference between the beef at Burger King and Wendy's is that while BK uses frozen patties, Wendy's only uses fresh beef. Now, it's important to clarify at the outset that fresh or frozen patties cannot directly be linked to quality. Food retains more nutrients when flash-frozen, as it decays slowly.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "McDonald's",
+            "Wendy's",
+            "Burger King"
+          ],
+          "reach": 760318,
+          "ave": 7032.94
+        },
+        {
+          "id": "hgx93z",
+          "headline": "Wendy’s Brings Back Its Pretzel Bacon Pub Cheeseburger",
+          "source": "Nation’s Restaurant News",
+          "author": "",
+          "url": "https://www.nrn.com/quick-service/wendy-s-brings-back-its-pretzel-bacon-pub-cheeseburger",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Wendy’s is going back to the pub. The fast-food chain has officially brought back its Pretzel Bacon Pub Cheeseburger, along with a chicken sandwich version of a product that won a customer vote during the March Madness NCAA basketball tournaments earlier this year. The company is also introducing an Apple Crumble Frosty Fusion, the latest extension of the chain’s popular line of Frosty desserts. The fusion includes a Vanilla Frosty with spiced apple syrup and oat crumbles. Wendy’s used a social media “bracket” vote to see which product customers wanted to bring back. Four months later, the pub burger is back on the company’s menu.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [],
+          "reach": 618551,
+          "ave": 5721.6
+        },
+        {
+          "id": "slggxn",
+          "headline": "Chipotle Eyes Takeover Of Old Kettering Wendy’s",
+          "source": "WDTN",
+          "author": "Carlos Mathis",
+          "url": "https://www.wdtn.com/news/restaurants-bars/chipotle-eyes-takeover-of-old-kettering-wendys/",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Just days after a local Wendy’s closed its doors for good, another restaurant chain appears to be interested in the site. WDTN.com obtained documents on Monday, Aug. 3 showing Chipotle’s interest in creating a location at 4003 Wilmington Pike in Kettering. The Wendy’s restaurant abruptly closed in July, with the chain referring customers to its Dorothy Lane location. The applicant wants to conduct interior and exterior renovations to the former Wendy’s building, and convert it to a Chipotle restaurant with a drive-thru pick-up lane. A few days after the location permanently closed, 2 NEWS saw crews at the vacant restaurant removing exterior Wendy’s signage on the building. Currently, the nearest Chipotle to the location is approximately two miles away at The Greene.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chipotle"
+          ],
+          "reach": 899847,
+          "ave": 8323.58
+        },
+        {
+          "id": "xyxugi",
+          "headline": "HTeaO Launches New Pineapple Chipotle Refresher",
+          "source": "QSR Magazine",
+          "author": "",
+          "url": "https://www.qsrmagazine.com/news/hteao-launches-new-pineapple-chipotle-refresher/",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "HTeaO, the nation’s leading iced tea franchise, is turning up the flavor with the launch of its new Pineapple Chipotle Refresher, featuring Tajín Clásico Seasoning, available for a limited time from August 4 through October 6 at locations nationwide. Made with sweet pineapple, lemonade, a hint of chipotle and a sprinkle of Tajín Clásico Seasoning, the new Pineapple Chipotle Refresher is finished with HTeaO’s signature CleanBoost Energy for a refreshing beverage that delivers the perfect balance of sweet, citrusy and smoky heat. “The Pineapple Chipotle Refresher is one of our most adventurous beverages yet,” said Kelsey McManemin, Senior Vice President of Marketing at HTeaO. “We’ve seen guests embrace bold, globally inspired flavors, and this drink delivers the perfect combination of sweet, smoky and tangy with just the right amount of heat. It’s refreshing, unexpected and exactly the kind of limited-time offering our guests love to discover.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chipotle"
+          ],
+          "reach": 68484,
+          "ave": 633.48
+        },
+        {
+          "id": "lyaex",
+          "headline": "Burger King On Astoria Boulevard Forced To Temporary Close Due To Numerous Sanitary Violations",
+          "source": "QNS.com",
+          "author": "Shane O’Brien",
+          "url": "https://qns.com/2026/08/burger-king-shuttered-health-department/",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "The city’s Health Department has temporarily shuttered Burger King’s Astoria Boulevard location after observing a number of sanitary violations during an inspection at the restaurant last month. The NYC Department of Health and Mental Hygiene conducted an inspection at the restaurant at 33-10 Astoria Blvd. on July 29, issuing 49 violation points for issues such as evidence of filth flies or other pests found in the establishment’s food or non-food areas. The Health Department further observed issues such as a lack of an adequate hand-washing facility in a toilet within 25 feet of food preparation areas. The inspection also found that Burger King “is not free of harborage or conditions” conducive to rodents, insects or other pests as well as observing that non-food contact surfaces or equipment were not kept clean.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 189225,
+          "ave": 1750.33
+        },
+        {
+          "id": "9gav2v",
+          "headline": "The 2026 QSR 50: Fast Food’s Leading Annual Report",
+          "source": "QSR Magazine",
+          "author": "",
+          "url": "https://www.qsrmagazine.com/story/the-2026-qsr-50-fast-foods-leading-annual-report/",
+          "section": "AI Pulse",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "The brands leading this year’s QSR 50 are succeeding in an environment with cautious consumers, fierce competition, and shifting expectations. Traffic has become harder to earn. Value has become a permanent strategic pillar rather than a temporary promotion. Technology has evolved from a support function into a primary growth driver. And restaurants are being judged not just by how many locations they open, but by how effectively they create reasons for customers to return. Across the ranking, common themes emerge. Artificial intelligence is moving from experimentation to implementation. Loyalty programs are becoming more sophisticated. Beverage innovation is creating new occasions and higher check averages. Also, many legacy brands are reevaluating portfolios, simplifying operations, and searching for more sustainable paths to profitability.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Value & Pricing",
+            "Digital & Ordering",
+            "Expansion & Store",
+            "Sustainability & Labor"
+          ],
+          "brands": [],
+          "reach": 68484,
+          "ave": 633.48
+        },
+        {
+          "id": "sukfjk",
+          "headline": "In Sodexo’s Kitchens, AI Is Evolving Into A Valued Sous Chef",
+          "source": "FoodService Director",
+          "author": "Patricia Cobe",
+          "url": "https://www.foodservicedirector.com/food-beverage-trends/in-sodexo-s-kitchens-ai-is-evolving-into-a-valued-sous-chef",
+          "section": "AI Pulse",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Sodexo runs foodservice operations at about 27,000 locations around the world, ranging from health care to college dining, schools, and workplaces. “We have over 70,000 recipes in North America alone that support our diverse menu needs,” said Richard Arakelian, VP of culinary and service development for Sodexo North America. “We have team members that are moving from different business segments, and quality, consistency, continuity, and execution are critical. We’re utilizing AI agents now to help with that consistency and continuity and support all our brands from ideation to the central development process.” Arakelian noted that it’s critical these days to get to market quicker and AI helps accelerate systems, menus, photography and a host of other tasks. “We are utilizing AI almost like a sous chef or chef’s companion,” he said. “It helps us develop the culinary brief document we use going into R&D, bringing us on a journey much more rapidly than we had before. AI condenses the development timelines by 50% to 60%.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "AI & Automation",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 792021,
+          "ave": 7326.19
+        },
+        {
+          "id": "qpzz5u",
+          "headline": "DQ’s Kicking Off Fall Flavor Season With These New Treats",
+          "source": "Lehighvalleylive.com",
+          "author": "Mark Heim",
+          "url": "https://www.lehighvalleylive.com/entertainment/2026/08/dqs-kicking-off-fall-flavor-season-with-these-new-treats.html",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Dairy Queen is rolling out its fall cravings starting this month. The new Caramel Apple Cheesecake BLIZZARD® Treat is August’s Blizzard of the Month, featuring cheesecake pieces and caramel apple topping blended with world famous DQ soft serve to Blizzard perfection. What better is there to get in the spirit of fall while dealing with the summer heat. DQ is also giving fans something to “flip” for this month with its Double Flip digital offer. Available though Aug. 30 in the DQ App, DQ reward members can buy one Blizzard Treat and get a second for just 99 cents, which, of course, is a nod to the iconic upside-down flip that has made the classic treats famous.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering"
+          ],
+          "brands": [],
+          "reach": 107545,
+          "ave": 994.79
+        },
+        {
+          "id": "kuvc5f",
+          "headline": "Popeyes Latest Value Deal Features Its New Tenders",
+          "source": "Nation’s Restaurant News",
+          "author": "Alicia Kelso",
+          "url": "https://www.nrn.com/quick-service/popeyes-latest-value-deal-features-its-new-tenders",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Popeyes’ upgraded chicken tenders are back in the spotlight as part of a new $9.99 Tenders Deal available now through Aug. 30. The meal includes four hand-battered and breaded tenders — available in classic, spicy or blackened — a regular side, regular drink, and signature buttermilk biscuit for $9.99. Popeyes joins a growing number of restaurant chains upgrading their chicken offerings as the category intensifies and consumers continue to pull back on visits. Chili’s, BJ’s Restaurants, and Culver’s all recently upgraded their chicken sandwich offerings, for example, while McDonald’s is testing larger, crispier McCrispy Strips.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing"
+          ],
+          "brands": [
+            "McDonald's"
+          ],
+          "reach": 618551,
+          "ave": 5721.6
+        },
+        {
+          "id": "gpsjbz",
+          "headline": "Chick-Fil-A Confirms Visalia Restaurant Is Still On Track For 2027",
+          "source": "Visalia Times-Delta",
+          "author": "Steve Pastis",
+          "url": "https://www.visaliatimesdelta.com/story/entertainment/dining/2026/08/03/chick-fil-a-visalia-2027-sams-club/91126247007/",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Yes, Chick-fil-A is still coming to Visalia, even though the process may seem to be moving slowly. “It’s our pleasure to confirm we will be opening our first Chick-fil-A restaurant in Visalia in 2027,” said Chick-fil-A in a statement. “We look forward to joining the community and serving all of our guests delicious food in an environment of genuine hospitality and care.” Chick-fil-A said each of its restaurant creates 80 to 120 jobs. Plans call for a 5,053-square-foot restaurant, which will include seating for 92 and feature a two-lane drive-through, to be built at the corner of Mooney Boulevard and Visalia Parkway.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chick-fil-A"
+          ],
+          "reach": 452780,
+          "ave": 4188.22
+        },
+        {
+          "id": "1jdqe5",
+          "headline": "Raising Cane’s To Open Several New Locations In August, With Even More On The Way",
+          "source": "The Hill",
+          "author": "Addy Bink",
+          "url": "https://thehill.com/homenews/state-watch/6005620-raising-canes-to-open-several-new-locations-in-august-with-even-more-on-the-way/",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "It’s been 30 years since Caniacs had their first chance at enjoying their chicken fingers with Cane’s Sauce and a side of Texas toast. Now, the fast food chicken chain Raising Cane’s is looking to bring its largely unchanged menu to even more locations. The first Raising Cane’s opened its doors in Baton Rouge, Louisiana, in 1996. Since then, Cane’s has grown to have more than 950 locations across 44 states, the District of Columbia, and Guam. An additional seven locations are on track to open in August, with even more in the works. Cane’s is also reopening four recently remodeled locations this month. The first, reopening on August 12, is on Texas Avenue in College Station, Texas. Days later, on August 17, locations on Las Vegas Boulevard in Las Vegas and Nicholasville Road in Lexington, Kentucky, will reopen. The final Cane’s location, on Hamilton Road in Gahanna, Ohio, reopens on August 24.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 68624,
+          "ave": 634.77
         }
       ]
     }
