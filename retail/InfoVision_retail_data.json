@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "retail",
-  "_savedAt": "2026-08-03T12:04:01.375Z",
-  "_dayCount": 14,
+  "_savedAt": "2026-08-04T12:38:57.942Z",
+  "_dayCount": 15,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:03.474Z",
@@ -3609,6 +3609,307 @@
           "brands": [],
           "reach": 846664,
           "ave": 7831.64
+        }
+      ]
+    },
+    "2026-08-04": {
+      "uploadedAt": "2026-08-04T12:38:49.357Z",
+      "filename": "InfoVision_Retail_Media_Briefing_2026-08-04.docx",
+      "articles": [
+        {
+          "id": "8jlkdx",
+          "headline": "Walmart Confirms ‘Scan & Go App’ Anti-Theft Method At Self-Checkouts After Customer Taken Away In Cuffs",
+          "source": "The Sun",
+          "author": "Joseph Brogan",
+          "url": "https://www.the-sun.com/news/16788631/walmart-scan-go-anti-theft-method-shopper-arrested-georgia/",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "WALMART’S latest anti-theft method has been revealed after one shopper-turned-shoplifter was arrested. Soni Suncerea Wells was caught by local law enforcement after stealing at least $25,000 in merchandise across at least 25 separate thefts. Wells, a resident of Powder Springs, Georgia, just outside Atlanta, mainly committed her shoplifting spree at Walmart stores across Cobb County. Intra-county incidents accounts accounted for 15 of the at least 25 separate thefts she committed by using a consistent self-checkout scheme.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "c9zjk7",
+          "headline": "Walmart Sets New SBTi-Approved Emissions Reduction Target",
+          "source": "ESG Today",
+          "author": "Mark Segal",
+          "url": "https://www.esgtoday.com/walmart-sets-new-sbti-approved-emissions-reduction-target/",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Retail giant Walmart revealed that it has set a new operational emissions target, with a goal to reduce Scope 1 and 2 greenhouse gas emissions by 28% by FY2031 from a FY2025 baseline. The new target was announced in Walmart’s FY2026 ESG Report, which indicated that the company achieved a significant 7.5% reduction in Scope 1 and 2 emissions in the year, but still was not able to meet its SBTi-approved target of a 35% reduction by FY2026, on a FY2016 basis. The company said that it revisited its targets in line with SBTi’s five-year review protocol, with the new 2031 goal validated and approved by SBTi as aligned with a 1.5°C pathway.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [
+            "Walmart",
+            "Target"
+          ],
+          "reach": 310086,
+          "ave": 2868.3
+        },
+        {
+          "id": "be82fe",
+          "headline": "FDA Recalls ‘Viral’ Pantry Staple Sold At Walmart In 19 States Over Salmonella Fears",
+          "source": "The Sun",
+          "author": "Joseph Brogan",
+          "url": "https://www.the-sun.com/news/16787770/boticelli-foods-pistachio-nut-butter-recalled-salmonella/",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "A VIRAL Walmart dupe product is being recalled for fears of possible Salmonella contamination. Three products on shelves at a Walmart store in one US state tested positive for Salmonella, forcing the retailer to pull it from 19 states total. The recall of Boticelli Foods’ bettergoods Pistachio Nut Butter was initiated on Monday. The product is imported by Boticelli from Italy and exclusively distributed by Walmart in 19 states, with products on shelves at a Florida location testing positive.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "t1m1rq",
+          "headline": "How Walmart Reinforces Supplier Resilience Through Sourcing",
+          "source": "Procurement Magazine",
+          "author": "Andre Ellington",
+          "url": "https://procurementmag.com/articles/how-walmart-reinforces-supplier-resilience-through-sourcing",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "John Furner, President and CEO of Walmart Inc, says the retailer is strengthening its value chains through responsible sourcing and technology. Walmart is outlining its latest achievements across a multitude of procurement and sustainability initiatives in its FY2026 ESG report. To help mitigate supplier risk across its global operations, Walmart is strengthening its responsible sourcing strategy, as highlighted in the report.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Supply Chain"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 52036,
+          "ave": 481.33
+        },
+        {
+          "id": "icf1uw",
+          "headline": "Walmart And Target Say They Are Changing Their Stores To Make Life Easier For You",
+          "source": "AL.com",
+          "author": "Kelly Kazek",
+          "url": "https://www.al.com/business/2026/08/walmart-and-target-say-they-are-changing-their-stores-to-make-life-easier-for-you.html",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "It’s been a long-held tradition that stores are designed to get as much merchandise in front of shoppers as possible, even if the layout is not the easiest for customers. “That’s why grocery chains usually have their dairy cases in the back corner,” said an article by The Street. “A lot of shoppers buy milk, and even if that’s all you need, you will be exposed to lots of other items you might buy along the way. In many cases, stores are not set up for ease of shopping. They’re designed to maximize how much you spend.”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Walmart",
+            "Target"
+          ],
+          "reach": 291486,
+          "ave": 2696.25
+        },
+        {
+          "id": "xfsf1v",
+          "headline": "Ahold Delhaize Winds Down Pa. Frozen Warehouse Operations",
+          "source": "Supermarket News",
+          "author": "Mark Hamstra",
+          "url": "https://www.supermarketnews.com/grocery-operations/ahold-delhaize-winds-down-pa-frozen-warehouse-operations",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Ahold Delhaize USA said it plans to wind down operations at an automated cold distribution center in Mountville, Pa., by year-end. In addition, Ahold said it will not transition any operations to an automated cold facility in Plainville, Conn., as previously planned. The news comes after the owner of the warehouses, Americold Realty Trust, disclosed its plans to exit the facilities in a financial filing last week.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Supply Chain"
+          ],
+          "brands": [],
+          "reach": 223972,
+          "ave": 2071.74
+        },
+        {
+          "id": "qx2c5h",
+          "headline": "Walmart Brings Drone Delivery To Florida",
+          "source": "Chain Store Age",
+          "author": "Dan Berthiaume",
+          "url": "https://chainstoreage.com/walmart-brings-drone-delivery-florida",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Walmart is following through with plans to deliver online orders via drone in a major Florida metro market. The discount giant is now offering its drone delivery service in Orlando via a partnership it launched with Wing, an on-demand drone delivery provider powered by Google parent company Alphabet, for drone delivery in the Dallas-Fort Worth market in August 2023.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 600481,
+          "ave": 5554.45
+        },
+        {
+          "id": "7i10ev",
+          "headline": "Walmart To Pay $2.1M In Louisiana Spark Delivery Settlement",
+          "source": "The Black Chronicle",
+          "author": "",
+          "url": "https://blackchronicle.com/southeast/louisiana-southeast/walmart-to-pay-2-1m-in-louisiana-spark-delivery-settlement/",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Walmart has agreed to pay more than $2.1 million and make changes to its Spark Driver platform in Louisiana after Attorney General Liz Murrill accused the retail giant of misleading delivery drivers about how much they would earn. The agreement requires Walmart to pay $1,052,282.22 to the state and confirms the company has already paid another $1,052,282.22 in restitution to Louisiana Spark drivers. If Walmart falsely reports its compliance with the agreement, it could face an additional $1 million civil penalty. The settlement stems from the state’s investigation into Walmart’s Spark Driver platform, which connects independent contractors with customers who order from the retail giant’s local stores.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 858991,
+          "ave": 7945.67
+        },
+        {
+          "id": "bg128",
+          "headline": "The Creator Of Walmart's Vibe-Coding Tool Code Puppy Is Leaving For AI Startup Pydantic",
+          "source": "Business Insider",
+          "author": "Dominick Reuter",
+          "url": "https://www.businessinsider.com/walmarts-ai-coding-tool-code-puppy-creator-leaving-pydantic-2026-8",
+          "section": "AI Pulse",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "The creator of Walmart's internal vibe-coding tool is leaving the company for AI start-up Pydantic. In a memo reviewed by Business Insider, Michael Pfaffenberger wrote to colleagues that he was leaving Walmart a year after growing Code Puppy from 1,000 users to nearly 75,000. The tool will continue to be supported by his colleagues at Walmart. Code Puppy, based on the Pydantic AI library, was created by Pfaffenberger, a distinguished engineer in Walmart's Global Tech group. The AI coding assistant helps developers write, edit, test, and manage software using natural-language instructions.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI & Personalization"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 12885674,
+          "ave": 119192.48
+        },
+        {
+          "id": "ssuha",
+          "headline": "US Retail Crime Shifts From Shoplifting To Fraud",
+          "source": "Retail Insight Network",
+          "author": "Mohamed Dabo",
+          "url": "https://www.retail-insight-network.com/features/us-retail-crime-shifts-from-shoplifting-to-fraud/",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Retail crime in the US is changing. While retailers report that shoplifting is becoming less of a concern, they are facing a growing wave of fraud that is harder to detect and can affect stores, ecommerce operations and supply chains alike, according to a new study from the National Retail Federation (NRF). The findings suggest that organised retail crime is evolving rather than disappearing. Criminal groups are increasingly combining traditional theft with digital fraud, phone scams, cargo theft and other schemes that exploit weaknesses across the retail business. The shift offers a warning for retailers worldwide as fraud becomes more sophisticated and increasingly crosses borders.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "Supply Chain"
+          ],
+          "brands": [],
+          "reach": 658135,
+          "ave": 6087.75
+        },
+        {
+          "id": "dacg97",
+          "headline": "How To Prevent AI-Driven Fraudulent Claims In Retail, Leisure And Hospitality",
+          "source": "The Retail Bulletin",
+          "author": "Karen Howard",
+          "url": "https://www.theretailbulletin.com/retail-solutions/how-to-prevent-ai-driven-fraudulent-claims-in-retail-leisure-and-hospitality-04-08-2026/",
+          "section": "Industry News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "AI can make fraudulent claims look more credible, especially when your teams are under pressure. How can going ‘back to basics’ help protect your retail, leisure or hospitality business? AI is amplifying existing risks, Willis’ Cyber in Focus 2026 report shows. In this insight, we look at how AI is heightening fraud and claims across the retail, leisure and hospitality industries and how you can get ahead of these AI-amplified risks to your revenue and reputation.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "AI & Personalization",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 442699,
+          "ave": 4094.97
+        },
+        {
+          "id": "gqhcy1",
+          "headline": "AI Voice Agents Take Over The Retail Sales Floor",
+          "source": "Pymnts",
+          "author": "",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-voice-agents-take-over-the-retail-sales-floor/",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Retail spent two years bolting chatbots onto websites that could field a shopper’s specific questions but never close a sale. Voice agents built on models like OpenAI’s GPT-Realtime are changing that, holding real sales conversations, asking the same probing questions a floor associate would and adapting as a shopper’s needs shift, all without a human ever stepping in.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "AI & Personalization",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 472535,
+          "ave": 4370.95
+        },
+        {
+          "id": "533teh",
+          "headline": "Amazon Customers Are Embracing Alexa For Shopping",
+          "source": "Retail Dive",
+          "author": "Bryan Wassel",
+          "url": "https://www.retaildive.com/news/amazon-alexa-for-shopping-agentic-ai-adoption/826806/",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Amazon customer engagement with Alexa for Shopping, its agentic AI shopping assistant, is skyrocketing, with active users nearly doubling in the second quarter year over year, executives said on a Q2 2026 earnings call Thursday. More than 350 million shoppers have used Alexa for Shopping, which replaced the Rufus shopping assistant in May, over the past 12 months, according to CEO Andy Jassy. Interactions in the second quarter were up five times year over year. U.S. customers who use Alexa for Shopping spend 40% more per order on average compared to shoppers who don’t use the AI assistant, according to Jassy. Additionally, shoppers who try Alexa+ join Amazon Prime at nearly 25% higher rates",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI & Personalization",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Amazon"
+          ],
+          "reach": 616977,
+          "ave": 5707.04
+        },
+        {
+          "id": "wta6wf",
+          "headline": "Retailers Report Less Shoplifting, More Fraud As NRF Pushes Federal Action",
+          "source": "Homepage News",
+          "author": "",
+          "url": "https://www.homepagenews.com/retail-articles/retailers-report-less-shoplifting-more-fraud-as-nrf-pushes-federal-action/",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Retailers are seeing shoplifting and merchandise theft incidents stabilize, but rising fraud and other forms of external theft point to an evolving retail crime landscape, according to a report released by the National Retail Federation and the Loss Prevention Research Council and sponsored by Sensormatic Solutions. Citing the continued evolution of organized retail crime, NRF is urging the U.S. Senate to pass the Combating Organized Retail Crime Act after its approval by the U.S. House of Representatives. NRF said the legislation would strengthen federal coordination and provide state and local law enforcement with additional tools to identify and investigate cross-jurisdictional and transnational retail crime groups.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [],
+          "reach": 803685,
+          "ave": 7434.09
         }
       ]
     }
