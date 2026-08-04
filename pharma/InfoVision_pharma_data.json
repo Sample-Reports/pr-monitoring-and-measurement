@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "pharma",
-  "_savedAt": "2026-08-03T12:03:09.577Z",
-  "_dayCount": 14,
+  "_savedAt": "2026-08-04T12:38:12.626Z",
+  "_dayCount": 15,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:09.000Z",
@@ -5474,6 +5474,433 @@
           "brands": [],
           "reach": 478047,
           "ave": 4421.93
+        }
+      ]
+    },
+    "2026-08-04": {
+      "uploadedAt": "2026-08-04T12:38:02.964Z",
+      "filename": "InfoVision_Pharma_Media_Briefing_2026-08-04.docx",
+      "articles": [
+        {
+          "id": "dxpk3p",
+          "headline": "Eli Lilly To Offer Early Access To Next-Gen Obesity Drug To Some Patients",
+          "source": "Reuters",
+          "author": "Sneha S K, Deena Beasley",
+          "url": "https://www.reuters.com/legal/litigation/eli-lilly-offer-early-access-next-gen-obesity-drug-some-patients-2026-08-03/",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Eli Lilly said on Monday it would allow a limited number of patients ​to have early access to its experimental obesity drug, ‌retatrutide, before its U.S. FDA approval. \"For a limited number of patients who meet specific medical criteria and cannot enroll in a clinical trial, we ​believe it is medically appropriate to make authentic retatrutide ​available before FDA approval, consistent with FDA's guidance,\" a company ⁠spokesperson said. The spokesperson added that Lilly has built an expanded access ​program \"that does that and are actively reviewing requests from health ​care providers.\" Eligible patients must be aged 18 or older, have refractory obesity despite tolerating the highest approved dose of obesity therapy, and have at least ​two serious or life-threatening obesity-related complications for which they are ​receiving care.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "uliav4",
+          "headline": "Lilly's Olomorasib Receives U.S. FDA's Breakthrough Therapy Designation For The Treatment Of Previously Treated KRAS G12C-Mutant Advanced Pancreatic Cancer",
+          "source": "PR Newswire",
+          "author": "",
+          "url": "https://www.prnewswire.com/news-releases/lillys-olomorasib-receives-us-fdas-breakthrough-therapy-designation-for-the-treatment-of-previously-treated-kras-g12c-mutant-advanced-pancreatic-cancer-302840337.html",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Eli Lilly and Company today announced that the U.S. Food and Drug Administration (FDA) has granted Breakthrough Therapy designation to olomorasib as a monotherapy for the treatment of adult patients with advanced pancreatic cancer who have received at least one prior systemic therapy and have a KRAS G12C mutation, as determined by an FDA-approved test. Olomorasib is an investigational, potent and highly selective next-generation inhibitor of KRAS G12C. Olomorasib was previously granted Breakthrough Therapy designation, in combination with anti-PD-1 therapy KEYTRUDA (pembrolizumab), for the first-line treatment of patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with a KRAS G12C mutation and PD-L1 expression ≥ 50%, as determined by FDA approved tests.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 499370,
+          "ave": 4619.17
+        },
+        {
+          "id": "wtsx9g",
+          "headline": "Wilson Sonsini Advises Firefly Bio On $1 Billion Acquisition By Johnson & Johnson",
+          "source": "Wilson Sonsini",
+          "author": "",
+          "url": "https://www.wsgr.com/en/insights/wilson-sonsini-advises-firefly-bio-on-dollar1-billion-acquisition-by-johnson-and-johnson.html",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "On July 29, 2026, Johnson & Johnson announced the completion of its acquisition of Firefly Bio, a biotechnology company advancing its proprietary Firelink™ degrader antibody conjugate platform, for $1 billion in cash. The Firelink™ DAC platform expands Johnson & Johnson’s oncology portfolio and advances the company’s ambition to develop targeted therapies for some of the most prevalent and difficult-to-treat solid tumors, including KRAS-driven cancers. Wilson Sonsini Goodrich & Rosati advised Firefly Bio on the transaction.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 936539,
+          "ave": 8662.99
+        },
+        {
+          "id": "ocb0ld",
+          "headline": "Johnson & Johnson’s OTTAVA Robotic Surgery System Targets Long-Term Growth",
+          "source": "MarketBeat",
+          "author": "",
+          "url": "https://www.marketbeat.com/instant-alerts/johnson-johnsons-ottava-robotic-surgery-system-targets-long-term-growth-2026-08-03/#google_vignette",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Johnson & Johnson received FDA De Novo authorization for OTTAVA and plans a disciplined U.S. launch targeting high-volume hospitals and established robotic-surgery programs, with international expansion to follow. The table-integrated system is designed to use 30% to 50% less operating-room space than boom- or cart-mounted platforms, while features such as Twin Motion and automated procedure poses aim to improve workflow and enable robotics in more operating rooms. Initial clinical results showed 100% procedural completion across 30 patients, and J&J plans to expand OTTAVA from gastric bypass and hernia repair into urology, gynecology and other procedures; however, the company has not disclosed placement, pricing or revenue targets.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 434062,
+          "ave": 4015.07
+        },
+        {
+          "id": "6g5rc9",
+          "headline": "AbbVie's Next Catalyst Is Shifting From Skyrizi To Its Pipeline",
+          "source": "Finimize",
+          "author": "",
+          "url": "https://finimize.com/content/abbvies-next-catalyst-is-shifting-from-skyrizi-to-its-pipeline",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "AbbVie just posted another solid quarter, but RBC Capital Markets says the story investors care about is shifting from its current blockbusters – Skyrizi and Rinvoq – to pipeline data due later this year. RBC, an investment bank, said management sounded upbeat on the latest results: Skyrizi is holding up even as new rivals enter, and Rinvoq is staying resilient too. The catch is pricing pressure, which RBC expects to linger through 2027 and beyond, meaning volume growth has to do more of the work.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 833819,
+          "ave": 7712.83
+        },
+        {
+          "id": "hw5vp7",
+          "headline": "Blood Thinner Recalled After Failed Test",
+          "source": "Cardiovascular Business",
+          "author": "Michael Walter",
+          "url": "https://cardiovascularbusiness.com/topics/clinical/pharmaceutics/blood-thinner-recalled-after-failed-test",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "The U.S. Food and Drug Administration (FDA) has announced that Ascend Laboratories is recalling specific lots of dabigatran etexilate, a blood thinner taken to reduce the risk of stroke or blood clots in patients with nonvalvular atrial fibrillation. This is a generic version of a popular direct oral anticoagulant (DOAC) most commonly sold by Boehringer Ingelheim under the brand name Pradaxa. The recall was put in place due to a failed impurity/degradation test. After 12 months, the drug produced an out-of-specification (OOS) test result. More than 5,000 cartons of dabigatran etexilate capsules are included in this recall. One lot contains blister packs of 60 150-mg capsules. The other lots contain blister backs of 30 or 60 75-mg capsules. All capsules are set to expire in April 2027. No other lots of dabigatran etexilate capsules, including any sold by Boehringer Ingelheim, are a part of this recall.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [
+            "Boehringer Ingelheim"
+          ],
+          "reach": 772967,
+          "ave": 7149.94
+        },
+        {
+          "id": "ucptxr",
+          "headline": "AstraZeneca Investors See Little Logic In Bristol Tie-Up",
+          "source": "Bloomberg",
+          "author": "Ashleigh Furlong, Sonja Wind, Leonard Kehnscherper",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-03/astrazeneca-investors-see-little-logic-in-bristol-myers-tie-up",
+          "section": "Brand News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "AstraZeneca Plc investors had a clear message for the UK drugmaker on Monday: they don’t like the idea of a $400 billion merger with Bristol-Myers Squibb Co. Astra shares slumped 9%, the biggest one-day drop since the start of the Covid-19 pandemic in March 2020. Shareholders were surprised that the biggest pharma deal of all time could be in motion when Chief Executive Officer Pascal Soriot told them only late last year that large transactions were “really low on the probability scale.” Such a tie-up would produce a combined company that would leapfrog toward the top of the pharma ranks and merge two large cancer portfolios, with competing blockbuster medicines such as Opdivo and Imfinzi. Yet Astra is growing swiftly and has a full pipeline of promising drugs while Bristol faces a patent cliff for some top medicines.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "AstraZeneca"
+          ],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "cya0co",
+          "headline": "Sethera's Polymacrocyclic Peptides Get An AI Co-Pilot In Receptor.AI",
+          "source": "FirstWord Pharma",
+          "author": "",
+          "url": "https://firstwordpharma.com/story/7809197",
+          "section": "AI Pulse",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Sethera Therapeutics and Receptor.AI have forged an alliance aimed at accelerating the discovery of polymacrocyclic peptide medicines with the help of AI. The collaboration pairs Sethera's enzymatic platform, which can install one to six stable cross-links into peptides to create diverse macrocyclic architectures, with Receptor.AI's physics-based computational modelling and AI tools. The aim is to build a closed-loop discovery and optimisation system for challenging therapeutic targets in which the companies experimentally test candidates, while feeding new results back into the cycle. Rather than being constrained by a fixed structural motif, Sethera said its platform explores multiple topologies, letting target biology and screening data guide the best molecular architecture. Together with Receptor.AI's computational tools, the companies hope to turn screening hits into stronger lead series with better potency, selectivity, stability, permeability, and other characteristics.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 96323,
+          "ave": 890.99
+        },
+        {
+          "id": "o582j7",
+          "headline": "9 AI Drug Discovery Platforms Built In Asia-Pacific, And What They Have Actually Shipped",
+          "source": "BioPharma APAC",
+          "author": "",
+          "url": "https://biopharmaapac.com/analysis/113/8276/9-ai-drug-discovery-platforms-built-in-asia-pacific-and-what-they-have-actually-shipped.html",
+          "section": "AI Pulse",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "For most of the past decade, the only honest answer to the question of whether AI drug discovery works in Asia-Pacific was that nobody could yet know. The molecules were too young. A platform could announce a target in January, a development candidate in June and a partnership in November, and none of it could be checked against the only test that finally matters, which is what happens when the compound meets a patient. That has changed. The first regional cohort of AI-originated candidates is now old enough to carry clinical data, disclosed deal economics and, in a few cases, a peer-reviewed publication with a named principal investigator attached to it. Rentosertib moved into a Phase III registrational study in July 2026. An AI-designed formulation cleared Phase III in China in October 2025. A muscarinic agonist designed on a Tokyo-based structural platform is running two registrational studies with readouts scheduled for 2027 and 2028. There is now enough on the public record to stop grading platforms on their narrative and start grading them on their output.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 50996,
+          "ave": 471.71
+        },
+        {
+          "id": "99fvv",
+          "headline": "Receptor.AI, Sethera Team Up On AI-Driven Peptide Discovery",
+          "source": "The Pharma Letter",
+          "author": "",
+          "url": "https://www.thepharmaletter.com/biotech-news/receptor-ai-sethera-team-up-on-ai-driven-peptide-discovery",
+          "section": "AI Pulse",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "USA-based techbio Receptor.AI and Sethera Therapeutics have formed a research alliance combining computational modeling with peptide library screening to identify potential drugs for hard-to-drug targets. Sethera will use its enzymatic polymacrocyclization platform and encoded peptide libraries, which the company says can contain trillions of candidates.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI in Drug Discovery",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 677658,
+          "ave": 6268.34
+        },
+        {
+          "id": "60cbu",
+          "headline": "Lantern Pharma (Nasdaq: LTRN) Establishes Open-Medicine AI As A Separate Company To Commercialize And Expand Its Multi-Agent AI Co-Scientist Platform For The Transformation Of Medicine",
+          "source": "Business Wire",
+          "author": "",
+          "url": "https://www.businesswire.com/news/home/20260803318492/en/Lantern-Pharma-Nasdaq-LTRN-Establishes-Open-Medicine-AI-as-a-Separate-Company-to-Commercialize-and-Expand-Its-Multi-Agent-AI-Co-Scientist-Platform-for-the-Transformation-of-Medicine",
+          "section": "AI Pulse",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Lantern Pharma Inc. a clinical-stage AI-driven precision oncology company, today announced the formal creation of Open-Medicine AI (OMAI) and the execution of commercial licensing agreements between OMAI and Lantern Pharma. The agreements, which have received Lantern Pharma Board approval, are consistent with the framework outlined in Lantern’s most recent registered direct financing and establish the commercial operating structure for the multi-agentic AI co-scientist platform previously launched as withZeta.ai.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 228325,
+          "ave": 2112.01
+        },
+        {
+          "id": "7gc7m2",
+          "headline": "AI Framework Aids Target Discovery For CAR T Cell Therapy",
+          "source": "Technology Org",
+          "author": "",
+          "url": "https://www.technology.org/2026/08/04/ai-framework-aids-target-discovery-for-car-t-cell-therapy/",
+          "section": "AI Pulse",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "As proof-of-concept, the team developed a CAR T targeting glycoprotein non-metastatic melanoma protein B (GPNMB), the top candidate nominated by this AI-driven approach, which showed robust tumor-killing activity in mouse models of multiple cancer types. To build and test their AI framework, the research team chose to focus on skin cancer. Unlike other solid tumors, broad immunotherapy strategies, such as immune checkpoint inhibitors and, more recently, tumor-infiltrating lymphocyte (TIL) therapy, have shown efficacy in melanoma, indicating that other immune strategies, like CAR T cell therapy could make a clinical impact, if a good CAR target could be identified.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 461360,
+          "ave": 4267.58
+        },
+        {
+          "id": "yyblg9",
+          "headline": "California's Highest Court Rules For Gilead In 'Duty To Innovate' Case",
+          "source": "Reuters",
+          "author": "Jonathan Stempel",
+          "url": "https://www.reuters.com/world/californias-highest-court-rules-gilead-duty-innovate-case-2026-08-03/",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "California's ​highest court on Monday ruled in favor of Gilead Sciences in a closely watched case addressing whether ‌manufacturers of drugs that are considered safe must try developing drugs that could be safer. In a 6-1 decision, the California Supreme Court ordered the dismissal of negligence claims against Gilead by an estimated 24,000 patients using an HIV drug it produced, over its decision more than 20 ​years ago to stop developing an alternative drug that had fewer side effects. \"What today’s decision declines to do is ​recognize, for the first time anywhere, sweeping liability for injuries caused by a concededly nondefective ⁠drug because the manufacturer allegedly failed to make a different drug available sooner,\" Justice Joshua Groban wrote for the majority. \"Imposing ​such liability would create substantial burdens and would risk adverse consequences for pharmaceutical innovation, public health, and patient safety.\"",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "1wkw39",
+          "headline": "Supernus, Indivior Merge To Strengthen Neuroscience Drug Portfolio",
+          "source": "Reuters",
+          "author": "Kunal Das",
+          "url": "https://www.reuters.com/legal/transactional/supernus-indivior-merge-strengthen-neuroscience-drug-portfolio-2026-08-03/",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Supernus Pharmaceuticals and Indivior Pharmaceuticals said on Monday they had agreed to an all-stock merger that ​would create a company with about $2.2 billion ‌in annual revenue and a portfolio of medicines for neurological, psychiatric and addiction-related conditions. Shares of Supernus were up over 20% ​and Indivior shares were nearly 10% higher in ​premarket trading. The combined company will have 11 ⁠marketed medicines for conditions including opioid addiction, epilepsy, migraine, ​Parkinson's disease and attention-deficit hyperactivity disorder. The companies expect ​about $125 million in annual cost savings.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "k1on4e",
+          "headline": "BioNTech Says Sobi's Oelkers Will Replace Sahin As CEO",
+          "source": "Reuters",
+          "author": "Linda Pasquini",
+          "url": "https://www.reuters.com/business/biontech-says-sobis-oelkers-will-replace-sahin-ceo-2026-08-03/",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "German biotech ​firm BioNTech said ‌on Monday that Sobi's (SOBIV.ST), opens new tab CEO Guido Oelkers will ​succeed Ugur ​Sahin as its chief executive. Oelkers ⁠will take on ​the role from ​February 1, 2027 at latest, the company said, after ​serving as CEO ​at the Stockholm-listed biopharmaceutical company ‌since ⁠2017. BioNTech announced in March its two co-founders and leading executives, ​Sahin ​and ⁠Chief Medical Officer Oezlem Tuereci, would ​leave the COVID-19 ​vaccine ⁠maker by the end of the year ⁠to ​start a ​new venture.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "M&A / Markets",
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "b8qw72",
+          "headline": "Can Blood-Cleansing Therapy Remove ‘Forever Chemicals’ And Microplastics?",
+          "source": "Inside Precision Medicine",
+          "author": "",
+          "url": "https://www.insideprecisionmedicine.com/topics/patient-care/can-blood-cleansing-therapy-remove-forever-chemicals-and-microplastics/",
+          "section": "Industry News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Therapeutic apheresis—an extracorporeal blood-cleansing procedure long used to remove harmful lipoproteins and immune factors—may also help reduce levels of persistent environmental pollutants such as per- and polyfluoroalkyl substances (PFAS) and micro- and nanoplastics (MNPs), according to a preliminary study by researchers at Technische Universität Dresden published in Brain Health. The findings suggest that double filtration plasmapheresis (DFPP) and adsorption-based apheresis systems could serve as a novel precision medicine strategy to reduce the body’s burden of environmental toxins linked to cardiovascular disease, endocrine disruption, inflammation, neurodegeneration, and cancer.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 154176,
+          "ave": 1426.13
+        },
+        {
+          "id": "225308",
+          "headline": "Researchers Identify Donor NK Cell Subset That Impairs CAR NK Cell Therapy",
+          "source": "The ASCO Post",
+          "author": "",
+          "url": "https://ascopost.com/news/august-2026/researchers-identify-donor-nk-cell-subset-that-impairs-car-nk-cell-therapy-and-demonstrate-a-manufacturing-solution/",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Researchers from the University of Texas MD Anderson Cancer Center have discovered a mechanism of donor subset–driven chimeric antigen receptor (CAR) natural killer (NK) dysfunction and have developed a manufacturing strategy for improving the antitumor potency of CAR NK cell therapies for patients with cancer, according to research published in Cancer Cell. “Our findings show that a relatively small population of immature NK cells can have a disproportionately harmful effect on the entire therapeutic product,” said senior author and principal investigator Katy Rezvani, MD, PhD, Vice President and Head of the Institute for Cell Therapy Discovery & Innovation, and Professor of Stem Cell Transplantation and Cellular Therapy. “Importantly, this is a problem we can potentially address with a straightforward manufacturing strategy by removing these cells before therapy production.”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 534035,
+          "ave": 4939.82
+        },
+        {
+          "id": "d1ppye",
+          "headline": "Estrella Immunopharma Activates Oregon Health & Science University As Third Clinical Site For Phase I/II STARLIGHT-1 Trial In B-Cell Non-Hodgkin’s Lymphoma",
+          "source": "BioSpace",
+          "author": "",
+          "url": "https://www.biospace.com/press-releases/estrella-immunopharma-activates-oregon-health-science-university-as-third-clinical-site-for-phase-i-ii-starlight-1-trial-in-b-cell-non-hodgkins-lymphoma",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Estrella Immunopharma, Inc. a clinical-stage biopharmaceutical company developing CD19 and CD22-targeted ARTEMIS® T-cell therapies to treat cancer and autoimmune diseases, today announced the activation of a third clinical site for its ongoing STARLIGHT-1 Phase I/II clinical trial evaluating EB103, a CD19-Redirected ARTEMIS® T-cell therapy, in patients with relapsed or refractory (“R/R”) B-cell non-Hodgkin’s lymphoma (“NHL”). The new site, Oregon Health & Science University in Portland, Oregon, has begun screening and enrolling patients. “The activation of Oregon Health & Science University, a leading academic medical center, reflects the continued momentum of our STARLIGHT-1 trial,” said Cheng Liu, CEO of Estrella Immunopharma. “By collaborating with experienced clinical centers, we are advancing our goal of developing and expanding access to innovative therapies designed to improve outcomes for patients with R/R B-cell NHL.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 932094,
+          "ave": 8621.87
+        },
+        {
+          "id": "7hwp3t",
+          "headline": "Sandoz To Pay $478.5 Million To Settle Price-Fixing Allegations In Long-Running Battle With States",
+          "source": "STAT",
+          "author": "Ed Silverman",
+          "url": "https://www.statnews.com/pharmalot/2026/08/03/sandoz-to-settle-price-fixing-allegations/",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Sandoz agreed to pay $478.5 million to settle allegations by dozens of states and resellers of medicines that the company engaged in a widespread conspiracy to artificially inflate and manipulate prices of generic drugs and harmed consumers by reducing competition. Under one settlement, the company agreed to pay $400 million over seven years starting in 2027 to resolve all remaining claims by U.S. states in three pending cases and make an additional payment of about $50 million to states that settled earlier. Another $28.5 million will be paid to resolve all remaining class-action litigation brought by indirect resellers. Sandoz did not admit to any wrongdoing.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 795476,
+          "ave": 7358.15
+        },
+        {
+          "id": "ijjsmn",
+          "headline": "RFK Jr. Interview Sparks Corrections On Vaccines, Pandemics And Measles",
+          "source": "Endpoints News",
+          "author": "Zachary Brennan",
+          "url": "https://endpoints.news/kennedy-interview-sparks-corrections-on-vaccines-pandemics-and-measles/",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "HHS Secretary Robert F. Kennedy Jr. doubled down Sunday on his defense of the Trump administration and criticism of vaccine research, though he did declare his support for the measles vaccine. In an interview with CNN’s Dana Bash, Kennedy made a number of comments that were inaccurate, according to infectious disease experts. For instance, Kennedy said that both Lyme disease and the RSV epidemic, which he correctly said is killing more children in the US than measles, came from gain-of-function research, which he also blames for the Covid-19 pandemic.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Pipeline & R&D",
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 795883,
+          "ave": 7361.92
+        },
+        {
+          "id": "btqt2s",
+          "headline": "Amgen Says Hackers Stole Patient Data In Cloud Breach",
+          "source": "Endpoints News",
+          "author": "Zachary Brennan",
+          "url": "https://endpoints.news/hackers-steal-patient-data-in-amgen-cloud-breach/",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Amgen said Friday that hackers have stolen company and patient information in a data breach. The company said it noticed “unauthorized activity” affecting data stored on cloud platforms hosted by third-party providers in July, according to an SEC filing. It rolled out a cybersecurity response plan and has since discovered that the unnamed hackers accessed “proprietary data” and “patient protected health information.” It is investigating the extent of the breach and exactly what other information may have been stolen, and is also assessing any potential impact on the company. For now, though, Amgen said the hack shouldn’t significantly affect its “financial condition.” Amgen said in an email it could not share any further information on the situation.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 795883,
+          "ave": 7361.92
         }
       ]
     }
