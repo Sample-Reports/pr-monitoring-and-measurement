@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "pharma",
-  "_savedAt": "2026-08-04T12:38:12.626Z",
-  "_dayCount": 15,
+  "_savedAt": "2026-08-05T12:48:10.830Z",
+  "_dayCount": 16,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:09.000Z",
@@ -5901,6 +5901,472 @@
           "brands": [],
           "reach": 795883,
           "ave": 7361.92
+        }
+      ]
+    },
+    "2026-08-05": {
+      "uploadedAt": "2026-08-05T12:48:01.664Z",
+      "filename": "InfoVision_Pharma_Media_Briefing_2026-08-05.docx",
+      "articles": [
+        {
+          "id": "opc5rv",
+          "headline": "Post-Hoc Live: Who Wants An AstraZeneca-Bristol Myers Megadeal?",
+          "source": "Endpoints News",
+          "author": "Drew Armstrong",
+          "url": "https://endpoints.news/post-hoc-live-who-wants-an-astrazeneca-bristol-myers-megadeal/",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Is the era of the big pharma megamerger about to return? This weekend, the news broke that AstraZeneca and Bristol Myers Squibb were allegedly in talks about a deal that would be one of the biggest in pharma history. But the drug industry’s track record of huge takeovers working out is spotty. So we fired up a Post-Hoc Live emergency session with biopharma leader Jeremy Levin, who once led dealmaking at Bristol Myers and ran Teva as CEO, and is a longtime observer of how biotech and pharma really work behind the scenes. He joined us today, and you can watch our conversation on YouTube. You can also listen to the episode on Spotify or Apple Podcasts.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "AstraZeneca"
+          ],
+          "reach": 795883,
+          "ave": 7361.92
+        },
+        {
+          "id": "d0tpng",
+          "headline": "Eli Lilly Ripe For Stock Split After Obesity Drug-Fueled Rally",
+          "source": "Bloomberg",
+          "author": "Angel Adegbesan",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-04/eli-lilly-ripe-for-stock-split-after-obesity-drug-fueled-rally",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Wall Street’s appetite for weight-loss drug stocks over the past four years has powered Eli Lilly & Co. to consistently trade above $1,000 per share. Now, some see the pharma giant’s stock as primed for a split. Shares jumped 285% since 2022, when Lilly’s GLP-1 drug Mounjaro was first approved as a treatment for diabetes. That regulatory nod, coupled with a subsequent approval of weight-loss shot Zepbound for obesity, helped propel Lilly to become the first pharmaceutical company to cross the $1 trillion threshold. The company is one of only 15 S&P 500 Index members with a share price north of $1,000.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "M&A / Markets"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "jweux0",
+          "headline": "AbbVie Sees Strong Demand For Its $10 Billion M&A Bond Sale",
+          "source": "Bloomberg",
+          "author": "Brian W Smith, Michael Gambale",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-04/abbvie-seeks-at-least-8-billion-in-debt-to-fund-apogee-deal",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Investors flocked to drugmaker AbbVie Inc.’s $10 billion investment-grade bond sale after signs of investor fatigue for new debt to fund artificial intelligence efforts. The deal, to help fund AbbVie’s pending acquisition of Apogee Therapeutics Inc., commanded about $63 billion of peak demand, according to people with direct knowledge of the matter.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "un8lcn",
+          "headline": "Drugmaker To Offer Early Access To Experimental GLP-1 Retatrutide",
+          "source": "Everyday Health",
+          "author": "Becky Upham",
+          "url": "https://www.everydayhealth.com/obesity/drugmaker-to-offer-early-access-to-experimental-glp-1-retatrutide/",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Eli Lilly, the drugmaker behind the GLP-1 drugs Mounjaro and Zepbound, will allow a limited number of adults with severe obesity to seek early access to retatrutide, its experimental weight loss drug, according to original reporting from STAT, a health and life science news publication. The decision comes after STAT revealed that the company had provided the unapproved medication to an anonymous 79-year-old adult through a “compassionate use” pathway allowed by the U.S. Food and Drug Administration (FDA). This doesn’t mean retatrutide is now broadly available to the public. The once-weekly injection, which targets three hormone receptors in the body — GLP-1, GIP, and glucagon — is still in clinical trials, and FDA approval isn’t expected until sometime next year.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 636283,
+          "ave": 5885.62
+        },
+        {
+          "id": "3tlail",
+          "headline": "Eli Lilly Allows Physicians To Seek Retatrutide Access",
+          "source": "Becker’s Hospital Review",
+          "author": "Ella Jeffries",
+          "url": "https://www.beckershospitalreview.com/glp-1s/eli-lilly-allows-physicians-to-seek-retatrutide-access/",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Eli Lilly has built a formal expanded access program for retatrutide, its experimental obesity drug, following weeks of physician inquiries about securing the same early access previously granted to a single patient. “For a limited number of patients who meet specific medical criteria and cannot enroll in a clinical trial, we believe it is medically appropriate to make authentic retatrutide available before FDA approval, consistent with FDA’s guidance,” a Lilly spokesperson told Becker’s. “We’ve built an expanded access program that does that and are actively reviewing requests from healthcare providers.” Retatrutide has posted weight loss results rivaling bariatric surgery, producing up to 30.3% body weight loss at two years among trial participants with a BMI over 35, and an average 28.3% at 80 weeks among patients on the highest dose. Lilly has not yet submitted the drug for FDA approval, but plans to do so in early 2027.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 719504,
+          "ave": 6655.41
+        },
+        {
+          "id": "p9rlp",
+          "headline": "Eli Lilly To Acquire Ataibeckley To Expand Mental Health Pipeline",
+          "source": "The Healthcare Technology Report",
+          "author": "",
+          "url": "https://thehealthcaretechnologyreport.com/eli-lilly-to-acquire-ataibeckley-to-expand-mental-health-pipeline/",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Eli Lilly has entered into a definitive agreement to acquire AtaiBeckley for $6.75 per share in upfront cash, representing an aggregate equity value of $2.8 billion. The deal includes Contingent Value Rights worth up to an additional $2.50 per share tied to development and regulatory milestones, driving total potential transaction value to $3.8 billion. AtaiBeckley's pipeline centers on rapid-acting neuroplastogens designed to promote new neural connections and restore synaptic connectivity. Its lead candidate, BPL-003, is an intranasal synthetic form of 5-MeO-DMT that holds FDA Breakthrough Therapy Designation and has initiated Phase 3 activities for treatment-resistant depression. Carole Ho, Executive Vice President and President of Lilly Neuroscience, stated that advancing the company's investigational therapies gives Lilly \"a real chance\" to help patients whose depression persists after multiple failed treatments.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 926076,
+          "ave": 8566.2
+        },
+        {
+          "id": "65iwdd",
+          "headline": "4 Potential Biotech M&A Targets, Plus A Pretty Sure Bet From J&J",
+          "source": "BioSpace",
+          "author": "Annalee Armstrong",
+          "url": "https://www.biospace.com/business/4-potential-biotech-m-a-targets-plus-a-pretty-sure-bet-from-j-j",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Pharma is definitely interested in making more deals. But what biotechs will come under the magnifying glass? BioSpace takes a look at companies that analysts see as near-term targets for buyouts. Where one deal occurs, others follow. That’s the theme emerging as analysts parse potential M&A targets with the biopharma deal environment heating up. With a strong return to M&A in the first half, most experts agree we’re going to see plenty more deals to come. We know that Johnson & Johnson wants to buy Sail Biomedicines. The healthcare giant secured the right to acquire the Flagship Pioneering biotech for $2.58 billion down the line as part of a larger immunology research partnership that was revealed last week. The research portion of the deal involved $785 million in initial payments, including a $465 million equity investment.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 932094,
+          "ave": 8621.87
+        },
+        {
+          "id": "7ngppg",
+          "headline": "Johnson & Johnson To Participate In The 2026 Wells Fargo Healthcare Conference",
+          "source": "Business Wire",
+          "author": "",
+          "url": "https://www.businesswire.com/news/home/20260804385778/en/Johnson-Johnson-to-Participate-in-the-2026-Wells-Fargo-Healthcare-Conference",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Johnson & Johnson will present at the 2026 Wells Fargo Healthcare Conference on Wednesday, September 9th, 2026. Management will participate in a Fireside Chat at 11:00 a.m. Eastern Time. A live audio webcast of the presentation will be accessible through Johnson & Johnson’s Investor Relations website at www.investor.jnj.com. An archived edition of the session will be available later that day.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 228325,
+          "ave": 2112.01
+        },
+        {
+          "id": "jweux0",
+          "headline": "AbbVie Sees Strong Demand For Its $10 Billion M&A Bond Sale",
+          "source": "Bloomberg",
+          "author": "Brian W Smith, Michael Gambale",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-04/abbvie-seeks-at-least-8-billion-in-debt-to-fund-apogee-deal",
+          "section": "AI Pulse",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Investors flocked to drugmaker AbbVie Inc.’s $10 billion investment-grade bond sale after signs of investor fatigue for new debt to fund artificial intelligence efforts. The deal, to help fund AbbVie’s pending acquisition of Apogee Therapeutics Inc., commanded about $63 billion of peak demand, according to people with direct knowledge of the matter.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "4iawnq",
+          "headline": "Pathos AI Pads Pipeline With $2.2B Alphamab Deal, AstraZeneca Pact",
+          "source": "Fierce Biotech",
+          "author": "James Waldron",
+          "url": "https://www.fiercebiotech.com/biotech/pathos-ai-pads-pipeline-22b-alphamab-deal-plus-astrazeneca-pact",
+          "section": "AI Pulse",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Pathos AI has agreed to pay $125 million for a bispecific antibody-drug conjugate (ADC) from Alphamab Oncology, while adding another Big Pharma partner in the form of AstraZeneca. The deal with Alphamab centers on JSKN016, a TROP2/HER3 ADC that the Chinese biopharma has already advanced into phase 3 studies. Pathos said it had identified JSKN016 as a suitable addition to its pipeline via its AI-driven decision platform, Foundry. The New York-based company describes Foundry as “thousands of AI agents working in parallel, powered by Pathos’ proprietary AI models, to analyze biological, clinical and real-world data at scale.”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI in Drug Discovery",
+            "Clinical Trials",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "AstraZeneca"
+          ],
+          "reach": 467472,
+          "ave": 4324.12
+        },
+        {
+          "id": "8qbz7f",
+          "headline": "Novo Nordisk, H1 Partner On AI For Drug Discovery, Clinical Trials",
+          "source": "MobiHealthNews",
+          "author": "Jessica Hagen",
+          "url": "https://www.mobihealthnews.com/news/novo-nordisk-h1-partner-ai-drug-discovery-clinical-trials",
+          "section": "AI Pulse",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Provider-focused data company H1 announced a partnership with Novo Nordisk to develop AI models that help with the pharma giant's drug discovery efforts and clinical trial operations. New York-based H1, founded in 2017, offers an AI platform that identifies and helps people connect with the appropriate healthcare providers to improve clinical workflows across technology, health plans, health systems and life sciences companies. Through the partnership, Novo Nordisk and H1 will develop AI data and AI clinical development workflows. The drug maker will also utilize H1's AI to help with clinical trial design, enrollment and site selection. Additionally, H1 will acquire the rights to develop Novo Nordisk's digital platform for clinical development, dubbed StudyHub, a platform designed to streamline clinical trial information and improve decision-making during the drug development process.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 644184,
+          "ave": 5958.7
+        },
+        {
+          "id": "p1kwby",
+          "headline": "Where AI Fits In The Future Of Drug Development",
+          "source": "Technology Networks",
+          "author": "Jean-Philippe Vert",
+          "url": "https://www.technologynetworks.com/tn/articles/where-ai-fits-in-the-future-of-drug-development-415169",
+          "section": "AI Pulse",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "The majority of lead compounds fail before they become valid candidates for preclinical testing. Of the candidates that do make it to the preclinical stage, most will never reach clinical trials. And of those that enter human studies, only one in ten makes it through all stages of clinical development. While AI may seem like a new concept to many, it is far from novel in the world of drug discovery and development. Reportedly, protein structure prediction algorithms were introduced in the 1960s, but it was AI breakthroughs in the 2010s, such as deep learning and neural networks, that helped to propel the field forward.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI in Drug Discovery",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 780871,
+          "ave": 7223.06
+        },
+        {
+          "id": "7wndbj",
+          "headline": "QuantHealth Raises $45M Series B To Accelerate AI-Driven Clinical Trial Simulations",
+          "source": "Fierce Healthcare",
+          "author": "Cailey Gleeson",
+          "url": "https://www.fiercehealthcare.com/finance/quanthealth-raises-45m-series-b-accelerate-ai-driven-clinical-trial-simulations",
+          "section": "AI Pulse",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "QuantHealth, which uses artificial intelligence to develop clinical trial designs, secured $45 million in series B funding to accelerate adoption of its simulation-first clinical trial development platform. Qumra Capital led the funding round, with participation from Pitango HealthTech, Sanofi Ventures, Artofin Venture Capital Fund L.P., Bertelsmann Healthcare Investments (BHI), GC Ventures, NewHealth Ventures, Shoni Top Ventures and Esplanade Ventures. QuantHealth CEO and co-founder Orr Inbar told Fierce Healthcare in an emailed statement that unlike most other AI companies in the space, QuantHealth works \"before a clinical trial begins,\" ultimately impacting them \"more deeply.\"",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "Clinical Trials"
+          ],
+          "brands": [
+            "Sanofi"
+          ],
+          "reach": 807707,
+          "ave": 7471.29
+        },
+        {
+          "id": "kdmr4f",
+          "headline": "Pfizer Beats Earnings Estimates, Targets $2.5 Billion In Additional Cost Cuts",
+          "source": "Reuters",
+          "author": "Mariam E Sunny, Mrinalika Roy",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-beats-quarterly-profit-estimates-strong-demand-blood-thinner-eliquis-2026-08-04/",
+          "section": "Industry News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Pfizer reported better-than-expected second-quarter results on Tuesday, powered by strong demand for blood thinner Eliquis and recently acquired drugs, and announced plans for ​an additional $2.5 billion in cost-cutting. The New York-based drugmaker expects $9.7 billion in total net savings from its cost reductions through 2029 as it seeks ‌to offset declining COVID-related revenue and restore sustainable growth. The company is counting on newer medicines to lessen its dependence on aging blockbuster drugs, while investors are watching for signs that its $10 billion acquisition of Metsera can help establish a meaningful foothold in the fast-growing obesity market that some analysts see topping $150 billion annually in the coming decade.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "M&A / Markets"
+          ],
+          "brands": [
+            "Pfizer"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "tl0k3x",
+          "headline": "Novo Outlook Hike Falls Flat As Wegovy Pill Sales Fail To Impress",
+          "source": "Reuters",
+          "author": "Stine Jacobsen, Maggie Fick, Bhanvi Satija",
+          "url": "https://www.reuters.com/legal/litigation/novo-nordisks-q2-profit-beats-forecasts-raises-outlook-2026-08-04/",
+          "section": "Industry News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Novo Nordisk raised its full-year profit and sales outlook on Tuesday but disappointed investors who focused instead on ‌a narrow sales miss for its new Wegovy pill and a trial setback for its next-generation obesity drug CagriSema. The Danish drugmaker's U.S.-listed shares fell 6%. Novo is battling to claw back lost ground from rival Eli Lilly in the lucrative obesity drug market, with investors looking for signs that a recent turnaround can last and that its new Wegovy pill can support longer-term growth. Amgen's second-quarter adjusted earnings rose 4% from a year earlier to $6.29 per share, handily beating analysts' expectations of $5.62, according to LSEG data. The company's net earnings per share ​increased 65% to $4.37. Quarterly revenue rose 10% from a year earlier to $10.1 billion, surpassing the average Wall Street estimate ​of $9.42 billion.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials",
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "uyq592",
+          "headline": "Amgen Second-Quarter Sales Rise 9%, Profit Tops Street View",
+          "source": "Reuters",
+          "author": "Deena Beasley",
+          "url": "https://www.reuters.com/legal/litigation/amgen-second-quarter-sales-rise-9-profit-tops-street-view-2026-08-04/",
+          "section": "Industry News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Amgen on Tuesday reported second-quarter sales rose 9%, driven by demand for cholesterol drug Repatha, bone drug Evenity and ​medications for rare diseases, as the company continues to develop experimental weight-loss drug MariTide. The California-based biotech said ‌it has discontinued development of a different obesity candidate known as AMG 513, which was in early-stage clinical testing. Amgen raised its full-year outlook to adjusted earnings of $22.30 to $23.50 per share on revenue ⁠of $38.2 billion to $39.4 billion. It had previously projected 2026 earnings per share of $21.70 to $23.10 on revenue of $37.1 billion to $38.5 ​billion.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "ny5in",
+          "headline": "Gilead Sales Beat Expectations On Strong HIV Prevention Growth",
+          "source": "Bloomberg",
+          "author": "Robert Langreth",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-04/gilead-sales-beat-expectations-on-strong-hiv-prevention-growth",
+          "section": "Industry News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Gilead Sciences Inc. reported sales growth that beat expectations, as its drugs for HIV prevention and treatment continued to perform well. The Foster City, California biotech company said revenue grew 10% to $7.8 billion in the second quarter, topping Wall Street’s expectations for $7.4 billion in sales. Quarterly sales of HIV prevention medicines surpassed $1 billion for the first time in the quarter, the company said in its presentation. The also company raised the lower end of its overall product sales guidance for the year by $100 million.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "wwbusi",
+          "headline": "Merck Lifts 2026 Sales Forecast On Strength Of Newer Drugs",
+          "source": "Bloomberg",
+          "author": "Madison Muller",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-04/merck-lifts-2026-sales-forecast-on-strength-of-newer-drugs",
+          "section": "Industry News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Merck & Co. boosted its 2026 sales outlook after strong demand for newer drugs like Winrevair helped to drive revenues higher in the second quarter. Sales will be between $66.3 billion and $67.3 billion for the year, Merck said in a statement Tuesday, up from an earlier range that topped out at $67 billion. The company lowered its profit forecast on charges related to its acquisition of leukemia drug developer Terns Pharmaceuticals Inc. Adjusted profit for the year will be between $2.66 and $2.76 a share, Merck said, below the average analyst estimate in a Bloomberg survey.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "v55trp",
+          "headline": "Merck CEO Says New Pipeline Is Built To Offset Keytruda’s Eventual Patent Expiration",
+          "source": "CNBC",
+          "author": "Darren Incorvaia",
+          "url": "https://www.cnbc.com/2026/08/04/merck-ceo-pipeline-built-offset-keytruda-patent-expiration.html",
+          "section": "Industry News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Merck CEO Rob Davis told CNBC on Tuesday that the drugmaker’s future no longer depends on blockbuster cancer therapy Keytruda alone. One of the biggest questions surrounding Merck has been how the company plans to offset the eventual loss of exclusivity for Keytruda, one of the world’s best-selling drugs in recent years. Davis said Merck has spent the past five years investing heavily in both internal research and acquisitions to build its next generation of medicines. Davis highlighted Winrevair, a treatment for a rare, life-threatening lung disease that was approved by the Food and Drug Administration in 2024. Merck acquired the drug a few years earlier through its $11.5 billion acquisition of Acceleron. Davis said Winrevair is helping patients manage what has historically been a devastating disease.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [],
+          "reach": 313068,
+          "ave": 2895.88
+        },
+        {
+          "id": "gffkn0",
+          "headline": "Ascletis Initiates Global Phase III Trial For Oral GLP-1 Obesity Drug ASC30",
+          "source": "BioPharma APAC",
+          "author": "Darren Incorvaia",
+          "url": "https://biopharmaapac.com/news/31/8280/ascletis-initiates-global-phase-iii-trial-for-oral-glp-1-obesity-drug-asc30.html",
+          "section": "Industry News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Ascletis Pharma Inc. announces once-daily oral small molecule GLP-1 (ASC30) has received Phase III clearance from the U.S. Food and Drug Administration (FDA). ASC30 is the primary pillar of Ascletis' oral small molecule obesity portfolio. The Company has initiated a global Phase III program for ASC30 chronic weight management indication consisting of two pivotal global Phase III, multicenter, randomized, double-blind, placebo-controlled trials (AURORA-1 NCT07743463 and AURORA-2 NCT07743450) in a total of approximately 4,600 participants with obesity or overweight in the U.S., Europe, and Canada. The two pivotal studies will investigate the long-term efficacy, safety, and tolerability of three maintenance doses (20 mg, 40 mg and 60 mg) of once-daily oral ASC30 compared with placebo in participants with obesity or overweight without type 2 diabetes (AURORA-1) and in participants with obesity or overweight with type 2 diabetes (AURORA-2).",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 50996,
+          "ave": 471.71
+        },
+        {
+          "id": "74uvgk",
+          "headline": "Jazz To Withdraw Zepzelca With FDA In Second-Line Small Cell Lung Cancer",
+          "source": "Fierce Pharma",
+          "author": "Angus Liu",
+          "url": "https://www.fiercepharma.com/pharma/jazz-withdraw-zepzelca-fda-second-line-small-cell-lung-cancer",
+          "section": "Industry News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "After a yearslong struggle, Jazz Pharmaceuticals has called time on Zepzelca as a second-line treatment for small cell lung cancer. In alignment with the FDA, Jazz plans to ask the agency to remove the second-line SCLC indication from Zepzelca’s label, the company said Monday alongside its second-quarter earnings report. The decision comes after the confirmatory phase 3 Lagoon trial recently failed on its primary endpoint of overall survival. In the study, Zepzelca (lurbinectedin) monotherapy performed even worse than other chemotherapy regimens, while a combination of Zepzelca and irinotecan showed a numerical advantage that didn’t meet statistical significance.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 432715,
+          "ave": 4002.61
+        },
+        {
+          "id": "5hp186",
+          "headline": "America Doesn’t Have To Be Big Pharma’s Profit Center",
+          "source": "The Hill",
+          "author": "Joe Cunningham, JD Hayworth",
+          "url": "https://thehill.com/opinion/healthcare/6006993-codifying-mfn-drug-pricing/",
+          "section": "Industry News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "As former congressmen from opposite sides of the aisle, we rarely agree on healthcare policy. But one thing we do agree on is that, for far too long, the price of healthcare, especially prescription drugs, has been unaffordable for Americans. The question before Congress is whether that finally changes. Every month, millions of Americans face choices no one should have to make on whether to fill a prescription or pay rent, whether to take a full dose or stretch a month’s supply into two. We both understand that healthcare affordability is a kitchen-table issue, especially when families across the country struggle to make ends meet as the cost of living rises in our country.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 68624,
+          "ave": 634.77
         }
       ]
     }
