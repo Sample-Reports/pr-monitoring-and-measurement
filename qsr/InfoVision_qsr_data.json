@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "qsr",
-  "_savedAt": "2026-08-04T12:38:36.742Z",
-  "_dayCount": 15,
+  "_savedAt": "2026-08-05T12:48:32.846Z",
+  "_dayCount": 16,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:45.173Z",
@@ -5210,6 +5210,330 @@
           "brands": [],
           "reach": 68624,
           "ave": 634.77
+        }
+      ]
+    },
+    "2026-08-05": {
+      "uploadedAt": "2026-08-05T12:48:25.208Z",
+      "filename": "InfoVision_QSR_Media_Briefing_2026-08-05.docx",
+      "articles": [
+        {
+          "id": "1f5oif",
+          "headline": "Meant To Compete With KFC, This Classic 1960s Chain Collapsed After Just A Few Years",
+          "source": "Tasting Table",
+          "author": "Brandon Rich",
+          "url": "https://www.tastingtable.com/2226928/classic-chain-1960s-minnie-pearl-compete-kfc/",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "America isn't short on fried chicken fast food chains. Yet, when you stop to think about the type that exist out there, it can feel like a carefully crafted ecosystem. Sure, competition exists, but anyone hunting for fried chicken might feel that each chain is unique in its own way. Popeyes isn't Chick-fil-A, and Zaxby's is distinct from Raising Cane's. To that end, it's hard to imagine a chain giving KFC a run for its money in a category of food that it basically invented. Yet back in the 1960s, that's exactly what one classic chicken chain tried to do. The company was known as Minnie Pearl's Fried Chicken (legally, Minnie Pearl's Chicken System Inc.), and it lasted shorter than a bubble of oil in a fryer — metaphorically, of course.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "Chick-fil-A",
+            "KFC"
+          ],
+          "reach": 760318,
+          "ave": 7032.94
+        },
+        {
+          "id": "rs4il2",
+          "headline": "KFC Founder Puts Up Personal Cookery Collection For Sale",
+          "source": "Foodservice Equipment Journal",
+          "author": "Owen Gough",
+          "url": "https://www.foodserviceequipmentjournal.com/kfc-founder-puts-up-personal-cookery-collection-for-sale/",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "KFC founder Colonel Sanders’ signature black bow tie, cookery equipment, personal planner and dozens of other special items generated close to US$300,000 (£260,000) at auction last week. The KFC founder, who died in 1980, was the well-known face of the global brand, originally known as Kentucky Fried Chicken. Sanders’ clip-on black ribbon bow tie, which he is famously seen wearing in the fried chicken giant’s logo, sold for $8,000 (£6,900). His former home and another restaurant he owned were also up for auction as well as the 100 or so artefacts sold last week. Sanders’ personal 1964 planner, featuring a handwritten list of herbs and spices that was the subject of an early 2000s lawsuit filed by the KFC Corp, brought in the largest amount of the night, selling for $30,000 (£26,000).",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 368796,
+          "ave": 3411.36
+        },
+        {
+          "id": "8mr894",
+          "headline": "Taco Bell Diners Vow Never To Eat Beans Again After Worker Exposes How Beans Are Made: ‘Disgusting’",
+          "source": "New York Post",
+          "author": "Asia Grace",
+          "url": "https://nypost.com/2026/08/04/lifestyle/taco-bells-bean-prep-causes-viral-split-amid-cyclosopra-chaos/",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "They’re spilling the beans on The Bell — and it’s giving some grubbers nauseating hell. Fast foodies are sourly split as a trending vid allegedly reveals the “disgusting” manner in which Taco Bell prepares its beans. And while queasy critics call for the health inspector, unfazed fans are championing the chow with a “chef’s kiss” stamp of approval. It’s the hottest beans beef of 2026. Visuals of the controversial food prep, shared via @ItzSleepyPanz, features a kitchen employee dumping warm water atop brown, dehydrated, stringy scraps, allegedly stirring the blend into Taco Bell’s refried delights. The eye-popping post has amassed over 13 million views from divided digital audiences worldwide.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Digital & Ordering",
+            "Sustainability & Labor"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 581777,
+          "ave": 5381.44
+        },
+        {
+          "id": "zf3w1q",
+          "headline": "First It Was Taco Bell. Now Chipotle Is At The Center Of A Foodborne Outbreak",
+          "source": "Straight Arrow News",
+          "author": "Krystal Nurse",
+          "url": "https://san.com/cc/first-taco-bell-now-another-popular-mexican-food-chain-sees-a-salmonella-outbreak/",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Frustrated about having to avoid lettuce and Taco Bell in fear of contracting cyclosporiasis? It may be time to add Chipotle’s jalapeños to that list after Minnesota public health officials announced they are investigating a salmonella outbreak. At least 110 people in Minnesota have fallen ill with salmonella, Reuters reported, with 75 telling the Minnesota Department of Health they ate at Chipotle between June 14 and July 14. Chipotle said in a Tuesday statement that it conducted an internal investigation and found its jalapeños to be the culprit. “As part of our established health and safety protocols, upon learning of a potential outbreak, we immediately initiated our ingredient traceability system and were able to identify jalapeños as a potential common ingredient from a common lot, and the restaurants where it was distributed,” the restaurant said.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Chipotle",
+            "Taco Bell"
+          ],
+          "reach": 259184,
+          "ave": 2397.45
+        },
+        {
+          "id": "hnc8r5",
+          "headline": "Wendy’s Brings Back Beloved Burger After Fan Vote, Reveals New Seasonal Frosty",
+          "source": "MLive",
+          "author": "Brandon Champion",
+          "url": "https://www.mlive.com/business/2026/08/wendys-brings-back-beloved-burger-after-fan-vote-reveals-new-seasonal-frosty.html",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Wendy’s is bringing back a favorite burger and revealed a seasonal Frosty flavor perfect for fall. The fast-food chain made several announcements this week, most notably that its fan-favorite Pretzel Bacon Pub Cheeseburger will return to menus nationwide after customers voted for its return in the 'Bring it Back' bracket earlier this year. The burger features a quarter-pound beef patty, beer cheese sauce, Applewood-smoked bacon, smoky honey mustard, crispy onions, pickles and a slice of Muenster Cheese all on a soft, pretzel bun.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [],
+          "reach": 619897,
+          "ave": 5734.05
+        },
+        {
+          "id": "aeil4p",
+          "headline": "Plan For New Wendy's Revealed",
+          "source": "The Herald",
+          "author": "David L. Dye",
+          "url": "https://www.sharonherald.com/news/plan-for-new-wendys-revealed/article_600f9768-b4f9-4ad9-9b0f-0b583969a669.html",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "The City of Hermitage’s only Wendy’s restaurant will eventually be moved to a new spot within walking distance of its current location. The major land development plan for a new Wendy’s was unanimously approved by the Hermitage Planning Commission during the commission’s monthly meeting Monday morning.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Wendy's"
+          ],
+          "reach": 870387,
+          "ave": 8051.08
+        },
+        {
+          "id": "qie0su",
+          "headline": "Chipotle Removes Jalapeños Linked To Salmonella Outbreak From Its Restaurants",
+          "source": "The New York Times",
+          "author": "Alena Cerro",
+          "url": "https://www.nytimes.com/2026/08/04/us/chipotle-salmonella-outbreak-jalapenos-minnesota.html",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "A salmonella outbreak that has sickened dozens of people in Minnesota prompted Chipotle Mexican Grill to announce on Tuesday that it was pulling certain jalapeños from its restaurants. In a statement, the company said “Chipotle has removed the suspect jalapeños across all of our restaurants where they had been distributed and replaced them with jalapeños from different growers.” It was unclear how many restaurants were affected and in which states. Laurie Schalow, the chief corporate affairs and food safety officer for Chipotle, highlighted the company’s “robust ingredient traceability system,” and said in the statement that it had “proactively identified jalapeños as a potential common ingredient from a common lot.”",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Chipotle"
+          ],
+          "reach": 7160644,
+          "ave": 66235.96
+        },
+        {
+          "id": "s9b666",
+          "headline": "What's The Actual Difference Between Burger King And McDonald's Beef?",
+          "source": "Tasting Table",
+          "author": "Lindsey Reynolds",
+          "url": "https://www.tastingtable.com/2227138/burger-king-mcdonalds-beef-actual-difference/",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Unless you're a hardcore fan, the beef served at McDonald's and Burger King seems pretty similar. Both chains advertise burgers made from 100% beef, both avoid fillers and extenders in their patties, and both have spent millions advertising that their burgers contain nothing more than beef and seasoning. However, if you're willing to dig into how each company prepares and serves its burgers, some noticeable differences do emerge. Burger King does things a little differently. The chain has used frozen patties since its opening in 1954. What Burger King tries to emphasize instead is its signature cooking style: The famous flame-grilling method. Because BK cooks with a proprietary commercial broiler, that distinctive chargrilled flavor really comes through, especially on its best-selling Whopper. Meanwhile, McDonald's sticks to a flat-top grill, which cooks multiple patties in their own juices extremely quickly. Neither burger is better, per se, but different cooking methods certainly yield different flavor profiles.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "McDonald's",
+            "Burger King"
+          ],
+          "reach": 760318,
+          "ave": 7032.94
+        },
+        {
+          "id": "dkh88",
+          "headline": "Business World Stunned That a Restaurant Chain Is Doing Well Without Mindlessly Embracing AI",
+          "source": "Futurism",
+          "author": "Frank Landymore",
+          "url": "https://futurism.com/artificial-intelligence/chilis-restaurant-ai",
+          "section": "AI Pulse",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Not immediately jumping on the AI bandwagon like everyone else is? It says something that Chili’s doing this— yes, the casual dining chain with the big red pepper logo — is being seen as shrewd decision making and not just common sense. Chris Caldwell, the chief information officer at Chili’s owner Brinker International, emphasized in recent interviews how the company wasn’t “all in” on AI, and is instead focused on overhauling its tech in more practical ways. “I’m not chasing AI to go, ‘Guys, Anthropic just released a new LLM, and we need to use it because it’s cool,'” he told Business Insider.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI & Automation"
+          ],
+          "brands": [],
+          "reach": 461665,
+          "ave": 4270.4
+        },
+        {
+          "id": "syq06n",
+          "headline": "The Brown Bag AI Lunches Are Over",
+          "source": "The Wall Street Journal",
+          "author": "Lila MacLellan",
+          "url": "https://www.wsj.com/business/the-brown-bag-ai-lunches-are-over-0d393fbd",
+          "section": "AI Pulse",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "By now most people have discovered the joy of asking AI highly specific logistical questions. What’s the best route to drive from Detroit to New York this weekend dodging thunderstorms and without losing cell service? Or, as Debby Soo, CEO of OpenTable, recently suggested of a typical ChatGPT restaurant search: “I’m looking for a seafood restaurant that’s celiac-friendly, but has been nominated for a James Beard, in Boston, this Friday at seven.” Today, Soo needs to not only meet consumers and restaurants wherever they are—and restaurant goers are using AI searches more and more, she said—but also compete against a slew of rivals, like Yelp and Resy, in what has become a cutthroat space. That requires putting AI behind everything, of course—while increasingly holding employees accountable for learning how to use it.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI & Automation",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 11615615,
+          "ave": 107444.44
+        },
+        {
+          "id": "o754jn",
+          "headline": "McDonald’s Struggles To Attract Bargain-Hungry Customers",
+          "source": "NBC News",
+          "author": "Rob Wile",
+          "url": "https://www.nbcnews.com/business/consumer/mcdonalds-sales-struggle-value-meals-rcna590683",
+          "section": "Industry News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Having trouble figuring out this economy? So is McDonald’s. The fast-food giant reported its slowest U.S. sales growth in over a year as its value push fell flat with customers who continue to struggle with higher prices. Overall U.S. customer count declined. Company executives said it provided too many value offers, including a $3-and-under menu and $5 bundled meal deals, that ended up muddling the chain’s message to people who are as hungry for bargains as they are for convenient food. “We simply didn’t execute at the level we needed to in the second quarter,” CEO Chris Kempczinski said in a statement Tuesday. The company must “raise the bar in the U.S. and accelerate performance in our largest market.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing"
+          ],
+          "brands": [
+            "McDonald's"
+          ],
+          "reach": 8916188,
+          "ave": 82474.74
+        },
+        {
+          "id": "43baag",
+          "headline": "McDonald’s Aims To Improve Service And Food, And Chose A New U.S. Boss To Help",
+          "source": "The Wall Street Journal",
+          "author": "Heather Haddon",
+          "url": "https://www.wsj.com/business/earnings/mcdonalds-mcd-q2-earnings-report-2026-stock-c7066898",
+          "section": "Industry News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "McDonald’s is shaking up its U.S. business, picking a new leader to help boost sluggish domestic sales and improve service and quality at the world’s biggest burger chain. The company on Tuesday appointed Skye Anderson president of its U.S. business, succeeding Joe Erlinger, who had held the role since 2019. It marked a rapid advance for Anderson, a 26-year veteran of the company who was named U.S. chief operating officer in April after serving in a global business role.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "McDonald's"
+          ],
+          "reach": 11615615,
+          "ave": 107444.44
+        },
+        {
+          "id": "foio2o",
+          "headline": "A Fast-Food Chicken Chain Is Opening Its Second Oregon Restaurant This Fall. More Might Be On The Way",
+          "source": "OregonLive",
+          "author": "Veronica Nocera",
+          "url": "https://www.oregonlive.com/retail/2026/08/a-fast-food-chicken-chain-is-opening-its-second-oregon-restaurant-this-fall-more-might-be-on-the-way.html",
+          "section": "Industry News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "There can never be too much fast-food fried chicken. Raising Cane’s is making sure of that. The Baton Rouge-based chain has been working to expand its footprint in the Willamette Valley and beyond, bringing its fan-favorite chicken fingers and sauce to new audiences. One of those restaurants, located just outside Portland, will open its doors this fall.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 538896,
+          "ave": 4984.79
+        },
+        {
+          "id": "t5fmsu",
+          "headline": "Springfield To Get A Second Chick-Fil-A Restaurant",
+          "source": "The State Journal-Resident",
+          "author": "Patricia Cobe",
+          "url": "https://www.sj-r.com/story/business/2026/08/04/chick-fil-a-files-permit-for-second-location-in-springfield-illinois/91155630007/?gca-cat=p&gnt-cfr=1",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "After months of rumors, one of the most popular fast-food chicken restaurants in the country will be adding a second location in the capital city. On July 31, a commercial building permit was issued by the City of Springfield Building and Zoning Department to Chick-fil-A for the construction of a new fast-food restaurant with a drive thru, parking lot and associated utilities.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chick-fil-A"
+          ],
+          "reach": 820068,
+          "ave": 7585.63
+        },
+        {
+          "id": "bqs720",
+          "headline": "Bankrupt Fried Chicken Chain Franchisee Is Closing 39 Restaurants After Selling Off The Rest",
+          "source": "Money Digest",
+          "author": "Tamilore Onikosi",
+          "url": "https://www.moneydigest.com/2229792/bankrupt-fried-chicken-chain-franchisee-closing-39-restaurants-after-selling-rest/",
+          "section": "Industry News",
+          "date": "August 3, 2026",
+          "iso": "2026-08-02",
+          "summary": "Georgia and Florida residents who love their Popeyes fried chicken would be sad to know that they have 39 fewer locations to choose from as of July 2026. The closures — 31 in Florida and eight in Georgia — followed the collapse of Sailormen Inc., a major Popeyes franchisee that operated restaurants across both states. After filing for Chapter 11 bankruptcy in January 2026, Sailormen attempted to sell as much of its restaurant portfolio as possible, but ultimately shut down the locations for which it could not secure buyers.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 412924,
+          "ave": 3819.55
         }
       ]
     }
