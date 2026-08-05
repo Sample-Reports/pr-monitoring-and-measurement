@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "beauty",
-  "_savedAt": "2026-08-04T12:37:50.910Z",
-  "_dayCount": 15,
+  "_savedAt": "2026-08-05T12:47:06.865Z",
+  "_dayCount": 16,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:16.350Z",
@@ -2988,6 +2988,218 @@
           "brands": [],
           "reach": 652991,
           "ave": 6040.17
+        }
+      ]
+    },
+    "2026-08-05": {
+      "uploadedAt": "2026-08-05T12:46:56.696Z",
+      "filename": "InfoVision_Beauty_Media_Briefing_2026-08-05.docx",
+      "articles": [
+        {
+          "id": "kk37mr",
+          "headline": "Chanel Retains Top Spot, Massimo Dutti, Celine And Phoebe Philo Surge On Lyst’s Hottest Brands Ranking",
+          "source": "WWD",
+          "author": "Tianwei Zhang",
+          "url": "https://wwd.com/fashion-news/fashion-features/chanel-q2-2026-lyst-ranking-massimo-dutti-phoebe-philo-1239091157/",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Chanel has retained its position as the world’s hottest brand in the latest Lyst Index for the second quarter of 2026, reflecting how the platform’s updated methodology continues to reward sustained cultural momentum rather than one‑off viral spikes.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "AI Beauty Tech",
+            "Prestige vs Mass"
+          ],
+          "brands": [
+            "Chanel"
+          ],
+          "reach": 126372,
+          "ave": 1168.94
+        },
+        {
+          "id": "2ta1xc",
+          "headline": "Chanel Sales Jump 16% As New Collections Boost Label’s Appeal",
+          "source": "Bloomberg",
+          "author": "Angelina Rascouet",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-04/chanel-sales-jump-16-as-new-collections-boost-label-s-appeal",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Chanel’s sales rose by double digits in the first half, beating luxury rivals including LVMH, as wealthy shoppers splurged on the new fashion creations of designer Matthieu Blazy. Comparable revenue climbed by about 16% at Chanel Ltd. in the period, a person familiar with the performance said, declining to be identified because the figures haven’t been made public. Sales at the fashion division — the largest unit — grew by a similar percentage, the person said.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Prestige vs Mass"
+          ],
+          "brands": [
+            "Chanel"
+          ],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "knhd04",
+          "headline": "Too Faced Co-Founder Reveals True Thoughts On Impact Of Estée Lauder Companies Acquisition",
+          "source": "Cosmetics Business",
+          "author": "Lynsey Barber",
+          "url": "https://cosmeticsbusiness.com/too-faced-co-founder-reveals-true-thoughts-on",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Speaking on the Gloss Angeles podcast with hosts Kirbie Johnson and Sara Tan, beauty entrepreneur Jerrod Blandino revealed for the first time that selling Too Faced was not part of his plans for the brand, and weighs in on what some in the industry describe as the ‘ELC curse’ Too Faced co-founder Jerrod Blandino has revealed what happened behind the scenes after the brand was acquired by Estée Lauder Companies (ELC), and weighed in on what some in the industry have branded the ‘ELC curse’ The beauty giant snapped up the make-up brand, which Blandino founded with Jeremy Johnson in 1998, for US$1.4bn in 2016, marking ELC’s biggest ever acquisition at the time.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Estée Lauder"
+          ],
+          "reach": 625348,
+          "ave": 5784.47
+        },
+        {
+          "id": "o6so0v",
+          "headline": "Marketing Vanguard At Cannes: AI Is Moving From Fear To Confidence ft. Lara Balazs Of Adobe",
+          "source": "AdWeek",
+          "author": "Jenny Rooney",
+          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-ai-is-moving-from-fear-to-confidence-ft-lara-balazs-of-adobe/",
+          "section": "AI Pulse",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "The Marketing Vanguard Cannes series continues as host Jenny Rooney sits down with Lara Balazs, chief marketing officer and EVP of global marketing at Adobe. In this episode, Lara breaks down why enterprise AI adoption is shifting toward tangible workflow wins. She highlights how heavyweights like the NFL, Disney, and L’Oréal deploy Adobe Firefly to automate manual asset scaling while protecting proprietary IP. Learn why human empathy, brand trust, and strategic judgment remain irreplaceable in the age of generative AI.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI Beauty Tech",
+            "Marketing & Influence"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 279031,
+          "ave": 2581.04
+        },
+        {
+          "id": "73ioyu",
+          "headline": "All The Beauty Retail Expansions Of 2026",
+          "source": "WWD",
+          "author": "Noor Lobad",
+          "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-wellness-retail-expansions-launch-1238467470/",
+          "section": "Industry News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Mexican body care brand Nopalera has entered 150 Costco stores with its Buena Vibra Shower Gel. The brand, founded in 2022 by Sandra Velasquez, also sells at Credo Beauty, Nordstrom and Kohl’s. Freaks of Nature, the sun and skin care brand cofounded by surfer Kelly Slater, is now at Credo. The lineup includes five products, priced from $20 for the Everyday Endurance Deodorant in two scents to $38 for the Peak Performance SPF 50.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution"
+          ],
+          "brands": [],
+          "reach": 126372,
+          "ave": 1168.94
+        },
+        {
+          "id": "tytpdq",
+          "headline": "Multifunctionality And Texture Reshape Simple Summer Beauty Routines",
+          "source": "Personal Care Insights",
+          "author": "William Nichols",
+          "url": "https://www.personalcareinsights.com/special-reports/olay-lubrizol-bgg-summer-beauty-multifunctional.html",
+          "section": "Industry News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Summer brings more opportunities for outdoor activities, but with the added outside time comes increased skin exposure to the elements. For summer beauty routines, industry experts point out that the season doesn’t test whether a skin care product works, rather if consumers keep using it once the heat sets in. Personal Care Insights sits down with Olay, Lubrizol, Beijing Gingko Group (BGG), and expert dermatologists, to discuss the latest innovations and summer cosmetic essentials, and how keeping skin care routines easy can aid consumers in their seasonal beauty journey.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch"
+          ],
+          "brands": [],
+          "reach": 176438,
+          "ave": 1632.05
+        },
+        {
+          "id": "gkcj4b",
+          "headline": "Americans Fight Economic Gloom With Makeup And Movie Tickets",
+          "source": "NBC News",
+          "author": "Grace Thomas",
+          "url": "https://www.nbcnews.com/business/consumer/economy-lipstick-movies-treats-pets-rcna590668",
+          "section": "Industry News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Americans are carving out more room in their budgets for little luxuries as inflation and economic uncertainty push U.S. adults to postpone major purchases, new data shows, and a growing number say they feel financially insecure.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 8916188,
+          "ave": 82474.74
+        },
+        {
+          "id": "bykdt7",
+          "headline": "The “No-Makeup Makeup” Look Is On The Way Out, According To Reddit",
+          "source": "Vanity Fair",
+          "author": "Marisa Meltzer",
+          "url": "https://www.vanityfair.com/story/reddit-beauty-survey",
+          "section": "Industry News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Reddit is best known as a forum for discussing how to retire in your thirties, trade conspiracy theories about medical school being a psyop, and gossip about which influencer is taking a GLP-1 but not admitting it. It is, in other words, not just a place for the extremely online to gather, but has earned a reputation for being a safe space for toxic thoughts to flourish.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Marketing & Influence"
+          ],
+          "brands": [],
+          "reach": 505095,
+          "ave": 4672.13
+        },
+        {
+          "id": "fwm0w9",
+          "headline": "The Beauty Industry's Fiercest Competitors Are Joining Forces. Here's Why.",
+          "source": "PR Newswire",
+          "author": "",
+          "url": "https://www.prnewswire.com/news-releases/the-beauty-industrys-fiercest-competitors-are-joining-forces-heres-why-302837671.html",
+          "section": "Industry News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "At a time when TikTok content glamorizes tanning, and pushes sunscreen misinformation to your FYP, the #tanmaxxing trend has caught the attention of Gen Z, who are embracing sun habits that Dermatologists have long warned against. In response to these trends, ZO® Skin Health, the leading professional skincare brand, founded by Dr. Zein Obagi, has brought together a coalition of leading skincare brands to launch a first-of-its-kind social media campaign dedicated to one shared goal: making trusted skin health information that speaks to Gen Z. Joining ZO Skin Health in the campaign are leading brands Supergoop!, EltaMD, Black Girl Sunscreen, and Elizabeth Arden.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Marketing & Influence"
+          ],
+          "brands": [],
+          "reach": 499370,
+          "ave": 4619.17
+        },
+        {
+          "id": "sawga4",
+          "headline": "Researchers Call For Stronger Safety Testing Of Lip Cosmetics",
+          "source": "News Medical",
+          "author": "",
+          "url": "https://www.news-medical.net/news/20260804/Researchers-call-for-stronger-safety-testing-of-lip-cosmetics.aspx",
+          "section": "Industry News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "New peer-reviewed publications find significant gaps in lip product regulation and safety testing, including reliance on inappropriate skin models and significant underestimation of usage and ingestion rates, leaving consumers exposed to potential risks. Two international critical reviews into the testing and legal framework for lip cosmetic products have identified significant blind spots when it comes to ingestion rate data, tissue testing types, and ingredients used in products. Lip cosmetics, including lipsticks, glosses, balms, oils, masks and stains, are classed as topical cosmetics for external use only. In practice, these products are routinely ingested and absorbed through lip tissue, resulting in a dual-pathway exposure route that existing frameworks were never designed to assess.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch",
+            "Markets & Regulation"
+          ],
+          "brands": [],
+          "reach": 301756,
+          "ave": 2791.24
         }
       ]
     }
