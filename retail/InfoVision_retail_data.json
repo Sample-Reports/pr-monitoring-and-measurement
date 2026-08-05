@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "retail",
-  "_savedAt": "2026-08-04T12:38:57.942Z",
-  "_dayCount": 15,
+  "_savedAt": "2026-08-05T12:48:59.813Z",
+  "_dayCount": 16,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:03.474Z",
@@ -3910,6 +3910,182 @@
           "brands": [],
           "reach": 803685,
           "ave": 7434.09
+        }
+      ]
+    },
+    "2026-08-05": {
+      "uploadedAt": "2026-08-05T12:48:45.456Z",
+      "filename": "InfoVision_Retail_Media_Briefing_2026-08-05.docx",
+      "articles": [
+        {
+          "id": "9hu4yx",
+          "headline": "Walmart Completes Its Acquisition Of TV Advertising Company Vibe.co",
+          "source": "TechCrunch",
+          "author": "Aisha Malik",
+          "url": "https://techcrunch.com/2026/08/04/walmart-completes-its-acquisition-of-tv-advertising-company-vibe-co/",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Walmart announced on Tuesday that it has completed its acquisition of self-service streaming TV advertising platform Vibe.co. The acquisition, which was announced in June, brings Vibe.co into Walmart Connect, the retailer’s connected TV advertising platform. The Wall Street Journal previously reported that Walmart was paying $1.4 billion for the acquisition. Vibe.co’s platform enables small- and medium-sized brands to launch streaming TV campaigns across publishers. By combining Vibe.co’s platform with Walmart Connect, Walmart is expanding its connected TV advertising business and gaining new ways to reach customers.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 416989,
+          "ave": 3857.15
+        },
+        {
+          "id": "d23oh8",
+          "headline": "Ahold Delhaize Beats Profit View Aided By Cost Measures, Market-Share Gains",
+          "source": "Reuters",
+          "author": "Dimitri Rhodes",
+          "url": "https://www.reuters.com/business/ahold-delhaize-reports-second-quarter-core-profit-beat-2026-08-05/",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Supermarket group Ahold Delhaize reported a second-quarter core ‌profit above market expectations on Wednesday, citing strong cost management and market-share gains in its main markets \"This balanced approach enabled us to navigate macroeconomic and geopolitical pressures and absorb the majority of costs from higher energy prices,\" CEO Frans Muller said in a ⁠statement. The group had in 2024 announced a $1 billion investment to lower prices on its shelves in the U.S. through to 2028, along with additional investments into its online offerings.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "eu1qv8",
+          "headline": "Walmart Plans To Build A 188,779-Square-Foot Superstore With Gas Station Next To Lowe’s In Coastal City",
+          "source": "The Sun",
+          "author": "Charlotte Edwards",
+          "url": "https://www.the-sun.com/money/16793401/walmart-superstore-westlake-florida/",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "A WALMART superstore is coming to Westlake, Florida. The big box retail giant plans to build a 188,799-square-foot store with a gas station. Real estate developer Minto Communities recently announced the sale of a 24-acre plot of land where the superstore will be built. The developer is also planning to build a selection of properties in the area.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "2og1zh",
+          "headline": "Retail Giants Battle To Become America’s Top GLP-1 Destination",
+          "source": "South Florida Reporter",
+          "author": "",
+          "url": "https://southfloridareporter.com/retail-giants-battle-to-become-americas-top-glp-1-destination/#google_vignette",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Retail giants are stepping directly into the healthcare arena. Walmart, Costco, and Amazon want to supply your weight-loss treatments. Millions of Americans currently take GLP-1 medications like Wegovy and Zepbound. New oral pills are expanding access to an even broader audience. This massive demand has created an unprecedented commercial opportunity for retailers. Prescriptions offer a strategic gateway to long-term customer relationships and high-frequency spending.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart",
+            "Amazon",
+            "Costco"
+          ],
+          "reach": 236279,
+          "ave": 2185.58
+        },
+        {
+          "id": "wdrdrt",
+          "headline": "Walmart Gets The Green Light To Continue Using Controversial Pricing Strategy At All Stores Thanks To Law Loophole",
+          "source": "The Sun",
+          "author": "James Evenden",
+          "url": "https://www.the-sun.com/money/16793151/walmart-electronic-shelf-labels-new-jersey-fair-price-protection/",
+          "section": "Brand News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "SHOPPERS beware – new legislation doesn’t exempt Walmart and other retailers from using a controversial pricing strategy. It all comes down to timing, though. The Fair Price Protection Act went into effect August 1 after New Jersey Governor Mikie Sherrill signed the piece of legislation. The law bans businesses from using consumer data to set individualized prices.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "uyt6m9",
+          "headline": "Kohl’s Launches AI Assistant To Boost Discovery, Ease Shopping",
+          "source": "Homepage News",
+          "author": "",
+          "url": "https://www.homepagenews.com/retail-articles/kohls-launches-ai-assistant-to-boost-discovery-ease-shopping/",
+          "section": "AI Pulse",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Kohl’s has announced it has developed a digital shopping assistant that can help consumers discover products, compare options and get quick answers. Building on Kohl’s successful Mother’s Day Gift Finder, the new AI-enabled function, produced with Google Cloud’s Gemini Enterprise for Customer Experience, brings product discovery, inspiration and support into one conversational experience, Kohl’s maintained.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "AI & Personalization",
+            "Pricing & Consumer"
+          ],
+          "brands": [],
+          "reach": 803685,
+          "ave": 7434.09
+        },
+        {
+          "id": "14vzm2",
+          "headline": "Data And AI Governance Specialist Roel Willems Departs Ahold Delhaize After Decade Long Run At Retailer",
+          "source": "Retail Tech Innovation Hub",
+          "author": "Scott Thompson",
+          "url": "https://retailtechinnovationhub.com/home/2026/8/4/data-and-ai-governance-specialist-roel-willems-departs-ahold-delhaize-after-decade-long-run-at-retailer",
+          "section": "AI Pulse",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Roel Willems has announced his departure from Ahold Delhaize Group where he served as Director, Data & AI Governance - Global. In a LinkedIn post, he said: “Last Friday marked my last day at Ahold Delhaize, after more than a decade. I've always worked here with real pleasure.” “I joined with a blauw har for Albert Heijn and picked up a green one for Ahold Delhaize along the way. So it's bittersweet, but it's time for a next phase: helping other companies navigate the intersection of strategy, data and AI, and the foundations that make it all work, as an independent advisor.” He added: “Since 2015 I've had some of the best seats in the business: leading analytics and data science teams at Albert Heijn, shaping data and AI governance at group level, and most recently designing the EU data strategy and standing up EU data management across our European brands. I've learned more here about turning data into real business value, and making it stick inside an organisation, than anywhere else.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI & Personalization"
+          ],
+          "brands": [],
+          "reach": 771385,
+          "ave": 7135.31
+        },
+        {
+          "id": "bqzg2i",
+          "headline": "How Executives With International Experience Give Grocers A Critical Edge",
+          "source": "Grocery Dive",
+          "author": "Sam Silverstein",
+          "url": "https://www.grocerydive.com/news/grocery-executives-international-experience-kroger-walmart-ahold-delhaize/826770/",
+          "section": "Industry News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "When Kroger introduced Greg Foran as its CEO earlier this year, the supermarket chain drew accolades for its decision to hire a new leader who had distinguished himself by turning around Walmart’s U.S. operations. But beyond his background as a senior executive at the world’s largest retailer, Foran brings Kroger another asset that could prove pivotal as he strives to work the same magic at Kroger that he did at Walmart: experience working outside the United States.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Walmart",
+            "Kroger"
+          ],
+          "reach": 158087,
+          "ave": 1462.3
         }
       ]
     }
