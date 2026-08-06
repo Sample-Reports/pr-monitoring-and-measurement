@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "pharma",
-  "_savedAt": "2026-08-05T12:48:10.830Z",
-  "_dayCount": 16,
+  "_savedAt": "2026-08-06T11:42:42.006Z",
+  "_dayCount": 17,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:09.000Z",
@@ -6367,6 +6367,270 @@
           "brands": [],
           "reach": 68624,
           "ave": 634.77
+        }
+      ]
+    },
+    "2026-08-06": {
+      "uploadedAt": "2026-08-06T11:42:15.211Z",
+      "filename": "InfoVision_Pharma_Media_Briefing_2026-08-6.docx",
+      "articles": [
+        {
+          "id": "596d01",
+          "headline": "Lilly Beats Estimates On Resilient Demand For Injectable GLP-1 Drugs, Widens Gap With Novo",
+          "source": "Reuters",
+          "author": "Mrinalika Roy and Mariam E Sunny",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-raises-annual-revenue-forecast-obesity-diabetes-drug-demand-stay-2026-08-05/",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Sales of Eli Lilly's Zepbound and Mounjaro injectable weight-loss and diabetes drugs soared during the second quarter, easily ​beating Wall Street estimates and widening the gap with Danish rival Novo Nordisk. The trillion-dollar company also posted better-than-expected quarterly results and raised its full-year revenue forecast, and its ‌shares were up 3.6%. The strong results are likely to reassure investors that demand for Lilly's GLP-1 treatments remains resilient despite pricing pressure and intensifying competition from Novo, which launched an oral version of its Wegovy weight-loss drug in the U.S. earlier this year.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "M&A / Markets"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "rps39h",
+          "headline": "Eli Lilly’s Obesity Drugs Drive Massive Revenue Growth",
+          "source": "Forbes",
+          "author": "Alex Knapp",
+          "url": "https://www.forbes.com/sites/innovationrx/2026/08/05/eli-lillys-obesity-drugs-drive-massive-revenue-growth/",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Lilly’s GLP-1 business is booming. The company reported today that its second quarter revenue grew 48% year over year to $23 billion. Lilly also increased its annual revenue guidance to between $85 billion and $87 billion. After the announcement, investors pushed the stock price up nearly 5% as of today's market close. The biggest drivers for the revenue increase are the company’s GLP-1 drugs Mounjaro (for diabetes), whose second quarter sales grew 91% year over year to $10 billion, and Zepbound (for obesity), whose sales grew 46% to $5 billion.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "M&A / Markets"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 15044999,
+          "ave": 139166.24
+        },
+        {
+          "id": "fa7dp5",
+          "headline": "Prediction: AbbVie Will End The Year At This Price",
+          "source": "24*7 Wall St",
+          "author": "Vandita Jadeja",
+          "url": "https://247wallst.com/investing/2026/08/05/prediction-abbvie-will-end-the-year-at-this-price/",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "I’m going to put our year-end call on the table before anything else. Our AbbVie year-end verdict is a buy, and our proprietary model sees more room to run despite the stock already sitting near record highs. The 24/7 Wall St. price target for AbbVie is $297.71, implying 20.92% upside from the current $246.20 level. We rate ABBV a buy with a 90% confidence level, our highest tier.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 454502,
+          "ave": 4204.14
+        },
+        {
+          "id": "nov1t",
+          "headline": "Beyond The Approval: Operationalizing Zongertinib For HER2-Mutant Lung Cancer",
+          "source": "Pharmacy Times",
+          "author": "Danielle Valletti",
+          "url": "https://www.pharmacytimes.com/view/beyond-the-approval-operationalizing-zongertinib-for-her2-mutant-lung-cancer",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Zongertinib (Hernexeos; Boehringer Ingelheim) is more than another targeted agent entering a crowded non-small cell lung cancer (NSCLC) landscape. Its arrival underscores a workflow challenge familiar to oncology pharmacists: a therapy cannot deliver precision care unless the right alteration is identified, the prescription is operationalized correctly, and toxicities are recognized early.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [
+            "Boehringer Ingelheim"
+          ],
+          "reach": 690777,
+          "ave": 6389.69
+        },
+        {
+          "id": "hjuvrs",
+          "headline": "'No Discussions' Over AstraZeneca-Bristol Myers Deal, Senior Source Says",
+          "source": "Reuters",
+          "author": "Maggie Fick and Sabrina Valle",
+          "url": "https://www.reuters.com/world/no-discussions-over-astrazeneca-bristol-myers-deal-senior-source-says-2026-08-05/",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "There are \"no discussions\" ongoing ​between AstraZeneca and Bristol Myers Squibb over a potential deal, ‌a senior source close to the matter told Reuters on Wednesday, quashing the prospect of a mooted mega merger between the drugmakers. \"There is no deal between ​AstraZeneca and BMS. There never was a deal to be ​done, and there are no discussions between the companies,\" ⁠said the source, speaking on condition of anonymity. AstraZeneca and Bristol Myers ​Squibb both declined to comment on emailed questions from Reuters.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [
+            "AstraZeneca"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "jzl12u",
+          "headline": "$5.5B Talc Settlement Offer May End Baby Powder Lawsuits",
+          "source": "Asbestos.com",
+          "author": "Travis Rodgers",
+          "url": "https://www.asbestos.com/news/2026/08/05/5-5b-talc-settlement-offer-may-end-baby-powder-lawsuits/",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Johnson & Johnson is proposing a $5.5 billion settlement to resolve approximately 76,000 claims and could close out more than a decade of litigation against the company. The lawsuits claim its talc-based baby powder and other talc products cause ovarian cancer. The proposal won’t take effect automatically. Law firms representing at least 95% of the remaining claimants need to accept the terms before the settlement becomes final. This recent offer marks a shift in strategy for J&J, which spent years fighting claims related to ovarian cancer in civil court and through multiple bankruptcy filings.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 891981,
+          "ave": 8250.82
+        },
+        {
+          "id": "ij24vr",
+          "headline": "How Drone Delivery Is Moving Closer To Pharma's Last Mile",
+          "source": "Pharmaceutical Commerce",
+          "author": "Stephen Appezzato",
+          "url": "https://www.pharmaceuticalcommerce.com/view/how-drone-delivery-is-moving-closer-to-pharma-s-last-mile",
+          "section": "AI Pulse",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Last mile pharmaceutical delivery, from pharmacy or distribution point to the patient, has historically depended on courier networks, scheduled routes and manual handoffs. Recent developments suggest that model may be evolving. Arrive AI's agreement with LifeSpan Pharmacy represents a different approach to autonomous delivery: building the infrastructure needed to support future deployments. Under the LOI, the companies plan to begin with a demonstration flight from LifeSpan Pharmacy's facility to a nearby recipient, delivering actual pharmaceuticals and validating the delivery corridor. Additional phases could include expanding delivery zones and evaluating broader deployment opportunities.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 419032,
+          "ave": 3876.05
+        },
+        {
+          "id": "y6ylwk",
+          "headline": "Survey: Gen Z, Millennials Turn To AI For Healthcare",
+          "source": "The Business Journal",
+          "author": "",
+          "url": "https://businessjournaldaily.com/survey-gen-z-millennials-turn-to-ai-for-healthcare/",
+          "section": "AI Pulse",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "August is National Wellness Month, and key findings from the fourth annual Wellness Matters survey released by Aflac Inc. reveal younger generations – 76% of Gen Z and 63% of millennials – are turning first to artificial intelligence for health support in lieu of seeking professional medical care. A wellness paradox is emerging as Americans – particularly younger generations – feel more confident and in control of their health than ever before, yet they have never been less likely to see a doctor.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 331398,
+          "ave": 3065.43
+        },
+        {
+          "id": "n3eeq7",
+          "headline": "Texas Attorney General Targets AAP Over Claims Of Pharma-Influenced Vaccine Guidance",
+          "source": "Dallas Express",
+          "author": "",
+          "url": "https://dallasexpress.com/state/texas-attorney-general-targets-aap-over-claims-of-pharma-influenced-vaccine-guidance/",
+          "section": "Industry News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Texas Attorney General Ken Paxton has opened an investigation into the American Academy of Pediatrics over allegations that the group may be pushing childhood vaccines to benefit financially from pharmaceutical industry ties. Paxton’s office issued a Civil Investigative Demand to the organization to examine the reasoning behind its vaccine recommendations and how those recommendations shape the broader childhood immunization landscape, according to an August 5 press release announced by the attorney general. Paxton’s office described the American Academy of Pediatrics as the largest professional association of pediatricians in the country.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals",
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 939457,
+          "ave": 8689.98
+        },
+        {
+          "id": "ro22w2",
+          "headline": "Exemption Of Rare Disease Therapies In Drug-Pricing Pilots Would Wipe Out Huge Savings, Analysis Finds",
+          "source": "STAT News",
+          "author": "John Wilkerson",
+          "url": "https://www.statnews.com/2026/08/05/cms-drug-pricing-pilot-programs-rare-disease-drugs/",
+          "section": "Industry News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Excluding rare disease treatments from a Medicare pilot program to lower drug prices would wipe out much of the savings from retail drugs, according to a Harvard University researcher. Biotech companies are lobbying the Trump administration to exclude treatments for rare, or “orphan,” diseases from two Medicare pilot programs: Global Benchmark for Efficient Drug Pricing (GLOBE) and Guarding U.S. Medicare Against Rising Drug Costs (GUARD). Those pilots are part of President Trump’s plan to get drugmakers to lower prices in the United States to the levels seen in other rich countries, an approach generally referred to as a “most-favored nation” policy.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Pipeline & R&D",
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 478047,
+          "ave": 4421.93
+        },
+        {
+          "id": "45k3tz",
+          "headline": "1.3M New York Seniors To Be Impacted By The End Of Medicare Subsidy Program",
+          "source": "Spectrum Local News",
+          "author": "Nicole Neuman",
+          "url": "https://spectrumlocalnews.com/nys/central-ny/politics/2026/08/05/medicare-part-d-susidies",
+          "section": "Industry News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "New York Gov. Kathy Hochul is slamming the Trump administration’s new Medicare cuts. Last week, the Centers for Medicare and Medicaid Services (CMS) announced it would end a temporary subsidy program that has helped offset premiums for the past two years. On Wednesday, Hochul called the ending of the plan “a new assault on seniors.” The Centers for Medicare and Medicaid Services Part D Premium Stabilization Demonstration Program will now end effective Dec. 31, 2026.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 96713,
+          "ave": 894.6
+        },
+        {
+          "id": "t7ozlk",
+          "headline": "Complete Health To Pay $14M To Settle Medicare Advantage Fraud Allegations",
+          "source": "Healthcare Dive",
+          "author": "Rebecca Pifer Parduhn",
+          "url": "https://www.healthcaredive.com/news/complete-health-doj-settlement-medicare-false-claims-upcoding/826983/",
+          "section": "Industry News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Complete Health, a value-based primary care provider in three states, has agreed to pay $14.1 million to settle accusations that it overcharged Medicare, the latest instance of a company dinged for allegedly gaming Medicare Advantage in order to profit. The settlement announced by the Department of Justice on Monday puts to rest a whistleblower lawsuit that said Complete submitted false diagnosis codes for its senior patients to increase its reimbursement in the privatized Medicare program from 2020 to 2023.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 180185,
+          "ave": 1666.71
+        },
+        {
+          "id": "mui1m6",
+          "headline": "Does Medicare’s Drug Price Negotiation Disincentivize Biosimilar Development?",
+          "source": "Managed Healthcare Executive",
+          "author": "Denise Myshko",
+          "url": "https://www.managedhealthcareexecutive.com/view/does-medicare-s-drug-price-negotiation-disincentivize-biosimilar-development-",
+          "section": "Industry News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "The Inflation Reduction Act’s Medicare drug price negotiation program may provide disincentives for the development of biosimilar development, James D. Chambers, Ph.D., a professor at Tufts University School of Medicine and an investigator at Tufts Medical Center, said in an interview. Chambers is a health economist and leads the Specialty Drug Evidence and Coverage (SPEC) Database. “It’s incumbent on policymakers to make sure the right incentives exist so we get a sufficient number of biosimilars entering the space,” he said. “I’m doing the work now to examine pre- and post-IRA to see if we see if there's been a change in the volume of biosimilar development to see if there’s a signal.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 851786,
+          "ave": 7879.02
         }
       ]
     }
