@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "retail",
-  "_savedAt": "2026-08-05T12:48:59.813Z",
-  "_dayCount": 16,
+  "_savedAt": "2026-08-06T11:43:39.497Z",
+  "_dayCount": 17,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:03.474Z",
@@ -4086,6 +4086,356 @@
           ],
           "reach": 158087,
           "ave": 1462.3
+        }
+      ]
+    },
+    "2026-08-06": {
+      "uploadedAt": "2026-08-06T11:43:26.334Z",
+      "filename": "InfoVision_Retail_Media_Briefing_2026-08-06.docx",
+      "articles": [
+        {
+          "id": "37hl0y",
+          "headline": "Kohl's Debuts Gemini-Powered AI Assistant In Time For Back-To-School Shopping",
+          "source": "Digital Commerce 360",
+          "author": "Brian Warmoth",
+          "url": "https://www.digitalcommerce360.com/2026/08/05/kohls-google-gemini-ai-assistant-back-to-school-shopping/",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Kohl’s unveiled its latest artificial intelligence (AI) tool, urging back-to-school shoppers to give the technology a try for school supplies recommendations and other use cases. The Kohl’s AI assistant, which was built using Google Cloud’s Gemini Enterprise for Customer Experience, according to the retailer, follows the retailer’s Mother’s Day Gift Finder as the company looks for new ways to integrate AI into its customer experience. Kohl’s Corp. is No. 25 in the Top 1000 Database. The market research tool tracks North America’s largest online retailers, ranking them by annual ecommerce sales and more.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "AI & Personalization",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 200912,
+          "ave": 1858.44
+        },
+        {
+          "id": "22c5w3",
+          "headline": "Walmart Accused Of Collecting Customers' Voiceprints",
+          "source": "Courthouse News Service",
+          "author": "Caitlyn Rosen",
+          "url": "https://www.courthousenews.com/walmart-accused-of-collecting-customers-voiceprints/",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "A group of shoppers say in a class action that retail giant Walmart is illegally collecting their biometrics. In a 15-page complaint, customers described how they’d periodically call the Walmart customer service line. Unbeknownst to them, however, Walmart creates a voiceprint or biometric identifier with an artificial intelligence system every time someone calls the customer service line. “Despite having her voiceprint taken, Defendant never informed [plaintiffs] of the specific limited purposes for which it collected, stored, or used her biometric identifier, other than to play the automatic message that her voice could be taken for business purposes, including fraud prevention,” the two lead plaintiffs write in the complaint.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 836595,
+          "ave": 7738.5
+        },
+        {
+          "id": "hkoyqc",
+          "headline": "Walmart Seeks End To Patent Legal ‘Campaign’ Over Pay Service",
+          "source": "Bloomberg Law",
+          "author": "Nino Paoli",
+          "url": "https://news.bloomberglaw.com/ip-law/walmart-seeks-end-to-patent-legal-campaign-over-pay-service",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Walmart Inc. has requested a declaratory judgment that its pay system doesn’t infringe another Q Technologies Inc. patent after previously invalidating three others. The “Walmart Pay” system doesn’t infringe US Patent No. 11,991,239, the retailer said in a complaint for declaratory judgment of non-infringement and invalidity filed Tuesday in the US District Court for the District of Delaware. Walmart Pay includes an associated server, smartphone-app, and point-of-sale-device functionality. The retailer brings the action “to put an end to Q Tech’s continuing campaign of patent assertions that lack merit,” it said.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 391267,
+          "ave": 3619.22
+        },
+        {
+          "id": "7bvx9z",
+          "headline": "Walmart Expands Drone Delivery Operations To Florida",
+          "source": "Independent",
+          "author": "Jasmine Fernandez",
+          "url": "https://www.the-independent.com/us/money/walmart-drone-delivery-trial-florida-b3028040.html",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Central Florida residents can now receive retail items in less than 30 minutes through a new drone delivery operation launched by Walmart and Alphabet-owned Wing in the Greater Orlando area. The service currently operates out of Walmart stores in Apopka and Clermont, reaching more than 50,000 homes, apartments and local businesses. “We measure success in minutes saved and life made a little easier in Central Florida,” Heather Rivera, Wing’s chief business officer, said in a company news release. “Whether it’s helping a family grab a quick lunch without loading everyone into the car, or delivering sunscreen to a visitor at their vacation rental, we want drone delivery to be a simple, seamless part of daily routines.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 201146,
+          "ave": 1860.6
+        },
+        {
+          "id": "cyzeyt",
+          "headline": "Walmart Shoppers Warned ‘Penny’ Rule Can Lead To Paying MORE At Checkout",
+          "source": "The Sun",
+          "author": "Charlotte Edwards",
+          "url": "https://www.the-sun.com/money/16796673/walmart-shoppers-warned-penny-rule-pay-more-checkout/",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "NEW rounding guidelines for cash transactions could see you paying more at the checkout. Whether you’re paying in cash at Walmart or another retailer, you may find that not having the exact change could be worse for your wallet. This is because The U.S. House of Representatives passed the Common Cents Act, which would allow optional cash rounding to the nearest nickel. The bill now heads to the Senate, where its future will be decided.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "g2w5gh",
+          "headline": "Walmart Customers Sue Over AI-Generated Voiceprints From Calls",
+          "source": "Bloomberg Law",
+          "author": "Christopher Brown",
+          "url": "https://news.bloomberglaw.com/artificial-intelligence/walmart-customers-sue-over-ai-generated-voiceprints-from-calls?utm_source=rss&utm_medium=AINW&utm_campaign=0000019f-d2c9-d57e-a9df-d6ed413b0000",
+          "section": "Brand News",
+          "date": "August 5 2026",
+          "iso": "2026-08-04",
+          "summary": "Two Illinois consumers sued Walmart Inc. for allegedly collecting their voiceprints using artificial intelligence through customer-service calls in violation of the Illinois Biometric Information Privacy Act. Carol Krupke and Jeanne Thomas filed the proposed class action claiming Walmart uses AI to create voice templates from customer calls for fraud prevention purposes but failed to obtain written consent as required under BIPA. Voiceprints are biometric identifiers as defined under the statute, the plaintiffs said in a complaint filed Tuesday in the US District Court for the Northern District of Illinois.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "AI & Personalization",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 391267,
+          "ave": 3619.22
+        },
+        {
+          "id": "ram674",
+          "headline": "A Popular Walmart Product Is Linked To One Death. Here’s What To Check",
+          "source": "Fast Company",
+          "author": "María José Gutiérrez Chávez",
+          "url": "https://www.fastcompany.com/91584966/a-popular-walmart-product-is-linked-to-one-death-heres-what-to-check",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Some of America’s largest retailers, including Walmart and Amazon, are recalling a popular winter product due to hundreds of injuries and the death of an 83-year-old woman in San Jose. The U.S. Consumer Product Safety Commission, alongside importer Shenzhen Street Cat Technology, has issued a recall for Ocoopa rechargeable hand warmers, which are powered by lithium-ion batteries. Rechargeable hand warmers operate as small battery-powered heating devices that convert energy from the battery into heat to help warm up users during the cold months.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart",
+            "Amazon"
+          ],
+          "reach": 462201,
+          "ave": 4275.36
+        },
+        {
+          "id": "7nnbu",
+          "headline": "Ahold Delhaize USA Remains An E-Commerce Powerhouse, But Reports Sluggish Sales Growth",
+          "source": "Grocery Dive",
+          "author": "Peyton Bigora",
+          "url": "https://www.grocerydive.com/news/ahold-delhaize-second-quarter-earnings-ecommerce-omnichannel/827073/",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Ahold Delhaize USA’s e-commerce performance remains a powerhouse, with the division reporting 14.5% growth in digital sales during the second quarter of fiscal 2026, marking its ninth consecutive quarter of double-digit growth, parent company Ahold Delhaize announced in its earnings report. However, like many U.S. grocers, ADUSA’s comparable-store sales performance sagged, recording a less than 1% increase due to the Inflation Reduction Act. ADUSA’s net sales increased 1.4% at constant exchange rates to just under 13 billion euros ($15 billion). Ahold Delhaize adjusted its 2026 outlook in part because of the Inflation Reduction Act’s impact on stateside pharmacy sales, noting that it anticipates the federal law will depress U.S. sales by approximately $450 million.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 158087,
+          "ave": 1462.3
+        },
+        {
+          "id": "uqhjrn",
+          "headline": "Walmart Customers Who Shopped On Website Eligible For Automatic Payout In $1m Privacy Settlement",
+          "source": "The Sun",
+          "author": "Charlotte Edwards",
+          "url": "https://www.the-sun.com/money/16797596/walmart-customers-eligible-payout-privacy-settlement/",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "WALMART and Sam’s Club have agreed to settle claims that they illegally shared the personal information of their customers. The supermarket giant allegedly shared customer information with third-party advertising companies without their consent. Los Angeles County officials announced earlier this week that Walmart was willing to settle these claims.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "ty78nt",
+          "headline": "Using AI To Modernize CX In Retail",
+          "source": "Retail Customer Experience",
+          "author": "Erol Ayvaz",
+          "url": "https://www.retailcustomerexperience.com/blogs/using-ai-to-modernize-cx-in-retail/'",
+          "section": "AI Pulse",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "The retail sector is at a crossroads. At a time when products and prices can often be easily matched, it is increasingly the customer experience that sets brands apart. Research has shown that companies that prioritize customer experience see revenues typically grow 4% to 8% above competitors. Whether browsing in-store or online, modern consumers are increasingly demanding seamless, personalized retail experiences — not just transactions — at every touch point. To remain competitive, and build both customer loyalty and revenue, retailers must deliver an exceptional customer experience, and that means tailored, data-driven insights and proactive action when things go wrong. And that's where AI is offering some serious potential for retailers.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "AI & Personalization",
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 265135,
+          "ave": 2452.5
+        },
+        {
+          "id": "70ctkg",
+          "headline": "Why Consumers Are Frustrated With AI And What Retailers Can Do About It",
+          "source": "Forbes",
+          "author": "Sharon Edelson",
+          "url": "https://www.forbes.com/sites/sharonedelson/2026/08/05/why-consumers-are--frustrated-with-ai-and-what-retailers-can-do-about-it/",
+          "section": "AI Pulse",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Consumer frustration with AI is growing. Mailboxes bloated with unrequested offers, full-throated pitches and botched bot sessions are leading to annoyance, and, in some cases, uncompleted purchase attempts – even a loss of faith in retailers and brands. This disillusionment, exacerbated by economic uncertainty, is making consumers more pragmatic and risk-averse. They’re abandoning aspirational purchases in exchange for defensive decision-making and searching for the lowest-prices, according to Alter Agents and Liveops.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "AI & Personalization",
+            "Pricing & Consumer"
+          ],
+          "brands": [],
+          "reach": 15044999,
+          "ave": 139166.24
+        },
+        {
+          "id": "pf41m8",
+          "headline": "Shopify Credits AI for 34% Revenue Growth in Q2 2026",
+          "source": "Retail TouchPoints",
+          "author": "Kate Robertson",
+          "url": "https://www.retailtouchpoints.com/news/shopify-credits-ai-for-34-revenue-growth-in-q2-2026/620805/",
+          "section": "AI Pulse",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "\"Shopify is probably the most AI-pilled company in the world,\" said Shopify President Harley Finkelstein on the company's second-quarter earnings call. Shopify reported another quarter of accelerated growth in the second quarter of 2026, and executives attributed a meaningful share of that momentum to artificial intelligence. Revenue climbed 34% to $3.6 billion, and GAAP net income increased to $1.5 billion in the second quarter of 2026, which ended June 30, up from $906 million a year prior. Gross merchandise volume rose 32% to $116 billion and free cash flow margin reached 18% in the quarter.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI & Personalization",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 489861,
+          "ave": 4531.21
+        },
+        {
+          "id": "bssysg",
+          "headline": "This Chinese Chain Beat Dick’s And Costco To Become The Fastest-Growing Retailer In The U.S.",
+          "source": "Forbes",
+          "author": "Ty Roush",
+          "url": "https://www.forbes.com/sites/tylerroush/2026/08/05/this-chinese-chain-beat-dicks-and-costco-to-become-the-fastest-growing-retailer-in-the-us/",
+          "section": "Industry News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "The NRF ranked Miniso as its fastest-growing retailer after the Chinese firm posted roughly 53% sales growth in the U.S., totaling $466 million in domestic revenue, beating out Dick’s Sporting Goods, which ranked second with 49% sales growth after reporting a boost in revenue to $13.6 billion, up from $20.2 billion. Miniso appeared on the list for the first time along with eight other retailers, including Dick’s, AT&T, Verizon, Casey’s General Store, Ulta Beauty, RH and J.Crew. Miniso—which has risen in popularity because of viral blind boxes and partnerships with Minecraft and My Little Pony, among other brands—claimed the top spot thanks to success from affordable lifestyle products, an “emphasis on discovery-driven shopping experiences” and continued expansion in the U.S., according to the NRF.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Costco"
+          ],
+          "reach": 15044999,
+          "ave": 139166.24
+        },
+        {
+          "id": "2pnfhv",
+          "headline": "Walmart, Meijer Back-To-School Sales Help Parents Save On Supplies, Food",
+          "source": "IndyStar",
+          "author": "Cheryl V. Jackson",
+          "url": "https://www.indystar.com/story/shopping/2026/08/06/back-to-school-spending-walmart-sales-delas-meijer-staples/91147400007/",
+          "section": "Industry News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Retailers are counting on items priced as low as 25 cents to help lure back-to-school shoppers to stores this year. Families with students in elementary through high school plan to spend an average of $863.86 on items this year, up slightly from $858.07 in 2025, according to the National Retail Federation. “We always treat it like it's a major holiday, like a summer holiday, for us,” said Ryan Day, manager of the Walmart Supercenter in Carmel.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 181068,
+          "ave": 1674.88
+        },
+        {
+          "id": "76qiab",
+          "headline": "Murphy USA Inc. Reports Second Quarter 2026 Results",
+          "source": "Financial Times",
+          "author": "",
+          "url": "https://markets.ft.com/data/announce/detail?dockey=600-202608051631BIZWIRE_USPRX____20260805_BW134461-1",
+          "section": "Industry News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Murphy USA Inc., a leading marketer of retail motor fuel products and convenience merchandise, today announced financial results for the three and six months ended June 30, 2026. Net income was $209.1 million, or $11.27 per diluted share, in Q2 2026 compared to net income of $145.6 million, or $7.36 per diluted share, in Q2 2025. Total fuel contribution for Q2 2026 was 40.6 cpg, compared to 32.0 cpg in Q2 2025. Total retail gallons increased 3.9%, and volumes on a same store sales (\"SSS\") basis increased 0.5%, in Q2 2026 compared to Q2 2025.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 21414033,
+          "ave": 198079.81
+        },
+        {
+          "id": "flollq",
+          "headline": "Amazon Is Becoming A More Competitive Force In Grocery",
+          "source": "IGD",
+          "author": "",
+          "url": "https://www.igd.com/commercial-insight/retail-analysis/trends/articles/amazon-is-becoming-a-more-competitive-force-in-grocery/73830",
+          "section": "Industry News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Understand how Amazon’s growing competitiveness in grocery is being driven by a single strategic shift: its same-day perishables offer. Amazon’s growing competitiveness in grocery is being driven by a single strategic shift: the launch and rapid expansion of its same‑day perishables offer. What began as a series of experiments has now become, in CEO Andy Jassy’s words, “a real needle mover,” reshaping Amazon’s stores business and winning more grocery spending away from traditional supermarkets. Perishables are now central to Amazon’s retail strategy, and they are accelerating growth across the wider ecosystem.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Amazon"
+          ],
+          "reach": 112422,
+          "ave": 1039.9
         }
       ]
     }
