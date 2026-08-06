@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "qsr",
-  "_savedAt": "2026-08-05T12:48:32.846Z",
-  "_dayCount": 16,
+  "_savedAt": "2026-08-06T11:43:11.456Z",
+  "_dayCount": 17,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:45.173Z",
@@ -5534,6 +5534,309 @@
           "brands": [],
           "reach": 412924,
           "ave": 3819.55
+        }
+      ]
+    },
+    "2026-08-06": {
+      "uploadedAt": "2026-08-06T11:42:59.729Z",
+      "filename": "InfoVision_QSR_Media_Briefing_2026-08-6.docx",
+      "articles": [
+        {
+          "id": "a14j2a",
+          "headline": "Salmonella Outbreak Linked To Jalapeños Expands To 27 States",
+          "source": "NBC News",
+          "author": "Berkeley Lovelace Jr. and Lauren Dunn",
+          "url": "https://www.nbcnews.com/health/health-news/salmonella-outbreak-jalapenos-chipotle-qdoba-rcna591032",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Federal health officials are investigating a salmonella outbreak tied to jalapeños that has sickened 345 people in 27 states, the Centers for Disease Control and Prevention said Wednesday. The jalapeños were supplied by California-based Coast Citrus Distributors and sourced from Mexico, the CDC said. They were served at Chipotle, Qdoba and other restaurants. Chipotle said Tuesday that it had removed jalapeños from its menu “out of an abundance of caution.” On Wednesday, Qdoba said it had “proactively removed jalapeños from all our restaurants.”",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chipotle"
+          ],
+          "reach": 8916188,
+          "ave": 82474.74
+        },
+        {
+          "id": "np24lv",
+          "headline": "Chipotle Says Annual Targets Do Not Include Impact Of Minnesota Salmonella Outbreak",
+          "source": "Reuters",
+          "author": "Juveria Tabassum",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/chipotle-says-annual-targets-do-not-include-impact-minnesota-salmonella-outbreak-2026-08-05/",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Chipotle Mexican Grill said on Wednesday its annual targets shared last week did not include the financial impact from the salmonella ​outbreak in Minnesota, which resulted in the burrito chain ‌pulling jalepenos at some of its restaurants. The Minnesota Department of Health said on Tuesday it had identified 110 salmonella outbreak-related cases in the ​state, with 75 of 84 people interviewed reporting eating at ​Chipotle between June 14 and July 14. Also on Tuesday, ⁠Chipotle said it had begun tracing ingredients through its supply chain ​after learning of the potential salmonella outbreak.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Chipotle"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "rl5ud1",
+          "headline": "Wendy’s Store Closures 2026: Fast-Food Chain Update On Long List Of Locations Shuttered In Turnaround Plan",
+          "source": "FastCompany",
+          "author": "Jennifer Mattson",
+          "url": "https://www.fastcompany.com/91539224/wendys-closing-stores-2026-update-list-locations-shuttered-fast-food-store-closures",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Wendy’s shares rose on Friday after the fast-food giant reported stronger-than-expected quarterly earnings, beating analyst estimates despite poor U.S. store performance, with U.S. same-restaurant sales falling 7.8%. That slow but steady growth reflects the burger chain’s effort to turn around sales by shedding low-performing American restaurants and improving menu quality. The plan comes amid an overall decline in fast-food store traffic, as American consumers grapple with higher prices and the cost of food and living soars. “We are in the early innings of our turnaround,” Ken Cook, Wendy’s CFO and interim CEO, told analysts on Friday’s earnings call.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 284063,
+          "ave": 2627.58
+        },
+        {
+          "id": "eb6vuk",
+          "headline": "Everything You Need To Know About KFC’s New Ted Lasso Deal",
+          "source": "Sporked",
+          "author": "Jay Wilson",
+          "url": "https://sporked.com/article/kfc-ted-lasso-deal/",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Ted Lasso is coming back. In fact, Ted Lasso IS back. The first episode of the fourth season of this blockbuster show drops today on Apple TV, and you may well have heard about it. The build-up to Ted Lasso’s apparent last season (after LAST season was meant to be its last season, but there was more story to tell, people!) has been punctuated not just by press appointments with the cast, but with food tie-ins. A few weeks ago, Jeni’s ice cream released a Ted Lasso flavor – and now, KFC’s getting involved, with a deal of its own. In honor of the underdog feel that permeates the show, and the comeback both of AFC Richmond and of the series itself, KFC is releasing its “Comeback Bucket.”",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 267830,
+          "ave": 2477.43
+        },
+        {
+          "id": "eqg9mj",
+          "headline": "This Chicken Item Is The Worst Side On Burger King's Permanent Menu",
+          "source": "TastingTable",
+          "author": "Autumn Swiers",
+          "url": "https://www.tastingtable.com/2223352/worst-burger-king-side-chicken-fries/",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Hitting the drive-thru? Our ultimate Burger King ordering hack is \"skip the chicken fries.\" In Tasting Table's ranking of eight Burger King sides, the chicken fries landed in sixth place, making them the lowest-rated option on the chain's permanent menu. The crispy tacos and cheddar ranch tots ranked even lower, but luckily, these back-of-the-pack sides are available for a limited time only. As for BK's disappointing chicken fries, we're scratching our heads as to why they landed a tenure spot. The appeal of Burger King's chicken fries relies heavily on novelty. Breaded chicken strips shaped like French fries offer a playful concept. They're also easily dippable — and, indeed, a generous dunk in sauce is pretty much the only way to make these dried-out sticks palatable, according to our taste-test.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 238758,
+          "ave": 2208.51
+        },
+        {
+          "id": "fzrhpu",
+          "headline": "Taco Bell Knew About Parasite Weeks Before Formal Action: Report",
+          "source": "Patch",
+          "author": "Anna Schier",
+          "url": "https://patch.com/illinois/across-il/taco-bell-knew-parasite-sickened-hundreds-il-weeks-formal-action-report",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Health officials in Michigan were in contact with Taco Bell’s parent company about the sweeping Cyclospora outbreak that sickened thousands weeks before the company formally alerted consumers, according to a Bloomberg story published this week by multiple news outlets. Parasitic illness cases in 15 states have been linked to iceberg lettuce, U.S. health authorities said Wednesday. Investigators initially narrowed in on lettuce served at Taco Bell, with federal officials subsequently saying they were focused on Taylor Farms as the source of the lettuce in the outbreak, with that company recalling iceberg lettuce grown in central Mexico.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 426056,
+          "ave": 3941.02
+        },
+        {
+          "id": "qzffi5",
+          "headline": "Wendy’s Fall Menu Brings Back Pretzel Bacon Pub Cheeseburger",
+          "source": "Wilson County Source",
+          "author": "Michael Carpenter",
+          "url": "https://wilsoncountysource.com/wendys-fall-menu-brings-back-pretzel-bacon-pub-cheeseburger/",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Wendy’s is bringing back the Pretzel Bacon Pub Cheeseburger starting August 3, 2026, after fans voted for its return in the chain’s Bring it Back bracket earlier this year. The returning sandwich is joined by two new Pretzel Bacon Pub additions and the all-new Apple Crumble Frosty Fusion, rounding out Wendy’s limited-time fall lineup. The Pretzel Bacon Pub Cheeseburger features Wendy’s fresh, never-frozen quarter-pound beef patty topped with Beer Cheese Sauce, Applewood-smoked Bacon, Smoky Honey Mustard, Crispy Onions, Pickles, and Muenster Cheese, all on a soft pretzel bun.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [],
+          "reach": 242409,
+          "ave": 2242.28
+        },
+        {
+          "id": "9n8w9p",
+          "headline": "Toast Aims To Drive AI Into Dining",
+          "source": "Payments Dive",
+          "author": "Justin Bachman",
+          "url": "https://www.paymentsdive.com/news/toast-aims-to-drive-ai-into-dining/827052/",
+          "section": "AI Pulse",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Toast, the restaurant software and payments firm, is working to capture more business from time-strapped customers by using artificial intelligence tools to assume more of a restaurateur’s workflows. Toast’s first AI-enabled workflow product – a digital marketing tool called Toast IQ Grow – is poised to become the company’s fastest-growing product, with executives expecting it to generate $10 million in annual revenue since its May introduction, co-founder and CEO Aman Narang said Tuesday on a quarterly earnings call with analysts. He didn’t specify when the product would reach that sales level. Many Toast customers are unable to leverage the company’s various offerings, and often outsource major functions such as marketing, payroll and bookkeeping, Narang said. Toast believes that AI will allow it to take on more of a restaurant’s work, he said.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Digital & Ordering",
+            "AI & Automation"
+          ],
+          "brands": [],
+          "reach": 58553,
+          "ave": 541.62
+        },
+        {
+          "id": "4ld6i",
+          "headline": "The Restaurant Tech Fix That Saves Time, Money, And Headaches",
+          "source": "Business Insider",
+          "author": "",
+          "url": "https://www.businessinsider.com/sc/hotschedules-streamlines-restaurant-workforce-management-tools",
+          "section": "AI Pulse",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "The biggest expense for most restaurants isn't food costs, rent or mortgage costs, or overheads like utilities or insurance. For most restaurants in America, regardless of size, the biggest expense is labor. The better a restaurant can manage labor costs, the more profit the operation stands to generate. And yet restaurant operators frequently bemoan the tech sprawl of separate digital platforms for hiring, scheduling, payroll, inventory, and more. A single scheduling and team management platform, like HotSchedules, can reduce those losses by helping with hiring, shift scheduling, cost forecasting, attendance tracking, and more. All of it is assisted by AI, driven by humans, with the ultimate goals of satisfied customers, engaged employees, and increased profitability.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Digital & Ordering",
+            "Sustainability & Labor"
+          ],
+          "brands": [],
+          "reach": 12885674,
+          "ave": 119192.48
+        },
+        {
+          "id": "yjdqli",
+          "headline": "McDonald’s Journey To 50,000 Restaurants Will Take A Bit Longer",
+          "source": "Nation’s Restaurant News",
+          "author": "Jonathan Maze",
+          "url": "https://www.nrn.com/restaurant-finance/mcdonald-s-journey-to-50-000-restaurants-will-take-a-bit-longer",
+          "section": "Industry News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "McDonald’s over the past three years has embarked on the most ambitious expansion effort in company history, all in a bid to get to 50,000 global locations by 2027. The economy has had a thing or two to say about that, however. The fast-food giant now expects to reach that mark by 2028, executives said this week. That still represents massive expansion. The company finished 2025 with just over 45,000 global restaurants, including 13,706 in the U.S. So that will represent just over 5,000 locations over the next two-plus years.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [
+            "McDonald's"
+          ],
+          "reach": 618551,
+          "ave": 5721.6
+        },
+        {
+          "id": "6bdd5f",
+          "headline": "27 Restaurant Executives On The Move In July, Including New CEOs At Cracker Barrel And True Food Kitchen",
+          "source": "Nation’s Restaurant News",
+          "author": "Leigh Anne Zinsmeister",
+          "url": "https://www.nrn.com/restaurant-executives/27-restaurant-executives-on-the-move-in-july-including-new-ceos-at-cracker-barrel-and-true-food-kitchen",
+          "section": "Industry News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "It’s shaping up to be a busy month for restaurant C-suites, with 27 executives in the industry taking on new roles last month, including six each in marketing and operations functions. P.F. Chang’s is designing a marketing team focused on social media, including a new director of marketing communications role, which it has now filled via promotion. A fast-casual veteran has moved over to Starbird as it expands. Pollo Campero hired a VP of marketing to focus on U.S. Hispanic consumers. Ziggi’s, Amazing Brands, and Firebirds Wood Fired Grill also have new marketing execs. On the operations side, Fresh Kitchen has added an SVP as well as a development officer; PopUp Bagels appointed a COO; KFC Global has a new COO; and there are also new appointees at Denny’s, Newk’s Eatery, and Uncommon Brands.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 618551,
+          "ave": 5721.6
+        },
+        {
+          "id": "wm4jxd",
+          "headline": "QSR Evolution Conference Expands With Debut Of ‘Startup Alley,’ Spotlighting Next-Gen Tech And Culinary Disrupters",
+          "source": "QSR Magazine",
+          "author": "",
+          "url": "https://www.qsrmagazine.com/story/qsr-evolution-conference-expands-with-debut-of-startup-alley-spotlighting-next-gen-tech-and-culinary-disrupters/",
+          "section": "Industry News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "The QSR Evolution Conference, the only event of its kind focused exclusively on the needs of quick-service restaurant operators, executives, and leaders, is officially expanding its footprint. Event organizers announced the launch of Startup Alley, a brand-new, dedicated exhibition space designed to highlight the rising stars and disruptive forces reshaping the fast-food and fast-casual landscapes. As the industry faces a rapidly shifting landscape driven by automation, evolving consumer habits, and AI-driven tech, Startup Alley will serve as a launchpad for early stage companies offering groundbreaking solutions in restaurant technology, supply chain efficiency, guest engagement, and culinary innovation.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "AI & Automation",
+            "Expansion & Store"
+          ],
+          "brands": [],
+          "reach": 68484,
+          "ave": 633.48
+        },
+        {
+          "id": "14ts9t",
+          "headline": "This Restaurant Is In Higher Demand In The US Than Any Other, Report Says",
+          "source": "Food & Wine",
+          "author": "Nicolette Baker",
+          "url": "https://www.foodandwine.com/most-in-demand-restaurant-in-america-12022405",
+          "section": "Industry News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Kebab restaurants have the highest search interest compared to number of restaurants in the United States, outperforming French, Greek, steak house, and diner categories in a new analysis of Google search data. The report suggests Americans are seeking a wider range of cuisines, with Korean, Indian, Chinese, Mexican, and Greek restaurants also ranking among the most searched categories relative to availability. The analysis compared Google search volume with the number of existing restaurants nationwide and in major cities to identify cuisines with the largest gap between consumer search interest and restaurant availability, reflecting search interest rather than actual dining behavior.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 296421,
+          "ave": 2741.89
+        },
+        {
+          "id": "tj7i4k",
+          "headline": "America’s Second-Largest Burger Chain Disappeared Forever",
+          "source": "Men’s Journal",
+          "author": "Paolo Songco",
+          "url": "https://www.mensjournal.com/news/americas-second-largest-burger-chain-disappeared-forever",
+          "section": "Industry News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Burger Chef started in Indianapolis in 1958, founded by brothers Donald and Frank Thomas. The chain originally launched to showcase equipment made by their parent company, General Equipment. Its signature flame broiler gave burgers a smoky, grilled taste that stood out from competitors. By 1971, Burger Chef had grown to more than 1,200 locations, trailing only McDonald’s nationwide. General Foods bought the chain in 1968 and pushed further expansion, including into Australia. The international effort ultimately lost significant money for the company.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "McDonald's"
+          ],
+          "reach": 55015,
+          "ave": 508.89
         }
       ]
     }
