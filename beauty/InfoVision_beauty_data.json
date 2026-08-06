@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "beauty",
-  "_savedAt": "2026-08-05T12:47:06.865Z",
-  "_dayCount": 16,
+  "_savedAt": "2026-08-06T11:42:00.440Z",
+  "_dayCount": 17,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:16.350Z",
@@ -3200,6 +3200,263 @@
           "brands": [],
           "reach": 301756,
           "ave": 2791.24
+        }
+      ]
+    },
+    "2026-08-06": {
+      "uploadedAt": "2026-08-06T11:41:48.617Z",
+      "filename": "InfoVision_Beauty_Media_Briefing_2026-08-06.docx",
+      "articles": [
+        {
+          "id": "i9oyhz",
+          "headline": "Chanel Sales Jump 16% In First Half",
+          "source": "Bloomberg",
+          "author": "",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-05/chanel-sales-jump-16-in-first-half-video",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Chanel’s sales rose by double digits in the first half, beating luxury rivals including LVMH. This growth was boosted by the popular new collections from designer Matthieu Blazy. Bloomberg's Angelina Rascouet breaks down the latest figures.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Prestige vs Mass"
+          ],
+          "brands": [
+            "Chanel"
+          ],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "z3q4uo",
+          "headline": "Rahquel Purcell Named Chief Diversity, Equity And Inclusion Officer Of L’Oréal, North America",
+          "source": "WWD",
+          "author": "Kaleigh Werner",
+          "url": "https://wwd.com/beauty-industry-news/beauty-features/loreal-rahquel-purcell-appointment-1239094522/",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "L’Oréal has appointed a new chief diversity, equity and inclusion officer for its North America division. Rahquel Purcell will assume the role right away and report directly to Alexis Perakis-Valat, chief executive officer of L’Oréal USA and president of L’Oréal North America. The executive will keep her post on the leadership team of Margaret Johnston-Clarke, L’Oréal’s global diversity, equity and inclusion officer, as well as her seat on the management committee of L’Oréal USA.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 126372,
+          "ave": 1168.94
+        },
+        {
+          "id": "qw3uwz",
+          "headline": "Ulta Beauty In Yonkers Debuts New York's First Robot Manicure System",
+          "source": "Lohud",
+          "author": "John Meore",
+          "url": "https://www.lohud.com/videos/money/business/2026/08/05/ulta-beauty-in-yonkers-debuts-new-yorks-first-robot-manicure-system/91126320007/",
+          "section": "Brand News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Yonkers is now home to New York’s first robotic manicure system, allowing customers to receive automated nail services in less than an hour.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution"
+          ],
+          "brands": [
+            "Ulta Beauty"
+          ],
+          "reach": 738068,
+          "ave": 6827.13
+        },
+        {
+          "id": "ku51fr",
+          "headline": "Paper Packaging Sourcing: L’Oréal Makes Move With Canopy",
+          "source": "Green Retail",
+          "author": "Ben Sillitoe",
+          "url": "https://greenretail.world/2026/08/06/paper-packaging-sourcing-loreal-makes-move-with-canopy/",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Beauty group L’Oréal has added its voice and industry leadership to the move towards more sustainable paper packaging by joining non-governmental organisation (NGO) Canopy’s Pack4Good programme. Pack4Good brings together brands committed to eliminating the risk of deforestation and forest degradation in their paper packaging, including impacts on ancient and endangered forests. Those signed up to the initiative are contributing to collective efforts to build supply chains that are more transparent, lower risk, and aligned with forest conservation.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 125472,
+          "ave": 1160.62
+        },
+        {
+          "id": "x3ualt",
+          "headline": "New AI-Powered Clinical Software Can Fast-Forward Skin Research",
+          "source": "American Spa",
+          "author": "",
+          "url": "https://www.americanspa.com/technology/new-ai-powered-clinical-software-can-fast-forward-skin-research",
+          "section": "AI Pulse",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "An AI company focused on skin science has launched a research platform designed to make clinical skin studies faster to set up, easier to manage, and more practical to conduct on a much larger scale that has traditionally been possible. Instead of relying solely on traditional in-person studies that are expensive, time-consuming, and limited in size, Haut.AI’s Clinical Studies Software lets researchers run large-scale clinical studies in clinics, remotely from participants' homes, or a combination of both. “Our goal is not to replace clinical studies,” says Haut.AI’s CEO and co-founder, Anastasia Georgievskaya. “It's to enhance them by making skin measurable at scale.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "AI Beauty Tech"
+          ],
+          "brands": [],
+          "reach": 467780,
+          "ave": 4326.97
+        },
+        {
+          "id": "s83qu0",
+          "headline": "The Human Moat: Beauty And Wellness Businesses Investors Believe Will Win The AI Revolution",
+          "source": "Beauty Independent",
+          "author": "Rachel Brown",
+          "url": "https://www.beautyindependent.com/human-moat-beauty-wellness-businesses-investors-believe-win-ai-revolution/",
+          "section": "AI Pulse",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Some humans seem to have had it with artificial intelligence. From graduates booing AI mentions in commencement speeches to anxiety over job displacement and political opposition to data centers being built by AI companies, countercurrents are emerging alongside AI’s proliferation into practically every corner of life. Many beauty and wellness companies have embraced AI enthusiastically. L’Oréal recently announced a partnership with OpenAI to strengthen the company’s presence on ChatGPT and bring virtual makeup try-on to the platform. Sephora has launched an AI shopping assistant and integrated its services into ChatGPT, while Ulta Beauty has expanded its use of generative AI for personalization and product recommendations. Across the industry, companies are deploying AI for everything from formulation and trend forecasting to customer service and marketing.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "AI Beauty Tech",
+            "Marketing & Influence"
+          ],
+          "brands": [
+            "L'Oréal",
+            "Ulta Beauty",
+            "Sephora"
+          ],
+          "reach": 151990,
+          "ave": 1405.91
+        },
+        {
+          "id": "y3wci3",
+          "headline": "‘So Destructive’: Women Are Paying For Face Scans That Tell Them What Cosmetic Procedures To Get",
+          "source": "The Guardian",
+          "author": "Laura O’Connor",
+          "url": "https://www.theguardian.com/fashion/ng-interactive/2026/aug/05/facial-analysis-scans-qoves-epica-looksmaxxing",
+          "section": "AI Pulse",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Danielle, 37, didn’t always have issues with body image: she used to be a model and recalls receiving positive attention from men. However, when two years of unemployment plunged her into a period of financial insecurity, her confidence faded. “It was easy to wonder, if I was prettier, if some of my features were different, would that help?” she said. So, when Danielle saw videos on TikTok about a “facial analysis” service that claimed it could provide her with “science-backed” glow-up advice, she bought it without hesitation. Three-hundred and thirty dollars later, after sending in selfies to be analyzed, Danielle received her personalized 30-page report from the company Qoves.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Marketing & Influence"
+          ],
+          "brands": [],
+          "reach": 446656,
+          "ave": 4131.57
+        },
+        {
+          "id": "5n8arq",
+          "headline": "Sephora And Olive Young Reveal Brand Lineup For Partnership",
+          "source": "WWD",
+          "author": "Kathryn Hopkins",
+          "url": "https://wwd.com/beauty-industry-news/beauty-features/sephora-olive-young-reveal-brand-lineup-partnership-1239091767/",
+          "section": "Industry News",
+          "date": "August 4, 2026",
+          "iso": "2026-08-03",
+          "summary": "Many months in the making, Sephora and Olive Young are ready to show off their partnership. Launching Aug. 20, the joint venture brings 19 Olive Young-curated Korean beauty brands to 500 Sephora stores in the U.S. and sephora.com, with expansion planned across key global markets. The participating brands include Cell Fusion C, Rejuran, Thome, Wellage and Whipped, among others. Prices range from $4 to $69 for skin care and up to $299 for devices.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution"
+          ],
+          "brands": [
+            "Sephora"
+          ],
+          "reach": 126372,
+          "ave": 1168.94
+        },
+        {
+          "id": "hvnfc6",
+          "headline": "Black Beauty Brands Are Reclaiming The Block Party",
+          "source": "Byrdie",
+          "author": "Bianca Lambert",
+          "url": "https://www.byrdie.com/beauty-block-parties-12007180",
+          "section": "Industry News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "My first experience with a block party was the Atlanta Black Arts Festival. My parents bought me my first piece of artwork, a hand-drawn black-and-white sketch of a Black ballerina, in 1992. It’s hanging on the wall in my home today. This event became a core memory for me. So much so that 34 years later, I can also remember the music ringing through Piedmont Park, the smell of food wafting in the air, and, of course, the overwhelming feeling of a community experience all those years ago. So to see the emergence over the last year of Black-founded beauty brands like The Black Beauty Club, Lab Beauty, Oui the People, and Sliq hosting block parties, it feels familiar and necessary at a time when many of us are craving one-to-one time with other people who look like us.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 505637,
+          "ave": 4677.14
+        },
+        {
+          "id": "qrwl5a",
+          "headline": "Experts Identify 'Blind Spot' In Global Regulation Of Lip Cosmetics",
+          "source": "Medical Xpress",
+          "author": "Sadie Harley",
+          "url": "https://medicalxpress.com/news/2026-08-experts-global-lip-cosmetics.html#google_vignette",
+          "section": "Industry News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Two international critical reviews of the testing and legal framework for lip cosmetic products have identified significant blind spots in ingestion rate data, tissue testing types and ingredients used in products. Lip cosmetics, including lipsticks, glosses, balms, oils, masks and stains, are classified as topical cosmetics for external use only. In practice, these products are routinely ingested and absorbed through lip tissue, resulting in a dual-pathway exposure route that existing frameworks were never designed to assess.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Markets & Regulation"
+          ],
+          "brands": [],
+          "reach": 835910,
+          "ave": 7732.17
+        },
+        {
+          "id": "byf543",
+          "headline": "How Korean Beauty Made It To D-FW",
+          "source": "The Dallas Morning News",
+          "author": "Katie Guenthner",
+          "url": "https://www.dallasnews.com/business/retail/article/korean-beauty-made-d-fw-22343122.php",
+          "section": "Industry News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "The craze for Korean skincare hasn’t just arrived in Dallas, it’s been here. From spas to trending brands to specialized facials, Korean beauty is growing in the U.S. and in North Texas. Instagram and TikTok feeds fill users' screens with images of women with glassy, poreless and radiant skin — all using lotions and creams with ingredients from across the Pacific.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Marketing & Influence",
+            "Markets & Regulation"
+          ],
+          "brands": [],
+          "reach": 267183,
+          "ave": 2471.44
+        },
+        {
+          "id": "xb3db8",
+          "headline": "Reddit Releases The People’s Beauty Index",
+          "source": "Beauty Packaging",
+          "author": "Rachel Klemovitch",
+          "url": "https://www.beautypackaging.com/breaking-news/reddit-releases-the-peoples-beauty-index/",
+          "section": "Industry News",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Reddit debuted its first-ever beauty report, distilling a year of authentic community conversations to reveal where beauty culture is headed next. Beauty is moving away from prescriptive, top-down trends toward a culture of participation. On Reddit, people are trading perfection for real, collaborative discovery and prioritizing participation over prescription to define beauty on their own terms.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch"
+          ],
+          "brands": [],
+          "reach": 652991,
+          "ave": 6040.17
         }
       ]
     }
