@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "pharma",
-  "_savedAt": "2026-08-06T11:42:42.006Z",
-  "_dayCount": 17,
+  "_savedAt": "2026-08-07T11:59:49.929Z",
+  "_dayCount": 18,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:09.000Z",
@@ -6631,6 +6631,252 @@
           "brands": [],
           "reach": 851786,
           "ave": 7879.02
+        }
+      ]
+    },
+    "2026-08-07": {
+      "uploadedAt": "2026-08-07T11:59:42.121Z",
+      "filename": "InfoVision_Pharma_Media_Briefing_2026-08-7.docx",
+      "articles": [
+        {
+          "id": "o3o6rz",
+          "headline": "US FDA Approves Replimune's Skin Cancer Drug After Prior Rejections",
+          "source": "Reuters",
+          "author": "Sneha S K and Kamal Choudhury",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-replimunes-skin-cancer-drug-2026-08-06/",
+          "section": "Brand News",
+          "date": "August 7, 2026",
+          "iso": "2026-08-06",
+          "summary": "The U.S. Food and Drug Administration has approved Replimune's drug for a difficult-to-treat form ​of skin cancer, the company said on Thursday, giving the biotech firm ‌its first marketed product after multiple regulatory setbacks. Replimune was seeking accelerated approval for RP1, now known as Tudriqev, in combination with Bristol Myers Squibb's immunotherapy, Opdivo, in advanced melanoma in patients ​whose tumors grew despite prior treatment.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "e9dcab",
+          "headline": "Lilly, Novo Defeat Antitrust Lawsuit Over GLP‑1 Drug Market",
+          "source": "Reuters",
+          "author": "Mike Scarcella",
+          "url": "https://www.reuters.com/legal/litigation/lilly-novo-defeat-antitrust-lawsuit-over-glp1-drug-market-2026-08-06/",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Eli Lilly and Novo Nordisk have persuaded a U.S. federal judge to dismiss a lawsuit by a compound drug maker that accused the pharmaceutical giants of ​illegally blocking access to customized versions of their blockbuster weight-loss medicines. Lilly, in a statement, said “this meritless claim should have never been brought against Lilly” and that the court’s ​ruling “confirms that companies mass compounding tirzepatide are violating the law.” Novo, in ​a statement, said ⁠it is “pleased with the court's decision to dismiss all claims against Novo Nordisk” and that the company remains focused on its mission.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Regulatory & Approvals"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "z5qrrc",
+          "headline": "The Divide Between Eli Lilly And Novo Nordisk Is Widening After Their Latest Earnings",
+          "source": "CNBC",
+          "author": "Annika Kim Constantino",
+          "url": "https://www.cnbc.com/2026/08/06/eli-lilly-novo-nordisk-earnings-glp1-market.html",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Both Eli Lilly and Novo Nordisk beat second-quarter estimates and raised their full-year outlooks. But while investors cheered Lilly’s results, they punished Novo a day earlier — underscoring a growing divide in Wall Street’s confidence in the two obesity drug giants. As Lilly widens its lead in the obesity drug space, Novo is still racing to win back market share, restore investor confidence in its pipeline and chart a clear path toward long-term growth.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "M&A / Markets",
+            "Pipeline & R&D"
+          ],
+          "brands": [
+            "Eli Lilly"
+          ],
+          "reach": 313068,
+          "ave": 2895.88
+        },
+        {
+          "id": "pq1178",
+          "headline": "Johnson & Johnson Is Spending $1 Billion To Make More Contact Lenses. Medicare Covers Them In Only One Narrow Situation.",
+          "source": "24/7 Wall St.",
+          "author": "Annika Kim Constantino",
+          "url": "https://247wallst.com/personal-finance/2026/08/06/johnson-johnson-is-spending-1-billion-to-make-more-contact-lenses-medicare-covers-them-in-only-one-narrow-situation/",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Original Medicare covers contact lenses only after cataract surgery, leaving routine exam, fitting, and lens costs entirely out-of-pocket for retirees. JNJ is investing $1 billion to expand ACUVUE contact lens manufacturing in Jacksonville, Florida, as part of a broader $55 billion U.S. initiative. Medicare Advantage plans often include modest vision allowances for contacts, but Medigap supplements add no routine vision benefits whatsoever.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 285555,
+          "ave": 2641.38
+        },
+        {
+          "id": "2kf738",
+          "headline": "Medicare Quietly Gave Blockbuster AbbVie Drug Seven Extra Years Before Price Negotiations, Advocacy Group Asserts",
+          "source": "STATNews",
+          "author": "Ed Silverman",
+          "url": "https://www.statnews.com/pharmalot/2026/08/06/medicare-gave-blockbuster-abbvie-drug-seven-extra-years-before-price-negotiations/",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "A little-noticed policy shift by Medicare caused a seven-year delay in choosing a costly AbbVie medicine for price negotiations, a move likely to hurt taxpayers, according to an analysis by a consumer advocacy group. The change occurred as the Centers for Medicare and Medicaid Services readied a new round of talks with drugmakers over prices that the agency would pay for a limited number of medicines. The process was created by the Inflation Reduction Act, which became law in 2022 in response to the rising cost of prescription drugs.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 570055,
+          "ave": 5273.01
+        },
+        {
+          "id": "taao02",
+          "headline": "How Insilico Medicine Is Using AI To Reinvent Drug Discovery",
+          "source": "Forbes",
+          "author": "Bernard Marr",
+          "url": "https://www.forbes.com/sites/bernardmarr/2026/08/07/how-insilico-medicine-is-using-ai-to-reinvent-drug-discovery/",
+          "section": "AI Pulse",
+          "date": "August 7, 2026",
+          "iso": "2026-08-06",
+          "summary": "Drug discovery has always been one of the slowest and most expensive games in business, often taking around a decade and more than $2 billion to bring a new treatment to market. Insilico Medicine believes generative AI can radically rewrite that equation. The company has already achieved something no one had done before, using AI from end to end to design a drug candidate that reached phase 2 clinical trials. Now it is tackling an even harder question. Can one remarkable breakthrough be turned into a repeatable system capable of producing new treatments at scale?",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Regulatory & Approvals",
+            "AI in Drug Discovery",
+            "Clinical Trials"
+          ],
+          "brands": [],
+          "reach": 15044999,
+          "ave": 139166.24
+        },
+        {
+          "id": "rrgp5e",
+          "headline": "​Pharma’s AI Inflection Point: Five Lessons For CAIOs",
+          "source": "Forbes",
+          "author": "Harini Gopalakrishnan",
+          "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/06/pharmas-ai-inflection-point-five-lessons-for-caios/",
+          "section": "AI Pulse",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "AI companies are entering the life science services fray. Anthropic’s recent launch of Claude Science is a good example of that shift, positioning an AI company not only as a model provider, but as part of the scientific workbench itself. For CIOs and CAIOs in life sciences, that changes the architecture conversation. The question is not simply where AI can add value. It is also a question of where to decouple, where to stay modular and where to resist the growing pull toward monolithic platforms.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "AI in Drug Discovery"
+          ],
+          "brands": [],
+          "reach": 15044999,
+          "ave": 139166.24
+        },
+        {
+          "id": "b497ex",
+          "headline": "Big Pharma Can't Merge Its Way Out Of An Innovation Problem",
+          "source": "Life Science Leader",
+          "author": "Jim Healy",
+          "url": "https://www.lifescienceleader.com/doc/big-pharma-can-t-merge-its-way-out-of-an-innovation-problem-0001",
+          "section": "Industry News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Over the weekend, the Financial Times reported that AstraZeneca and Bristol Myers Squibb were exploring what would have been the largest pharmaceutical merger in history. The news sent AstraZeneca's shares tumbling nearly 9% - its biggest one-day decline since 2020 - as investors questioned the strategic rationale for combining one of the industry's strongest-performing companies with a peer facing slowing growth.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "M&A / Markets"
+          ],
+          "brands": [
+            "AstraZeneca"
+          ],
+          "reach": 232727,
+          "ave": 2152.72
+        },
+        {
+          "id": "du4qk",
+          "headline": "These New Drugs Could Fuel Fresh Highs For Biotech And Pharma Stocks",
+          "source": "Barron’s",
+          "author": "Bill Alpert",
+          "url": "https://www.barrons.com/articles/biotech-pharma-merck-novartis-bristol-myers-stocks-1b626dfc",
+          "section": "Industry News",
+          "date": "August 7, 2026",
+          "iso": "2026-08-06",
+          "summary": "Positive readouts in cancer and cardiac drug trials could keep the rally going. Sizing up the stakes for Merck, Moderna, Summit Therapeutics, and more. Biotech stocks have recaptured investors’ attention this year amid a wave of drug innovation, which is spurring merger-and-acquisition activity in the biopharma industry and a fresh round of initial public offerings. The enthusiasm has lifted the State Street SPDR S&P Biotech exchange-traded fund nearly 26% year to date, to levels not seen since 2021, when Wall Street last went crazy for drugs.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Clinical Trials",
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 259080,
+          "ave": 2396.49
+        },
+        {
+          "id": "fx5ptj",
+          "headline": "'Most Favored Nation' Drug Pricing Would Save Medicare More Than $200B: AARP",
+          "source": "SeekingAlpha",
+          "author": "",
+          "url": "https://seekingalpha.com/news/4627816-most-favored-nation-drug-pricing-would-save-medicare-more-than-200b-aarp",
+          "section": "Industry News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "If CMS used \"Most Favored Nation\" drug pricing for the top 10 drugs the agency spent on Medicare Part D and Part B in 2025, it could lead to around $200B in savings. A new AARP Public Policy Institute report found that if MFN pricing were implemented for these high-spend drugs, Medicare spending on them would drop from $273B to $76B between 2029 and 2033. While CMS already has Medicare drug price negotiation, the first 10 drugs impacted by it just went into effect this year. Another 15 drugs each year will be added in 2027 and 2028. Also, MFN pricing would lead to deeper price cuts.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 355436,
+          "ave": 3287.78
+        },
+        {
+          "id": "ogzszr",
+          "headline": "Trump Administration To Kill Medicare Part D Prescription Subsidy Program",
+          "source": "Michigan Independent",
+          "author": "Josh Israel",
+          "url": "https://michiganindependent.com/health-care/trump-administration-to-kill-medicare-part-d-prescription-subsidy-program/",
+          "section": "Industry News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "The Centers for Medicare and Medicaid Services announced in a memo dated July 28 that it will end a program at the end of 2026 that has made prescription drugs more affordable for about 25 million Medicare Part D subscribers. In July 2024, under President Joe Biden, the agency launched the Medicare Part D Premium Stabilization Demonstration, a voluntary program of subsidies for the standalone prescription drug plans that Medicare Part D subscribers can select to help pay for their medications. The demonstration program, designed to last for up to three years, provided a $15-a-month subsidy of subscriber’s premiums for calendar year 2025 and capped how much those premiums could go up each year at $35.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "M&A / Markets"
+          ],
+          "brands": [],
+          "reach": 160186,
+          "ave": 1481.72
+        },
+        {
+          "id": "e78odq",
+          "headline": "Research Suggests Companies Likely To Raise Int’l Costs To Evade GLOBE, GUARD",
+          "source": "Inside Health Policy",
+          "author": "Gabrielle Wanneh",
+          "url": "https://insidehealthpolicy.com/inside-drug-pricing-daily-news/research-suggests-companies-likely-raise-int-l-costs-evade-globe",
+          "section": "Industry News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "As the Trump administration reviews final plans for implementing two Medicare pilot programs that would require drug companies to pay rebates when prices for certain drugs exceed the lowest average prices in peer nations, a study from the Yale University Schools of Medicine and Public Health suggests it may be possible for companies to skirt the rebates by raising the prices of novel drugs outside the United States.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Clinical Trials",
+            "Pipeline & R&D",
+            "Public Health Policy"
+          ],
+          "brands": [],
+          "reach": 143022,
+          "ave": 1322.95
         }
       ]
     }
