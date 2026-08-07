@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "beauty",
-  "_savedAt": "2026-08-06T11:42:00.440Z",
-  "_dayCount": 17,
+  "_savedAt": "2026-08-07T11:59:31.212Z",
+  "_dayCount": 18,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:16.350Z",
@@ -3457,6 +3457,204 @@
           "brands": [],
           "reach": 652991,
           "ave": 6040.17
+        }
+      ]
+    },
+    "2026-08-07": {
+      "uploadedAt": "2026-08-07T11:59:22.864Z",
+      "filename": "InfoVision_Beauty_Media_Briefing_2026-08-07.docx",
+      "articles": [
+        {
+          "id": "xfpvnc",
+          "headline": "L’Oreal’s Affordable Anti-Ageing Skincare Claims To Reduce Wrinkles – I Tried It",
+          "source": "The Independent",
+          "author": "Helen Wilson-Beevers",
+          "url": "https://www.the-independent.com/extras/indybest/fashion-beauty/skincare/loreal-anti-ageing-serum-cream-review-b3028486.html",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "When it comes to anti-ageing skincare, there’s a plethora of products on the market aiming to target fine lines, wrinkles, dullness and dryness. As a 42-year-old, I’m keen to look after my overall skin health and seek affordable products that easily slot into my skincare routine. I look for skincare that helps with hydration, while also offering brightening benefits for radiance. Enter L'Oréal’s age perfect range (created for mature skin and those in their mid-fifties and beyond). It claims to prevent future age spots and help reduce collagen loss. It also promises to improve skin texture and elasticity. I’ve put two of its key products to the test to see whether they’re worth your money.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Brand & Product Launch",
+            "Prestige vs Mass"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 159147,
+          "ave": 1472.11
+        },
+        {
+          "id": "sw92uf",
+          "headline": "Beyond Product Destruction: Rethinking Luxury’s Brand Protection Playbook",
+          "source": "The Fashion Law",
+          "author": "",
+          "url": "https://www.thefashionlaw.com/beyond-product-destruction-rethinking-luxurys-brand-protection-playbook/",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Four former Chanel Hong Kong warehouse employees were handed prison sentences this week with terms ranging from four to seven years for conspiring to steal more than 700 handbags and wallets – worth upwards of $2 million – that the company had designated for destruction. Beyond the headline-making criminal charges, the case sheds light on how luxury brands have long controlled products that no longer fit their commercial strategy – and exposes a much larger shift underway in the industry: how luxury brands are looking to shape the lifespan of authentic products. The Commercial Tension Remains. Personal luxury goods occupy a unique position in the marketplace. It is not uncommon for merchandise to fall outside a brand’s intended retail offering while continuing to command significant demand in the resale segment, gray market, and other unauthorized channels.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "Prestige vs Mass"
+          ],
+          "brands": [
+            "Chanel"
+          ],
+          "reach": 592437,
+          "ave": 5480.04
+        },
+        {
+          "id": "p6nlij",
+          "headline": "L’Oréal Names Rahquel Purcell Chief Diversity, Equity & Inclusion Officer, NA",
+          "source": "Beauty Packaging",
+          "author": "Rachel Klemovitch",
+          "url": "https://www.beautypackaging.com/breaking-news/loreal-names-rahquel-purcell-chief-diversity-equity-inclusion-officer-na/",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "L’Oréal announced the appointment of Rahquel Purcell as its next Chief Diversity, Equity & Inclusion Officer, North America, effective immediately. In this role, Purcell will report to Alexis Perakis-Valat, CEO, L’Oréal USA and President, North America. She will continue to sit on the management committee of L’Oréal USA as well as the global leadership team of Margaret Johnston-Clarke, L’Oréal’s global Diversity, Equity & Inclusion Officer. Purcell succeeds Liliahn Majeed, who has decided to pursue new opportunities outside of L’Oréal after three years of dedicated service and deep commitment to the organization.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "L'Oréal"
+          ],
+          "reach": 652991,
+          "ave": 6040.17
+        },
+        {
+          "id": "g51b05",
+          "headline": "How AI-Generated Images Are Changing Beauty Consultations",
+          "source": "Allure",
+          "author": "Kara McGrath",
+          "url": "https://www.allure.com/story/ai-generated-nail-tattoo-hair-plastic-surgery-photos",
+          "section": "AI Pulse",
+          "date": "August 5, 2026",
+          "iso": "2026-08-04",
+          "summary": "Poreless skin with a preternatural glow. Blonde highlights blended so well you can no longer see the individual strands. A nose that’s never even heard of a crook. A hand with individual, intricate tattoo “sleeves” on each finger. Manicures with textures and designs so complex they’d be impossible to recreate. Artificial intelligence has come for the beauty industry, and it seems many clients can’t resist the generative chatbots’ siren song. Experts across fields report a sharp increase in the number of AI-generated images their patients and clients are bringing as inspiration for the service they want provided. “[Bringing AI-generated images] has become a normal part of the consultation,” says Melissa Doft, MD, a board-certified plastic surgeon based in New York.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Retail & Distribution"
+          ],
+          "brands": [
+            "Ulta Beauty"
+          ],
+          "reach": 208583,
+          "ave": 1929.39
+        },
+        {
+          "id": "sc4way",
+          "headline": "Elf Beauty Raises Annual Forecasts Betting On International Expansion Drive",
+          "source": "Fashion Network",
+          "author": "",
+          "url": "https://us.fashionnetwork.com/news/Elf-beauty-raises-annual-forecasts-betting-on-international-expansion-drive,1858467.html",
+          "section": "Industry News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Elf Beauty raised annual sales and profit forecast on Wednesday, driven by its expansion push outside of the United States as American shoppers continued to rein ⁠in spending in the ‌face of sticky inflation. The company, ⁠which offers about 75% of its products at $10 or less, said strong demand for its affordable beauty, makeup and skincare products amid strained consumer spending boosted sales momentum. \"(Elf is) really just continuing to highlight value for our consumers because it's very important, just given the inflationary pressures they're facing today,\" chief financial officer Mandy Fields told Reuters.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Prestige vs Mass"
+          ],
+          "brands": [
+            "e.l.f. Beauty"
+          ],
+          "reach": 143866,
+          "ave": 1330.76
+        },
+        {
+          "id": "gq7o6s",
+          "headline": "CBRE Secures First U.S. Retail Leases for Vietnamese Beauty Brand Hasaki",
+          "source": "Los Angeles Times",
+          "author": "Paul Williams",
+          "url": "https://www.latimes.com/b2b/commercial-real-estate/story/2026-08-06/hasaki-us-expansion-cbre-retail-lease",
+          "section": "Industry News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "CBRE has arranged a 7,000-square-foot retail lease for Vietnamese beauty retailer Hasaki at Cudahy Plaza in Cudahy, marking the brand’s first U.S. store. Hai T. Dang, an SVP with CBRE’s San Jose office, represented the tenant, Hasaki LLC. The landlord is Excel Realty Partners, LP. Cudahy Plaza, located at 7903-8017 South Atlantic Avenue, is an open-air retail center anchored by national retailers, including Sprouts Farmers Market and Burlington.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Retail & Distribution",
+            "AI Beauty Tech"
+          ],
+          "brands": [],
+          "reach": 233477,
+          "ave": 2159.66
+        },
+        {
+          "id": "yx53zi",
+          "headline": "Why Fashion Is Obsessed With Food Again",
+          "source": "Lifestyle.INQ",
+          "author": "Tamanna Mahbubani",
+          "url": "https://lifestyle.inquirer.net/578272/why-fashion-is-obsessed-with-food-again/",
+          "section": "Industry News",
+          "date": "August 7, 2026",
+          "iso": "2026-08-06",
+          "summary": "Across the industry, fashion houses are increasingly launching collections through cafés, restaurants, ice cream carts, pastries, and pop-up dining experiences. Rather than relying solely on runway shows or traditional retail displays, brands are inviting consumers to experience their world through taste, transforming food into one of luxury’s most effective marketing tools. Food as an experience The trend reflects a broader shift in how fashion is sold. Modern consumers are no longer looking only for products; they are looking for experiences. As competition for attention intensifies, luxury brands are creating immersive activations that extend far beyond clothing, handbags, or fragrances.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Brand & Product Launch",
+            "Retail & Distribution",
+            "Prestige vs Mass",
+            "Marketing & Influence"
+          ],
+          "brands": [],
+          "reach": 424723,
+          "ave": 3928.69
+        },
+        {
+          "id": "efk4mg",
+          "headline": "Skinification And Longevity Push Lip Makeup Into “Dedicated Care Category”",
+          "source": "Personal Care Insights",
+          "author": "Elizabeth Green and Sabine Waldeck",
+          "url": "https://www.personalcareinsights.com/news/schwan-cosmetics-skinification-lip-care.html",
+          "section": "Industry News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Lip products are shifting from a final makeup step to a standalone care segment, a move Schwan Cosmetics is backing with its Skip-the-filler Lifter Liner. The color cosmetics company’s hybrid lip liner formula, LipLift, taps multiple proliferating cosmetic trends such as longevity, “skintelligence,” and non-invasive alternatives to cosmetic procedures. The lip category is moving toward hybrid formats that combine makeup performance with skincare-inspired benefits. According to Innova Market Insights, consumers increasingly want makeup products containing skin care ingredients that prioritize functionality and performance.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Brand & Product Launch",
+            "Markets & Regulation"
+          ],
+          "brands": [],
+          "reach": 176438,
+          "ave": 1632.05
+        },
+        {
+          "id": "bwqnq0",
+          "headline": "ELF Delivers 36% Net Sales Growth In Q1",
+          "source": "Happi",
+          "author": "Lianna Albrizio",
+          "url": "https://www.happi.com/breaking-news/elf-delivers-36-net-sales-growth-in-q1-2027/",
+          "section": "Industry News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "ELF Beauty delivered 36% net sales growth to $479.4 million in Q1 2027. The results, reflective of the three months ended June 30, 2026 compared with the prior-year quarter, mark the Happi Top 50 Company’s 30th consecutive quarter growth over seven years. Officials attribute the growth to strong performance in both its global retailer and e-commerce channels. “I’m proud of the ELF Beauty team for achieving another quarter of industry-leading results,” said Tarang Amin, ELF Beauty’s chairman and CEO. “This consistent, category-leading growth is a testament to the strength of our team, strategy and portfolio of brands.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Retail & Distribution"
+          ],
+          "brands": [
+            "e.l.f. Beauty"
+          ],
+          "reach": 234448,
+          "ave": 2168.64
         }
       ]
     }
