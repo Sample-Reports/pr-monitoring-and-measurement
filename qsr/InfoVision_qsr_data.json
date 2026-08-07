@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "qsr",
-  "_savedAt": "2026-08-06T11:43:11.456Z",
-  "_dayCount": 17,
+  "_savedAt": "2026-08-07T12:00:23.229Z",
+  "_dayCount": 18,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:38:45.173Z",
@@ -5837,6 +5837,285 @@
           ],
           "reach": 55015,
           "ave": 508.89
+        }
+      ]
+    },
+    "2026-08-07": {
+      "uploadedAt": "2026-08-07T12:00:12.153Z",
+      "filename": "InfoVision_QSR_Media_Briefing_2026-08-7.docx",
+      "articles": [
+        {
+          "id": "686ahi",
+          "headline": "Restaurant Brands International Earnings Beat As Burger King’s U.S. Business Soars",
+          "source": "CNBC",
+          "author": "Amelia Lucas",
+          "url": "https://www.cnbc.com/2026/08/06/restaurant-brands-international-q2-2026-earnings.html",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Restaurant Brands International on Thursday reported quarterly earnings that topped analysts’ expectations, fueled by strong growth for the once-struggling Burger King, both domestically and abroad. “Burger King’s performance is a great example of what’s possible when you invest in the fundamentals and execute well – an approach we’re applying across all of our brands,” Restaurant Brands CEO Josh Kobza said in a statement. But shares of Restaurant Brands fell more than 1% in morning trading as the results showed its other chains struggling.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "Burger King"
+          ],
+          "reach": 313068,
+          "ave": 2895.88
+        },
+        {
+          "id": "ppd3w9",
+          "headline": "Chipotle Stock Extends Slide After CDC Links Salmonella Outbreak To Jalapeños",
+          "source": "Barron’s",
+          "author": "Heather Haddon",
+          "url": "https://www.barrons.com/articles/chipotle-stock-salmonella-outbreak-jalapenos-cdc-43d013a4",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Chipotle Mexican Grill stock fell about 3% Thursday, extending its sharp decline earlier in the week, after federal health officials linked a multistate Salmonella outbreak to jalapeño peppers served at the burrito chain and other Mexican-style restaurants. Shares closed nearly 10% lower Tuesday when the outbreak’s possible connection to Chipotle was first reported. The Centers for Disease Control and Prevention said 345 people in 27 states have been infected with the Salmonella Javiana strain. Thirty-six people were hospitalized, and no deaths have been reported.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Chipotle"
+          ],
+          "reach": 259080,
+          "ave": 2396.49
+        },
+        {
+          "id": "35l2kl",
+          "headline": "Recalls And Fast Food: Which Foods And Restaurants Are Impacted By Latest Outbreaks",
+          "source": "NBC Chicago",
+          "author": "Alex Dvorak and Mike Stobbe",
+          "url": "https://www.nbcchicago.com/news/local/recalls-and-fast-food-which-foods-and-restaurants-are-impacted-by-latest-outbreaks/3971563/",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "From jalapeño peppers to lettuce, numerous ingredients at fast food restaurants across the U.S. are being recalled due to foodborne illness outbreaks -- so what's the latest? From major chains like Taco Bell and Chipotle and Qdoba, locations across the country, including many in Illinois, are pulling ingredients that may be linked to serious illnesses and sometimes even deaths. Parasitic illness cases in 15 states have been linked to iceberg lettuce, U.S. health officials said Wednesday.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chipotle",
+            "Taco Bell"
+          ],
+          "reach": 339111,
+          "ave": 3136.78
+        },
+        {
+          "id": "crxjys",
+          "headline": "KFC Customer Complains Of Missing Chicken. Here's How They Responded",
+          "source": "Courier Journal",
+          "author": "Marina Johnson and Amaris Encinas",
+          "url": "https://www.courier-journal.com/story/news/local/2026/08/06/kfc-apologizes-after-customer-finds-missing-nuggets-in-popcorn-chicken-bucket/91194564007/",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "A customer decided to put KFC to the test, and it apparently failed to deliver by what he said was a significant margin of popcorn chicken bites. Atticus, a content creator, called out the brand in an Aug. 3 TikTok video after he said he learned that his 50-piece popcorn chicken bucket came with 15 nuggets less than promised. KFC weighed in on the popcorn chicken bucket debacle in the comments of Atticus's post a day later, writing, \"35 is definitelyyyy not 50. Thank you for flagging this, and we sincerely apologize on our end. Could you send us a DM so we can make this up to you ASAP?\"",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Menu & Product",
+            "Digital & Ordering"
+          ],
+          "brands": [
+            "KFC"
+          ],
+          "reach": 484676,
+          "ave": 4483.25
+        },
+        {
+          "id": "n9m81y",
+          "headline": "Chicago Man To Sue Taco Bell And Taylor Farms Over Cyclosporiasis",
+          "source": "WGN Radio 720",
+          "author": "Pete Zimmerman",
+          "url": "https://wgnradio.com/john-williams/chicago-man-to-sue-taco-bell-and-taylor-farms-over-cyclosporiasis/",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Ron Simon, Founding Partner, Ron Simon & Associates, joins John Williams to talk about how his firm specializes in food poisoning cases, the many cases they have handled against Taco Bell and Taylor Farms, the lack of transparency from Taco Bell and Taylor Farms, why his firm doesn’t file class action suits, and their representation of a Chicago man who lost his job after becoming ill from cyclosporiasis.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [
+            "Taco Bell"
+          ],
+          "reach": 804910,
+          "ave": 7445.42
+        },
+        {
+          "id": "yp7lhd",
+          "headline": "Chipotle Eyes Former Wendy's Site On Wilmington Pike In Kettering",
+          "source": "Dayton Daily News",
+          "author": "Samantha Wildow",
+          "url": "https://www.daytondailynews.com/community/kettering/chipotle-eyes-former-wendys-site-on-wilmington-pike-in-kettering/article_85219dea-b7a3-573f-b880-4b6a65a8c10f.html",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Chipotle is looking to move into the former Wendy’s at 4003 Wilmington Pike in Kettering, which closed last month. An application from KQSR LLC, a limited liability corporation based out of Pepper Pike, for a structural permit is requesting to make interior and exterior renovations to the 3,000-square-foot location for a Chipotle Mexican Grill, according to building records. The application was filed Aug. 1 by James Sabatine Jr. on behalf of KQSR LLC, which was recently created as it has been active since July 10 of this year, according to Ohio Secretary of State records. Sabatine is a managing member of Trilogy Realty & Development, a real estate and development firm.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Digital & Ordering",
+            "Expansion & Store"
+          ],
+          "brands": [
+            "Chipotle",
+            "Wendy's"
+          ],
+          "reach": 513309,
+          "ave": 4748.11
+        },
+        {
+          "id": "ibj2sa",
+          "headline": "Google Partners To Expand AI Customer Service Capabilities Of Maps",
+          "source": "Chain Stone Age",
+          "author": "Dan Berthiaume",
+          "url": "https://chainstoreage.com/google-partners-expand-ai-customer-service-capabilities-maps",
+          "section": "AI Pulse",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Google is teaming up with two third-party tech platforms to enhance the conversational artificial intelligence functionality of its Google Maps solution. The tech giant is collaborating with payment solutions provider Square and restaurant management platform Toast to make it easier for consumers to discover and buy products using the Ask Maps conversational AI feature of Google Maps. Square is building on its existing relationship with Google to bring U.S. food and beverage retailers into Ask Maps, where customers can discover restaurants and place orders by asking questions. Square food service retailers who activate a Google Business Profile can surface in Ask Maps results and have new order flows enabled.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Digital & Ordering",
+            "AI & Automation",
+            "Expansion & Store",
+            "Sustainability & Labor"
+          ],
+          "brands": [],
+          "reach": 383877,
+          "ave": 3550.86
+        },
+        {
+          "id": "rihv69",
+          "headline": "What The Cyclospora Outbreak Teaches Restaurants About Food Safety",
+          "source": "QSR Magazine",
+          "author": "Lisa Robinson",
+          "url": "https://www.qsrmagazine.com/story/what-the-cyclospora-outbreak-teaches-restaurants-about-food-safety/",
+          "section": "Industry News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Somewhere in a restaurant walk-in cooler, there’s a bag of lettuce that will be prepared and served today without a second thought. Most consumers never see the food safety work behind that moment. And that’s the point because trust is built long before an ingredient reaches the kitchen. The current Cyclospora outbreak is a reminder of how complex that work can be. Federal health officials are investigating the multistate outbreak linked to recalled iceberg lettuce, while also tracking other cyclosporiasis illnesses nationally.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 68484,
+          "ave": 633.48
+        },
+        {
+          "id": "kk3xy2",
+          "headline": "5 Restaurant Pricing Trends Operators Must Know From Q2 2026 Consumer Data",
+          "source": "Fast Casual",
+          "author": "Cherryh Cansler",
+          "url": "https://www.fastcasual.com/blogs/5-restaurant-pricing-trends-operators-must-know-from-q2-2026-consumer-data/",
+          "section": "Industry News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Consumers still feel the pressure of higher prices, but the gap between dining out and eating at home is narrowing, creating opportunities for operators that rethink value, menu strategy and loyalty, according to Revenue Management Solutions' Q2 2026 Consumer Report. It revealed that consumers increasingly see grocery prices rising faster than restaurant prices, while restaurant spending is beginning to rebound. The report found that 68% of consumers believe restaurant prices are higher, compared with 76% who feel grocery prices have increased — the widest perception gap in more than a year.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering"
+          ],
+          "brands": [],
+          "reach": 348751,
+          "ave": 3225.95
+        },
+        {
+          "id": "jqmsuq",
+          "headline": "The Next Generation Of QSRs Part 3: Why Operational Excellence Is The Modern Competitive Advantage",
+          "source": "QSR Web",
+          "author": "Valerie Gritton",
+          "url": "https://www.qsrweb.com/articles/the-next-generation-of-qsrs-part-3-why-operational-excellence-is-the-modern-competitive-advantage/",
+          "section": "Industry News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "When McDonald's announced its Q2 earnings, the company recognized it fell below market expectations. While the company still posted strong gains in some areas, the consensus was focused more on how it was working to recover same-store sales for the system, which increased a mere 0.8% in its U.S. market. To build more momentum, CEO Chris Kempczinski said the company is shifting its focus to execution and strengthening its competitive advantages, rather than marketing and in June announced its McDonald's Next strategy.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Expansion & Store"
+          ],
+          "brands": [
+            "McDonald's"
+          ],
+          "reach": 682532,
+          "ave": 6313.42
+        },
+        {
+          "id": "ng7fg2",
+          "headline": "Texas Customers Sue Popeyes For $1.5M, Alleging They Found A ‘Condom-Like Foreign Object’ In Chicken",
+          "source": "People",
+          "author": "Chiara Kim",
+          "url": "https://people.com/popeyes-sued-for-usd1-5m-over-alleged-foreign-object-in-chicken-12035656",
+          "section": "Industry News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Two customers are suing Popeyes for over $1.5 million after allegedly finding a “condom-like” object in their chicken. The plaintiffs claimed the incident caused physical and emotional distress and fear of potential contamination or health risks. They alleged that Popeyes employees laughed at their complaint and failed to address food safety and sanitation concerns.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Menu & Product"
+          ],
+          "brands": [],
+          "reach": 12941713,
+          "ave": 119710.85
+        },
+        {
+          "id": "dyx7a3",
+          "headline": "Local Chefs Work To Bring The DC Area Together, One Pop-Up At A Time",
+          "source": "WTOP",
+          "author": "Matt Kaufax",
+          "url": "https://wtop.com/matt-about-town/2026/08/local-chefs-work-to-bring-the-dc-area-together-one-pop-up-at-a-time/",
+          "section": "Industry News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "After a pandemic that shut down many restaurants, and amid inflation and a rise in societal loneliness and isolation, D.C. chefs are doing something different to bring people together through food. In Thursday’s episode of “Matt About Town,” WTOP’s Matt Kaufax examined how a resurgent movement is changing the city’s restaurant industry — one pop-up at a time. The aims and overall message of this grassroots effort are pretty simple: building community through singular culinary experiences, affordability over big margins and a sense of genuine personal connection.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "General Coverage"
+          ],
+          "brands": [],
+          "reach": 915070,
+          "ave": 8464.4
+        },
+        {
+          "id": "u1crqh",
+          "headline": "Restaurants Are Losing $12.6b To Allergy Menu Confusion",
+          "source": "Ponte Vedra Recorder",
+          "author": "Stephen Nolan",
+          "url": "https://www.pontevedrarecorder.com/premium/stacker/stories/restaurants-are-losing-126b-to-allergy-menu-confusion,187361",
+          "section": "Industry News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Someone in the group is scrolling a restaurant's menu from the couch, phone tilted sideways, hunting for any mention of tree nuts or shellfish. They don't find it and send a message out to the group chat saying, “Not sure I can eat here.” Ten minutes later, the plan has shifted to a different restaurant, or to no restaurant at all. The restaurant never finds out: There's no reservation to cancel and no order abandoned mid-checkout. The table that would have come simply never appears on the schedule. According to new research from Nutritics, a recipe and menu management platform for restaurant and food service operators, that vanishing act has a price tag.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Menu & Product",
+            "Value & Pricing",
+            "Digital & Ordering"
+          ],
+          "brands": [],
+          "reach": 87642,
+          "ave": 810.69
         }
       ]
     }
