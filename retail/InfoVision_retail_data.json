@@ -1,8 +1,8 @@
 {
   "_app": "InfoVision Intelligence",
   "_industry": "retail",
-  "_savedAt": "2026-08-06T11:43:39.497Z",
-  "_dayCount": 17,
+  "_savedAt": "2026-08-07T12:00:47.385Z",
+  "_dayCount": 18,
   "days": {
     "2026-07-15": {
       "uploadedAt": "2026-07-15T13:39:03.474Z",
@@ -4436,6 +4436,254 @@
           ],
           "reach": 112422,
           "ave": 1039.9
+        }
+      ]
+    },
+    "2026-08-07": {
+      "uploadedAt": "2026-08-07T12:00:38.592Z",
+      "filename": "InfoVision_Retail_Media_Briefing_2026-08-07.docx",
+      "articles": [
+        {
+          "id": "kdrmg7",
+          "headline": "Medicare Made Weight-Loss Drugs $50 A Month—Now Amazon, CVS And Walmart Race To Fill Prescriptions",
+          "source": "Forbes",
+          "author": "Ty Roush",
+          "url": "https://www.forbes.com/sites/tylerroush/2026/08/06/medicare-made-weight-loss-drugs-50-a-month-now-amazon-cvs-and-walmart-race-to-fill-prescriptions/",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Amazon Pharmacy will now dispense Wegovy, Zepbound KwikPen and Foundayo—Eli Lilly’s new daily weight-loss pill—to qualifying Medicare patients for $50 each month under the federal Medicare GLP-1 Bridge Program, which runs through Dec. 31, 2027. That marks a steep price reduction for the medications, which first cost between $1,200 and $1,500 a month. The price reductions will save customers about $300 million, Amazon said. Amazon said it would automate the entire enrollment process — including eligibility verification, prior authorization, and billing—after a prescription is submitted electronically, and will offer same-day delivery across more than 3,100 U.S. cities without a Prime membership.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart",
+            "Amazon"
+          ],
+          "reach": 15044999,
+          "ave": 139166.24
+        },
+        {
+          "id": "2i6ixd",
+          "headline": "Walmart Tests Fulfillment Cart Changes After Child Hit In Store",
+          "source": "Bloomberg",
+          "author": "Jaewon Kang",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-06/walmart-tests-changes-to-fulfillment-carts-after-child-hit-amid-osha-talks?srnd=homepage-europe",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Walmart Inc. is testing new guidance for carts used in stores to collect items for online orders after a child was hit by one of them. The company is making changes to improve visibility and safety of these carts, said people familiar with the matter. This includes shipping new wheels to stores and advising staff to pull the carts instead of pushing them, said the people who asked for anonymity discussing internal matters.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 881861,
+          "ave": 8157.21
+        },
+        {
+          "id": "2bu600",
+          "headline": "Walmart Makes Cart Changes To Its ‘6/8’ Rule AGAIN After Claims Child Was Hit In Store",
+          "source": "The Sun",
+          "author": "Joseph Brogan",
+          "url": "https://www.the-sun.com/news/16804618/walmart-fulfillment-cart-changes-new-wheels-child-hit/",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "ANOTHER round of cart guidance has hit Walmart stores nationwide after a child was allegedly hit in a store. These changes come after the Arkansas-based big box retailer implemented a new “6/8” rule for all carts across the country. Locations nationwide will be receiving new wheels for their fulfillment carts in the latest update, Bloomberg reports.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 17642013,
+          "ave": 163188.62
+        },
+        {
+          "id": "iohumq",
+          "headline": "Walmart Accused Of Secretly Building Voiceprints From Customer Service Calls",
+          "source": "Gadget Review",
+          "author": "Rex Edison",
+          "url": "https://www.gadgetreview.com/walmart-accused-of-secretly-building-voiceprints-from-customer-service-calls",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "A routine call to Walmart about a missing package or a disputed charge may have captured far more than a customer complaint. According to a new proposed class action, an AI system on the other end was allegedly measuring pitch, cadence, tone, and vocal frequency to build a permanent biometric template — a voiceprint. Unlike a stolen password, a voice cannot be reset. Two Illinois residents say Walmart never disclosed any of this was happening, at least not in any way that counts under the law. This pattern of secretly tracking users without meaningful disclosure has surfaced across multiple industries.",
+          "sentiment": "negative",
+          "sentimentAuto": "negative",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "AI & Personalization"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 814668,
+          "ave": 7535.68
+        },
+        {
+          "id": "bej0ea",
+          "headline": "Where Walmart’s Packaging Ended Up On 2025 Sustainability Targets",
+          "source": "Packaging Dive",
+          "author": "Maria Rachal",
+          "url": "https://www.packagingdive.com/news/walmart-2026-esg-report-packaging-sustainability-principles/827178/",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "As Walmart had anticipated, it did not meet certain 2025 private-label packaging sustainability targets, according to a recently released FY2026 ESG Report. Reversing the trajectory of plastic use was particularly challenging. Walmart said that despite its overall increases in virgin plastic use, it “continued to lower virgin plastic packaging intensity,” or weight per net sales dollar.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart",
+            "Target"
+          ],
+          "reach": 400017,
+          "ave": 3700.16
+        },
+        {
+          "id": "a97faf",
+          "headline": "New York State Bill Targets Self-Checkout Savings At Major Retailers Including Wegmans, Costco And Walmart",
+          "source": "WHEC",
+          "author": "",
+          "url": "https://www.whec.com/top-news/new-york-state-bill-targets-self-checkout-savings-at-major-retailers-including-wegmans-costco-and-walmart/",
+          "section": "Brand News",
+          "date": "August 7, 2026",
+          "iso": "2026-08-06",
+          "summary": "A downstate lawmaker has introduced a bill that would require New York stores selling food to offer a 10% discount to customers using self-checkout lanes. Assemblywoman Nikki Lucas of the 60th District in Brooklyn proposed the bill. If passed, any food retail stores would be required to give customers a 10% discount on any purchase if they use self-checkout. That includes Wegmans, Aldi, Tops, Walmart and Costco. News10NBC’s Garrett Chan spoke with shoppers at the East Avenue Wegmans to see where they stand on the proposal.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Store Strategy",
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart",
+            "Target",
+            "Costco"
+          ],
+          "reach": 903215,
+          "ave": 8354.74
+        },
+        {
+          "id": "vz8xau",
+          "headline": "Amazon And Walmart Want To Beat The Consumer To Their Next Purchase",
+          "source": "Pymnts",
+          "author": "",
+          "url": "https://www.pymnts.com/news/retail/2026/amazon-walmart-race-consumers-next-purchase/",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Amazon’s $3 trillion valuation, achieved this week, is being treated as an artificial intelligence and cloud computing milestone. For retail leaders, it should be read as a broader signal that investors value the infrastructure surrounding commerce as much as the sale itself.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Pricing & Consumer"
+          ],
+          "brands": [
+            "Walmart",
+            "Amazon"
+          ],
+          "reach": 472535,
+          "ave": 4370.95
+        },
+        {
+          "id": "g7ea1w",
+          "headline": "Ahold Delhaize USA Adds Pear Commerce To Connect CPG Content To Online Grocery Carts",
+          "source": "Digital Commerce 360",
+          "author": "Mary Meisenzahl",
+          "url": "https://www.digitalcommerce360.com/2026/08/06/ahold-delhaize-usa-adds-pear-commerce-to-connect-cpg-content-to-online-grocery-carts/",
+          "section": "Brand News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Ahold Delhaize USA is partnering with Pear Commerce on a new ecommerce integration, the grocery retailer announced. Shoppers will be able to add grocery items to their online carts directly from consumer packaged goods (CPG) brand websites, shoppable recipes and store locator tools.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "Store Strategy",
+            "E-commerce & Omnichannel",
+            "Pricing & Consumer"
+          ],
+          "brands": [],
+          "reach": 200912,
+          "ave": 1858.44
+        },
+        {
+          "id": "e0zl7a",
+          "headline": "Retailers Tap AI Shopping Traffic But Fight To Keep Customer Data",
+          "source": "Reuters",
+          "author": "Arriana McLymore",
+          "url": "https://www.reuters.com/business/retail-consumer/retailers-tap-ai-shopping-traffic-fight-keep-customer-data-2026-08-07/",
+          "section": "AI Pulse",
+          "date": "August 7, 2026",
+          "iso": "2026-08-06",
+          "summary": "As shoppers increasingly turn to ChatGPT and Google's Gemini for product ​recommendations, retailers are racing to appear in chatbot results while resisting efforts to cede customer data that underpin online sales. Growing online traffic ‌from AI platforms has pushed retailers including Walmart, Ulta Beauty and Wayfair to update their websites so their products rank highly in chatbot searches. Yet many want purchases to remain on their own websites, where they can collect data on browsing habits, basket sizes and past purchases that help drive future sales and customer loyalty.",
+          "sentiment": "neutral",
+          "sentimentAuto": "neutral",
+          "themes": [
+            "E-commerce & Omnichannel",
+            "AI & Personalization",
+            "Earnings & Markets"
+          ],
+          "brands": [
+            "Walmart"
+          ],
+          "reach": 15956812,
+          "ave": 147600.51
+        },
+        {
+          "id": "dhucsv",
+          "headline": "How Faster-Growing US Retailers Are Winning Market Share",
+          "source": "Retail Insight Network",
+          "author": "Mohamed Dabo",
+          "url": "https://www.retail-insight-network.com/features/how-faster-growing-us-retailers-are-winning-market-share/",
+          "section": "Industry News",
+          "date": "August 7, 2026",
+          "iso": "2026-08-06",
+          "summary": "Strategic acquisitions, disciplined expansion and continued investment in customer experience are emerging as the key drivers of above-market sales growth among America’s fastest-growing retailers, according to the National Retail Federation’s (NRF) latest Hot 25 ranking. Compiled by Kantar, the annual ranking measures year-on-year growth in US domestic sales rather than overall company size. Three themes stand out: acquisitions are accelerating growth, organic expansion remains a powerful engine of performance, and continuous innovation is helping established retailers stay ahead in an increasingly competitive market.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 658135,
+          "ave": 6087.75
+        },
+        {
+          "id": "5sduym",
+          "headline": "Back-To-School Sales To Shop In 2026 Before The School Bell Rings",
+          "source": "ABC News",
+          "author": "Bethany Braun-Silva",
+          "url": "https://abcnews.com/GMA/Shop/back-school-sales-shop-2026-school-bell-rings/story?id=135258230",
+          "section": "Industry News",
+          "date": "August 6, 2026",
+          "iso": "2026-08-05",
+          "summary": "Back-to-school shopping season is in full swing, and many of the biggest retailers are rolling out some of their best deals of the year as the summer months start to wind down. Whether you're shopping for a kindergartener's first backpack, refreshing your teen's wardrobe or helping a college student stock a dorm room, now is an ideal time to save on the essentials. This year's sales include discounts on everything from laptops, headphones and calculators to lunch boxes, sneakers, storage solutions and classroom supplies. Many retailers are also offering special promotions for teachers, students and college shoppers, making it easier to stretch your budget even further.",
+          "sentiment": "positive",
+          "sentimentAuto": "positive",
+          "themes": [
+            "Pricing & Consumer",
+            "Earnings & Markets"
+          ],
+          "brands": [],
+          "reach": 14353233,
+          "ave": 132767.41
         }
       ]
     }
